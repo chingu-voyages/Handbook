@@ -9,15 +9,15 @@ jobs, and how to get the most from your membership.
 **__Table of Contents__**
 
 * [What is Chingu?](what-is-chingu)
-* [Voyage Guide](/docs/guides/voyage.md)
-* [Solo Project Guide](docs/guides/soloproject.md)
-* [Pair Programming](/docs/guides/pairprog.md)
+* [Voyage Guide](./docs/guides/voyage.md)
+* [Solo Project Guide](./docs/guides/soloproject.md)
+* [Pair Programming](./docs/guides/pairprog.md)
 
 ** Helpful Information **
 
-* [Project Resources](/docs/resources/projectres.md)
-* [Technical Resources](/docs/resources/technicalres.md)
-* [Glossary](/docs/resources/glossary.md)
+* [Project Resources](./docs/resources/project.md)
+* [Technical Resources](./docs/resources/technical.md)
+* [Glossary](./docs/resources/glossary.md)
 
 ## What is Chingu?
 
@@ -36,4 +36,4 @@ supportive.
 
 ## What We Do
 
-* [Programs & Services](/docs/gettingstarted/programs.md)
+* [Programs & Services](./docs/gettingstarted/programs.md)
