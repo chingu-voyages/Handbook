@@ -9,15 +9,15 @@ jobs, and how to get the most from your membership.
 **__Table of Contents__**
 
 * [What is Chingu?](what-is-chingu)
-* [Voyage Guide](/doc/guides/voyage.md)
-* [Solo Project Guide](doc/guides/soloproject.md)
-* [Pair Programming](/doc/guides/pairprog.md)
+* [Voyage Guide](/docs/guides/voyage.md)
+* [Solo Project Guide](docs/guides/soloproject.md)
+* [Pair Programming](/docs/guides/pairprog.md)
 
 ** Helpful Information **
 
-* [Project Resources](/doc/resources/projectres.md)
-* [Technical Resources](/doc/resources/technicalres.md)
-* [Glossary](/doc/resources/glossary.md)
+* [Project Resources](/docs/resources/projectres.md)
+* [Technical Resources](/docs/resources/technicalres.md)
+* [Glossary](/docs/resources/glossary.md)
 
 ## What is Chingu?
 
@@ -34,6 +34,6 @@ We want to be that friend that supports your goal to advance in
 your Web Development career. But, we also want every Chingu here to be just as
 supportive.
 
+## What We Do
 
-
-The following topics address what we do, how you are expected to conduct yourself in our community, what to do first, and ways to get help when you need it.
+* [Programs & Services](/docs/gettingstarted/programs.md)
