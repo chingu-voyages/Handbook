@@ -36,4 +36,7 @@ supportive.
 
 ## What We Do
 
+* [Community Standards](./docs/gettingstarted/communitystds.md)
 * [Programs & Services](./docs/gettingstarted/programs.md)
+* [Getting Help](./docs/gettingstarted/gettinghelp.md)
+* [What to Do First](./docs/gettingstarted/whattodofirst.md)
