@@ -61,19 +61,19 @@ We have three tiers cooresponding to three levels of expertise - beginner (Tier 
     
 Your project can be one you've completed on your own or as a part of a team. It should
     
- - Coorespond to one of our three tiers
- - It should be original work (not copied from someone else, including a tutorial)
- - If created as part of a team you should be a major contributor to the project
+- Coorespond to one of our three tiers
+- It should be original work (not copied from someone else, including a tutorial)
+- If created as part of a team you should be a major contributor to the project
 
-- If you don't have a project that matches your tier create one following the 
+If you don't have a project that matches your tier create one following the 
 specifications we provide.
     
-If you applied as a Developer, UI/UX designer, or Data Scientist you can find 
+- If you applied as a Developer, UI/UX designer, or Data Scientist you can find 
 ideas for Solo Projects to create —> [here](https://www.notion.so/4efdd43df321489d9bf4e73cbc4e66cb?pvs=21)
 
-If you applied as a Product Owner you can find ideas for Solo Projects to create —> [here](https://www.notion.so/45b5f1e7967f4919aea77a7c09fa5172?pvs=21)
+- If you applied as a Product Owner you can find ideas for Solo Projects to create —> [here](https://www.notion.so/45b5f1e7967f4919aea77a7c09fa5172?pvs=21)
     
-- Submit a [Solo Project Completion form](https://docs.chingu.io/voyage/soloproj/submit) so we can evaluate your project.
+Submit a [Solo Project Completion form](https://docs.chingu.io/voyage/soloproj/submit) so we can evaluate your project.
     
 One of our Facilitators will evaluate your Solo Project and will DM you in Discord with feedback you can use! They will look at both your code as well as the running app.
 
@@ -93,4 +93,7 @@ Complete and submit a [Voyage Signup](https://forms.gle/QGLbjKubYVfmSLMJ7) form.
 We’ll email an acknowledgement containing information to help you get ready.
     
 
-# 4. All Chingus are welcome to participate in our weekly [Pair Programming](https://www.notion.so/Pair-Programming-9c82e465b4a74f7ea298eead84f55c89?pvs=21) sessions
+- Signup for a Pair Programming session
+
+All Chingus are welcome to participate in our weekly 
+[Pair Programming](https://www.notion.so/Pair-Programming-9c82e465b4a74f7ea298eead84f55c89?pvs=21) sessions.

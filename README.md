@@ -9,11 +9,14 @@ jobs, and how to get the most from your membership.
 **__Table of Contents__**
 
 * [What is Chingu?](what-is-chingu)
+
+  **Guides**
+
 * [Voyage Guide](./docs/guides/voyage.md)
 * [Solo Project Guide](./docs/guides/soloproject.md)
 * [Pair Programming](./docs/guides/pairprog.md)
 
-** Helpful Information **
+  **Helpful Information**
 
 * [Project Resources](./docs/resources/project.md)
 * [Technical Resources](./docs/resources/technical.md)
