@@ -57,9 +57,9 @@ Once you've submitted your Application you'll see that more Discord channels hav
     
 We have three tiers cooresponding to three levels of expertise - beginner (Tier 1), intermediate (Tier 2), & Experienced (Tier 3).
     
-- [If you already have a project](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your tier go ahead and submit it for evaluation.
-    
-Your project can be one you've completed on your own or as a part of a team. It should
+- [If you already have a project](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your tier 
+go ahead and submit it for evaluation. Your project can be one you've completed 
+on your own or as a part of a team. It should meet this criteria:
     
 - Coorespond to one of our three tiers
 - It should be original work (not copied from someone else, including a tutorial)
@@ -75,9 +75,11 @@ ideas for Solo Projects to create —> [here](https://www.notion.so/4efdd43df321
     
 Submit a [Solo Project Completion form](https://docs.chingu.io/voyage/soloproj/submit) so we can evaluate your project.
     
-One of our Facilitators will evaluate your Solo Project and will DM you in Discord with feedback you can use! They will look at both your code as well as the running app.
+One of our Facilitators will evaluate your Solo Project and will DM you in 
+Discord with feedback you can use! They will look at both your code as well 
+as the running app.
 
-Once you've passed the Solo Project you'll be granted access to even more Discord channels and you'll be ready to participate in a Voyage!
+Once you've passed the Solo Project you'll be ready to participate in a Voyage!
     
 
 # 3. Sign up to Participate in a Voyage!
