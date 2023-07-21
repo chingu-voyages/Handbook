@@ -4,9 +4,9 @@ You've joined Chingu and have access to Discord. So what's should you do next?
 
 ```mermaid
 graph LR
-    A[1. Submit an\nApplication form] --> B[2. Introduce yourself in Discord]
-    B --> C[3. Create & submit your Solo Project]
-    C --> D[4. Signup for the next Voyage]
+    A[1.\nSubmit an\nApplication form] --> B[2.\nIntroduce yourself\nin Discord]
+    B --> C[3./nCreate & submit\nyour Solo Project]
+    C --> D[4.nSignup for the\nnext Voyage]
 ```
 
 # 1. Complete an Application form
