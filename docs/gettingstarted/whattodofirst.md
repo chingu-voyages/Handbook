@@ -2,7 +2,12 @@
 
 You've joined Chingu and have access to Discord. So what's should you do next?
 
-![First Steps Diagram.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f292324-50e4-4f03-a058-51aca803ef5b/First_Steps_Diagram.png)
+```mermaid
+graph LR
+    A[1. Submit an Application form] --> B[2. Introduce yourself in Discord]
+    B --> C[3. Create & submit your Solo Project]
+    C --> D[4. Signup for the next Voyage]
+```
 
 # 1. Complete an Application form
 
