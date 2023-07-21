@@ -61,9 +61,9 @@ We have three tiers cooresponding to three levels of expertise - beginner (Tier 
     
 Your project can be one you've completed on your own or as a part of a team. It should
     
- * Coorespond to one of our three tiers
- * It should be original work (not copied from someone else, including a tutorial)
- * If created as part of a team you should be a major contributor to the project
+ - Coorespond to one of our three tiers
+ - It should be original work (not copied from someone else, including a tutorial)
+ - If created as part of a team you should be a major contributor to the project
 
 - If you don't have a project that matches your tier create one following the 
 specifications we provide.
