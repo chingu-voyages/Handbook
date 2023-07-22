@@ -60,6 +60,15 @@ proud of and which one would you like to do over again. Why?
 The Solo Project helps you validate that you have the necessary technical
 skills to be successful in a Voyage. It's also another way to build an app for
 your portfolio.
+
+```mermaid
+graph LR
+    A[Choose your tier] --> B{Do you already\nhave a project?}
+    B -- Yes --> C[Submit your\nSolo Project]
+    B -- No --> D[Create from\nChingu Specs]
+    C --> E[Submit your\Solo Project]
+    D --> E
+```
     
 You'll first need to choose the [tier](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your 
 current skill level. There are three tiers and ou should select the one that 
