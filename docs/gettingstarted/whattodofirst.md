@@ -67,7 +67,7 @@ graph LR
     B -- No --> D[Create from\nChingu Specs]
     D --> C
     C --> E[Facilitator\ngives feedback]
-    E --> F(Signup for\na Voyage)
+    E --> F((Signup for\na Voyage))
 ```
     
 You'll first need to choose the [tier](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your 
