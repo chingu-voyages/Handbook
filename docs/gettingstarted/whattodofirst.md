@@ -7,17 +7,23 @@ graph LR
     A[1.\nSubmit an\nApplication form] --> B[2.\nIntroduce yourself\nin Discord]
     B --> C[3.\nCreate & submit\nyour Solo Project]
     C --> D[4.\nSignup for the\nnext Voyage]
+    D --> E[5.\nJoin a\nPair Programming Session]
 ```
 
-# 1. Complete an Application form
+## Submit an Application form
 
-- Make sure `@chingu.io` is whitelisted in your email system.
+If you are reading this you've probably already done this. But, if you haven't
+signed up yet [click here to apply](https://forms.gle/irXhGqgqrRx94mrA9).
     
-We will send you emails from time-to-time so it's important that they reach 
-your inbox instead of your junk or spam email folder.
+We use the information you provide to help us make your Chingu experience worthwhile, and we **NEVER** share your email address or other personal information.  
+
+> **TIP** Make sure `@chingu.io` is whitelisted in your email system so you won't miss notifications we send out. We promise not to flood your inbox.
+
     
-- Introduce yourself in the [introduce-yourself](https://discord.com/channels/330284646283608064/553103063649353738) channel. Using this Markdown template 
-so other Chingu's can get to know you.
+## Introduce Yourself in Discord
+
+Introduce yourself in the [introduce-yourself](https://discord.com/channels/330284646283608064/553103063649353738) channel. Using this Markdown template so other Chingu's 
+can get to know you.
     
 ```
 **Background** 
@@ -48,15 +54,8 @@ Village and Voyage team and what help do you need from your peers?
 What projects have you worked on in the past? Which one are you most 
 proud of and which one would you like to do over again. Why?
 ```
-    
-- Submit a [Chingu Application form](https://forms.gle/irXhGqgqrRx94mrA9)
-    
-We use the information you provide to help us make your Chingu experience worthwhile, and we **NEVER** share your email address or other personal information.
 
-Once you've submitted your Application you'll see that more Discord channels have become available to you. 
-    
-
-# 2. Create and submit your Solo Project
+# Create and submit your Solo Project
 
 - [Choose the tier](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your current skill level.
     
@@ -87,20 +86,17 @@ as the running app.
 Once you've passed the Solo Project you'll be ready to participate in a Voyage!
     
 
-# 3. Sign up to Participate in a Voyage!
+# Sign up to Participate in a Voyage!
 
-- Find upcoming Voyages
+You can find the schedule of upcoming Voyages in the 
+[#voyage-schedule](https://discord.com/channels/330284646283608064/913775964138393611) 
+channel in Discord. 
     
-Check out the [#voyage-schedule](https://discord.com/channels/330284646283608064/913775964138393611) channel in Discord to find a Voyage that best fits your 
-schedule. 
-    
-- Signup for a Voyage
-    
-Complete and submit a [Voyage Signup](https://forms.gle/QGLbjKubYVfmSLMJ7) form. 
-We’ll email an acknowledgement containing information to help you get ready.
+To signup simply complete and submit a [Voyage Signup](https://forms.gle/QGLbjKubYVfmSLMJ7) form. We’ll email an acknowledgement with information to help you get ready.
     
 
-- Signup for a Pair Programming session
+## Join a Pair Programming session
 
-All Chingus are welcome to participate in our weekly 
-[Pair Programming](https://www.notion.so/Pair-Programming-9c82e465b4a74f7ea298eead84f55c89?pvs=21) sessions.
+While you are waiting for your Voyage to start you might wish to join in one
+our weekly Pair Programming sessions. You can learn more about this 
+[here](../guides/pairprog.md).
