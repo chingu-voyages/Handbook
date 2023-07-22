@@ -14,7 +14,7 @@ jobs, and how to get the most from your membership.
 
 * [Voyage Guide](./docs/guides/voyage.md)
 * [Solo Project Guide](./docs/guides/soloproject.md)
-* [Pair Programming](./docs/guides/pairprog.md)
+* [Pair Programming Guide](./docs/guides/pairprog.md)
 
   **Helpful Information**
 

@@ -57,36 +57,44 @@ proud of and which one would you like to do over again. Why?
 
 ## Create and submit your Solo Project
 
-- [Choose the tier](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your current skill level.
+The Solo Project helps you validate that you have the necessary technical
+skills to be successful in a Voyage. It's also another way to build an app for
+your portfolio.
     
-We have three tiers cooresponding to three levels of expertise - beginner (Tier 1), intermediate (Tier 2), & Experienced (Tier 3).
+You'll first need to choose the [tier](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your 
+current skill level. There are three tiers and ou should select the one that 
+best matches your curren skill level - beginner (Tier 1), 
+intermediate (Tier 2), or experienced (Tier 3). 
     
 If you already have a project that matches your tier 
 go ahead and submit it for evaluation. Your project can be one you've completed 
-on your own or as a part of a team. It should meet this criteria:
+on your own or as a part of a team. It should meet these criteria:
     
-- Coorespond to one of our three tiers
+- It must coorespond to the requirements of the tier you've selected
 - It should be original work (not copied from someone else, including a tutorial)
 - If created as part of a team you should be a major contributor to the project
 
-If you don't have a project that matches your tier create one following the 
-specifications we provide.
+If you don't have a project you can create one from the 30+ projects we've
+provided specifications for.
     
 - If you applied as a Developer, UI/UX designer, or Data Scientist you can find 
 ideas for Solo Projects to create —> [here](https://www.notion.so/4efdd43df321489d9bf4e73cbc4e66cb?pvs=21)
 
 - If you applied as a Product Owner you can find ideas for Solo Projects to create —> [here](https://www.notion.so/45b5f1e7967f4919aea77a7c09fa5172?pvs=21)
     
-Submit a [Solo Project Completion form](https://docs.chingu.io/voyage/soloproj/submit) so we can evaluate your project.
+When you are done, submit a [Solo Project Completion form](https://docs.chingu.io/voyage/soloproj/submit) so we can evaluate your project.
     
 One of our Facilitators will evaluate your Solo Project and will DM you in 
 Discord with feedback you can use! They will look at both your code as well 
-as the running app.
+as the running app so you'll get 360-degree feedback.
 
 Once you've passed the Solo Project you'll be ready to participate in a Voyage!
     
 
 ## Sign up to Participate in a Voyage!
+
+Voyages are 6-week long remote team projects where you'll build a web app
+while refining your technical skills and adding new "soft" skills, like Agile.
 
 You can find the schedule of upcoming Voyages in the 
 [#voyage-schedule](https://discord.com/channels/330284646283608064/913775964138393611) 
@@ -98,5 +106,8 @@ To signup simply complete and submit a [Voyage Signup](https://forms.gle/QGLbjKu
 ## Join a Pair Programming session
 
 While you are waiting for your Voyage to start you might wish to join in one
-our weekly Pair Programming sessions. You can learn more about this 
+our weekly Pair Programming sessions. Pair Programming with another Chingu will
+help you learn with a like-minded professional and expand your network.
+
+You can learn more about what Pair Programming is and how to get started
 [here](../guides/pairprog.md).
