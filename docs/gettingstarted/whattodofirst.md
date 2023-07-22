@@ -61,7 +61,7 @@ The [Solo Project](../guides/soloproject.md) helps you validate that you have
 the necessary technical skills to be successful in a Voyage. It's also another 
 way to build an app for your portfolio.
 ```mermaid
-graph TB
+graph LR
     A[Choose your tier] --> B{Do you already\nhave a project?}
     B -- Yes --> C[Submit your\nSolo Project]
     B -- No --> D[Create from\nChingu Specs]
