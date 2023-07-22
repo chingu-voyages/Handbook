@@ -7,7 +7,7 @@ graph LR
     A[1.\nSubmit an\nApplication form] --> B[2.\nIntroduce yourself\nin Discord]
     B --> C[3.\nCreate & submit\nyour Solo Project]
     C --> D[4.\nSignup for the\nnext Voyage]
-    D --> E[5.\nJoin a\nPair Programming Session]
+    D --> E[5.\nJoin a Pair\nProgramming Session]
 ```
 
 ## Submit an Application form
@@ -55,7 +55,7 @@ What projects have you worked on in the past? Which one are you most
 proud of and which one would you like to do over again. Why?
 ```
 
-# Create and submit your Solo Project
+## Create and submit your Solo Project
 
 - [Choose the tier](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your current skill level.
     
@@ -86,7 +86,7 @@ as the running app.
 Once you've passed the Solo Project you'll be ready to participate in a Voyage!
     
 
-# Sign up to Participate in a Voyage!
+## Sign up to Participate in a Voyage!
 
 You can find the schedule of upcoming Voyages in the 
 [#voyage-schedule](https://discord.com/channels/330284646283608064/913775964138393611) 
