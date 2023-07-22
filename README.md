@@ -37,6 +37,15 @@ We want to be that friend that supports your goal to advance in
 your Web Development career. But, we also want every Chingu here to be just as
 supportive.
 
+## Who is Chingu for?
+
+Chingu is intended to help a variety of different Web Development professionals
+further their careers by building near real-world experience. The kind of
+experience to help you stand above other job applicants to get noticed.
+
+Our programs and services are geared to help Web Developers, UI/UX Designers,
+Data Scientists, and Agile Product Owners & Scrum Masters.
+
 ## What We Do
 
 * [Community Standards](./docs/gettingstarted/communitystds.md)
