@@ -30,8 +30,8 @@ This means you need to commit yourself to being responsive to your partner and p
 
 ![Pair Programming Timeline V3.png](../../assets/Pair_Programming_Timeline_V3.png)
 
-1. You may signup for the next Pair Programming Session using the ***[Pair Programming Match Request](https://forms.gle/khf7yHUNCGodLoDg6)*** form. A link will also be posted in the `#announcements`  channel every Monday morning.
-2. We'll match you with a partner in a Discord channel, which also contains next steps and tips for success.
+1. You may signup for the next Pair Programming Session using the ***[Pair Programming Match Request](https://forms.gle/khf7yHUNCGodLoDg6)*** form. A link will also be posted in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel every Monday morning.
+2. We'll match you with a partner in a Discord channel on Tuesday after 5:00 p.m. CST/CDT (Chicago), which also contains next steps and tips for success. We'll email you when we've completed the matching process and we'll also post a status update in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel. 
 3. When your Pair Programming channel is assigned introduce yourself to your partner and set up a time to meet online.
 
 > We suggest using the conferencing and screensharing that's built into Discord, but you may use any collaboration tool you prefer.
@@ -49,7 +49,7 @@ This means you need to commit yourself to being responsive to your partner and p
 2. During the remainder of the week you'll meet as many times as necessary with your partner to complete the challenge you've selected.
 3. At the end of the week we'll provide a [feedback form](https://forms.gle/aHbipqJ5Y8WXzUJ3A) you can use to share your Pair Programming experience with us and to help us improve this program.
 
-> If you have questions post them in the  `#coding-help` channel.
+> If you have technical questions post them in the [`#coding-help`](https://discord.com/channels/330284646283608064/1047615334703714394) channel.
 > 
 
 ## Tips
@@ -61,4 +61,4 @@ This means you need to commit yourself to being responsive to your partner and p
     - How can the default color of an CSS element be dynamically modified from Javascript?
     - Create a simply, static webpage using semantic HTML instead of the normal HTML tags.
 4. Remember that it is more important to work on your communication, collaboration, and team skills than it is to just solve a problem. These are skills you can use on the job and ones that can help set you apart from other job candidates.
-5. If there’s someone you’d like to be paired with add their name to the appropriate column in the signup form.
+5. If there’s someone you’d like to be paired with add their name to the appropriate column in the [signup form](https://forms.gle/khf7yHUNCGodLoDg6).
