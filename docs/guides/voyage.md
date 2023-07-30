@@ -25,7 +25,7 @@ timeline
 ```
     
 | Milestone | Voyage 45 | Voyage 46 | Voyage 47 |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
 | Solo Project Deadline | August 1 | September 26 | January 2, 2024 |
 | Voyage Launch | August 7 | October 2 | January 8, 2024 |
