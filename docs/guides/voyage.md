@@ -15,9 +15,11 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 - Voyage Schedule
 
 ```mermaid
-  timeline
+  journey
     title Testing
-    2023: Hi 
+      section: 2023
+        Jan: Voyage 42
+         
 ```
 
 ```mermaid
