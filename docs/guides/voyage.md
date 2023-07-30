@@ -15,22 +15,16 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ## Voyage Schedule
 
 ```mermaid
-journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
-```
-
-```mermaid
-timeline
-  title Voyage Schedule
-  2023 Jan
-```   
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 3d
+    
+    section Another
+    Task in sec      :2014-01-02  , 1d
+    another task      : 2d
+```  
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f8aaf59-6a8c-4066-be14-741ca10c5e87/Untitled.png)
     
