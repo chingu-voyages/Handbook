@@ -15,9 +15,12 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ## Voyage Schedule
 
 ```mermaid
-gantt
-    title A Gantt Diagram
-```  
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+``` 
     
 ## Team Member Roles
     
