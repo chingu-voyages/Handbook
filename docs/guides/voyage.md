@@ -15,14 +15,28 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ## Voyage Schedule
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-``` 
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+```
+
+```mermaid
+timeline
+  title Voyage Schedule
+  2023 Jan
+```   
     
-## Team Member Roles
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f8aaf59-6a8c-4066-be14-741ca10c5e87/Untitled.png)
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55ab8103-161d-47fe-b609-2f8e308956a4/Untitled.png)
+    
+- Team Member Roles
     
     The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project.
     
