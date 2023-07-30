@@ -29,8 +29,6 @@ Sep :
 Oct : Voyage 46 
 Nov :  
 Dec : 
-title: 2024
-Jan : Voyage 47
 ```   
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f8aaf59-6a8c-4066-be14-741ca10c5e87/Untitled.png)
