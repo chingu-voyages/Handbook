@@ -16,9 +16,14 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
 journey
-  title Testing
-  section 2023
-    Jan: Voyage 42
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
 ```
 
 ```mermaid
