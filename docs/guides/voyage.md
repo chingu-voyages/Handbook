@@ -12,7 +12,7 @@ Voyages are 6-week long remote team projects where you'll level up your skills a
 
 Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member. 
 
-- Voyage Schedule
+## Voyage Schedule
 
 ```mermaid
 journey
