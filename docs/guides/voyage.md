@@ -24,9 +24,15 @@ timeline
     Jan 2024 : Voyage 47
 ```
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f8aaf59-6a8c-4066-be14-741ca10c5e87/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55ab8103-161d-47fe-b609-2f8e308956a4/Untitled.png)
+| Milestone | Voyage 45 | Voyage 46 | Voyage 47 |
+| :--- | :--- | :--- | :--- | :--- |
+| Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
+| Solo Project Deadline | August 1 | September 26 | January 2, 2024 |
+| Voyage Launch | August 7 | October 2 | January 8, 2024 |
+| Weekly Checkin due | Every Monday | Every Monday | Every Monday |
+| Voyage ends & projects due | Septembr 17 | November 12 | February 18, 2024 |
+| Completion Certificates issued | September 24 | November 19 | February 25, 2024 |
+| Voyage Showcase article published | TBD | TBD | TBD |
     
 - Team Member Roles
     
