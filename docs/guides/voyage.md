@@ -26,11 +26,7 @@ gantt
     another task      : 2d
 ```  
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f8aaf59-6a8c-4066-be14-741ca10c5e87/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55ab8103-161d-47fe-b609-2f8e308956a4/Untitled.png)
-    
-- Team Member Roles
+## Team Member Roles
     
     The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project.
     
