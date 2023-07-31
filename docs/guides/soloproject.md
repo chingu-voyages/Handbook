@@ -55,9 +55,9 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 | Tier   | Requirements |
 | :--- | :--- |
-| Tier 1 | **Coming Soon!** |
-| Tier 2 | **Coming Soon!** |
-| Tier 3 | **Coming Soon!** |
+| Tier 1 | PO's who have studied Agile and Scrum, but who haven't yet had the opportunity to put what they've learned into practice in a team. |
+| Tier 2 | PO's who have taken either Product Owner or Scrum Master training and who have applied what they've learned in a team. |
+| Tier 3 | PO's who have successfully been certified as either a Product Owner or a Scrum Master from any certification authority. |
 
 </details>
 
