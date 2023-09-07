@@ -14,15 +14,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ### Voyage Schedule
 
-```mermaid
-timeline
-    Jan 2023 : Voyage 42
-    Mar : Voyage 43
-    May : Voyage 44
-    Aug : Voyage 45
-    Oct : Voyage 46
-    Jan 2024 : Voyage 47
-```
+    ```mermaid
+    timeline
+        Jan 2023 : Voyage 42
+        Mar : Voyage 43
+        May : Voyage 44
+        Aug : Voyage 45
+        Oct : Voyage 46
+        Jan 2024 : Voyage 47
+    ```
     
 | Milestone | Voyage 45 | Voyage 46 | Voyage 47 |
 | :--- | :--- | :--- | :--- |
@@ -46,9 +46,7 @@ timeline
   | Role Name | Role Description |
   | --- | --- |
   | Developer | Developers are focused on designing, writing code, testing what has been developed, and deploying it to the Internet. |
-  | UI/UX Designer | UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use.
-
-  They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. |
+  | UI/UX Designer | UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. |
   | Product Owner | Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation since Chingu teams have a flat, rather than a hierarchical structure. |
   | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to help provide help and advice to Voyage teams.
   - Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project
@@ -57,12 +55,6 @@ timeline
   | Data Scientist | Data Scientists help the team to add value to the project by using advanced data analysis and/or ML to create dashboards and data visualizations based on data captured by the application. |
 </details>
 
-<details>
-  <summary>How to Prepare for your Voyage</summary>
-  <br/>
-    [Pre-Voyage Preparation Steps](https://www.notion.so/ecab5ff738fd42cf951f00fb3486127f?pvs=21)
-</details>
-    
 <details>
   <summary>Brush up on your “Soft Skills”</summary>
   <br/>
