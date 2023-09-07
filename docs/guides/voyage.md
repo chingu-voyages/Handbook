@@ -36,6 +36,7 @@ timeline
     
 <details>
   <summary>Team Member Roles</summary>
+  <br/>
   The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project.
 
   Team members contribute to the project in different ways, each having their own set of responsibilities depending on their role - Developer, UI/UX Designer, or Product Owner.
@@ -58,11 +59,13 @@ timeline
 
 <details>
   <summary>How to Prepare for your Voyage</summary>
+  <br/>
     [Pre-Voyage Preparation Steps](https://www.notion.so/ecab5ff738fd42cf951f00fb3486127f?pvs=21)
 </details>
     
 <details>
   <summary>Brush up on your “Soft Skills”</summary>
+  <br/>
   - [ ]  Complete a [Solo Project](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) if this is your first Voyage
   - [ ]  Read **[How to be a Great Teammate](https://www.notion.so/How-to-be-a-Great-Teammate-ce30ff77eee74c2b9200a538761346a7?pvs=21)** (5 minutes)
   - [ ]  Read **[Soft Skills 101](https://www.notion.so/Soft-Skills-101-22e14f0c4ab7420d9835e5060ffa2a9a?pvs=21)** **for the type of communication skills you should practice here.** (5 minutes)
@@ -70,6 +73,7 @@ timeline
 
 <details>
   <summary>Familiarize yourself with Git</summary>
+  <br/>
   - [ ]  Read **[What is Git](https://guides.github.com/introduction/git-handbook/)**
   - [ ]  Read **[Interactive Git Tutorial](https://learngitbranching.js.org/)**
   - [ ]  Read **[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)**
@@ -85,6 +89,7 @@ timeline
 
 <details>
   <summary>What Level of Commitment is Required for a Voyage?</summary>
+  <br/>
   During this 6-week team effort you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
   
   But, while Chingu doesn't charge for organizing & managing Voyages it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
@@ -357,7 +362,7 @@ timeline
 
 <details>
   <summary>How do I make a voice channel for my team?</summary>
-  
+  <br/>
   To create a temporary voice channel for your team, simply navigate to the Voice Channel HUB category and click on the channel named “Hub - Join to create”. This will create a voice channel in your name, and move you to that channel. Once everyone leaves the channel, the channel will be removed immediately.  
 
   ![How to create a voice channel](../../assets/voyage_guide/How_to_create_a_voice_channel.png)
@@ -375,6 +380,7 @@ timeline
 
 <details>
   <summary>How can I “pin” messages to my Team Channel?</summary>
+  <br/>
   Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
   
   Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
