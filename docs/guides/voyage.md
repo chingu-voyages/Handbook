@@ -2,7 +2,7 @@
 
 ## What are Voyages?
 
-Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by
+Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by:
 
 - Putting the technical knowledge you've gained into practice.
 - Improving "soft" skills like teamwork, collaboration, and project management.
@@ -95,36 +95,11 @@ timeline
   
   We know you can do this and you'll find the impact on your career will be worth the effort.
 </details>
-    
-<details>
-  <summary>How do I make a voice channel for my team?</summary>
-  
-  To create a temporary voice channel for your team, simply navigate to the Voice Channel HUB category and click on the channel named “Hub - Join to create”. This will create a voice channel in your name, and move you to that channel. Once everyone leaves the channel, the channel will be removed immediately.  
-
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/612a08af-9dfb-442a-9997-57e127504c86/Untitled.png)
-
-  If you can’t see the category or the HUB channel, you have to navigate to the bottom and click on “Show all”
-
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a2ecb55-13cb-4b5b-ac50-4720d05153b1/Untitled.png)
-
-  **Please respect everyone's privacy, so don't join voice channels that someone on your team hasn't made. Trolling, harassing, and other forms of disruptive behavior will not be tolerated.** 
-
-  Why did you remove the private team channels that we had before?
-
-  Because Discord allows for a limited amount of channels on a server, so by having temporary voice channels, it reduces the number of active channels and gives us more space.
-</details>
-
-<details>
-  <summary>How can I “pin” messages to my Team Channel?</summary>
-  Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
-  
-  Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
-</details>
-    
+       
 
 ## The Voyage Process
 
-![How it Works](../../assets/Voyage_Project_How_it_Works.png)
+![How it Works](../../assets/voyage_guide/Voyage_Project_How_it_Works.png)
 
 ### Sprint 1 - Getting off to a Solid Start
 
@@ -307,16 +282,14 @@ timeline
     
 ### Sprint 3-5 - Reaching your MVP</summary>
 
-![Voyage Sprint Steps](../../assets/Voyage_Sprint_Steps.png)
+![Voyage Sprint Steps](../../assets/voyage_guide/Voyage_Sprint_Steps.png)
   
   **Objective**
   
   Incrementally create your app by following the using Scrum, and Agile framework.
   
   **How**
-  
-  ![Voyage Sprint Steps.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/732ad932-83e8-4fcb-b9e6-1992b09ea817/Voyage_Sprint_Steps.png)
-  
+    
   - *Sprint Planning* - Meet at the start of the sprint to select the highest priority tasks the team can realistically complete in this sprint
   - *Post Daily Status* - Communicating & collaborating with your team is the most important factor to success. Post answers to these questions every day:
       - What tasks have I completed?
@@ -379,3 +352,31 @@ timeline
   **Resources**
   
   [Chingu Content Creators Guide](https://dev.to/chingu/chingu-content-creators-guide-3k6h)
+
+### Voyage Tips
+
+<details>
+  <summary>How do I make a voice channel for my team?</summary>
+  
+  To create a temporary voice channel for your team, simply navigate to the Voice Channel HUB category and click on the channel named “Hub - Join to create”. This will create a voice channel in your name, and move you to that channel. Once everyone leaves the channel, the channel will be removed immediately.  
+
+  ![How to create a voice channel](../../assets/voyage_guide/How_to_create_a_voice_channel.png)
+
+  If you can’t see the category or the HUB channel, you have to navigate to the bottom and click on “Show all”
+
+  ![Show all Discord channels](../../assets/voyage_guide/Show_all_Discord_channels.png)
+
+  **Please respect everyone's privacy, so don't join voice channels that someone on your team hasn't made. Trolling, harassing, and other forms of disruptive behavior will not be tolerated.** 
+
+  Why did you remove the private team channels that we had before?
+
+  Because Discord allows for a limited amount of channels on a server, so by having temporary voice channels, it reduces the number of active channels and gives us more space.
+</details>
+
+<details>
+  <summary>How can I “pin” messages to my Team Channel?</summary>
+  Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
+  
+  Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
+</details>
+
