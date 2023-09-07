@@ -1,5 +1,14 @@
 # Solo Project Guide
 
+**__Table of Contents__**
+
+* [Overview](overview)
+* [Steps to Follow](steps-to-follow)
+* [Solo Project Requirements & Specifications](solo-project-requirements-specifications)
+* [Solo Project Requirements & Specifications](solo-project-requirements)
+* [Solo Project Prerequisites](solo-project-prerequisites)
+* [Solo Project Tips](solo-project-tips)
+
 ## Overview
 
 The goal of the Solo Project is to help you and the Chingu team verify that
@@ -136,7 +145,7 @@ feedback. If any rework is requested you can open a support ticket
 [here](https://discord.com/channels/330284646283608064/1105911757177888908)
 when you are ready for your project to be retested.
     
-## Chingu Solo Project Requirements & Specifications
+## Solo Project Requirements & Specifications
     
 If you don't already have a project to submit you can create one from the following list. Simply pick a Solo Project that matches the tier you've chosen and click on the 'X' to see a detailed description, and what is required to complete it.
     
