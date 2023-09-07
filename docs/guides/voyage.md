@@ -124,7 +124,7 @@ timeline
 
 ## The Voyage Process
 
-![Voyage Project How it Works Diagram V4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45330302-c28c-4a95-841b-ac4bb1a0eb89/Voyage_Project_How_it_Works_Diagram_V4.png)
+![How it Works](../../assets/Voyage_Project_How_it_Works.png)
 
 ### Sprint 1 - Getting off to a Solid Start
 
@@ -299,6 +299,8 @@ timeline
   [Git Pull Requests (Chingu Handbook)](https://www.notion.so/Git-Pull-Requests-6eeda3f9342941ef9a06d1057f0b87a6?pvs=21)
     
 ### Sprint 3-5 - Reaching your MVP</summary>
+
+![Voyage Sprint Steps](../../assets/Voyage_Sprint_Steps.png)
   
   **Objective**
   
