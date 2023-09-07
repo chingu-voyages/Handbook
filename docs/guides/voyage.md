@@ -128,6 +128,7 @@ timeline
 
 ### Sprint 1 - Getting off to a Solid Start
 
+---
   #### 1. Meet your team & schedule kickoff meeting
   
   **Objective**
@@ -155,6 +156,7 @@ timeline
   
   [How to Create a When2Meet Link (gif)](https://gfycat.com/minoryawningbasil)
     
+  ---
   #### 2. Conduct kickoff meeting
     
   **Objective**
@@ -173,6 +175,7 @@ timeline
   
   [Meeting template - Voyage Kickoff](https://docs.google.com/document/d/1ozP5lLj_R0kqCWdXEpFDR6sIlP9miXp74DFKZlJyktE/edit?usp=sharing)
     
+  ---
   #### 3. Choose a project & create a Vision Statement
 
   ** This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project and the link to its requirements and specification will be posted in your team channel.
@@ -203,6 +206,7 @@ timeline
   
   [Project Vision and Feature Planning template](https://docs.google.com/document/d/1pG-6ihL47P6IpMtcgVeb5_DWoatZcsMTwx_lGDmfh9o/edit?usp=sharing)
     
+  ---
   #### 4. Define & prioritize MVP features
     
   **Objective**
@@ -227,6 +231,7 @@ timeline
     
 ### Sprint 2 - Getting off to a Solid Start
 
+  ---
   #### 5. Create a low-fidelity wireframe
       
   **Objective**
@@ -243,6 +248,7 @@ timeline
   
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
       
+  ---
   #### 6. Setup Project Backlog
       
   **Objective**
@@ -271,6 +277,7 @@ timeline
   
   [Install ZenHub browser extension](https://tinyurl.com/yfpcf7ke)
       
+  ---
   #### 7. Setup your team workflow
       
   **Objective**
