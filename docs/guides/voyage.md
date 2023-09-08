@@ -352,7 +352,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [Chingu Content Creators Guide](https://dev.to/chingu/chingu-content-creators-guide-3k6h)
 
-### Voyage Tips
+## Voyage Tips
 
 <details>
   <summary>How do I make a voice channel for my team?</summary>

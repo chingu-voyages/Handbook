@@ -1,5 +1,7 @@
 # Pair Programming Guide
 
+** Overview
+
 Pair Programming is a proven technique that helps to improve code quality, transfer knowledge between developers, and gain valuable collaboration skills and experience. Just as important is the fact that this is a way to learn how other coders approach challenges and how they think.
 
 Through Chingu Pair Programming you will:
@@ -13,7 +15,7 @@ Through Chingu Pair Programming you will:
 
 To learn more about Pair Programming checkout this [article](https://stackify.com/pair-programming-advantages/)
 
-## Overview
+## Prerequisites
 
 Pair Programming Sessions are scheduled weekly (Wednesday through Tuesday).
 
