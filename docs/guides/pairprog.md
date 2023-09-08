@@ -1,13 +1,5 @@
 # Pair Programming Guide
 
-**__Table of Contents__**
-
-* [Overview](overview)
-* [Prerequisites](prrequisites)
-* [Your Responsibilities](your-responsibilities)
-* [Steps to Follow](steps-to-follow)
-* [Tips](tips)
-
 ** Overview
 
 Pair Programming is a proven technique that helps to improve code quality, transfer knowledge between developers, and gain valuable collaboration skills and experience. Just as important is the fact that this is a way to learn how other coders approach challenges and how they think.

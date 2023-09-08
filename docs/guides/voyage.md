@@ -1,12 +1,5 @@
 # Voyage Guide
 
-**__Table of Contents__**
-
-* [What are Voyages?](what-are-voyages)
-* [Before you Start](before-you-start)
-* [The Voyage Process](the-voyage-process)
-* [Voyage Tips](voyage-tips)
-
 ## What are Voyages?
 
 Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by:

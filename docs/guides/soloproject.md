@@ -1,14 +1,5 @@
 # Solo Project Guide
 
-**__Table of Contents__**
-
-* [Overview](overview)
-* [Steps to Follow](steps-to-follow)
-* [Solo Project Requirements & Specifications](solo-project-requirements-specifications)
-* [Solo Project Requirements & Specifications](solo-project-requirements)
-* [Solo Project Prerequisites](solo-project-prerequisites)
-* [Solo Project Tips](solo-project-tips)
-
 ## Overview
 
 The goal of the Solo Project is to help you and the Chingu team verify that
