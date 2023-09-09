@@ -15,7 +15,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ### Voyage Schedule
 
 ```mermaid
-timeline
+  timeline
     Jan 2023 : Voyage 42
     Mar : Voyage 43
     May : Voyage 44
@@ -24,78 +24,80 @@ timeline
     Jan 2024 : Voyage 47
 ```
     
-  | Milestone | Voyage 45 | Voyage 46 | Voyage 47 |
-  | :--- | :--- | :--- | :--- |
-  | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
-  | Solo Project Deadline | August 1 | September 26 | January 2, 2024 |
-  | Voyage Launch | August 7 | October 2 | January 8, 2024 |
-  | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-  | Voyage ends & projects due | Septembr 17 | November 12 | February 18, 2024 |
-  | Completion Certificates issued | September 24 | November 19 | February 25, 2024 |
-  | Voyage Showcase article published | TBD | TBD | TBD |
+| Milestone | Voyage 45 | Voyage 46 | Voyage 47 |
+| :--- | :--- | :--- | :--- |
+| Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
+| Solo Project Deadline | August 1 | September 26 | January 2, 2024 |
+| Voyage Launch | August 7 | October 2 | January 8, 2024 |
+| Weekly Checkin due | Every Monday | Every Monday | Every Monday |
+| Voyage ends & projects due | Septembr 17 | November 12 | February 18, 2024 |
+| Completion Certificates issued | September 24 | November 19 | February 25, 2024 |
+| Voyage Showcase article published | TBD | TBD | TBD |
     
 ### How to Prepare for your Voyage
 
-  <details>
-    <summary>Team Member Roles</summary>
-    <br/>
-    The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project.
+<details>
+  <summary>Team Member Roles</summary>
+  <br/>
+  The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project.
 
-    Team members contribute to the project in different ways, each having their own set of responsibilities depending on their role - Developer, UI/UX Designer, or Product Owner.
+  Team members contribute to the project in different ways, each having their own set of responsibilities depending on their role - Developer, UI/UX Designer, or Product Owner.
 
-    All members of the team must commit to following the Agile methodology to develop the team project they've chosen. This involves actively participating in team meetings and discussions, sharing their daily status with the team, and completing the tasks they volunteer to work on in each Sprint.
+  All members of the team must commit to following the Agile methodology to develop the team project they've chosen. This involves actively participating in team meetings and discussions, sharing their daily status with the team, and completing the tasks they volunteer to work on in each Sprint.
 
-    | Role Name | Role Description |
-    | --- | --- |
-    | Developer | Developers are focused on designing, writing code, testing what has been developed, and deploying it to the Internet. |
-    | UI/UX Designer | UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. |
-    | Product Owner | Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation since Chingu teams have a flat, rather than a hierarchical structure. |
-    | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to help provide help and advice to Voyage teams.
-    - Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project
-    - Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.
-    - Team members should research questions they have BEFORE asking their Voyage Guide. |
-    | Data Scientist | Data Scientists help the team to add value to the project by using advanced data analysis and/or ML to create dashboards and data visualizations based on data captured by the application. |
-  </details>
+  | Role Name | Role Description |
+  |---|---|
+  | Developer | Developers are focused on designing, writing code, testing what has been developed, and deploying it to the Internet. |
+  | UI/UX Designer | UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. |
+  | Product Owner | Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation since Chingu teams have a flat, rather than a hierarchical structure. |
+  | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to help provide help and advice to Voyage teams.
+  - Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project
+  - Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.
+  - Team members should research questions they have BEFORE asking their Voyage Guide. |
+  | Data Scientist | Data Scientists help the team to add value to the project by using advanced data analysis and/or ML to create dashboards and data visualizations based on data captured by the application. |
+</details>
 
-  <details>
-    <summary>Brush up on your “Soft Skills”</summary>
-    <br/>
-    - [ ]  Complete a [Solo Project](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) if this is your first Voyage
-    - [ ]  Read **[How to be a Great Teammate](https://www.notion.so/How-to-be-a-Great-Teammate-ce30ff77eee74c2b9200a538761346a7?pvs=21)** (5 minutes)
-    - [ ]  Read **[Soft Skills 101](https://www.notion.so/Soft-Skills-101-22e14f0c4ab7420d9835e5060ffa2a9a?pvs=21)** **for the type of communication skills you should practice here.** (5 minutes)
-  </details>
+<details>
+  <summary>Brush up on your “Soft Skills”</summary>
+  <br/>
 
-  <details>
-    <summary>Familiarize yourself with Git</summary>
-    <br/>
-    - [ ]  Read **[What is Git](https://guides.github.com/introduction/git-handbook/)**
-    - [ ]  Read **[Interactive Git Tutorial](https://learngitbranching.js.org/)**
-    - [ ]  Read **[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)**
-    - Familiarize yourself with GitHub
-    - [ ]  If you don’t already have a **[GitHub account](https://github.com/)** create one (5 minutes)
-    - [ ]  Set up **[Git on your computer & hook it up to GitHub authentication](https://help.github.com/articles/set-up-git/)** (10 minutes)
-    - [ ]  Study **[Introduction to GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)**
-    - [ ]  Study **[Uploading Your Project to GitHub](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)**
-    - [ ]  Study **[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)**
-    - [ ]  Study **[Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**
-    - [ ]  Study **[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)**
-  </details>
+  - [ ] If this is your first Voyage **complete a [Solo Project](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21)**
+  - [ ] Read **[How to be a Great Teammate](https://www.notion.so/How-to-be-a-Great-Teammate-ce30ff77eee74c2b9200a538761346a7?pvs=21)** (5 minutes)
+  - [ ] Read **[Soft Skills 101](https://www.notion.so/Soft-Skills-101-22e14f0c4ab7420d9835e5060ffa2a9a?pvs=21)** **for the type of communication skills you should practice here.** (5 minutes)
+</details>
 
-  <details>
-    <summary>What Level of Commitment is Required for a Voyage?</summary>
-    <br/>
-    During this 6-week team effort you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
-    
-    But, while Chingu doesn't charge for organizing & managing Voyages it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
-    
-    - Be an active participant rather than a passive observer.
-    - Set aside an average of 6-8 hours per week for your Voyage
-    - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well
-    
-    We know you can do this and you'll find the impact on your career will be worth the effort.
-  </details>
+<details>
+  <summary>Familiarize yourself with Git</summary>
+  <br/>
+
+  - [ ] Read **[What is Git](https://guides.github.com/introduction/git-handbook/)**
+  - [ ] Read **[Interactive Git Tutorial](https://learngitbranching.js.org/)**
+  - [ ] Read **[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)**
+  - Familiarize yourself with GitHub
+  - [ ] If you don’t already have a **[GitHub account](https://github.com/)** create one (5 minutes)
+  - [ ] Set up **[Git on your computer & hook it up to GitHub authentication](https://help.github.com/articles/set-up-git/)** (10 minutes)
+  - [ ] Study **[Introduction to GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)**
+  - [ ] Study **[Uploading Your Project to GitHub](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)**
+  - [ ] Study **[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)**
+  - [ ] Study **[Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**
+  - [ ] Study **[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)**
+</details>
+
+<details>
+  <summary>What Level of Commitment is Required for a Voyage?</summary>
+  <br/>
+  During this 6-week team effort you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
+  
+  
+  But, while Chingu doesn't charge for organizing & managing Voyages it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
+  
+  - Be an active participant rather than a passive observer.
+  - Set aside an average of 6-8 hours per week for your Voyage
+  - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well
+  
+  We know you can do this and you'll find the impact on your career will be worth the effort.
+</details>
        
-
 ## The Voyage Process
 
 ![How it Works](../../assets/voyage_guide/Voyage_Project_How_it_Works.png)
