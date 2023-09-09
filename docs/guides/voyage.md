@@ -39,6 +39,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 <details>
   <summary>Team Member Roles</summary>
   <br/>
+
   The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project.
 
   Team members contribute to the project in different ways, each having their own set of responsibilities depending on their role - Developer, UI/UX Designer, or Product Owner.
@@ -67,13 +68,12 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
 
 <details>
-  <summary>Familiarize yourself with Git</summary>
+  <summary>Familiarize yourself with Git & GitHub</summary>
   <br/>
 
   - [ ] Read **[What is Git](https://guides.github.com/introduction/git-handbook/)**
   - [ ] Read **[Interactive Git Tutorial](https://learngitbranching.js.org/)**
   - [ ] Read **[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)**
-  - Familiarize yourself with GitHub
   - [ ] If you don’t already have a **[GitHub account](https://github.com/)** create one (5 minutes)
   - [ ] Set up **[Git on your computer & hook it up to GitHub authentication](https://help.github.com/articles/set-up-git/)** (10 minutes)
   - [ ] Study **[Introduction to GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)**
@@ -86,8 +86,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 <details>
   <summary>What Level of Commitment is Required for a Voyage?</summary>
   <br/>
+
   During this 6-week team effort you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
-  
   
   But, while Chingu doesn't charge for organizing & managing Voyages it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
   
@@ -359,6 +359,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 <details>
   <summary>How do I make a voice channel for my team?</summary>
   <br/>
+  
   To create a temporary voice channel for your team, simply navigate to the Voice Channel HUB category and click on the channel named “Hub - Join to create”. This will create a voice channel in your name, and move you to that channel. Once everyone leaves the channel, the channel will be removed immediately.  
 
   ![How to create a voice channel](../../assets/voyage_guide/How_to_create_a_voice_channel.png)
@@ -377,6 +378,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 <details>
   <summary>How can I “pin” messages to my Team Channel?</summary>
   <br/>
+
   Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
   
   Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
