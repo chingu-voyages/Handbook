@@ -6,6 +6,8 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
+> ** Tip: Did you know you can [open a table of contents](./assets/How_to_open_TOC.gif) on any page of the Handbook?
+
 **__Table of Contents__**
 
 * [What is Chingu?](what-is-chingu)
