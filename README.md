@@ -12,9 +12,9 @@ jobs, and how to get the most from your membership.
 
   **Guides**
 
-* [Voyage Guide](./docs/guides/voyage.md)
-* [Solo Project Guide](./docs/guides/soloproject.md)
-* [Pair Programming Guide](./docs/guides/pairprog.md)
+* [Voyage Guide](./docs/guides/voyage/voyage.md)
+* [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
+* [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
 
   **Helpful Information**
 

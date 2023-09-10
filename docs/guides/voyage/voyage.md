@@ -100,7 +100,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
        
 ## The Voyage Process
 
-![How it Works](../../assets/voyage_guide/Voyage_Project_How_it_Works.png)
+![How it Works](./Voyage_Project_How_it_Works.png)
 
 ### Sprint 1 - Getting off to a Solid Start
 
@@ -283,7 +283,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     
 ### Sprint 3-5 - Reaching your MVP</summary>
 
-![Voyage Sprint Steps](../../assets/voyage_guide/Voyage_Sprint_Steps.png)
+![Voyage Sprint Steps](./Voyage_Sprint_Steps.png)
   
   **Objective**
   
@@ -362,11 +362,11 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   To create a temporary voice channel for your team, simply navigate to the Voice Channel HUB category and click on the channel named “Hub - Join to create”. This will create a voice channel in your name, and move you to that channel. Once everyone leaves the channel, the channel will be removed immediately.  
 
-  ![How to create a voice channel](../../assets/voyage_guide/How_to_create_a_voice_channel.png)
+  ![How to create a voice channel](./How_to_create_a_voice_channel.png)
 
   If you can’t see the category or the HUB channel, you have to navigate to the bottom and click on “Show all”
 
-  ![Show all Discord channels](../../assets/voyage_guide/Show_all_Discord_channels.png)
+  ![Show all Discord channels](./Show_all_Discord_channels.png)
 
   **Please respect everyone's privacy, so don't join voice channels that someone on your team hasn't made. Trolling, harassing, and other forms of disruptive behavior will not be tolerated.** 
 
