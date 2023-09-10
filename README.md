@@ -52,6 +52,11 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ### Helpful Information
 
-- [Project Resources](./docs/resources/project.md)
-- [Technical Resources](./docs/resources/technical.md)
+#### Project Resources
+
+#### Technical Resources
+
+- [Choosing your Techstack](./docs/resources/techresources/techstack.md)
+- [Software Licenses](./docs/resources/techresources/softwarelicenses.md)
+- [Git & GitHub](./docs/resources/techresources/gitgithub.md)
 - [Glossary](./docs/resources/glossary.md)
