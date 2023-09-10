@@ -58,4 +58,4 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 ## How to Contribute to this Handbook
 
 We welcome your contributions and corrections to this Handbook! Check out 
-the [Contributors Guide](./docs/guides/contributors.md) to learn more.
+the [Contributors Guide](./docs/guides/contributors/contributors.md) to learn more.
