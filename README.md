@@ -9,24 +9,6 @@ jobs, and how to get the most from your membership.
 > ** Tip: Did you know you can open a table of contents on any page of the Handbook?
 > ![open a table of contents](./assets/How_to_open_TOC.gif)
 
-## Directory of Information
-
-- [What is Chingu?](what-is-chingu)
-
-### Guides
-
-- [Voyage Guide](./docs/guides/voyage/voyage.md)
-- [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
-- [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
-- [Contributors Guide](./docs/guides/contributors/contributors.md)
-- [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md) 
-
-### Helpful Information
-
-- [Project Resources](./docs/resources/project.md)
-- [Technical Resources](./docs/resources/technical.md)
-- [Glossary](./docs/resources/glossary.md)
-
 ## What is Chingu?
 
 We're excited that you've chosen to join us and we know you have lots of 
@@ -51,9 +33,25 @@ experience to help you stand above other job applicants to get noticed.
 Our programs and services are geared to help Web Developers, UI/UX Designers,
 Data Scientists, and Agile Product Owners & Scrum Masters.
 
+## Directory of Information
+
 ### What We Do
 
 * [Community Standards](./docs/gettingstarted/communitystds.md)
 * [Programs & Services](./docs/gettingstarted/programs.md)
 * [Getting Help](./docs/gettingstarted/gettinghelp.md)
 * [What to Do First](./docs/gettingstarted/whattodofirst.md)
+
+### Guides
+
+- [Voyage Guide](./docs/guides/voyage/voyage.md)
+- [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
+- [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
+- [Contributors Guide](./docs/guides/contributors/contributors.md)
+- [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md) 
+
+### Helpful Information
+
+- [Project Resources](./docs/resources/project.md)
+- [Technical Resources](./docs/resources/technical.md)
+- [Glossary](./docs/resources/glossary.md)
