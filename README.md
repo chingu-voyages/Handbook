@@ -1,7 +1,5 @@
 # Chingu Handbook
 
-#toc
-
 ![Chingu Logo](./assets/chingu_logo.png)
 
 Welcome to the Chingu Handbook. This is the place where you can find all the
