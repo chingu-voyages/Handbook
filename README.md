@@ -52,3 +52,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 * [Programs & Services](./docs/gettingstarted/programs.md)
 * [Getting Help](./docs/gettingstarted/gettinghelp.md)
 * [What to Do First](./docs/gettingstarted/whattodofirst.md)
+
+## How to Contribute to this Handbook
+
+We welcome your contributions and corrections to this Handbook! Check out 
+the [Contributors Guide](./docs/guides/contributors.md) to learn more.
