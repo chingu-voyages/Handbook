@@ -1,10 +1,12 @@
 # Chingu Handbook
 
-![Chingu Logo](/assets/chingu_logo.png)
+![Chingu Logo](./assets/chingu_logo.png)
 
 Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
+
+> ** Tip: Did you know you can open a table of contents on any page of the Handbook? ![open a table of contents](./assets/How_to_open_TOC.gif)
 
 **__Table of Contents__**
 
@@ -12,9 +14,9 @@ jobs, and how to get the most from your membership.
 
   **Guides**
 
-* [Voyage Guide](./docs/guides/voyage.md)
-* [Solo Project Guide](./docs/guides/soloproject.md)
-* [Pair Programming Guide](./docs/guides/pairprog.md)
+* [Voyage Guide](./docs/guides/voyage/voyage.md)
+* [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
+* [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
 
   **Helpful Information**
 
@@ -52,3 +54,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 * [Programs & Services](./docs/gettingstarted/programs.md)
 * [Getting Help](./docs/gettingstarted/gettinghelp.md)
 * [What to Do First](./docs/gettingstarted/whattodofirst.md)
+
+## How to Contribute to this Handbook
+
+We welcome your contributions and corrections to this Handbook! Check out 
+the [Contributors Guide](./docs/guides/contributors/contributors.md) to learn more.
