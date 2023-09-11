@@ -55,6 +55,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 #### Project Resources
 
 - [Soft Skills 101](./docs/resources/projresources/softskills101.md)
+- [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md)
+- [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md)
 
 #### Technical Resources
 
