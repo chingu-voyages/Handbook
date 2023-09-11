@@ -58,27 +58,28 @@
 	<summary>Boilerplate</summary>
 	<br/>
 
-  In computer programming, `boilerplate code` or `boilerplate` refers to 
+  In computer programming, **boilerplate code** or **boilerplate** refers to 
 	sections of code that have to be included in many places with little or no 
 	alteration. It is often used when referring to languages that are 
 	considered verbose, i.e. the programmer must write a lot of code to do 
 	minimal jobs.
-	
+  <br/><br/>
 	Most professional web developers have created a collection of assets and 
 	snippets of code that they reuse on projects to accelerate development. 
 	There are some universal or near universal patterns that all websites share 
 	in common. Rather than continuously rebuild these, most developers start by 
 	copying the code they used for a similar project and then start modifying 
 	it.
-	
+	<br/><br/>
 	Some developers recognize the value of these boilerplate starter templates 
 	and take the time to make the boilerplate more generic and share them 
 	online for others to use.
-	
+	<br/><br/>
 	Two examples of popular boilerplates are:
 
   - [Create React App](https://create-react-app.dev)
   - [NextJS](https://nextjs.org)
+
   <br/>
 </details>
     
