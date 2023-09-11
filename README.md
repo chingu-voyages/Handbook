@@ -35,7 +35,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ## Directory of Information
 
-### What We Do
+### Getting Started
+---
 
 * [Community Standards](./docs/gettingstarted/communitystds.md)
 * [Programs & Services](./docs/gettingstarted/programs.md)
@@ -43,6 +44,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 * [What to Do First](./docs/gettingstarted/whattodofirst.md)
 
 ### Guides
+---
 
 - [Voyage Guide](./docs/guides/voyage/voyage.md)
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
@@ -51,6 +53,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md) 
 
 ### Helpful Information
+---
 
 #### Project Resources
 
