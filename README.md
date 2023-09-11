@@ -54,6 +54,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 #### Project Resources
 
+- [Soft Skills 101](./docs/resources/projresources/softskills101.md)
+
 #### Technical Resources
 
 - [Choosing your Techstack](./docs/resources/techresources/techstack.md)
