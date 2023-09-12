@@ -71,6 +71,8 @@ criteria:
 - It must coorespond to the requirements of the tier you've selected
 - It should be original work (not copied from someone else, including a tutorial)
 - If created as part of a team you should be a major contributor to the project
+- It have been developed within the last 12 months, or have a significant number 
+of commits made by you within the last year.
 
 ### 3. If you don't have a project ready
 
