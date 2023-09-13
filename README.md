@@ -49,7 +49,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Voyage Guide](./docs/guides/voyage/voyage.md)
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
-- [Contributors Guide](./docs/guides/contributors/contributors.md)
+- [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
 - [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md) 
 
 ### Helpful Information
