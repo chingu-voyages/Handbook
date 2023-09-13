@@ -55,17 +55,10 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 ### Helpful Information
 ---
 
-#### Project Resources
-
-- [Soft Skills 101](./docs/resources/projresources/softskills101.md)
-- [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md)
-- [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md)
-- [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md)
-- [Agile Methodology 101](./docs/resources/projresources/agile101.md)
-
-#### Technical Resources
-
-- [Choosing your Techstack](./docs/resources/techresources/techstack.md)
-- [Software Licenses](./docs/resources/techresources/softwarelicenses.md)
-- [Git & GitHub](./docs/resources/techresources/gitgithub.md)
-- [Glossary](./docs/resources/glossary/glossary.md)
+| Project Resources | Technical Resources |
+| --- | --- |
+| [Soft Skills 101](./docs/resources/projresources/softskills101.md) | [Choosing your Techstack](./docs/resources/techresources/techstack.md) |
+| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md) | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
+| [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Git & GitHub](./docs/resources/techresources/gitgithub.md) |
+| [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md) | [Glossary](./docs/resources/glossary/glossary.md) |
+| [Agile Methodology 101](./docs/resources/projresources/agile101.md) | |
