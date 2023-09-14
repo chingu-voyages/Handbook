@@ -1,3 +1,17 @@
+<style>
+  h2 {
+    color: lawngreen;
+  }
+
+  h3 {
+    color: limegreen;
+  }
+
+  h4 {
+    color: mediumseagreen;
+  }
+</style>
+
 # Chingu Handbook
 
 ![Chingu Logo](./assets/chingu_logo.png)
