@@ -13,6 +13,7 @@ as well as your UI/UX.
 ## Steps to Follow
 
 ```mermaid
+%%{init: {"securityLevel": "loose"}}%%
 graph LR
     A[Choose your Tier] --> B{Do you already\nhave a project?}
     B -- Yes --> C[Submit your\nSolo Project]
