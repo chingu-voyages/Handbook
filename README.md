@@ -6,9 +6,7 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
-<span style="color: lawngreen">
 ## What is Chingu?
-</span>
 
 We're excited that you've chosen to join us and we know you have lots of 
 questions. So let's get started! 🎬
