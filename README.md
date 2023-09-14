@@ -1,9 +1,3 @@
-<style>
-  h2 {
-    color: limegreen;
-  }
-</style>
-
 # Chingu Handbook
 
 ![Chingu Logo](./assets/chingu_logo.png)
@@ -11,9 +5,6 @@
 Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
-
-> ** Tip: Did you know you can open a table of contents on any page of the Handbook?
-> ![open a table of contents](./assets/How_to_open_TOC.gif)
 
 ## What is Chingu?
 
@@ -68,3 +59,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 | [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Git & GitHub](./docs/resources/techresources/gitgithub.md) |
 | [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md) | [Glossary](./docs/resources/glossary/glossary.md) |
 | [Agile Methodology 101](./docs/resources/projresources/agile101.md) | |
+
+## Tips
+
+1. Did you know you can open a table of contents on any page of the Handbook?
+   ![open a table of contents](./assets/How_to_open_TOC.gif)
