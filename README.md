@@ -1,3 +1,9 @@
+<style>
+  h2 {
+    color: limegreen;
+  }
+</style>
+
 # Chingu Handbook
 
 ![Chingu Logo](./assets/chingu_logo.png)
@@ -9,12 +15,12 @@ jobs, and how to get the most from your membership.
 > ** Tip: Did you know you can open a table of contents on any page of the Handbook?
 > ![open a table of contents](./assets/How_to_open_TOC.gif)
 
-<span style='color: lawngreen;'>## What is Chingu?</span>
+## What is Chingu?
 
 We're excited that you've chosen to join us and we know you have lots of 
 questions. So let's get started! 🎬
 
-### <span style='color: limegreen;'>Chingu Means Friend</span>
+### Chingu Means Friend
 
 It's important to know that "Chingu" means "friend" in Korean. This isn't just
 catchy name, it's perfectly describes what we want this organization to be for
@@ -24,7 +30,7 @@ We want to be that friend that supports your goal to advance in
 your Web Development career. But, we also want every Chingu here to be just as
 supportive.
 
-### <span style='color: limegreen;'>Who is Chingu for?</span>
+### Who is Chingu for?
 
 Chingu is intended to help a variety of different Web Development professionals
 further their careers by building near real-world experience. The kind of
@@ -33,9 +39,9 @@ experience to help you stand above other job applicants to get noticed.
 Our programs and services are geared to help Web Developers, UI/UX Designers,
 Data Scientists, and Agile Product Owners & Scrum Masters.
 
-## <span style='color: lawngreen;'>Directory of Information</span>
+## Directory of Information
 
-### <span style='color: limegreen;'>Getting Started</span>
+### Getting Started
 ---
 
 * [Community Standards](./docs/gettingstarted/communitystds.md)
@@ -43,7 +49,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 * [Getting Help](./docs/gettingstarted/gettinghelp.md)
 * [What to Do First](./docs/gettingstarted/whattodofirst.md)
 
-### <span style='color: limegreen;'>Guides</span>
+### Guides
 ---
 
 - [Voyage Guide](./docs/guides/voyage/voyage.md)
@@ -52,7 +58,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
 - [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md) 
 
-### <span style='color: limegreen;'>Helpful Information</span>
+### Helpful Information
 ---
 
 | Project Resources | Technical Resources |
