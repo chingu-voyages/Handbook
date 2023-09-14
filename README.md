@@ -9,7 +9,7 @@ jobs, and how to get the most from your membership.
 > ** Tip: Did you know you can open a table of contents on any page of the Handbook?
 > ![open a table of contents](./assets/How_to_open_TOC.gif)
 
-## <span style='color: lawngreen;'>What is Chingu?</span>
+<span style='color: lawngreen;'>## What is Chingu?</span>
 
 We're excited that you've chosen to join us and we know you have lots of 
 questions. So let's get started! 🎬
