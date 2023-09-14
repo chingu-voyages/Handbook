@@ -14,7 +14,7 @@ as well as your UI/UX.
 
 ```mermaid
 graph LR
-    A[Choose your tier] --> B{Do you already\nhave a project?}
+    A[<a href='#1-choose-your-tier'>Choose your tier</a>] --> B{Do you already\nhave a project?}
     B -- Yes --> C[Submit your\nSolo Project]
     B -- No --> D[Create from\nChingu Specs]
     D --> C
