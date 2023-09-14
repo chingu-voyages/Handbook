@@ -14,7 +14,7 @@ as well as your UI/UX.
 
 ```mermaid
 graph LR
-    A[<a href='https://github.com/chingu-voyages/Handbook/blob/feature/add-resources/docs/guides/soloproject/soloproject.md#3-if-you-dont-have-a-project-ready'>Choose your Tier</a>] --> B{Do you already\nhave a project?}
+    A[Choose your Tier] --> B{Do you already\nhave a project?}
     B -- Yes --> C[Submit your\nSolo Project]
     B -- No --> D[Create from\nChingu Specs]
     D --> C
