@@ -14,12 +14,13 @@ as well as your UI/UX.
 
 ```mermaid
 graph LR
-    A[[Choose your Tier](#1-choose-your-tier)] --> B{Do you already\nhave a project?}
+    A[Choose your Tier] --> B{Do you already\nhave a project?}
     B -- Yes --> C[Submit your\nSolo Project]
     B -- No --> D[Create from\nChingu Specs]
     D --> C
     C --> E[Facilitator\ngives feedback]
     E --> F((Signup for\na Voyage))
+    click A "./#1-choose-your-tier"
 ```
 ### 1. Choose your Tier
 
