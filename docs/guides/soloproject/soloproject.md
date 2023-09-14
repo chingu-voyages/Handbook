@@ -21,7 +21,7 @@ graph LR
     D --> C
     C --> E[Facilitator\ngives feedback]
     E --> F((Signup for\na Voyage))
-    click A "./1-choose-your-tier"
+    click A "./#1-choose-your-tier"
 ```
 ### 1. Choose your Tier
 
