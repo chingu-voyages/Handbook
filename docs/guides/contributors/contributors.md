@@ -56,6 +56,18 @@ Guide you would place the file `pairprog_workflow.drawio` and the
 `pairprog_workflow.png` image you export from it into the `/docs/pairprog`
 subdirectory.
 
+5. We have adopted a color standard for headings to increase the clarity and readability of the Handbook. As a contributor you should follow these standards if you add or modify headings.
+```
+## <span style='color: lawngreen;'>Second-level heading</span>
+### <span style='color: limegreen;'>Third-level heading</span>
+#### <span style='color: mediumseagreen;'>Fourth-level heading</span>
+```
+
+To produce headings like these:
+## <span style='color: lawngreen;'>Second-level heading</span>
+### <span style='color: limegreen;'>Third-level heading</span>
+#### <span style='color: mediumseagreen;'>Fourth-level heading</span>
+
 ## Tips
 
 ### Working Branch Names

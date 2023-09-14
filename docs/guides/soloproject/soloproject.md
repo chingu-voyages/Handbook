@@ -21,7 +21,7 @@ graph LR
     C --> E[Facilitator\ngives feedback]
     E --> F((Signup for\na Voyage))
 ```
-### 1. Choose your Tier
+### <span style='color: red;'>1. Choose your Tier</span>
 
 You'll first need to choose a *_tier_* that matches your 
 current skill level. There are three tiers and ou should select the one that 

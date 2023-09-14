@@ -9,12 +9,12 @@ jobs, and how to get the most from your membership.
 > ** Tip: Did you know you can open a table of contents on any page of the Handbook?
 > ![open a table of contents](./assets/How_to_open_TOC.gif)
 
-## What is Chingu?
+## <span style='color: lawngreen;'>What is Chingu?</span>
 
 We're excited that you've chosen to join us and we know you have lots of 
 questions. So let's get started! 🎬
 
-### Chingu Means Friend
+### <span style='color: limegreen;'>Chingu Means Friend</span>
 
 It's important to know that "Chingu" means "friend" in Korean. This isn't just
 catchy name, it's perfectly describes what we want this organization to be for
@@ -24,7 +24,7 @@ We want to be that friend that supports your goal to advance in
 your Web Development career. But, we also want every Chingu here to be just as
 supportive.
 
-### Who is Chingu for?
+### <span style='color: limegreen;'>Who is Chingu for?</span>
 
 Chingu is intended to help a variety of different Web Development professionals
 further their careers by building near real-world experience. The kind of
@@ -33,9 +33,9 @@ experience to help you stand above other job applicants to get noticed.
 Our programs and services are geared to help Web Developers, UI/UX Designers,
 Data Scientists, and Agile Product Owners & Scrum Masters.
 
-## Directory of Information
+## <span style='color: lawngreen;'>Directory of Information</span>
 
-### Getting Started
+### <span style='color: limegreen;'>Getting Started</span>
 ---
 
 * [Community Standards](./docs/gettingstarted/communitystds.md)
@@ -43,7 +43,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 * [Getting Help](./docs/gettingstarted/gettinghelp.md)
 * [What to Do First](./docs/gettingstarted/whattodofirst.md)
 
-### Guides
+### <span style='color: limegreen;'>Guides</span>
 ---
 
 - [Voyage Guide](./docs/guides/voyage/voyage.md)
@@ -52,7 +52,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
 - [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md) 
 
-### Helpful Information
+### <span style='color: limegreen;'>Helpful Information</span>
 ---
 
 | Project Resources | Technical Resources |
