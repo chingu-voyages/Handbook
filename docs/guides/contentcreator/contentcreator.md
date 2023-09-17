@@ -4,7 +4,7 @@
 
 The Impostor Syndrome is something virtually all Developers struggle with. At its core, diagram (see [Developers: How to Overcome Impostor Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4)) below sums up this syndrome very accurately and concisely.
 
-![](https://cdn-images-1.medium.com/max/800/0*AHY1khXY3MklaWvk)<figcaption>Your perception vs. reality (from Abhishek Pillai)</figcaption>
+![Impostor Syndrome](./assets/impostor_syndrom.png)<figcaption>Your perception vs. reality (from Abhishek Pillai)</figcaption>
 
 The impact of the Impostor Syndrome is it impacts your belief that you have knowledge and experience worth sharing. But take heart! Despite the fact that the left side of the diagram above is how you may feel, the right hand side is far closer to reality.
 
@@ -39,7 +39,7 @@ Throughout this article we’ll use the general term _content_ to refer to both 
 
 ## Choosing a Topic
 
-![](https://cdn-images-1.medium.com/max/1024/1*ReesVV0Y1xcaH5X0Lc4Jtg.jpeg)<figcaption>Photo by <a href="https://unsplash.com/@diesektion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Robert Anasch</a> on <a href="https://unsplash.com/search/photos/choice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+![Choices](./assets/choices.jpg)<figcaption>Photo by <a href="https://unsplash.com/@diesektion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Robert Anasch</a> on <a href="https://unsplash.com/search/photos/choice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
 
 The first step in creating an article or video is to choose a topic. The following will help whether you already have a topic in mind or if you want to create one, but aren’t sure how to start.
 
@@ -83,7 +83,7 @@ The point isn’t that complex topic is bad. It’s that the content your audien
 
 ## Researching and Collecting References
 
-![](https://cdn-images-1.medium.com/max/1024/1*Uzsw0SC9-UeD9FBUdZ2oEA.jpeg)<figcaption>Photo by <a href="https://unsplash.com/@dandimmock?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dan Dimmock</a> on <a href="https://unsplash.com/search/photos/research?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+![Research](./assets/research.jpg)<figcaption>Photo by <a href="https://unsplash.com/@dandimmock?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dan Dimmock</a> on <a href="https://unsplash.com/search/photos/research?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
 
 Once you have decided on a topic it is time to look for resources containing information to help you support the theme(s) you are creating and to help you increase your understanding of the subject.
 
@@ -99,7 +99,7 @@ Despite the fact that this is defined as the “second” step in a content crea
 
 ## Organizing Your Presentation
 
-![](https://cdn-images-1.medium.com/max/1024/1*EElSZflNo4ZeD1xA-P-jpA.jpeg)<figcaption>Photo by <a href="https://unsplash.com/@obamabombama?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Anatoly Ivanov</a> on <a href="https://unsplash.com/search/photos/outline?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+![Organization](./assets/organization.jpg)<figcaption>Photo by <a href="https://unsplash.com/@obamabombama?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Anatoly Ivanov</a> on <a href="https://unsplash.com/search/photos/outline?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
 
 You are now ready to start writing!!! Well, not quite yet. First you need to give some thought to how you will categorize the sub-topics you will by covering and the sequence in which they will be presented.
 
@@ -117,7 +117,7 @@ Also keep in mind that it is important to review and revise your outline not jus
 
 ## Writing Your Article/Script
 
-![](https://cdn-images-1.medium.com/max/1024/1*Qb_wGlWB6hJWO78nYLv0fg.jpeg)<figcaption>Photo by <a href="https://unsplash.com/@katstokes_?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kat Stokes</a> on <a href="https://unsplash.com/search/photos/writing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+![Writing](./assets/writing.jpg)<figcaption>Photo by <a href="https://unsplash.com/@katstokes_?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kat Stokes</a> on <a href="https://unsplash.com/search/photos/writing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
 
 Once your outline is complete, or nearly so, you are ready to begin translating it into prose. Start by creating a heading for each section in your outline. Then begin the process of translating the notes in the outline into sentences and paragraphs in each of the sections.
 
@@ -150,7 +150,7 @@ If you are creating a video there are a few additional guidelines you should fol
 
 ## Publishing Your Work
 
-![](https://cdn-images-1.medium.com/max/1024/1*8O3gg4fJpFTIWW_hqQSOpg.jpeg)<figcaption>Photo by <a href="https://unsplash.com/@webhost?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Web Hosting</a> on <a href="https://unsplash.com/search/photos/publishing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+![Publishing](./assets/books.jpg)<figcaption>Photo by <a href="https://unsplash.com/@webhost?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Web Hosting</a> on <a href="https://unsplash.com/search/photos/publishing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
 
 Your work is almost done and luckily, publishing it is the easiest step in the content creation process.
 
@@ -169,7 +169,7 @@ The process for submitting your video to the [Chingu Channel](https://www.youtub
 
 ## Conclusion
 
-![](https://cdn-images-1.medium.com/max/1024/1*phn83XN5IdL8TXgRnXqMaQ.jpeg)<figcaption>Photo by <a href="https://unsplash.com/@lg17?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lance Grandahl</a> on <a href="https://unsplash.com/search/photos/finish?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
+![Finish Line](./assets/finish_line.jpg)<figcaption>Photo by <a href="https://unsplash.com/@lg17?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lance Grandahl</a> on <a href="https://unsplash.com/search/photos/finish?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></figcaption>
 
 Creating useful content, whether it be an article or a video is hard work. But as with most hard things the rewards are proportional to the work that goes into them. Even though you may feel exposed and fearful at the prospect of sharing your knowledge with others, there are many benefits you can gain from it.
 
