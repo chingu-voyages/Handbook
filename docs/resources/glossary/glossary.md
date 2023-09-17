@@ -1,7 +1,7 @@
 # Glossary
 
 <details>
-  <summary>A/B Testing</summary>
+  <summary>## A/B Testing</summary>
   <br/>
 
   A/B testing is a methodology for trying out different ways of achieving the same end result, with the aim of establishing, through experimentation, which solution is the most effective.
