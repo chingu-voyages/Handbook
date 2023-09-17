@@ -60,7 +60,7 @@ users.
 
 ### The Workflow
 
-![Git Workflow](./Using_Git_GitHub_in_a_Team.png)
+![Git Workflow](./assets/Using_Git_GitHub_in_a_Team.png)
 
 1. Once the skeleton repo is built in GitHub, team members will clone it to their individual computers. Working branches are created for specific features and 
 tasks (like bug fixes).

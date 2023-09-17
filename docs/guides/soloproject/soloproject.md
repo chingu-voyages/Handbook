@@ -14,14 +14,14 @@ as well as your UI/UX.
 
 ```mermaid
 graph LR
-    A[Choose your tier] --> B{Do you already\nhave a project?}
+    A[Choose your Tier] --> B{Do you already\nhave a project?}
     B -- Yes --> C[Submit your\nSolo Project]
     B -- No --> D[Create from\nChingu Specs]
     D --> C
     C --> E[Facilitator\ngives feedback]
     E --> F((Signup for\na Voyage))
 ```
-### 1. Choose your Tier
+### <span style='color: red;'>1. Choose your Tier</span>
 
 You'll first need to choose a *_tier_* that matches your 
 current skill level. There are three tiers and ou should select the one that 
@@ -33,9 +33,9 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 | Tier | Requirements |
 | :--- | :--- |
-| Tier 1 - Frontend | Developers are just starting out in Web Development and have a basic understanding of: <br/><br/> - CSS <br/> - HTML <br/> - Javascript, PHP, Python, Ruby, etc.  <br/><br/>No frameworks or backend application servers are used in Tier 1 projects |
-| Tier 2 - Frontend | Developers should have the following skills & expertise: <br/><br/> - Have a solid foundation using intermediate HTML, CSS, & JavaScript/PHP/Python/Ruby/etc.<br/> - Have started learning CSS preprocessors like SASS, LESS, Stylus, or TailwindCSS<br/> - Understand the importance and practice of Responsive Web Design Basics<br/> - Understand the fundamentals of how to use an API to retrieve data from a backend system<br/> - Have started using a FE framework like React, Vue, Angular, etc. |
-| Tier 3 - Full Stack | Developers should have the following skills & expertise: <br/> - Intermediate or Advanced HTML/CSS/JavaScript/PHP/Python/Ruby/etc. and experience in a framework/library like React, Vue, Angular, etc.<br/> - Understand API's and interest in creating a REST or GraphQL API<br/> - Interest in or experience with databases using either a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL<br/> - Interest in or experience creating backend servers using packages such as Express |
+| Tier 1 - Frontend | Developers are just starting out in Web Development and have a basic understanding of: <br/><br/> - CSS <br/> - HTML <br/> - Any web development language like Javascript, PHP, Python, Ruby, etc.  <br/><br/>No frameworks or backend application servers are used in Tier 1 projects |
+| Tier 2 - Frontend | Developers should have the following skills & expertise: <br/><br/> - Have a solid foundation using intermediate HTML, CSS, & Any web development language like Javascript, PHP, Python, Ruby, etc.<br/> - Have started learning CSS preprocessors like SASS, LESS, Stylus, or TailwindCSS<br/> - Understand the importance and practice of Responsive Web Design Basics<br/> - Understand the fundamentals of how to use an API to retrieve data from a backend system<br/> - Uses a FE framework like React, Vue, Angular, etc. |
+| Tier 3 - Full Stack | Developers should have the following skills & expertise: <br/> - Intermediate or Advanced HTML/CSS/JavaScript/PHP/Python/Ruby/etc. and experience in a framework/library like React, Vue, Angular, etc.<br/> - Understand API's and interest in creating a REST or GraphQL API<br/> - Optionally uses a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL<br/> - Interest in or experience creating backend servers using packages such as Express |
 
 </details>
 
@@ -71,6 +71,8 @@ criteria:
 - It must coorespond to the requirements of the tier you've selected
 - It should be original work (not copied from someone else, including a tutorial)
 - If created as part of a team you should be a major contributor to the project
+- It have been developed within the last 12 months, or have a significant number 
+of commits made by you within the last year.
 
 ### 3. If you don't have a project ready
 
@@ -142,6 +144,8 @@ If you don't already have a project to submit you can create one from the follow
     
 ## Solo Project Prerequisites
     
+- Your project should match the requirements of the 
+[tier you have chosen](#1-choose-your-tier)
 - Project source code must be hosted on GitHub
 - Completed project must be deployed on the Internet.
 - You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](https://www.notion.so/Choosing-your-Techstack-b6afc20e86c84cdc99f6fb502218aa95?pvs=21) when you submit the [Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9) for your project.

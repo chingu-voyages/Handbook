@@ -30,7 +30,7 @@ This means you need to commit yourself to being responsive to your partner and p
 ## Steps to Follow
 
 
-![Pair Programming Timeline V3.png](../../assets/Pair_Programming_Timeline_V3.png)
+![Pair Programming Timeline V3.png](./assets/Pair_Programming_Timeline_V3.png)
 
 1. You may signup for the next Pair Programming Session using the ***[Pair Programming Match Request](https://forms.gle/khf7yHUNCGodLoDg6)*** form. A link will also be posted in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel every Monday morning.
 2. We'll match you with a partner in a Discord channel on Tuesday after 5:00 p.m. CST/CDT (Chicago), which also contains next steps and tips for success. We'll email you when we've completed the matching process and we'll also post a status update in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel. 
