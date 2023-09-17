@@ -62,9 +62,9 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   <summary>Brush up on your “Soft Skills”</summary>
   <br/>
 
-  - [ ] If this is your first Voyage **complete a [Solo Project](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21)**
-  - [ ] Read **[How to be a Great Teammate](https://www.notion.so/How-to-be-a-Great-Teammate-ce30ff77eee74c2b9200a538761346a7?pvs=21)** (5 minutes)
-  - [ ] Read **[Soft Skills 101](https://www.notion.so/Soft-Skills-101-22e14f0c4ab7420d9835e5060ffa2a9a?pvs=21)** **for the type of communication skills you should practice here.** (5 minutes)
+  - [ ] If this is your first Voyage **complete a [Solo Project](../soloproject/soloproject.md)**
+  - [ ] Read **[How to be a Great Teammate](../../resources/projresources/greatteammate.md)** (5 minutes)
+  - [ ] Read **[Soft Skills 101](../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** (5 minutes)
 </details>
 
 <details>
@@ -187,7 +187,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     
   **Objective**
   
-  Your [Minimum Viable Product (MVP)](https://docs.chingu.io/glossary#mvp-minimum-viable-product) is the minimum number of features your users need to get a solid understanding of your project.
+  Your [Minimum Viable Product (MVP)](../../resources/glossary/glossary.md) is the minimum number of features your users need to get a solid understanding of your project.
   
   **How**
   
@@ -229,7 +229,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
       
   **Objective**
   
-  The [Project Backlog](https://www.notion.so/Glossary-c0b10b9e0c9a4e80a0c3482433fb08a4?pvs=21) is where you track the work that needs to be completed to finish the project.
+  The [Project Backlog](../../resources/glossary/glossary.md) is where you 
+  track the work that needs to be completed to finish the project.
   
   **How**
   
@@ -243,11 +244,11 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   **Resources**
   
-  [Define Your MVP](https://www.notion.so/Glossary-c0b10b9e0c9a4e80a0c3482433fb08a4?pvs=21)
+  [Define Your MVP]((../../resources/glossary/glossary.md))
   
   [How to Create a Project Backlog (video)](https://youtu.be/FaoT-DTtXyA)
   
-  [Agile Methodology 101 (article)](https://www.notion.so/Agile-Methodology-101-f9e0ccc88d894f609a652d6d8a4c0df6?pvs=21)
+  [Agile Methodology 101 (article)](../../resources/projresources/agile101.md)
   
   [ZenHub website](https://www.zenhub.com/)
   
@@ -267,21 +268,21 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
   - [ ]  Decide on where you’ll deploy your app and the branch to be considered as ‘production’ you’ll be deploying from.
   - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to to learn more about the types of meetings you’ll need.
-  - [ ]  [Develop the App](https://www.notion.so/Voyage-Guide-1e528dcbf1d241c9a93b4627f6f1c809?pvs=21)
+  - [ ]  [Develop the App](#sprint-3-5---reaching-your-mvp)
   
   **Resources**
   
   [Javascript Style Guides](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
   
-  [Defining a Git Workflow (Chingu Handbook)](https://www.notion.so/Git-Workflow-d5fba28e1d3043e1910b7d2eb8999793?pvs=21)
+  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
   
-  [Git Branches (Chingu Handbook)](https://www.notion.so/Git-Branches-7ccbd0a34e1c4b87af583e3760632727?pvs=21)
+  [Git Branches (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-branches)
   
-  [Git Commits (Chingu Handbook)](https://www.notion.so/Git-Commits-6334daca89f840f381ee1e57243091ad?pvs=21)
+  [Git Commits (Chingu Handbook)](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages)
   
-  [Git Pull Requests (Chingu Handbook)](https://www.notion.so/Git-Pull-Requests-6eeda3f9342941ef9a06d1057f0b87a6?pvs=21)
+  [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)
     
-### Sprint 3-5 - Reaching your MVP</summary>
+### Sprint 3-5 - Reaching your MVP
 
 ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
   
@@ -309,7 +310,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   **Resources**
   
-  [Agile Methodology 101 (Chingu Handbook)](https://www.notion.so/Agile-Methodology-101-f9e0ccc88d894f609a652d6d8a4c0df6?pvs=21)
+  [Agile Methodology 101 (Chingu Handbook)](../../resources/projresources/agile101.md)
   
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)
   
@@ -323,7 +324,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [Meeting template - Open Topic](https://docs.google.com/document/d/1AXboDCFO88yBXsavl83-LTgSzKROTuA8XPZqZqdj3Z8/edit?usp=sharing) ^
   
-  ^  These are read only templates. Versions you can update are in your teams Google Drive directory that is available after your Voyage starts.
+  ^  These are read only templates.
     
 ### Sprint 6 - Project Closure
   

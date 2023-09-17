@@ -21,7 +21,7 @@ graph LR
     C --> E[Facilitator\ngives feedback]
     E --> F((Signup for\na Voyage))
 ```
-### <span style='color: red;'>1. Choose your Tier</span>
+### 1. Choose your Tier
 
 You'll first need to choose a *_tier_* that matches your 
 current skill level. There are three tiers and ou should select the one that 
@@ -148,9 +148,9 @@ If you don't already have a project to submit you can create one from the follow
 [tier you have chosen](#1-choose-your-tier)
 - Project source code must be hosted on GitHub
 - Completed project must be deployed on the Internet.
-- You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](https://www.notion.so/Choosing-your-Techstack-b6afc20e86c84cdc99f6fb502218aa95?pvs=21) when you submit the [Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9) for your project.
+- You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9) for your project.
 
-Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](https://www.notion.so/Community-Standards-2ffc6ee107964b35bff5201554798fb0?pvs=21).
+Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
     
 ## Solo Project Tips
     
@@ -165,13 +165,12 @@ Remember that you are required to produce original work! You should not copy and
     - Using a CSS library or creating your own CSS
 5. Your repo should contain a well written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).
 6. Remember that your app should run error-free. There should be no errors in the browser or server console logs.
-7. Identify and handle [edge cases](https://www.notion.so/Move-from-Jim-s-Notion-account-to-the-Chingu-account-3731fed465b641ebacdfa74d52fd6b2f?pvs=21)
-8. When you submit your project ***you must provide URL's for***: 
+7. When you submit your project ***you must provide URL's for***: 
     - the publicly accessible repository containing your project (eg. Github).
     - the running version of your project where you have deployed it on an 
     Internet accessible host (eg. Github Pages, Netlify, etc.) so we can evaluate not
     just your code, but also your UI/UX.
-9. You may **NOT** use a source code generator (like GitHub Co-Pilot) to 
+8. You may **NOT** use a source code generator (like GitHub Co-Pilot) to 
 create any part of your Solo Project.
-10. Chingu is all about collaborative learning and supporting each other as
+9. Chingu is all about collaborative learning and supporting each other as
     we level up! Use our Discord channels to get help and advice.
