@@ -58,7 +58,7 @@ this branch must be tested and undergo peer review as part of the PR process.
 branch always reflects the current production release that is seen by live 
 users.
 
-### The Workflow
+## The Workflow
 
 ![Git Workflow](./assets/Using_Git_GitHub_in_a_Team.png)
 
@@ -83,6 +83,31 @@ in order to move them into the master branch which reflects the code base
 that's in Production or soon to be promoted to Production.
 7. Once the PR to the master branch has been completed, you are then ready to 
 release its contents into your Production runtime environment.
+
+### Git Pull Requests
+
+#### Writing the Pull Request
+
+1. Include the **purpose of the Pull Request**. For example: "This makes login/register windows close when clicking outside the box".
+2. If the change is visual, make sure to **include a screenshot** or GIF.
+3. Consider providing an overview of **why the work is taking place** (with any relevant links); don’t assume familiarity with the history.
+4. **Be explicit about what feedback you want**, if any: a quick pair of eyes on the code, discussion on the technical approach, critique on design, a review of copy, etc..
+5. **Be explicit about when you want feedback.** If the Pull Request is a work in progress, say so. A prefix of `[WIP]` in the title is a simple, common pattern to indicate this.
+6. **@mention individuals** that you specifically want to involve in the discussion, and mention why.
+
+#### Reviewing a Pull Request
+
+1. **Understand the issue** that is being fixed, or the feature being added. Check the description on the pull, and check out the related issue. If you don’t understand something, ask the submitter for clarification.
+2. **Reproduce the bug** (or the lack of feature) in the destination branch, usually `development`. The referenced issue will help you here. If you’re unable to reproduce the issue, contact the issue submitter for clarification.
+3. **Check out the pull** and test it. Does the feature work? Is the issue fixed? Does it have any nasty side effects? Try to create suspect inputs. If it operates on the value of a field, try things like strings (including an empty string), null, numbers, or dates. Try to think of edge cases that might break the code.
+4. **Merge the target branch**. It is possible that tests or the linter have been updated in the target branch since the pull was submitted. Merging the pull could cause the core to start failing.
+5. **Read the code**. Understanding the changes will help you find additional things to test. Contact the submitter if you don’t understand something.
+6. **Go line-by-line**. Are there style guide violations? Strangely named variables? Magic numbers? Do the abstractions make sense to you? Are things arranged in a testable way?
+7. **Speaking of tests:** are they there? If a new function was added, does it have tests? Do the tests, well, TEST anything? Do they just run the function or do they properly check the output?
+8. **Suggest improvements.** If there are changes needed, be explicit and comment on the lines in the code that you’d like changed. You might consider suggesting fixes. If you can’t identify the problem, animated screenshots can help reviewers understand what’s going on.
+9. **Hand it back.** If you found issues, re-assign the submitter to the pull to address them. Repeat until mergeable.
+10. **Hand it off.** If you’re the first reviewer and everything looks good but the changes are more than a few lines, hand the pull to someone else to take a second look. Again, try to find the right person to assign it to.
+11. **Merge the code.** When everything looks good, merge into the target branch. Check the labels on the pull to see if backporting is required, and perform the backport if so.
 
 ## References
 
