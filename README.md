@@ -6,9 +6,6 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
-> ** Tip: Did you know you can open a table of contents on any page of the Handbook?
-> ![open a table of contents](./assets/How_to_open_TOC.gif)
-
 ## What is Chingu?
 
 We're excited that you've chosen to join us and we know you have lots of 
@@ -35,7 +32,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ## Directory of Information
 
-### What We Do
+### Getting Started
+---
 
 * [Community Standards](./docs/gettingstarted/communitystds.md)
 * [Programs & Services](./docs/gettingstarted/programs.md)
@@ -43,20 +41,26 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 * [What to Do First](./docs/gettingstarted/whattodofirst.md)
 
 ### Guides
+---
 
 - [Voyage Guide](./docs/guides/voyage/voyage.md)
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
-- [Contributors Guide](./docs/guides/contributors/contributors.md)
+- [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
 - [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md) 
 
 ### Helpful Information
+---
 
-#### Project Resources
+| Project Resources | Technical Resources |
+| --- | --- |
+| [Soft Skills 101](./docs/resources/projresources/softskills101.md) | [Choosing your Techstack](./docs/resources/techresources/techstack.md) |
+| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md) | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
+| [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Git & GitHub](./docs/resources/techresources/gitgithub.md) |
+| [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md) | [Glossary](./docs/resources/glossary/glossary.md) |
+| [Agile Methodology 101](./docs/resources/projresources/agile101.md) | |
 
-#### Technical Resources
+## Tips
 
-- [Choosing your Techstack](./docs/resources/techresources/techstack.md)
-- [Software Licenses](./docs/resources/techresources/softwarelicenses.md)
-- [Git & GitHub](./docs/resources/techresources/gitgithub.md)
-- [Glossary](./docs/resources/glossary.md)
+1. Did you know you can open a table of contents on any page of the Handbook?
+   ![open a table of contents](./assets/How_to_open_TOC.gif)
