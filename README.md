@@ -14,11 +14,11 @@ questions. So let's get started! 🎬
 ### Chingu Means Friend
 
 It's important to know that "Chingu" means "friend" in Korean. This isn't just a
-catchy name; it perfectly describes what we want this organization to be for
-our members.
+catchy name; it perfectly describes what we want this organization to be for our
+members.
 
-We want to be that friend that supports your goal to advance in
-your Web Development career. But, we also want every Chingu here to be just as
+We want to be that friend that supports your goal to advance in your Web
+Development career. But, we also want every Chingu here to be just as
 supportive.
 
 ### Who is Chingu for?
@@ -68,6 +68,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 1. Did you know you can open a table of contents on any page of the Handbook?
    ![open a table of contents](./assets/How_to_open_TOC.gif)
 
-2. Are you more comfortable using a language other than English? You can use
-   the free Google Translate extension in Chrome-based browers. You can learn more in
-   the [Chrome Web Store](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
+2. Are you more comfortable using a language other than English? You can use the
+   free Google Translate extension in Chrome-based browsers. You can learn more
+   in the
+   [Chrome Web Store](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
