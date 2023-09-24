@@ -91,7 +91,7 @@ ideas for Solo Projects to create —> [here](https://www.notion.so/4efdd43df321
 
 - If you applied as a Product Owner you can find ideas for Solo Projects to create —> [here](https://www.notion.so/45b5f1e7967f4919aea77a7c09fa5172?pvs=21)
     
-When you are done, submit a [Solo Project Completion form](https://docs.chingu.io/voyage/soloproj/submit) so we can evaluate your project.
+When you are done, submit a [Solo Project Completion form](https://docs.google.com/forms/d/e/1FAIpQLSdN3dN7OjzppDCBNIsIf-bOJC_XAlQ9eiPcYQx_m6DfhaiRmA/viewform) so we can evaluate your project.
     
 One of our Facilitators will evaluate your Solo Project and will DM you in 
 Discord with feedback you can use! They will look at both your code as well 
