@@ -208,29 +208,17 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ### Sprint 2 - Getting off to a Solid Start
 
   ---
-  #### 5. Create a low-fidelity wireframe
-      
-  **Objective**
   
-  Establish a common understanding across the team of what information is in each screen and the actions that may be invoked from each screen.
-  
-  **How**
-  
-  - [ ]  Using the features you added to the the Feature Planning template in step 4 identify the screens you’ll need and the information on each one.
-  - [ ]  Map the actions users will be able to perform from each screen and the navigation from screen-to-screen
-  - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/) or even pencil and paper.
-  
-  **Resources**
-  
-  [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
-      
-  ---
-  #### 6. Setup Project Backlog
+  #### 5. Setup Project Backlog
       
   **Objective**
   
   The [Project Backlog](../../resources/glossary/glossary.md) is where you 
   track the work that needs to be completed to finish the project.
+
+  > If you are creating your Voyage project based on specifications provided by
+  Chingu you don't need to wait until Sprint 2 to start this task. Instead, 
+  get ahead of the game and start it during Sprint 1. 
   
   **How**
   
@@ -253,6 +241,27 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   [ZenHub website](https://www.zenhub.com/)
   
   [Install ZenHub browser extension](https://tinyurl.com/yfpcf7ke)
+      
+  ---
+  #### 6. Create a low-fidelity wireframe
+      
+  **Objective**
+  
+  Establish a common understanding across the team of what information is in each screen and the actions that may be invoked from each screen.
+
+  > If you are creating your Voyage project based on specifications provided by
+  Chingu you don't need to wait until Sprint 2 to start this task. Instead, 
+  get ahead of the game and start it during Sprint 1.
+  
+  **How**
+  
+  - [ ]  Using the features you added to the the Feature Planning template in step 4 identify the screens you’ll need and the information on each one.
+  - [ ]  Map the actions users will be able to perform from each screen and the navigation from screen-to-screen
+  - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/) or even pencil and paper.
+  
+  **Resources**
+  
+  [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
       
   ---
   #### 7. Setup your team workflow
