@@ -419,6 +419,24 @@
   - LAMP - Linux - Apache - MySQL - PHP
   <br/>
 </details>
+
+<details>
+  <summary>User Stories</summary>
+  <br/>
+
+  User Stories narrate the steps users would take to realize a specific Epic. User Stories complete the sentence:
+  
+  > As a `<target user>`, I want to `<user stories>`, so that I can `<an epic>`.
+  
+  You can create the app's User Stories by decomposing an Epic into a series of steps. Here's an example:
+  
+  - **Target user:** Blogger
+  - **Epic:** Auto-convert image to a blog post
+  - **User stories:** Turn on camera → Take picture → Edit picture → Submit photo.
+  
+  > As a Blogger, I want to turn on my camera, take a picture, edit it, and submit it so I can auto-convert it to a blog post.
+  <br/>
+</details>
     
 <details>
   <summary>Voyage</summary>
