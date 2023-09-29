@@ -51,10 +51,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   | Developer | Developers are focused on designing, writing code, testing what has been developed, and deploying it to the Internet. |
   | UI/UX Designer | UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. |
   | Product Owner | Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation since Chingu teams have a flat, rather than a hierarchical structure. |
-  | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to help provide help and advice to Voyage teams.
-  - Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project
-  - Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.
-  - Team members should research questions they have BEFORE asking their Voyage Guide. |
+  | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to help provide help and advice to Voyage teams. <ul><li>Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li><li>Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.</li><li>Team members should research questions they have BEFORE asking their Voyage Guide.</li></ul>|
   | Data Scientist | Data Scientists help the team to add value to the project by using advanced data analysis and/or ML to create dashboards and data visualizations based on data captured by the application. |
 </details>
 
