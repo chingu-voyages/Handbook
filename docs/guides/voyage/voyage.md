@@ -30,7 +30,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 | Solo Project Deadline | August 1 | September 26 | January 2, 2024 |
 | Voyage Launch | August 7 | October 2 | January 8, 2024 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | Septembr 17 | November 12 | February 18, 2024 |
+| Voyage ends & projects due | September 17 | November 12 | February 18, 2024 |
 | Completion Certificates issued | September 24 | November 19 | February 25, 2024 |
 | Voyage Showcase article published | TBD | TBD | TBD |
     
@@ -134,11 +134,11 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     
   **Objective**
   
-  The Kickoff Meeting let’s you meet your team, review the goals & steps for Sprints 1 & 2, and gets you started on creating a solid foundation for your Voyage Project.
+  The Kickoff Meeting lets you meet your team, review the goals & steps for Sprints 1 & 2, and gets you started on creating a solid foundation for your Voyage Project.
   
   **How**
   
-  - The first person to arrive in the Team Channel on the first day of the Voyage should create a [When2Meet](https://www.when2meet.com/) event and post it’s URL in the channel. This will let everyone update it with their availability for the week so a Kickoff meeting can be scheduled.
+  - The first person to arrive in the Team Channel on the first day of the Voyage should create a [When2Meet](https://www.when2meet.com/) event and post its URL in the channel. This will let everyone update it with their availability for the week so a Kickoff meeting can be scheduled.
   - Try to find a time as early as possible in Sprint 1 for your Kickoff meeting. Six weeks sounds like a long time, but it’s quite short and every day you delay in getting started counts!
   - Use the Voyage Kickoff meeting agenda template we’ve provided to guide you and as a place to record notes from the meeting. At the start of the Voyage a Google Drive directory for your team will be created, populated with document templates, and shared with the team.
 
@@ -196,7 +196,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   *Must Have*
   
-  features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*’s.
+  features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*s.
   
   **Resources**
   
@@ -222,7 +222,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ]  Identify & prioritize features
   - [ ]  Create an epic for each feature
   - [ ]  Choose the highest priority epics & divide them into user stories
-  - [ ]  Add your epics & user stories to a backlog tool. Due to it’s tight integration with GitHub we suggest using ZenHub (it’s free for teams using public repositories)
+  - [ ]  Add your epics & user stories to a backlog tool. Due to its tight integration with GitHub we suggest using ZenHub (it’s free for teams using public repositories)
   - [ ]  Prioritize the user stories
   
   During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process helps you and your team concentrate only on the tasks that must be completed in that Sprint.
@@ -252,7 +252,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   **How**
   
-  - [ ]  Using the features you added to the the Feature Planning template in step 4 identify the screens you’ll need and the information on each one.
+  - [ ]  Using the features you added to the Feature Planning template in step 4 identify the screens you’ll need and the information on each one.
   - [ ]  Map the actions users will be able to perform from each screen and the navigation from screen-to-screen
   - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/) or even pencil and paper.
   
@@ -273,7 +273,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the workflow everyone must follow.
   - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
   - [ ]  Decide on where you’ll deploy your app and the branch to be considered as ‘production’ you’ll be deploying from.
-  - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to to learn more about the types of meetings you’ll need.
+  - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
   - [ ]  [Develop the App](#sprint-3-5---reaching-your-mvp)
   
   **Resources**
@@ -294,7 +294,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   **Objective**
   
-  Incrementally create your app by following the using Scrum, and Agile framework.
+  Incrementally create your app by using Scrum and Agile frameworks.
   
   **How**
     
@@ -303,7 +303,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
       - What tasks have I completed?
       - What am I currently working on and what will I work on next?
       - What issues or blockers do I need help with and from who?
-  - *PR & Deploy* - As team members complete tasks they should create PR’s for review and deploy the app
+  - *PR & Deploy* - As team members complete tasks they should create PRs for review and deploy the app
   - *Sprint Review & Retrospective*
       - At the end of the sprint review how the team worked together & the processes you used. Make modifications as necessary to improve what didn’t work well and reinforce what did work well.
   
@@ -312,7 +312,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - As early in the Sprint as possible, ideally every Monday or Tuesday, schedule a combined Sprint Review & Retrospective + Sprint Planning meeting
   - Schedule a second meeting on Wednesday or Thursday to address any changes to the Sprint plan. These changes could be the result of problems, bugs, differences of opinion, or the fact that you’ve completed all the tasks for this Sprint and need to select ones to work on next.
   - ***Pro Tip!*** Schedule your meetings to repeat on the same day and time in each Sprint so you only have to spend time scheduling them once.
-  - Post your status daily in your Team Channel and use the audio/video channel we’ve created for you team for team meetings, ad hoc discussions, and pair programming.
+  - Post your status daily in your Team Channel and use the audio/video channel we’ve created for your team for team meetings, ad hoc discussions, and pair programming.
   
   **Resources**
   
