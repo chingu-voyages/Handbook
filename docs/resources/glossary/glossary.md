@@ -424,17 +424,14 @@
   <summary>User Stories</summary>
   <br/>
 
-  User Stories narrate the steps users would take to realize a specific Epic. User Stories complete the sentence:
+  User Stories are the required activities users must do to get the value a particular feature promises to deliver. User Stories complete the sentence:
   
-  > As a `<target user>`, I want to `<user stories>`, so that I can `<an epic>`.
+  `As a <persona>, I want <requirement> So I can <value-statement>.`
+
+  For instance,
+
+  `As an Idea Creator, I want to provide the URLs to any supporting diagrams. URLs should have a plain text description in addition to the URL itself. So I can quickly and easily provide reviewers with more detail about my idea.`
   
-  You can create the app's User Stories by decomposing an Epic into a series of steps. Here's an example:
-  
-  - **Target user:** Blogger
-  - **Epic:** Auto-convert image to a blog post
-  - **User stories:** Turn on camera → Take picture → Edit picture → Submit photo.
-  
-  > As a Blogger, I want to turn on my camera, take a picture, edit it, and submit it so I can auto-convert it to a blog post.
   <br/>
 </details>
     
