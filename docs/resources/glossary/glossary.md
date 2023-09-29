@@ -123,6 +123,16 @@
   Addressing these types of conditions requires the developer to anticipate them by considering not what is supposed to happen based on the specifications that have been provided, but considering what types of conditions could occur. In other words - "thinking outside of the box".
   <br/>
 </details>
+
+<details>
+  <summary>Epics</summary>
+  <br/>
+	
+  Epics are brief statements highlighting the main functions the product promises to provide to its users. Epics complete the phrase "This app lets you..."
+
+  > You can create Epics directly from the app's use cases (as defined in its Vision Statement).
+  <br/>
+</details>
     
 <details>
   <summary>Feature (App. Feature)</summary>
