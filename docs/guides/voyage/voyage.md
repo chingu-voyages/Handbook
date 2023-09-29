@@ -322,7 +322,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [When2Meet website](https://when2meet.com/)
   
-  [How to Create a When2Meet Link (gif)](https://gfycat.com/minoryawningbasil)
+  [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
   
   [Meeting template - Sprint Review, Retrospective, & Planning](https://docs.google.com/document/d/1N0rMPGzjR2kPJrMOBKJMUmTx8KCMejJ46pQSRqzHckk/edit?usp=sharing) ^
   
