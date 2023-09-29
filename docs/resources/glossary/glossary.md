@@ -429,6 +429,21 @@
   - LAMP - Linux - Apache - MySQL - PHP
   <br/>
 </details>
+
+<details>
+  <summary>User Stories</summary>
+  <br/>
+
+  User Stories are the required activities users must do to get the value a particular feature promises to deliver. User Stories complete the sentence:
+  
+  `As a <persona>, I want <requirement> So I can <value-statement>.`
+
+  For instance,
+
+  `As an Idea Creator, I want to provide the URLs to any supporting diagrams. URLs should have a plain text description in addition to the URL itself. So I can quickly and easily provide reviewers with more detail about my idea.`
+  
+  <br/>
+</details>
     
 <details>
   <summary>Voyage</summary>
