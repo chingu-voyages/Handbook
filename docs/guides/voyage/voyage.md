@@ -125,7 +125,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [When2Meet](https://when2meet.com/)
   
-  [How to Create a When2Meet Link (gif)](https://gfycat.com/minoryawningbasil)
+  [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
     
   ---
   #### 2. Conduct kickoff meeting
