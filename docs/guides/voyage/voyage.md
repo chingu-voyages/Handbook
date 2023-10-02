@@ -385,7 +385,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 <details>
   <summary>What should I do if I don't have access to my team repo?</summary>
   <br/>
-  
+
   Before a Voyage starts we create a GitHub repo in the `chingu-voyages` 
   GitHub organization for every team. We also grant every teammate the `Admin` 
   privilege on it. 
@@ -400,7 +400,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   and click on the `View invitation` button. From there you can validate your 
   identity.
 
-  If you need help you can open a ticket to the Chingu Admin team in the
+  If you have questions or need help you can ask other Chingu's for advice in
+  the [`#coding-help` channel](https://discord.com/channels/330284646283608064/1047615334703714394) or you may open a ticket to the Chingu Admin team in the
   [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
 </details>
 
@@ -413,10 +414,70 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
 </details>
 
+<details>
+  <summary>My team doesn't have a Product Owner. What should we do?</summary>
+  <br/>
+
+  In a Voyage we will add a Product Owner to as many teams as we can.
+  Unfortunately, this depends on *_how many Product Owner's sign up._*
+
+  If your team doesn't have a Product Owner don't worry! Follow the steps that 
+  are defined in this Voyage Guide to help you determine what needs to be done,
+  in what order, and how to execute each step.
+
+  In past Voyages teams without a Product Owner have used one of these
+  strategies:
+
+  1. Someone on your team can volunteer to be the Product Owner. This works
+  best if someone on the team has previous experience working on a team with a
+  PO or if they are familiar with Scrum and the Agile Methodology.
+
+  2. Team members can rotate the PO responsibilities in each Sprint. This
+  ensures that everyone gets a chance to learn more about this role.
+
+  3. Team members can agree to share the PO responsibilities with one another.
+  This is the the least desirable options since a shared responsibility often
+  means it's not done.
+
+  Whichever option you choose remember that teammates should support one
+  another and you will either succeed together or fail together. Teamwork is
+  critical to success.
+
+
+</details>
+
 ### Tips for Product Owners
 
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
 ### Tips for UI/UX Designers
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
 ### Tips for Web Developers
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
 
 ### Tips for Data Scientists
 
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
