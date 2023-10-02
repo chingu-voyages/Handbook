@@ -361,6 +361,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ## Voyage Tips
 
+### Tips for all teammates
+
 <details>
   <summary>How do I make a voice channel for my team?</summary>
   <br/>
@@ -381,6 +383,28 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
 
 <details>
+  <summary>What should I do if I don't have access to my team repo?</summary>
+  <br/>
+  
+  Before a Voyage starts we create a GitHub repo in the `chingu-voyages` 
+  GitHub organization for every team. We also grant every teammate the `Admin` 
+  privilege on it. 
+
+  If this your first Voyage GitHub will send an email notification as part of
+  this process. **_You must click the link_** in that email to validate your
+  identity and get access to your team repo.
+
+  If you don't receive this email please check the *_junk_* or *_spam_* folder
+  in your email application. If it's not there you go to the 
+  [`chingu-voyages`](https://github.com/chingu-voyages) organization in GitHub 
+  and click on the `View invitation` button. From there you can validate your 
+  identity.
+
+  If you need help you can open a ticket to the Chingu Admin team in the
+  [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
+</details>
+
+<details>
   <summary>How can I “pin” messages to my Team Channel?</summary>
   <br/>
 
@@ -388,4 +412,11 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
 </details>
+
+### Tips for Product Owners
+
+### Tips for UI/UX Designers
+### Tips for Web Developers
+
+### Tips for Data Scientists
 
