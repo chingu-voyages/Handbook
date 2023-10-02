@@ -220,7 +220,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ]  Identify & prioritize features
   - [ ]  Create an epic for each feature
   - [ ]  Choose the highest priority epics & divide them into user stories
-  - [ ]  Add your epics & user stories to a backlog tool. Due to its tight integration with GitHub we suggest using ZenHub (it’s free for teams using public repositories)
+  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
   - [ ]  Prioritize the user stories
   
   During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process helps you and your team concentrate only on the tasks that must be completed in that Sprint.
