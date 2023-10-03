@@ -220,7 +220,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ]  Identify & prioritize features
   - [ ]  Create an epic for each feature
   - [ ]  Choose the highest priority epics & divide them into user stories
-  - [ ]  Add your epics & user stories to a backlog tool. Due to its tight integration with GitHub we suggest using ZenHub (it’s free for teams using public repositories)
+  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
   - [ ]  Prioritize the user stories
   
   During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process helps you and your team concentrate only on the tasks that must be completed in that Sprint.
@@ -361,6 +361,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ## Voyage Tips
 
+### Tips for all teammates
+
 <details>
   <summary>How do I make a voice channel for my team?</summary>
   <br/>
@@ -381,6 +383,29 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
 
 <details>
+  <summary>What should I do if I don't have access to my team repo?</summary>
+  <br/>
+
+  Before a Voyage starts we create a GitHub repo in the `chingu-voyages` 
+  GitHub organization for every team. We also grant every teammate the `Admin` 
+  privilege on it. 
+
+  If this your first Voyage GitHub will send an email notification as part of
+  this process. **_You must click the link_** in that email to validate your
+  identity and get access to your team repo.
+
+  If you don't receive this email please check the *_junk_* or *_spam_* folder
+  in your email application. If it's not there you go to the 
+  [`chingu-voyages`](https://github.com/chingu-voyages) organization in GitHub 
+  and click on the `View invitation` button. From there you can validate your 
+  identity.
+
+  If you have questions or need help you can ask other Chingu's for advice in
+  the [`#coding-help` channel](https://discord.com/channels/330284646283608064/1047615334703714394) or you may open a ticket to the Chingu Admin team in the
+  [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
+</details>
+
+<details>
   <summary>How can I “pin” messages to my Team Channel?</summary>
   <br/>
 
@@ -389,3 +414,70 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
 </details>
 
+<details>
+  <summary>My team doesn't have a Product Owner. What should we do?</summary>
+  <br/>
+
+  In a Voyage we will add a Product Owner to as many teams as we can.
+  Unfortunately, this depends on *_how many Product Owner's sign up._*
+
+  If your team doesn't have a Product Owner don't worry! Follow the steps that 
+  are defined in this Voyage Guide to help you determine what needs to be done,
+  in what order, and how to execute each step.
+
+  In past Voyages teams without a Product Owner have used one of these
+  strategies:
+
+  1. Someone on your team can volunteer to be the Product Owner. This works
+  best if someone on the team has previous experience working on a team with a
+  PO or if they are familiar with Scrum and the Agile Methodology.
+
+  2. Team members can rotate the PO responsibilities in each Sprint. This
+  ensures that everyone gets a chance to learn more about this role.
+
+  3. Team members can agree to share the PO responsibilities with one another.
+  This is the the least desirable options since a shared responsibility often
+  means it's not done.
+
+  Whichever option you choose remember that teammates should support one
+  another and you will either succeed together or fail together. Teamwork is
+  critical to success.
+
+
+</details>
+
+### Tips for Product Owners
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
+### Tips for UI/UX Designers
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
+### Tips for Web Developers
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
+### Tips for Data Scientists
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
