@@ -121,7 +121,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [How to Select a Project video](https://youtu.be/5Xv0C5VAKZc)
   
-  [Document Templates](https://drive.google.com/drive/folders/1uDjMWAzmmppDXnZKlhYHKCy1yxiQ90al?usp=sharing) (These will be copied to your team’s share document drive when the Voyage starts)
+  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These will be copied to the `docs` subdirectory in your team’s repo 
+  when the Voyage starts) ^
   
   [When2Meet](https://when2meet.com/)
   
@@ -144,7 +145,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
       
   **Resources**
   
-  [Meeting template - Voyage Kickoff](https://docs.google.com/document/d/1ozP5lLj_R0kqCWdXEpFDR6sIlP9miXp74DFKZlJyktE/edit?usp=sharing)
+  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
   ---
   #### 3. Choose a project & create a Vision Statement
@@ -171,11 +173,13 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   [How to Select a Voyage Project video](https://youtu.be/5Xv0C5VAKZc)
   
   [Voyage Project Showcase article](https://medium.com/chingu/chingu-fall-project-showcase-c6bf0f8210ab) (2020)
+
   [Voyage Project Showcase article (2021)](https://dev.to/chingu/build-collaborate-learn-remote-developer-projects-showcase-3bad)
   
-  [Project Ideas template](https://docs.google.com/spreadsheets/d/1tDVXZoFYzc47cnCJJy9OIJdsuHFEVSLSIpaci6pWyxg/edit?usp=sharing)
+  [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
-  [Project Vision and Feature Planning template](https://docs.google.com/document/d/1pG-6ihL47P6IpMtcgVeb5_DWoatZcsMTwx_lGDmfh9o/edit?usp=sharing)
+  [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
   ---
   #### 4. Define & prioritize MVP features
@@ -198,7 +202,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   **Resources**
   
-  [Project Vision and Feature Planning Template](https://docs.google.com/document/d/1hod0AJXVe1T9HDqSwLr6VGXBz0HJ-HG4aM8JKoeBB00/edit?usp=sharing)
+  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
 ### Sprint 2 - Getting off to a Solid Start
 
@@ -220,7 +224,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ]  Identify & prioritize features
   - [ ]  Create an epic for each feature
   - [ ]  Choose the highest priority epics & divide them into user stories
-  - [ ]  Add your epics & user stories to a backlog tool. Due to its tight integration with GitHub we suggest using ZenHub (it’s free for teams using public repositories)
+  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
   - [ ]  Prioritize the user stories
   
   During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process helps you and your team concentrate only on the tasks that must be completed in that Sprint.
@@ -318,15 +322,18 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)
   
-  [Team Decision Log template](https://docs.google.com/spreadsheets/d/17DaEuYxFscWxe54YAHSr5jywpG8KvsBYVfwZTuIAyjo/edit?usp=sharing) ^
+  [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   [When2Meet website](https://when2meet.com/)
   
   [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
   
-  [Meeting template - Sprint Review, Retrospective, & Planning](https://docs.google.com/document/d/1N0rMPGzjR2kPJrMOBKJMUmTx8KCMejJ46pQSRqzHckk/edit?usp=sharing) ^
+  [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the 
+  Voyage starts) ^
   
-  [Meeting template - Open Topic](https://docs.google.com/document/d/1AXboDCFO88yBXsavl83-LTgSzKROTuA8XPZqZqdj3Z8/edit?usp=sharing) ^
+  [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   ^  These are read only templates.
     
@@ -361,6 +368,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ## Voyage Tips
 
+### Tips for all teammates
+
 <details>
   <summary>How do I make a voice channel for my team?</summary>
   <br/>
@@ -381,6 +390,29 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
 
 <details>
+  <summary>What should I do if I don't have access to my team repo?</summary>
+  <br/>
+
+  Before a Voyage starts we create a GitHub repo in the `chingu-voyages` 
+  GitHub organization for every team. We also grant every teammate the `Admin` 
+  privilege on it. 
+
+  If this your first Voyage GitHub will send an email notification as part of
+  this process. **_You must click the link_** in that email to validate your
+  identity and get access to your team repo.
+
+  If you don't receive this email please check the *_junk_* or *_spam_* folder
+  in your email application. If it's not there you go to the 
+  [`chingu-voyages`](https://github.com/chingu-voyages) organization in GitHub 
+  and click on the `View invitation` button. From there you can validate your 
+  identity.
+
+  If you have questions or need help you can ask other Chingu's for advice in
+  the [`#coding-help` channel](https://discord.com/channels/330284646283608064/1047615334703714394) or you may open a ticket to the Chingu Admin team in the
+  [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
+</details>
+
+<details>
   <summary>How can I “pin” messages to my Team Channel?</summary>
   <br/>
 
@@ -389,3 +421,70 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
 </details>
 
+<details>
+  <summary>My team doesn't have a Product Owner. What should we do?</summary>
+  <br/>
+
+  In a Voyage we will add a Product Owner to as many teams as we can.
+  Unfortunately, this depends on *_how many Product Owner's sign up._*
+
+  If your team doesn't have a Product Owner don't worry! Follow the steps that 
+  are defined in this Voyage Guide to help you determine what needs to be done,
+  in what order, and how to execute each step.
+
+  In past Voyages teams without a Product Owner have used one of these
+  strategies:
+
+  1. Someone on your team can volunteer to be the Product Owner. This works
+  best if someone on the team has previous experience working on a team with a
+  PO or if they are familiar with Scrum and the Agile Methodology.
+
+  2. Team members can rotate the PO responsibilities in each Sprint. This
+  ensures that everyone gets a chance to learn more about this role.
+
+  3. Team members can agree to share the PO responsibilities with one another.
+  This is the the least desirable options since a shared responsibility often
+  means it's not done.
+
+  Whichever option you choose remember that teammates should support one
+  another and you will either succeed together or fail together. Teamwork is
+  critical to success.
+
+
+</details>
+
+### Tips for Product Owners
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
+### Tips for UI/UX Designers
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
+### Tips for Web Developers
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
+
+### Tips for Data Scientists
+
+<details>
+  <summary>Stay tuned!</summary>
+  <br/>
+
+  Stay tuned for new content we'll be adding here soon.
+</details>
