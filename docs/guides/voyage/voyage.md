@@ -121,7 +121,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [How to Select a Project video](https://youtu.be/5Xv0C5VAKZc)
   
-  [Document Templates](https://drive.google.com/drive/folders/1uDjMWAzmmppDXnZKlhYHKCy1yxiQ90al?usp=sharing) (These will be copied to your team’s share document drive when the Voyage starts)
+  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These will be copied to the `docs` subdirectory in your team’s repo 
+  when the Voyage starts) ^
   
   [When2Meet](https://when2meet.com/)
   
@@ -144,7 +145,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
       
   **Resources**
   
-  [Meeting template - Voyage Kickoff](https://docs.google.com/document/d/1ozP5lLj_R0kqCWdXEpFDR6sIlP9miXp74DFKZlJyktE/edit?usp=sharing)
+  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
   ---
   #### 3. Choose a project & create a Vision Statement
@@ -171,11 +173,13 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   [How to Select a Voyage Project video](https://youtu.be/5Xv0C5VAKZc)
   
   [Voyage Project Showcase article](https://medium.com/chingu/chingu-fall-project-showcase-c6bf0f8210ab) (2020)
+
   [Voyage Project Showcase article (2021)](https://dev.to/chingu/build-collaborate-learn-remote-developer-projects-showcase-3bad)
   
-  [Project Ideas template](https://docs.google.com/spreadsheets/d/1tDVXZoFYzc47cnCJJy9OIJdsuHFEVSLSIpaci6pWyxg/edit?usp=sharing)
+  [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
-  [Project Vision and Feature Planning template](https://docs.google.com/document/d/1pG-6ihL47P6IpMtcgVeb5_DWoatZcsMTwx_lGDmfh9o/edit?usp=sharing)
+  [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
   ---
   #### 4. Define & prioritize MVP features
@@ -198,7 +202,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   **Resources**
   
-  [Project Vision and Feature Planning Template](https://docs.google.com/document/d/1hod0AJXVe1T9HDqSwLr6VGXBz0HJ-HG4aM8JKoeBB00/edit?usp=sharing)
+  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
 ### Sprint 2 - Getting off to a Solid Start
 
@@ -318,15 +322,18 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)
   
-  [Team Decision Log template](https://docs.google.com/spreadsheets/d/17DaEuYxFscWxe54YAHSr5jywpG8KvsBYVfwZTuIAyjo/edit?usp=sharing) ^
+  [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   [When2Meet website](https://when2meet.com/)
   
   [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
   
-  [Meeting template - Sprint Review, Retrospective, & Planning](https://docs.google.com/document/d/1N0rMPGzjR2kPJrMOBKJMUmTx8KCMejJ46pQSRqzHckk/edit?usp=sharing) ^
+  [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the 
+  Voyage starts) ^
   
-  [Meeting template - Open Topic](https://docs.google.com/document/d/1AXboDCFO88yBXsavl83-LTgSzKROTuA8XPZqZqdj3Z8/edit?usp=sharing) ^
+  [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
+  `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   ^  These are read only templates.
     
