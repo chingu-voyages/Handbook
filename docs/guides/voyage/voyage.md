@@ -101,7 +101,8 @@ When your Voyage starts you will see that we have provided your team with your
 own team channel in Discord. You should use this to communicate and collaborate
 with one another on your project. Access to this channel is restricted to your
 team so it's the best place for open, frank, and respectful communication with
-your teammates. **_You must not create your own team channel_**
+your teammates. **_Your team must not create your own Discord server, 
+Slack channel, etc. to communicate in with each other about your project._**
 
 You will also be provided with a GitHub repo in the `chingu-voyages` 
 organization for your project code. Everyone on your team will have `admin`
