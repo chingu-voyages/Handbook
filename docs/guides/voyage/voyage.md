@@ -97,6 +97,22 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ![How it Works](./assets/Voyage_Project_How_it_Works.png)
 
+When your Voyage starts you will see that we have provided your team with your 
+own team channel in Discord. You should use this to communicate and collaborate
+with one another on your project. Access to this channel is restricted to your
+team so it's the best place for open, frank, and respectful communication with
+your teammates. **_Your team must not create your own Discord server, 
+Slack channel, etc. to communicate in with each other about your project._**
+
+You will also be provided with a GitHub repo in the `chingu-voyages` 
+organization for your project code. Everyone on your team will have `admin`
+access on this repo so you'll be able to adjust settings. But, **_you must
+leave this as a public repo and you must not rename the repo we've created or
+create your own repo_**.
+
+If you need another repo [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to 
+create it for you. 
+
 ### Sprint 1 - Getting off to a Solid Start
 
 ---
@@ -274,7 +290,13 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ]  Decide on the coding standards the team must follow.
   - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the workflow everyone must follow.
   - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
-  - [ ]  Decide on where you’ll deploy your app and the branch to be considered as ‘production’ you’ll be deploying from.
+  - [ ]  Decide on where you’ll deploy your app and the branch to be considered 
+  as ‘production’ you’ll be deploying from. We strongly recommend you deploy 
+  your `development` branch to the same Web host as your `main` branch so you 
+  have a place to perform integration testing that's in an environment that is 
+  similar to your production environment. You should also deploy your app 
+  changes to your `main` branch and test them in the Web host it is deployed 
+  to in each sprint.
   - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
   - [ ]  [Develop the App](#sprint-3-5---reaching-your-mvp)
   
@@ -300,12 +322,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   **How**
     
-  - *Sprint Planning* - Meet at the start of the sprint to select the highest priority tasks the team can realistically complete in this sprint
-  - *Post Daily Status* - Communicating & collaborating with your team is the most important factor to success. Post answers to these questions every day:
+  - *Sprint Planning* - Meet at the start of the sprint to select the highest 
+  priority tasks the team can realistically complete in this sprint
+  - *Post Daily Status* - Communicating & collaborating with your team is the 
+  most important factor to success. Post answers to these questions every day:
       - What tasks have I completed?
       - What am I currently working on and what will I work on next?
       - What issues or blockers do I need help with and from who?
-  - *PR & Deploy* - As team members complete tasks they should create PRs for review and deploy the app
+  - *PR & Deploy* - As team members complete tasks they should create PRs for 
+  review and deploy the app.  
   - *Sprint Review & Retrospective*
       - At the end of the sprint review how the team worked together & the processes you used. Make modifications as necessary to improve what didn’t work well and reinforce what did work well.
   
