@@ -24,8 +24,8 @@ graph LR
 ### 1. Choose your Tier
 
 You'll first need to choose a *_tier_* that matches your 
-current skill level. There are three tiers and ou should select the one that 
-best matches your curren skill level - beginner (Tier 1), 
+current skill level. There are three tiers and you should select the one that 
+best matches your current skill level - beginner (Tier 1), 
 intermediate (Tier 2), or experienced (Tier 3). 
 
 <details>
