@@ -447,6 +447,20 @@ create it for you.
 </details>
 
 <details>
+  <summary>Which team role is the most important one❓</summary>
+  <br/>
+
+  No one team role is more important than the other! Different roles are
+  needed because software projects are complex and they will only become more
+  complex over time.
+
+  Evey member of the team brings different experiences and skills that to 
+  contribute to the project. Every teammate is also a **_subject matter
+  expert (SME)_** in their respective role and should be respected for what
+  they bring to the team.
+</details>
+
+<details>
   <summary>My team doesn't have a Product Owner. What should we do❓</summary>
   <br/>
 
@@ -475,16 +489,32 @@ create it for you.
   another and you will either succeed together or fail together. Teamwork is
   critical to success.
 
-
 </details>
 
 ### Tips for Product Owners ✏️
 
 <details>
-  <summary>Stay tuned!</summary>
+  <summary>Do I need to be able to develop code like the rest of the team?</summary>
   <br/>
 
-  Stay tuned for new content we'll be adding here soon.
+  **Absolutely not!!!** 😾 It's certainly fine if you come to the Product Owner
+  role with software development experience, but *_it's not required_*.
+
+  As a Product Owner your job is to help your team coordinate their efforts
+  to design, build, test, and deploy your MVP. Keep in mind that everyone on
+  the team is an *_subject matter expert_* in their role. So, the key to
+  working in a team is to trust your teammates and to treat them as partners.
+
+  When you get in a situations where you feel overwhelmed by complexity,
+  technology, and/or terminology reach out to your team for help. You may
+  think this is a sign of weakness, but it's actually a sign of strength and
+  maturity since it shows you trust your team and you are helping to build
+  their confidence and experience.
+
+  Finally, remember that none of us knows it all and if we ever should learn
+  it all it's just going to change 😊 Relying on your teammates (and them 
+  relying on you) will reduce stress, conflict, and will help to speed up
+  everyone's learning.
 </details>
 
 ### Tips for UI/UX Designers ✏️
