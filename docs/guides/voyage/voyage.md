@@ -1,6 +1,6 @@
 # Voyage Guide
 
-## What are Voyages?
+## What are Voyages❓
 
 Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by:
 
@@ -12,7 +12,7 @@ Voyages are 6-week long remote team projects where you'll level up your skills a
 
 Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member. 
 
-### Voyage Schedule
+### Voyage Schedule 🗓️
 
 ```mermaid
   timeline
@@ -32,10 +32,10 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 | Completion Certificates issued | November 19 | February 25, 2024 | April 21, 2024 |
 | Voyage Showcase article published | TBD | TBD | TBD |
     
-### How to Prepare for your Voyage
+### How to Prepare for your Voyage 📝
 
 <details>
-  <summary>Team Member Roles</summary>
+  <summary>Team Member Roles 🧑🏾‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏽</summary>
   <br/>
 
   The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project.
@@ -54,7 +54,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
 
 <details>
-  <summary>Brush up on your “Soft Skills”</summary>
+  <summary>Brush up on your “Soft Skills” 🖌️</summary>
   <br/>
 
   - [ ] If this is your first Voyage **complete a [Solo Project](../soloproject/soloproject.md)**
@@ -79,7 +79,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
 
 <details>
-  <summary>What Level of Commitment is Required for a Voyage?</summary>
+  <summary>What Level of Commitment is Required for a Voyage? 🛳️</summary>
   <br/>
 
   During this 6-week team effort you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
@@ -116,7 +116,7 @@ create it for you.
 ### Sprint 1 - Getting off to a Solid Start
 
 ---
-  #### 1. Meet your team & schedule kickoff meeting
+  #### 1. Meet your team & schedule kickoff meeting 📅
   
   **Objective**
   
@@ -145,7 +145,7 @@ create it for you.
   [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
     
   ---
-  #### 2. Conduct kickoff meeting
+  #### 2. Conduct kickoff meeting 🫱🏼‍🫲🏽
     
   **Objective**
   
@@ -165,7 +165,7 @@ create it for you.
   `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
   ---
-  #### 3. Choose a project & create a Vision Statement
+  #### 3. Choose a project & create a Vision Statement 👓
 
   ** This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project and the link to its requirements and specification will be posted in your team channel.
   
@@ -198,7 +198,7 @@ create it for you.
   [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
     
   ---
-  #### 4. Define & prioritize MVP features
+  #### 4. Define & prioritize MVP features 🔢
     
   **Objective**
   
@@ -224,7 +224,7 @@ create it for you.
 
   ---
   
-  #### 5. Setup Project Backlog
+  #### 5. Setup Project Backlog 📋
       
   **Objective**
   
@@ -258,7 +258,7 @@ create it for you.
   [Install ZenHub browser extension](https://tinyurl.com/yfpcf7ke)
       
   ---
-  #### 6. Create a low-fidelity wireframe
+  #### 6. Create a low-fidelity wireframe 🖼️
       
   **Objective**
   
@@ -279,7 +279,7 @@ create it for you.
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
       
   ---
-  #### 7. Setup your team workflow
+  #### 7. Setup your team workflow 🌊
       
   **Objective**
   
@@ -312,7 +312,7 @@ create it for you.
   
   [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)
     
-### Sprint 3-5 - Reaching your MVP
+### Sprint 3-5 - Reaching your MVP 🪜
 
 ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
   
@@ -362,7 +362,7 @@ create it for you.
   
   ^  These are read only templates.
     
-### Sprint 6 - Project Closure
+### Sprint 6 - Project Closure 🏁
   
   **Objective**
   
@@ -393,10 +393,10 @@ create it for you.
 
 ## Voyage Tips
 
-### Tips for all teammates
+### Tips for all teammates ✏️
 
 <details>
-  <summary>How do I make a voice channel for my team?</summary>
+  <summary>How do I make a voice channel for my team❓</summary>
   <br/>
   
   To create a temporary voice channel for your team, simply navigate to the Voice Channel HUB category and click on the channel named “Hub - Join to create”. This will create a voice channel in your name, and move you to that channel. Once everyone leaves the channel, the channel will be removed immediately.  
@@ -409,13 +409,13 @@ create it for you.
 
   **Please respect everyone's privacy, so don't join voice channels that someone on your team hasn't made. Trolling, harassing, and other forms of disruptive behavior will not be tolerated.** 
 
-  Why did you remove the private team channels that we had before?
+  Why did you remove the private team channels that we had before❓
 
   Because Discord allows for a limited amount of channels on a server, so by having temporary voice channels, it reduces the number of active channels and gives us more space.
 </details>
 
 <details>
-  <summary>What should I do if I don't have access to my team repo?</summary>
+  <summary>What should I do if I don't have access to my team repo❓</summary>
   <br/>
 
   Before a Voyage starts we create a GitHub repo in the `chingu-voyages` 
@@ -438,7 +438,7 @@ create it for you.
 </details>
 
 <details>
-  <summary>How can I “pin” messages to my Team Channel?</summary>
+  <summary>How can I “pin” messages to my Team Channel❓</summary>
   <br/>
 
   Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
@@ -447,7 +447,21 @@ create it for you.
 </details>
 
 <details>
-  <summary>My team doesn't have a Product Owner. What should we do?</summary>
+  <summary>Which team role is the most important one❓</summary>
+  <br/>
+
+  No one team role is more important than the other! Different roles are
+  needed because software projects are complex and they will only become more
+  complex over time.
+
+  Evey member of the team brings different experiences and skills that to 
+  contribute to the project. Every teammate is also a **_subject matter
+  expert (SME)_** in their respective role and should be respected for what
+  they bring to the team.
+</details>
+
+<details>
+  <summary>My team doesn't have a Product Owner. What should we do❓</summary>
   <br/>
 
   In a Voyage we will add a Product Owner to as many teams as we can.
@@ -475,10 +489,35 @@ create it for you.
   another and you will either succeed together or fail together. Teamwork is
   critical to success.
 
-
 </details>
 
-### Tips for Product Owners
+### Tips for Product Owners ✏️
+
+<details>
+  <summary>Do I need to be able to develop code like the rest of the team?</summary>
+  <br/>
+
+  **Absolutely not!!!** 😾 It's certainly fine if you come to the Product Owner
+  role with software development experience, but *_it's not required_*.
+
+  As a Product Owner your job is to help your team coordinate their efforts
+  to design, build, test, and deploy your MVP. Keep in mind that everyone on
+  the team is an *_subject matter expert_* in their role. So, the key to
+  working in a team is to trust your teammates and to treat them as partners.
+
+  When you get in a situations where you feel overwhelmed by complexity,
+  technology, and/or terminology reach out to your team for help. You may
+  think this is a sign of weakness, but it's actually a sign of strength and
+  maturity since it shows you trust your team and you are helping to build
+  their confidence and experience.
+
+  Finally, remember that none of us knows it all and if we ever should learn
+  it all it's just going to change 😊 Relying on your teammates (and them 
+  relying on you) will reduce stress, conflict, and will help to speed up
+  everyone's learning.
+</details>
+
+### Tips for UI/UX Designers ✏️
 
 <details>
   <summary>Stay tuned!</summary>
@@ -487,7 +526,7 @@ create it for you.
   Stay tuned for new content we'll be adding here soon.
 </details>
 
-### Tips for UI/UX Designers
+### Tips for Web Developers ✏️
 
 <details>
   <summary>Stay tuned!</summary>
@@ -496,16 +535,7 @@ create it for you.
   Stay tuned for new content we'll be adding here soon.
 </details>
 
-### Tips for Web Developers
-
-<details>
-  <summary>Stay tuned!</summary>
-  <br/>
-
-  Stay tuned for new content we'll be adding here soon.
-</details>
-
-### Tips for Data Scientists
+### Tips for Data Scientists ✏️
 
 <details>
   <summary>Stay tuned!</summary>

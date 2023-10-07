@@ -21,7 +21,7 @@ graph LR
     C --> E[Facilitator\ngives feedback]
     E --> F((Signup for\na Voyage))
 ```
-### 1. Choose your Tier
+### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
 
 You'll first need to choose a *_tier_* that matches your 
 current skill level. There are three tiers and you should select the one that 
@@ -61,7 +61,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 </details>
 
-### 2. If you already have a project that matches your tier 
+### 2. If you already have a project that matches your tier 👍
 
 If you already have a project that matches the requirements of the tier you've
 chosen then go ahead and submit it for evaluation. Your project can be one 
@@ -122,7 +122,7 @@ One of our Facilitators will evaluate your Solo Project and will DM you in
 Discord with feedback you can use! They will look at both your code as well 
 as the running app so you'll get 360-degree feedback.
 
-### 4. Submit a Solo Project Completion Form
+### 4. Submit a Solo Project Completion Form ✅
     
 When you've completed your Solo Project you will need to submit the **[Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9)** before you can move on to the Voyage Project.
 
@@ -138,11 +138,11 @@ feedback. If any rework is requested you can open a support ticket
 [here](https://discord.com/channels/330284646283608064/1105911757177888908)
 when you are ready for your project to be retested.
     
-## Solo Project Requirements & Specifications
+## Solo Project Requirements & Specifications 🧬
     
 If you don't already have a project to submit you can create one from the following list. Simply pick a Solo Project that matches the tier you've chosen and click on the 'X' to see a detailed description, and what is required to complete it.
     
-## Solo Project Prerequisites
+## Solo Project Prerequisites ✍️
     
 - Your project should match the requirements of the 
 [tier you have chosen](#1-choose-your-tier)
@@ -152,7 +152,7 @@ If you don't already have a project to submit you can create one from the follow
 
 Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
     
-## Solo Project Tips
+## Solo Project Tips ✏️
     
 1. It is more important to complete the project than it is to add features since completion is required before you can advance to the Voyage Project.
 2. Concentrate on completing the required tasks for your tier and then work on bonus tasks only if time permits. Keep in mind that advancing to the Voyage phase of the Cohort depends on the completion of the required tasks listed in the project repo we've provided.
