@@ -16,7 +16,6 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
   timeline
-    Aug : Voyage 45
     Oct : Voyage 46
     Jan 2024 : Voyage 47
     Mar 2024 : Voyage 48
@@ -49,7 +48,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   | Developer | Developers are focused on designing, writing code, testing what has been developed, and deploying it to the Internet. |
   | UI/UX Designer | UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. |
   | Product Owner | Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation since Chingu teams have a flat, rather than a hierarchical structure. |
-  | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to help provide help and advice to Voyage teams. <ul><li>Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li><li>Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.</li><li>Team members should research questions they have BEFORE asking their Voyage Guide.</li></ul>|
+  | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to provide help and advice to Voyage teams. <ul><li>Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li><li>Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.</li><li>Team members should research questions they have BEFORE asking their Voyage Guide.</li></ul>|
   | Data Scientist | Data Scientists help the team to add value to the project by using advanced data analysis and/or ML to create dashboards and data visualizations based on data captured by the application. |
 </details>
 
@@ -57,7 +56,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   <summary>Brush up on your “Soft Skills” 🖌️</summary>
   <br/>
 
-  - [ ] If this is your first Voyage **complete a [Solo Project](../soloproject/soloproject.md)**
+  - [ ] If this is your first Voyage, **complete a [Solo Project](../soloproject/soloproject.md)**
   - [ ] Read **[How to be a Great Teammate](../../resources/projresources/greatteammate.md)** (5 minutes)
   - [ ] Read **[Soft Skills 101](../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** (5 minutes)
 </details>
@@ -82,13 +81,13 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   <summary>What Level of Commitment is Required for a Voyage? 🛳️</summary>
   <br/>
 
-  During this 6-week team effort you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
+  During this 6-week team effort, you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
   
-  But, while Chingu doesn't charge for organizing & managing Voyages it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
+  While Chingu doesn't charge for organizing & managing Voyages, it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
   
   - Be an active participant rather than a passive observer.
-  - Set aside an average of 6-8 hours per week for your Voyage
-  - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well
+  - Set aside an average of 6-8 hours per week for your Voyage.
+  - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well.
   
   We know you can do this and you'll find the impact on your career will be worth the effort.
 </details>
@@ -97,21 +96,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ![How it Works](./assets/Voyage_Project_How_it_Works.png)
 
-When your Voyage starts you will see that we have provided your team with your 
-own team channel in Discord. You should use this to communicate and collaborate
-with one another on your project. Access to this channel is restricted to your
-team so it's the best place for open, frank, and respectful communication with
-your teammates. **_Your team must not create your own Discord server, 
-Slack channel, etc. to communicate in with each other about your project._**
+When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
 
 You will also be provided with a GitHub repo in the `chingu-voyages` 
 organization for your project code. Everyone on your team will have `admin`
-access on this repo so you'll be able to adjust settings. But, **_you must
+access to this repo so you'll be able to adjust settings. But, **_you must
 leave this as a public repo and you must not rename the repo we've created or
 create your own repo_**.
 
-If you need another repo [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to 
-create it for you. 
+If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to create it for you. 
 
 ### Sprint 1 - Getting off to a Solid Start
 
@@ -120,7 +113,7 @@ create it for you.
   
   **Objective**
   
-  Teamwork is the foundation of any project and learning how to work effectively on a team is every bit as important as your technical knowledge. This is a skill that is valued by employers, so increasing your team skills is one way to set yourself above other job applicants.
+  Teamwork is the foundation of any project and learning how to work effectively in a team is every bit as important as your technical knowledge. This is a skill that is valued by employers, so increasing your team skills is one way to set yourself above other job applicants.
   
   Your project’s success depends on how effective your team is at working together. In fact, this is more important than how much code you create or how fast you deploy it.
   
@@ -137,13 +130,14 @@ create it for you.
   
   [How to Select a Project video](https://youtu.be/5Xv0C5VAKZc)
   
-  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These will be copied to the `docs` subdirectory in your team’s repo 
-  when the Voyage starts) ^
+  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   [When2Meet](https://when2meet.com/)
   
   [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
-    
+  
+  ^ These are read only templates.
+
   ---
   #### 2. Conduct kickoff meeting 🫱🏼‍🫲🏽
     
@@ -155,14 +149,15 @@ create it for you.
   
   - The first person to arrive in the Team Channel on the first day of the Voyage should create a [When2Meet](https://www.when2meet.com/) event and post its URL in the channel. This will let everyone update it with their availability for the week so a Kickoff meeting can be scheduled.
   - Try to find a time as early as possible in Sprint 1 for your Kickoff meeting. Six weeks sounds like a long time, but it’s quite short and every day you delay in getting started counts!
-  - Use the Voyage Kickoff meeting agenda template we’ve provided to guide you and as a place to record notes from the meeting. At the start of the Voyage a Google Drive directory for your team will be created, populated with document templates, and shared with the team.
+  - Use the Voyage Kickoff meeting agenda template we’ve provided to guide you and as a place to record notes from the meeting. At the start of the Voyage, all document templates will be copied to the `docs` subdirectory in your team's repo.
 
   - **Pro Tip!** You can use the audio/visual channel that’s been set up for your team for meetings. This channel supports not only audio & video in real time, but also screen sharing.
       
   **Resources**
   
-  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
-  `docs` subdirectory in your team’s repo when the Voyage starts) ^
+  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+
+  ^ These are read only templates.
     
   ---
   #### 3. Choose a project & create a Vision Statement 👓
@@ -175,7 +170,7 @@ create it for you.
   
   **How**
   
-  Exchange ideas and / or share screenshots and URLs of similar potential projects. Look at the referenced below to get ideas or create a project you and the team are passionate about.
+  Exchange ideas and / or share screenshots and URLs of similar potential projects. Look at the references below to get ideas or create a project you and the team are passionate about.
   
   - Collect ideas from the team
   - Brainstorm with your team
@@ -188,7 +183,7 @@ create it for you.
   
   [How to Select a Voyage Project video](https://youtu.be/5Xv0C5VAKZc)
   
-  [Voyage Project Showcase article](https://medium.com/chingu/chingu-fall-project-showcase-c6bf0f8210ab) (2020)
+  [Voyage Project Showcase article (2020)](https://medium.com/chingu/chingu-fall-project-showcase-c6bf0f8210ab)
 
   [Voyage Project Showcase article (2021)](https://dev.to/chingu/build-collaborate-learn-remote-developer-projects-showcase-3bad)
   
@@ -196,6 +191,8 @@ create it for you.
   `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+
+  ^ These are read only templates.
     
   ---
   #### 4. Define & prioritize MVP features 🔢
@@ -212,14 +209,14 @@ create it for you.
   
   Once you’ve agreed on the features and their priorities you can add them to the Project Backlog.
   
-  *Must Have*
-  
-  features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*s.
+  *Must Have* features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*s.
   
   **Resources**
   
   [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
-    
+  
+  ^ These are read only templates.
+
 ### Sprint 2 - Getting off to a Solid Start
 
   ---
@@ -240,10 +237,10 @@ create it for you.
   - [ ]  Identify & prioritize features
   - [ ]  Create an epic for each feature
   - [ ]  Choose the highest priority epics & divide them into user stories
-  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
+  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages, teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
   - [ ]  Prioritize the user stories
   
-  During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process helps you and your team concentrate only on the tasks that must be completed in that Sprint.
+  During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process which helps you and your team concentrate only on the tasks that must be completed in that Sprint.
   
   **Resources**
   
@@ -262,7 +259,7 @@ create it for you.
       
   **Objective**
   
-  Establish a common understanding across the team of what information is in each screen and the actions that may be invoked from each screen.
+  Establish a common understanding across the team of what information is on each screen and the actions that may be invoked from each screen.
 
   > If you are creating your Voyage project based on specifications provided by
   Chingu you don't need to wait until Sprint 2 to start this task. Instead, 
@@ -271,7 +268,7 @@ create it for you.
   **How**
   
   - [ ]  Using the features you added to the Feature Planning template in step 4 identify the screens you’ll need and the information on each one.
-  - [ ]  Map the actions users will be able to perform from each screen and the navigation from screen-to-screen
+  - [ ]  Map the actions users will be able to perform from each screen and the navigation from screen-to-screen.
   - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/) or even pencil and paper.
   
   **Resources**
@@ -290,10 +287,7 @@ create it for you.
   - [ ]  Decide on the coding standards the team must follow.
   - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the workflow everyone must follow.
   - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
-  - [ ]  Decide on where you’ll deploy your app and the branch to be considered 
-  as ‘production’ you’ll be deploying from. We strongly recommend you deploy 
-  your `development` branch to the same Web host as your `main` branch so you 
-  have a place to perform integration testing that's in an environment that is 
+  - [ ]  Decide on where you’ll deploy your app and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is 
   similar to your production environment. You should also deploy your app 
   changes to your `main` branch and test them in the Web host it is deployed 
   to in each sprint.
@@ -322,8 +316,8 @@ create it for you.
   
   **How**
     
-  - *Sprint Planning* - Meet at the start of the sprint to select the highest 
-  priority tasks the team can realistically complete in this sprint
+  - *Sprint Planning* - Meet at the start of each sprint to select the highest 
+  priority tasks the team can realistically complete in the sprint
   - *Post Daily Status* - Communicating & collaborating with your team is the 
   most important factor to success. Post answers to these questions every day:
       - What tasks have I completed?
@@ -332,11 +326,11 @@ create it for you.
   - *PR & Deploy* - As team members complete tasks they should create PRs for 
   review and deploy the app.  
   - *Sprint Review & Retrospective*
-      - At the end of the sprint review how the team worked together & the processes you used. Make modifications as necessary to improve what didn’t work well and reinforce what did work well.
+      - Meet at the end of each sprint to review how the team worked together & the processes you used. Make modifications as necessary to improve what didn’t work well and reinforce what did work well.
   
   Many teams have found the following meeting schedule helpful:
   
-  - As early in the Sprint as possible, ideally every Monday or Tuesday, schedule a combined Sprint Review & Retrospective + Sprint Planning meeting
+  - Schedule a meeting at the beginning of each sprint, ideally on Mondays or Tuesdays. This will be a combined session for the Sprint Review & Retrospective and the Sprint Planning meeting.
   - Schedule a second meeting on Wednesday or Thursday to address any changes to the Sprint plan. These changes could be the result of problems, bugs, differences of opinion, or the fact that you’ve completed all the tasks for this Sprint and need to select ones to work on next.
   - ***Pro Tip!*** Schedule your meetings to repeat on the same day and time in each Sprint so you only have to spend time scheduling them once.
   - Post your status daily in your Team Channel and use the audio/video channel we’ve created for your team for team meetings, ad hoc discussions, and pair programming.
@@ -347,20 +341,17 @@ create it for you.
   
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)
   
-  [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
-  `docs` subdirectory in your team’s repo when the Voyage starts) ^
+  [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   [When2Meet website](https://when2meet.com/)
   
   [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
   
-  [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the 
-  Voyage starts) ^
+  [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
-  [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
-  `docs` subdirectory in your team’s repo when the Voyage starts) ^
+  [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
-  ^  These are read only templates.
+  ^ These are read only templates.
     
 ### Sprint 6 - Project Closure 🏁
   
@@ -418,23 +409,15 @@ create it for you.
   <summary>What should I do if I don't have access to my team repo❓</summary>
   <br/>
 
-  Before a Voyage starts we create a GitHub repo in the `chingu-voyages` 
-  GitHub organization for every team. We also grant every teammate the `Admin` 
-  privilege on it. 
+  Before a Voyage starts, we create a GitHub repo in the `chingu-voyages` GitHub organization for every team. We also grant every teammate the `Admin` privilege on it.
 
-  If this your first Voyage GitHub will send an email notification as part of
-  this process. **_You must click the link_** in that email to validate your
-  identity and get access to your team repo.
-
-  If you don't receive this email please check the *_junk_* or *_spam_* folder
-  in your email application. If it's not there you go to the 
-  [`chingu-voyages`](https://github.com/chingu-voyages) organization in GitHub 
-  and click on the `View invitation` button. From there you can validate your 
-  identity.
+  If this is your first Voyage, GitHub will send an email notification as part of this process. **_You must click the link_** in that email to validate your identity and get access to your team repo.
+  
+  If you haven't received this email, please check the *_junk_* or *_spam_* folder in your email application. If it's not there, you can go to the 
+  [`chingu-voyages`](https://github.com/chingu-voyages) organization in GitHub and click on the `View invitation` button. From there you can validate your identity.
 
   If you have questions or need help you can ask other Chingu's for advice in
-  the [`#coding-help` channel](https://discord.com/channels/330284646283608064/1047615334703714394) or you may open a ticket to the Chingu Admin team in the
-  [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
+  the [`#coding-help` channel](https://discord.com/channels/330284646283608064/1047615334703714394) or you may open a ticket to the Chingu Admin team in the [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
 </details>
 
 <details>
@@ -443,7 +426,7 @@ create it for you.
 
   Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
   
-  Discord does require that to pin a message you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
+  Discord does require that to pin a message, you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
 </details>
 
 <details>
@@ -464,28 +447,23 @@ create it for you.
   <summary>My team doesn't have a Product Owner. What should we do❓</summary>
   <br/>
 
-  In a Voyage we will add a Product Owner to as many teams as we can.
+  In a Voyage, we will add a Product Owner to as many teams as we can.
   Unfortunately, this depends on *_how many Product Owner's sign up._*
 
-  If your team doesn't have a Product Owner don't worry! Follow the steps that 
-  are defined in this Voyage Guide to help you determine what needs to be done,
-  in what order, and how to execute each step.
+  If your team doesn't have a Product Owner, don't worry! Follow the steps that are defined in this Voyage Guide to help you determine what needs to be done, in what order, and how to execute each step.
 
   In past Voyages teams without a Product Owner have used one of these
   strategies:
 
   1. Someone on your team can volunteer to be the Product Owner. This works
-  best if someone on the team has previous experience working on a team with a
-  PO or if they are familiar with Scrum and the Agile Methodology.
+  best if someone on the team has previous experience working on a team with a PO or if they are familiar with Scrum and the Agile Methodology.
 
   2. Team members can rotate the PO responsibilities in each Sprint. This
   ensures that everyone gets a chance to learn more about this role.
 
-  3. Team members can agree to share the PO responsibilities with one another.
-  This is the the least desirable options since a shared responsibility often
-  means it's not done.
+  3. Team members can agree to share the PO responsibilities with one another. This is the least desirable option, since shared responsibility often means it's not done.
 
-  Whichever option you choose remember that teammates should support one
+  Whichever option you choose, remember that teammates should support one
   another and you will either succeed together or fail together. Teamwork is
   critical to success.
 
