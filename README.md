@@ -6,12 +6,12 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
-## What is Chingu?
+## What is Chingu❓ 
 
 We're excited that you've chosen to join us and we know you have lots of
 questions. So let's get started! 🎬
 
-### Chingu Means Friend
+### Chingu Means Friend 🫱🏻‍🫲🏼
 
 It's important to know that "Chingu" means "friend" in Korean. This isn't just a
 catchy name; it perfectly describes what we want this organization to be for our
@@ -21,7 +21,7 @@ We want to be that friend that supports your goal to advance in your Web
 Development career. But, we also want every Chingu here to be just as
 supportive.
 
-### Who is Chingu for?
+### Who is Chingu for? 🤔
 
 Chingu is intended to help a variety of different Web Development professionals
 further their careers by building near real-world experience. The kind of
@@ -30,9 +30,9 @@ experience to help you stand above other job applicants to get noticed.
 Our programs and services are geared to help Web Developers, UI/UX Designers,
 Data Scientists, and Agile Product Owners & Scrum Masters.
 
-## Directory of Information
+## Directory of Information ℹ️
 
-### Getting Started
+### Getting Started 🏎️
 
 ---
 
@@ -41,7 +41,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Getting Help](./docs/gettingstarted/gettinghelp.md)
 - [What to Do First](./docs/gettingstarted/whattodofirst.md)
 
-### Guides
+### Guides 📒
 
 ---
 
@@ -51,7 +51,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
 - [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md)
 
-### Helpful Information
+### Helpful Information 📒
 
 ---
 
@@ -63,7 +63,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 | [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md)        | [Glossary](./docs/resources/glossary/glossary.md)                       |
 | [Agile Methodology 101](./docs/resources/projresources/agile101.md)                  |                                                                         |
 
-## Tips
+## Tips 💁🏽
 
 1. Did you know you can open a table of contents on any page of the Handbook?
    ![open a table of contents](./assets/How_to_open_TOC.gif)
