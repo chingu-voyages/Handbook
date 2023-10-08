@@ -1,5 +1,7 @@
 # Glossary
 
+![Developer using glossary](./assets/WebDeveloper_using_glossary.jpeg)
+
 <details>
   <summary>A/B Testing</summary>
   <br/>
