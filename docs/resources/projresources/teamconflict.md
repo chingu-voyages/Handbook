@@ -1,5 +1,7 @@
 # How to Handle Team Conflict
 
+![Team conflict](./assets/Team_conflict.jpeg)
+
 Imported from Chance's article ["4 Tips for when you feel your team is in the YELLOW OR RED status"](https://medium.com/chingu/4-tips-for-when-you-feel-your-team-is-in-the-yellow-or-red-status-9a93b79069d)
 
 *At Chingu, we classify team-health as either GREEN, YELLOW, or RED. This classification is mainly done through the Weekly Check-ins and Github repo activity (this comes in after Act 1 — Project Setup is completed).*

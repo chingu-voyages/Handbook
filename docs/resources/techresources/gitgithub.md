@@ -1,5 +1,7 @@
 # Git Workflow
 
+![Team git/GitHub workflow](./assets/Team_git_workflow.jpeg)
+
 ## Importance of Good Practices
 
 Your project's source code is its single most important artifact. The loss or 
