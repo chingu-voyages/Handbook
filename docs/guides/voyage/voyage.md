@@ -1,5 +1,7 @@
 # Voyage Guide
 
+![Team creating project backlog](./assets/Team_creating_agile_backlog_board.jpeg)
+
 ## What are Voyages❓
 
 Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by:
@@ -308,7 +310,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
     
 ### Sprint 3-5 - Reaching your MVP 🪜
 
-![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
+  ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
   
   **Objective**
   

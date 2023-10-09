@@ -1,5 +1,8 @@
 # Solo Project Guide
 
+![Team creating project backlog](./assets/SoloProject_coder.jpeg)
+
+
 ## Overview
 
 The goal of the Solo Project is to help you and the Chingu team verify that
