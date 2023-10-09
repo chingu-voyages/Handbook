@@ -1,6 +1,6 @@
 # Chingu Content Creators Guide
 
-![Developer writing an article](./assets/Developer_contributing_to_oss.jpeg)
+![Developer writing an article](./assets/Developer_writing_article.jpeg)
 
 
 ## Introduction
