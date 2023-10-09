@@ -1,6 +1,8 @@
 # Chingu Handbook
 
-![Chingu Logo](./assets/chingu_logo.png)
+<p align="center">
+  <img src="./assets/chingu_logo.png">
+</p>
 
 Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
