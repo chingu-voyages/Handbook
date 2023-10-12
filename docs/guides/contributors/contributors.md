@@ -1,6 +1,6 @@
 # Contributors Guide
 
-![Developer writing an article](./assets/Developer_contributing_to_oss.jpeg)
+![Developer writing an article](./assets/Developer_contributing_to_OSS.jpeg)
 
 ## Overview
 
