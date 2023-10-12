@@ -1,5 +1,7 @@
 # Traits of Highly Effective Teams
 
+![Well balanced team](./assets/Effective_team.jpeg)
+
 Teams don't just happen! It takes thought, planning, and work to build an effective team. Great teams share the following traits and as you start the Voyage Project your team should review these:
 
 **1. Team Identity**

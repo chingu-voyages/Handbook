@@ -1,5 +1,8 @@
 # Chingu Content Creators Guide
 
+![Developer writing an article](./assets/Developer_writing_article.jpeg)
+
+
 ## Introduction
 
 The Impostor Syndrome is something virtually all Developers struggle with. At its core, diagram (see [Developers: How to Overcome Impostor Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4)) below sums up this syndrome very accurately and concisely.

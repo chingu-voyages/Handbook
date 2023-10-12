@@ -1,5 +1,7 @@
 # Contributors Guide
 
+![Developer writing an article](./assets/Developer_contributing_to_OSS.jpeg)
+
 ## Overview
 
 We wholeheartedly encourage contributions and corrections to this Handbook. Your participation serves a dual purpose: it enhances the Handbook's quality while providing you with valuable experience in open-source practices, including collaborative Git and GitHub workflows, and the submission of changes through Pull Requests to our Admin Team for review.

@@ -1,5 +1,7 @@
 # How to be a Great Teammate
 
+![Teammates helping each other](./assets/Two_teammates_helping_each_other.jpeg)
+
 1. ***Show up when the teams are launched***
     
     The first week of a team project is absolutely crucial. You want to be communicating as much as possible and build momentum as soon as you can. The faster your team can get up and running, the higher the likelihood that the project will be completed.
