@@ -47,7 +47,7 @@ Remember that the focus of the user story is to classify who your users are, wha
 
 ## Backlog Grooming
 
-![Backlog Grooming](./assets/backlog-grooming.png)
+![Backlog Grooming](./assets/backlog_grooming.png)
 
 Once you have defined your initial backlog of tasks you can start your first sprint as previously described. With each team meeting and each sprint, you will be updating the backlog with new information that comes to light. 
 
