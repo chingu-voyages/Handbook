@@ -77,6 +77,9 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ] Study **[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)**
   - [ ] Study **[Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**
   - [ ] Study **[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)**
+  - [ ] View **[Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)**
+  - [ ] View **[Chingu Video: How to Undo a git commit](https://youtu.be/ZoIBdFuj8_M)**
+  - [ ] View **[Chingu Video: How to Delete git commits](https://youtu.be/Wjd8iEcCSM4)**
 </details>
 
 <details>
@@ -307,6 +310,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [Git Commits (Chingu Handbook)](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages)
   
   [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)
+
+  [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)
     
 ### Sprint 3-5 - Reaching your MVP 🪜
 
