@@ -116,3 +116,6 @@ release its contents into your Production runtime environment.
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Help](https://help.github.com/)
 - [tryGit](https://try.github.io/levels/1/challenges/1)
+- [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)
+- [Chingu Video: How to Undo a git commit](https://youtu.be/ZoIBdFuj8_M)
+- [Chingu Video: How to Delete git commits](https://youtu.be/Wjd8iEcCSM4)

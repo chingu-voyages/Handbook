@@ -1,5 +1,7 @@
 # Choosing your Techstack
 
+![Team choosing a technical stack](./assets/Team_choosing_techstack.jpeg)
+
 Products and languages in the tech stack are divided into four basic
 categories - frontend, backend, database, and DevOps. The components that make
 up web applications are also divided between two categories:
