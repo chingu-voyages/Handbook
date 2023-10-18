@@ -1,5 +1,7 @@
 # What to do First?
 
+![Web Developer getting started](./assets/WebDev_getting_started.jpeg)
+
 You've joined Chingu and have access to Discord. So what's should you do next?
 
 ```mermaid
