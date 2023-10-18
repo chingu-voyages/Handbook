@@ -1,5 +1,7 @@
 # Getting Help
 
+![Web Developers helping each other](./assets/Webdevs_helping_each_other.jpeg)
+
 At some point everyone needs help. Whether it's a technical issue or question, advice that you need, or unfamiliarity with a particular process or procedure the time will come when you'll need  assistance from another Chingu.
 
 We take great pride in helping one another be the best developers we can be. 
