@@ -48,12 +48,10 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 ```mermaid
 graph LR
     A([1.\nComplete your Solo Project]) --> B([2.\nJoin in Pair Programming (Opt.)])
-    B --> Weekly --> B
     B --> C([3.\nJoin a Voyage])
     C --> D([4.\nContribute to this Handbook (Opt.)])
     D --> E([5.\nShare what you've learned (Opt.)])
 ```
-
 ---
 
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
