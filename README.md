@@ -44,6 +44,8 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [What to Do First](./docs/gettingstarted/whattodofirst.md)
 
 ### Guides 📒
+
+---
 ```mermaid
 graph LR
     A["1.\nComplete your Solo Project\nPrior to 1st Voyage"] --> B["2.\nJoin in Pair Programming\nWeekly (opt.)"]
@@ -51,8 +53,6 @@ graph LR
     C --> D["4.\nContribute to this Handbook\nAdhoc (opt.)"]
     D --> E["5.\nShare what you've learned\nAdhoc (opt.)"]
 ```
----
-
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
 - [Voyage Guide](./docs/guides/voyage/voyage.md)
