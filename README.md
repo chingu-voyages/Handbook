@@ -45,6 +45,14 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ### Guides 📒
 
+```mermaid
+graph LR
+    A[1.\nComplete your Solo Project] --> B[2.\nJoin in Pair Programming]
+    B --> C[3.\nJoin a Voyage]
+    C --> D[4.\nContribute to this Handbook]
+    D --> E[5.\nShare what you've learned]
+```
+
 ---
 
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
