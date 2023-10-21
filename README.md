@@ -46,7 +46,13 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 ### Guides 📒
 
 ---
-
+```mermaid
+graph LR
+    A["Complete your Solo Project\nPrior to 1st Voyage"] --> B["Join a Voyage\nBi-monthly (optional)"]
+    A --> C["Join in Pair Programming\nWeekly (optional)"]
+    D["Contribute to this Handbook\nAdhoc (optional)"]
+    E["Share what you've learned\nAdhoc (optional)"]
+```
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
 - [Voyage Guide](./docs/guides/voyage/voyage.md)
