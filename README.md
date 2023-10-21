@@ -48,10 +48,10 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 ---
 ```mermaid
 graph LR
-    A["1.\nComplete your Solo Project\nPrior to 1st Voyage"] --> B["2.\nJoin in Pair Programming\nWeekly (opt.)"]
-    B --> C["3.\nJoin a Voyage\nBi-monthly (opt.)"]
-    C --> D["4.\nContribute to this Handbook\nAdhoc (opt.)"]
-    D --> E["5.\nShare what you've learned\nAdhoc (opt.)"]
+    A["1.\nComplete your Solo Project\nPrior to 1st Voyage"] --> B["2.\nJoin in Pair Programming\nWeekly (optional)"]
+    B --> C["3.\nJoin a Voyage\nBi-monthly (optional)"]
+    C --> D["4.\nContribute to this Handbook\nAdhoc (optional)"]
+    D --> E["5.\nShare what you've learned\nAdhoc (optional)"]
 ```
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
