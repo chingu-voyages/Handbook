@@ -22,4 +22,4 @@ an app like [Chingu Quiz](https://github.com/chingu-voyages/moonshot-chingu-qui
 
 Voyages, Pair Programming, and Moonshots are open to all Chingus. You can apply 
 to take part in these once you've [applied to join Chingu](https://chingu.io/) 
-and completed your [Solo Project](../guides/soloproject.md).
+and completed your [Solo Project](../guides/soloproject/soloproject.md).
