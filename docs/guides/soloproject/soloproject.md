@@ -108,9 +108,6 @@ provided specifications for.
 | Matching Game | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-matching-game) | - |
 | Bookfinder | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-bookfinder) | - |
 | Bookfinder (React Native) | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-bookfinder-rn) | - |
-<!--
-| Chingu Weather CLI | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chinguweather) | - |
--->
 | Journal App | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-journal-app) |
 | Mars Photos | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-mars-photos) |
 | Meteorite Explorer | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-meteorite-explorer) |
