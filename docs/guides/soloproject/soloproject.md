@@ -94,6 +94,8 @@ provided specifications for.
 
 <details>
 <summary>For Web Developers, UI/UX Designers, & Data Scientists</summary>
+<br>
+<b>Note: Some project requirements are outdated, we are in the process of updating them. You are still welcome to use the project ideas but the project will need to meet requirements listed above.</b>
 
 | Project Name | Tier 1 | Tier 2 | Tier 3 |
 | :--- | :--- | :--- | :--- | 
