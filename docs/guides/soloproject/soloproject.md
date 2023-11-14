@@ -94,6 +94,8 @@ provided specifications for.
 
 <details>
 <summary>For Web Developers, UI/UX Designers, & Data Scientists</summary>
+<br>
+<b>Note: Some project requirements are outdated, we are in the process of updating them. You are still welcome to use the project ideas but the project will need to meet requirements listed above.</b>
 
 | Project Name | Tier 1 | Tier 2 | Tier 3 |
 | :--- | :--- | :--- | :--- | 
@@ -106,7 +108,6 @@ provided specifications for.
 | Matching Game | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-matching-game) | - |
 | Bookfinder | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-bookfinder) | - |
 | Bookfinder (React Native) | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-bookfinder-rn) | - |
-| Chingu Weather CLI | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chinguweather) | - |
 | Journal App | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-journal-app) |
 | Mars Photos | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-mars-photos) |
 | Meteorite Explorer | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-meteorite-explorer) |
