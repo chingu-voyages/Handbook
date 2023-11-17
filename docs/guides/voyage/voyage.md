@@ -96,6 +96,29 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   
   We know you can do this and you'll find the impact on your career will be worth the effort.
 </details>
+
+<details>
+  <summary>How are Voyage teams formed? 🫱🏻‍🫲🏼</summary>
+  <br/>
+
+  You will be assigned to a team by the Chingu Admins based on the following criteria, from highest-to-lowest priority:
+
+  1. Tier
+
+     All participants in a team will be from the same tier. This is the tier you selected on the ]Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
+
+  2. Timezone
+
+     We try to match teams so no two teammates will be more than 2 timezones away from one another. This makes it easier to find times for meetings and pair programming sessions.
+
+  3. Chingu Superstars
+
+     We also try to match Chingu Superstars, those who have donated to Chingu, in the same teams. Although donations aren't required Chingu's who do contribute have a lower probability of dropping out of a Voyage.
+
+  4. Technical Stack preferences
+
+     We also try to match team members on their technical stack preferences. However, in the course of organizing Voyages over a period of years we've learned that communication & collaboration are better indicators of success. We'll reach out to you prior to the start of your Voyage if we aren't able to match you to a team with the same tech stack preferences as yours.
+</details>
        
 ## The Voyage Process
 
