@@ -105,7 +105,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
   1. Tier
 
-     All participants in a team will be from the same tier. This is the tier you selected on the ]Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
+     All participants in a team will be from the same tier. This is the tier you selected on the [Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
 
   2. Timezone
 
