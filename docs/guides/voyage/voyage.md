@@ -40,7 +40,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   <br/>
 
   1. **Voyages are free**, but you will need to pay to receive the Voyage Completion Certificate.
-  2. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at $2.99/month **_OR_** purchasing a Completion Certificate product as needed for $3.99.
+  2. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at $2.99/month **_OR_** purchasing a Voyage Completion Certificate product as needed for $3.99.
   3. You can sign up for Subscriptions or Products in our [Discord Server Shop](https://discord.com/channels/330284646283608064/shop).
   
   When you sign up for a monthly subscription you will get access to an exclusive _Superstars channel + your Voyage Completion Certificate_ at no additional charge. You may cancel this at any time. 
