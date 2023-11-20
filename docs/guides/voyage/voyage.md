@@ -18,19 +18,19 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
   timeline
-    Oct : Voyage 46
     Jan 2024 : Voyage 47
     Mar 2024 : Voyage 48
+    May 2024 : Voyage 49
 ```
     
-| Milestone | Voyage 46 | Voyage 47 | Voyage 48 |
+| Milestone | Voyage 47 | Voyage 48 | Voyage 49 |
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
-| Solo Project Deadline | September 26 | December 31, 2023 | February 25, 2024 |
-| Voyage Launch | October 2 | January 8, 2024 | March 4, 2024 |
+| Solo Project Deadline | December 31, 2023 | February 25, 2024 | April 28, 2024 |
+| Voyage Launch | January 8, 2024 | March 4, 2024 | May 6, 2024 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | November 12 | February 18, 2024 | April 14, 2024 |
-| Completion Certificates issued | November 19 | February 25, 2024 | April 21, 2024 |
+| Voyage ends & projects due | February 18, 2024 | April 14, 2024 | June 16, 2024 |
+| Completion Certificates issued | February 25, 2024 | April 21, 2024 | June 23, 2024 |
 | Voyage Showcase article published | TBD | TBD | TBD |
     
 ### How to Prepare for your Voyage 📝
