@@ -38,7 +38,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 | :--- | :--- |
 | Tier 1 - Frontend | Developers are just starting out in Web Development and have a basic understanding of: <br/><br/> - CSS <br/> - HTML <br/> - Any web development language like Javascript, PHP, Python, Ruby, etc.  <br/><br/>No frameworks or backend application servers are used in Tier 1 projects <br/><br/> Your Solo Project **_must implement_** an FE using vanilla HTML, CSS, and a scripting language like Javascript or Python.  |
 | Tier 2 - Frontend | Developers should have the following skills & expertise: <br/><br/> - Have a solid foundation using intermediate HTML, CSS, & Any web development language like Javascript, PHP, Python, Ruby, etc.<br/> - Have started learning CSS preprocessors like SASS, LESS, Stylus, or TailwindCSS<br/> - Understand the importance and practice of Responsive Web Design Basics<br/> - Understand the fundamentals of how to use an API to retrieve data from a backend system<br/> - Uses a FE framework like React, Vue, Angular, etc. <br/><br/> Your Solo Project **_must implement_** an FE which written using a framework such as React, Svelte, VueJS, Django, Laravel, etc. |
-| Tier 3 - Full Stack | Developers should have the following skills & expertise: <br/> - Intermediate or Advanced HTML/CSS/JavaScript/PHP/Python/Ruby/etc. and experience in a framework/library like React, Vue, Angular, etc.<br/> - Understand how to create and use API's with REST or GraphQL API<br/> - Understand how to create backend servers which implement an API of your own design using packages such as Express <br/> - Your Solo Project **_must implement_** an FE which accesses a BE server that implements an API of your own design. Optionally uses a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL|
+| Tier 3 - Full Stack | Developers should have the following skills & expertise: <br/> - Intermediate or Advanced HTML/CSS/JavaScript/PHP/Python/Ruby/etc. and experience in a framework/library like React, Vue, Angular, etc.<br/> - Understand how to create and use API's with REST or GraphQL API<br/> - Understand how to create backend servers which implement an API of your own design using packages such as Express <br/> - Your Solo Project **_must implement_** an FE which accesses a BE server that implements an API of your own design. Optionally uses a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL <br/> - Your backend must include CRUD (if using a database) or POST/READ/UPDATE/DELETE (for APIs)|
 
 </details>
 
@@ -61,6 +61,17 @@ intermediate (Tier 2), or experienced (Tier 3).
 | Tier 1 | PO's who have studied Agile and Scrum, but who haven't yet had the opportunity to put what they've learned into practice in a team. |
 | Tier 2 | PO's who have taken either Product Owner or Scrum Master training and who have applied what they've learned in a team. |
 | Tier 3 | PO's who have successfully been certified as either a Product Owner or a Scrum Master from any certification authority. |
+
+</details>
+
+<details>
+<summary>For Data Scientists</summary>
+
+| Tier   | Requirements |
+| :--- | :--- |
+| Tier 1 | Skills:<br/>* Basic understanding of programming (Python, Javascript, etc.)<br/>* Fundamental knowledge of statistics and mathematics<br/>* Ability to clean and preprocess data<br/>* Basic knowledge of data visualization<br/>* Familiarity with basic machine learning concepts<br/>* Understand basic Web Development processes such as git/GitHub, Agile project management, etc.<br/><br/> Tools:<br/>* Programming Languages: Python or Javascrip<br/>* Data Manipulation: Pandas (Python), Pandas.js or Data-Forge (Javascript)<br/>* Data Visualization: Matplotlib, Seaborn (Python), D3 (Javascript)<br/>* IDEs: Jupyter Notebook |
+| Tier 2 | Skills:<br/>* Programming for data analysis and manipulation<br/>* Understanding of statistical analysis and hypothesis testing<br/>* Knowledge of data engineering principles<br/>* Understanding of big data technologies and frameworks<br/><br/>Tools:<br/>* Statistical Analysis: NumPy, SciPy (Python), Math.js, NumJS (Javascript)<br/>* Database Query Languages: SQL<br/>* Advanced Visualization: Plotly, Tableau, D3, etc.<br/>* Cloud Platforms: AWS, Azure, Google Cloud Platform, etc. |
+| Tier 3 | Skills:<br/>* Understanding of advanced machine learning algorithms and their implementation<br/>* Ability to build and deploy complex models<br/>* Expertise in data engineering and architecture<br/>* Strong problem-solving and analytical skills<br/>* Experience with machine learning algorithms and model evaluation<br/><br/>Tools:<br/>* Machine Learning Libraries: Scikit-learn (Python), TensorFlow.js (Javascript)<br/>* Deep Learning Frameworks: TensorFlow, PyTorch, etc.<br/>* Model Deployment: Flask, Docker, Kubernetes |
 
 </details>
 
