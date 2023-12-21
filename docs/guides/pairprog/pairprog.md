@@ -40,7 +40,7 @@ This means you need to commit yourself to being responsive to your partner and p
 
 > We suggest using the conferencing and screensharing that's built into Discord, but you may use any collaboration tool you prefer.
 > 
-1. Select a challenge you can complete within one week. You should choose a problem you both have and interest in. Sources for ideas include:
+1. Select a challenge you can complete within one week. You should choose a problem you both have an interest in. Sources for ideas include:
     - Pick a feature in your favorite language, library, or framework!
     - [Florin Pop's App Ideas](https://github.com/florinpop17/app-ideas)
     - [CodeWars](https://codewars.com/)
