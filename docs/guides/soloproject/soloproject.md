@@ -45,11 +45,79 @@ intermediate (Tier 2), or experienced (Tier 3).
 <details>
 <summary>For UI/UX Designers</summary>
 
-| Tier   | Requirements |
-| :--- | :--- |
-| Tier 1 | Skills:<br/>* Basic Design Principles: Understanding of basic design concepts like color theory, typography, layout, and composition.<br/>* User Research: Basic knowledge of conducting user research, creating user personas, and understanding user needs.<br/>* Wireframing and Prototyping: Familiarity with tools to create simple wireframes and prototypes.<br/>* UI/UX Fundamentals: Entry-level understanding of user interface and user experience principles.<br/><br/>Tools:<br/>* Design Software: Familiarity with beginner-friendly design tools like Figma or Sketch.<br/>* Prototyping Tools: Basic usage of tools like InVision, Marvel, or Figma for creating simple prototypes.<br/>* User Research Tools: Basic understanding of tools like Google Forms, Typeform for conducting surveys or user interviews. |
-| Tier 2 | Skills:<br/>* Design Principles: Strong grasp of design principles, ability to create visually appealing and functional designs.<br/>* User-Centered Design: Familiarity with user personas, conducting in-depth user research, and applying insights to design decisions.<br/>* Information Architecture: Ability to structure information effectively for better user experiences.<br/>* Usability Testing: Understanding and conducting usability testing to gather feedback and iterate designs.<br/><br/>Tools:<br/>* Design Software: Familiarity using tools like Figma, Sketch, or similar tools for design tasks.<br/>* Prototyping and Animation Tools: Ability to create interactive prototypes using advanced features in tools like Figma, Principle, or Adobe After Effects. |
-| Tier 3 | Skills:<br/>* Design Skills: Understanding of design principles, visual aesthetics, and creativity in problem-solving.<br/>* User Research: Ability to conduct comprehensive user research, analyze data, and derive actionable insights.<br/>* Design System Creation: Familiarity in developing and maintaining design systems for consistency and scalability.<br/>* Leadership and Collaboration: Ability to lead design projects, collaborate with cross-functional teams, and communicate design rationale effectively.<br/><br/>Tools:<br/>* User Testing Tools: Familiarity with tools like UserTesting.com, Maze, or Lookback for conducting user testing and gathering insights.<br/>* Design Software: Mastery of tools like Figma, Sketch, or other industry-standard software.<br/>* Prototyping and Animation Tools: Use of prototyping tools like Framer, Principle, or advanced animation features in design software.<br/>* Collaboration Tools: Familiarity using team collaboration tools like Miro, Notion, or Trello for team coordination and project management. |
+<table>
+
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;1</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Basic Design Principles: Understanding of basic design concepts like color theory, typography, layout, and composition.</li>
+    <li>User Research: Basic knowledge of conducting user research, creating user personas, and understanding user needs.</li>
+    <li>Wireframing and Prototyping: Familiarity with tools to create simple wireframes and prototypes.</li>
+    <li>UI/UX Fundamentals: Entry-level understanding of user interface and user experience principles.</li>
+    <li>Basic Accessibility Principles: Awareness of challenges faced by those with vision, hearing, motor, cognitive, etc. differences.</li>
+</ul>
+
+<strong>Tools:</strong>
+
+<ul>
+    <li>Design Software: Entry-level proficiency with user interface design tools like Figma or Sketch. Skills include using frames, groups, shapes, text entry, and font, color, size, and effect configuration.</li>
+    <li>Prototyping Tools: Basic usage of tools like InVision, Marvel, or Figma to create simple prototypes.</li>
+    <li>User Research Tools: Basic understanding of tools such as Google Forms or Typeform which may be used for conducting surveys or user interviews.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;2</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Design Principles: Strong grasp of design principles, ability to create visually appealing and functional designs.</li>
+    <li>User-Centered Design: Familiarity with user personas, conducting in-depth user research, and applying insights to design decisions.</li>
+    <li>Information Architecture: Ability to structure information effectively for better user experiences.</li>
+    <li>Usability Testing: Understanding and conducting usability testing to gather feedback and iterate designs.</li>
+</ul>
+<strong>Tools:</strong>
+
+<ul>
+    <li>Design Software: Familiarity using tools like Figma, Sketch, or similar tools for design tasks.</li>
+    <li>Prototyping and Animation Tools: Ability to create interactive prototypes using advanced features in tools like Figma, Principle, or Adobe After Effects.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Design Skills: Understanding of design principles, visual aesthetics, and creativity in problem-solving.</li>
+    <li>User Research: Ability to conduct comprehensive user research, analyze data, and derive actionable insights.</li>
+    <li>Design System Creation: Familiarity in developing and maintaining design systems for consistency and scalability.</li>
+    <li>Leadership and Collaboration: Ability to lead design projects, collaborate with cross-functional teams, and communicate design rationale effectively.</li>
+</ul>
+
+<strong>Tools:</strong>
+
+<ul>
+    <li>User Testing Tools: Familiarity with tools like UserTesting.com, Maze, or Lookback for conducting user testing and gathering insights.</li>
+    <li>Design Software: Mastery of tools like Figma, Sketch, or other industry-standard software.</li>
+    <li>Prototyping and Animation Tools: Use of prototyping tools like Framer, Principle, or advanced animation features in design software.</li>
+    <li>Collaboration Tools: Familiarity with team collaboration tools like Miro, Notion, or Trello for team coordination and project management.</li>
+</ul>
+</td>
+</tr>
+</table>
 </details>
 
 <details>
@@ -57,9 +125,9 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 | Tier   | Requirements |
 | :--- | :--- |
-| Tier 1 | PO's who have studied Agile and Scrum, but who haven't yet had the opportunity to put what they've learned into practice in a team. |
-| Tier 2 | PO's who have taken either Product Owner or Scrum Master training and who have applied what they've learned in a team. |
-| Tier 3 | PO's who have successfully been certified as either a Product Owner or a Scrum Master from any certification authority. |
+| Tier&nbsp;1 | PO's who have studied Agile and Scrum, but who haven't yet had the opportunity to put what they've learned into practice in a team. |
+| Tier&nbsp;2 | PO's who have taken either Product Owner or Scrum Master training and who have applied what they've learned in a team. |
+| Tier&nbsp;3 | PO's who have successfully been certified as either a Product Owner or a Scrum Master from any certification authority. |
 
 </details>
 
