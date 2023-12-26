@@ -34,11 +34,85 @@ intermediate (Tier 2), or experienced (Tier 3).
 <details>
 <summary>For Developers</summary>
 
-| Tier | Requirements |
-| :--- | :--- |
-| Tier 1 - Frontend | Developers are just starting out in Web Development and have a basic understanding of: <br/><br/> - CSS <br/> - HTML <br/> - Any web development language like Javascript, PHP, Python, Ruby, etc.  <br/><br/>No frameworks or backend application servers are used in Tier 1 projects <br/><br/> Your Solo Project **_must implement_** an FE using vanilla HTML, CSS, and a scripting language like Javascript or Python.  |
-| Tier 2 - Frontend | Developers should have the following skills & expertise: <br/><br/> - Have a solid foundation using intermediate HTML, CSS, & Any web development language like Javascript, PHP, Python, Ruby, etc.<br/> - Have started learning CSS preprocessors like SASS, LESS, Stylus, or TailwindCSS<br/> - Understand the importance and practice of Responsive Web Design Basics<br/> - Understand the fundamentals of how to use an API to retrieve data from a backend system<br/> - Uses a FE framework like React, Vue, Angular, etc. <br/><br/> Your Solo Project **_must implement_** an FE which written using a framework such as React, Svelte, VueJS, Django, Laravel, etc. |
-| Tier 3 - Full Stack | Developers should have the following skills & expertise: <br/> - Intermediate or Advanced HTML/CSS/JavaScript/PHP/Python/Ruby/etc. and experience in a framework/library like React, Vue, Angular, etc.<br/> - Understand how to create and use API's with REST or GraphQL API<br/> - Understand how to create backend servers which implement an API of your own design using packages such as Express <br/> - Your Solo Project **_must implement_** an FE which accesses a BE server that implements an API of your own design. Optionally uses a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL <br/> - Your backend must include CRUD (if using a database) or POST/READ/UPDATE/DELETE (for APIs)|
+<table>
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+<tr>
+<td>Tier&nbsp;1</td>
+<td>
+<p>This tier is for developers who are just starting out in web development.</p>
+<strong>Skills:</strong>
+<ul>
+    <li>Basic understanding of HTML and CSS.</li>
+    <li>Familiarity with at least one programming language (Python, Javascript, PHP, Ruby, etc.)</li>
+</ul>
+<strong>Tools</strong>
+<ul>
+    <li>Code Editor: Familiarity with a code editor such as Visual Studio Code, Vim, Sublime Text, etc.</li>
+    <li>Git/GitHub: Basic understanding of how to use Git/GitHub. Familiarity with cloning repositories, committing changes, and pushing code.</li>
+    <li>Web Development Tools: Basic use of browser developer tools for debugging HTML and CSS.</li>
+    <li>Simple Deployment Tools: Familiarity with FTP clients or basic hosting services to deploy static web pages.</li>
+</ul>
+
+<p>Your Solo Project <strong><em>must implement</em></strong> a front-end web page using vanilla HTML, CSS, and a scripting language like Javascript or Python.</p>
+
+</td>
+</tr>
+<tr>
+<td>Tier&nbsp;2</td>
+<td>
+<p>This tier is for developers who have a solid foundation in web development.</p>
+<strong>Skills:</strong>
+<ul>
+    <li>Intermediate HTML and CSS.</li>
+    <li>Intermediate or advanced programming experience with JavaScript/PHP/Python/Ruby/etc.</li>
+    <li>Understanding of CSS preprocessors like SASS, LESS, Stylus, or TailwindCSS.</li>
+    <li>Understanding of Responsive Web Design basics.</li>
+    <li>Understanding of how to use an API to retrieve data from a backend system.</li>
+    <li>Experience with a front-end framework such as React, Vue, Angular, etc.</li>
+</ul>
+
+<strong>Tools</strong>
+<ul>
+    <li>Advanced Code Editor Usage: Proficient use of code editors with advanced features such as integrated terminals, version control systems, and debugging tools.</li>
+    <li>Git/GitHub: Familiarity with Git/GitHub concepts such as branching, merging, pull requests, and resolving conflicts.</li>
+    <li>Web Development Tools: Intermediate use of browser developer tools for debugging HTML, CSS, and Javascript.</li>
+    <li>Deployment Tools: Familiarity with deployment tools such as Netlify, Heroku, or similar services.</li>
+</ul>
+
+<p>Your Solo Project <strong><em>must implement</em></strong> an FE which written using a framework such as React, Svelte, VueJS, Django, Laravel, etc.</p>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+<td>
+<p>This tier is for developers with intermediate or advanced competency in web development technologies.</p>
+<strong>Skills:</strong>
+<ul>
+    <li>Intermediate or Advanced HTML and CSS</li>
+    <li>Intermediate or advanced programming experience with JavaScript/PHP/Python/Ruby/etc.</li>
+    <li>Experience in a framework/library like React, Vue, Angular, etc.</li>
+    <li>Understanding of how to create and use APIs with REST or GraphQL API.</li>
+    <li>Ability to create a backend server which implements an API of your own design using packages such as Express.</li>
+</ul>
+
+<strong>Tools:</strong>
+
+<ul>
+<li>Integrated Development Environment (IDE): Mastery of a full-fledged IDE like WebStorm or advanced usage of Visual Studio Code for full-stack development.</li>
+<li>API Development Tools: Advanced use of REST or GraphQL API tools, including API design and documentation tools like Swagger or Apollo.</li>
+<li>Database Management Tools: Familiarity with database tools and ORMs for interacting with SQL (like PostgreSQL, MySQL) or NoSQL databases (like MongoDB).</li>
+
+</ul>
+
+<p>Your Solo Project <strong><em>must implement</em></strong> a front-end application which accesses a back-end server that implements an API of your own design, optionally using a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL.</p>
+
+<p>Your backend must include CRUD (if using a database) or POST/READ/UPDATE/DELETE (for APIs).</p>
+</tr>
+</table>
 
 </details>
 
@@ -134,11 +208,78 @@ intermediate (Tier 2), or experienced (Tier 3).
 <details>
 <summary>For Data Scientists</summary>
 
-| Tier   | Requirements |
-| :--- | :--- |
-| Tier 1 | Skills:<br/>* Basic understanding of programming (Python, Javascript, etc.)<br/>* Fundamental knowledge of statistics and mathematics<br/>* Ability to clean and preprocess data<br/>* Basic knowledge of data visualization<br/>* Familiarity with basic machine learning concepts<br/>* Understand basic Web Development processes such as git/GitHub, Agile project management, etc.<br/><br/> Tools:<br/>* Programming Languages: Python or Javascrip<br/>* Data Manipulation: Pandas (Python), Pandas.js or Data-Forge (Javascript)<br/>* Data Visualization: Matplotlib, Seaborn (Python), D3 (Javascript)<br/>* IDEs: Jupyter Notebook |
-| Tier 2 | Skills:<br/>* Programming for data analysis and manipulation<br/>* Understanding of statistical analysis and hypothesis testing<br/>* Knowledge of data engineering principles<br/>* Understanding of big data technologies and frameworks<br/><br/>Tools:<br/>* Statistical Analysis: NumPy, SciPy (Python), Math.js, NumJS (Javascript)<br/>* Database Query Languages: SQL<br/>* Advanced Visualization: Plotly, Tableau, D3, etc.<br/>* Cloud Platforms: AWS, Azure, Google Cloud Platform, etc. |
-| Tier 3 | Skills:<br/>* Understanding of advanced machine learning algorithms and their implementation<br/>* Ability to build and deploy complex models<br/>* Expertise in data engineering and architecture<br/>* Strong problem-solving and analytical skills<br/>* Experience with machine learning algorithms and model evaluation<br/><br/>Tools:<br/>* Machine Learning Libraries: Scikit-learn (Python), TensorFlow.js (Javascript)<br/>* Deep Learning Frameworks: TensorFlow, PyTorch, etc.<br/>* Model Deployment: Flask, Docker, Kubernetes |
+<table>
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;1</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Basic understanding of programming (Python, Javascript, etc.)</li>
+    <li>Fundamental knowledge of statistics and mathematics</li>
+    <li>Ability to clean and preprocess data</li>
+    <li>Basic knowledge of data visualization</li>
+    <li>Familiarity with basic machine learning concepts</li>
+    <li>Understand basic Web Development processes such as git/GitHub, Agile project management, etc.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Programming Languages: Python or Javascrip</li>
+    <li>Data Manipulation: Pandas (Python), Pandas.js or Data-Forge (Javascript)</li>
+    <li>Data Visualization: Matplotlib, Seaborn (Python), D3 (Javascript)</li>
+    <li>IDEs: Jupyter Notebook</li>
+</ul>
+</td>
+
+</tr>
+<tr>
+<td>Tier&nbsp;2</td>
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Programming for data analysis and manipulation</li>
+    <li>Understanding of statistical analysis and hypothesis testing</li>
+    <li>Knowledge of data engineering principles</li>
+    <li>Understanding of big data technologies and frameworks</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Statistical Analysis: NumPy, SciPy (Python), Math.js, NumJS (Javascript)</li>
+    <li>Database Query Languages: SQL</li>
+    <li>Advanced Visualization: Plotly, Tableau, D3, etc.</li>
+    <li>Cloud Platforms: AWS, Azure, Google Cloud Platform, etc.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Understanding of advanced machine learning algorithms and their implementation</li>
+    <li>Ability to build and deploy complex models</li>
+    <li>Expertise in data engineering and architecture</li>
+    <li>Strong problem-solving and analytical skills</li>
+    <li>Experience with machine learning algorithms and model evaluation</li>   
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Machine Learning Libraries: Scikit-learn (Python), TensorFlow.js (Javascript)</li>
+    <li>Deep Learning Frameworks: TensorFlow, PyTorch, etc.</li>
+    <li>Model Deployment: Flask, Docker, Kubernetes</li>
+</ul>
+</td>
+</tr>
+</table>
 
 </details>
 
