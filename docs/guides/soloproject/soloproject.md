@@ -197,11 +197,72 @@ intermediate (Tier 2), or experienced (Tier 3).
 <details>
 <summary>For Product Owners</summary>
 
-| Tier   | Requirements |
-| :--- | :--- |
-| Tier&nbsp;1 | PO's who have studied Agile and Scrum, but who haven't yet had the opportunity to put what they've learned into practice in a team. |
-| Tier&nbsp;2 | PO's who have taken either Product Owner or Scrum Master training and who have applied what they've learned in a team. |
-| Tier&nbsp;3 | PO's who have successfully been certified as either a Product Owner or a Scrum Master from any certification authority. |
+<table>
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;1</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Understanding Agile Principles: Grasp the basics of the Agile Methodology and Scrum.</li>
+    <li>Communication: Ability to articulate ideas clearly and effectively.</li>
+    <li>User Story Writing: Crafting user stories that are simple, clear, and understandable.</li>
+    <li>Basic Product Management: Entry-level understanding of product development cycles.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Project Management Tools: Familiarity with tools like Trello, Asana, or Jira for basic task tracking.</li>
+    <li>Communication Tools: Proficiency in Slack, Discord, or similar platforms for team communication.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;2</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Refinement of Agile Principles: Deeper understanding and practical application of Agile methodologies.</li>
+    <li>Stakeholder Management: Ability to engage with stakeholders effectively.</li>
+    <li>Prioritization Techniques: Understanding various prioritization frameworks (MoSCoW, Value vs. Effort, etc.).</li>
+    <li>Analytics and Metrics: Basic understanding of key product metrics and how to measure them.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Project Management Tools: Further proficiency in tools like Jira, Miro, ClickUp, etc..</li>
+    <li>Prototyping Tools: Familiarity with tools like Figma, Sketch, etc. for basic prototyping.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Agile Expertise: Experience in implementing and adapting Agile methodologies.</li>
+    <li>Strategic Thinking: Ability to align product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
+    <li>Data-Driven Decision Making: Strong analytical skills to derive insights from data.</li>
+    <li>Leadership and Mentorship: Guiding and mentoring junior team members.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Analytics Tools: Familiarity with tools like Google Analytics, Mixpanel, Amplitude, etc. for in-depth data analysis.</li>
+    <li>Prototyping and Design Tools: Experience using tools like Figma, Sketch, etc. for detailed prototyping and design.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 </details>
 
