@@ -57,9 +57,9 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 | Tier   | Requirements |
 | :--- | :--- |
-| Tier 1 | PO's who have studied Agile and Scrum, but who haven't yet had the opportunity to put what they've learned into practice in a team. |
-| Tier 2 | PO's who have taken either Product Owner or Scrum Master training and who have applied what they've learned in a team. |
-| Tier 3 | PO's who have successfully been certified as either a Product Owner or a Scrum Master from any certification authority. |
+| Tier 1 | Skills:<br>* Understanding Agile Principles: grasp the basics of the Agile Methodology and Scrum.<br>* Communication: ability to articulate ideas clearly and effectively.<br>* User Story Writing: crafting user stories that are simple, clear, and understandable.<br>* Basic Product Management: entry-level understanding of product development cycles.<br/><br/>Tools:<br>* Project Management Tools: familiarity with tools like Trello, Asana, or Jira for basic task tracking.<br>* Communication Tools: proficiency in Slack, Discord, or similar platforms for team communication. |
+| Tier 2 | Skills:<br>* Refinement of Agile Principles: deeper understanding and practical application of Agile methodologies.<br>* Stakeholder Management: ability to engage with stakeholders effectively.<br>* Prioritization Techniques: understanding various prioritization frameworks (MoSCoW, Value vs. Effort, etc.).<br>* Analytics and Metrics: basic understanding of key product metrics and how to measure them.<br/><br/>Tools:<br>* Project Management Tools: further proficiency in tools like Jira, Miro, ClickUp, etc..<br>* Prototyping Tools: familiarity with tools like Figma, Sketch, etc. for basic prototyping. |
+| Tier 3 | Skills:<br>* Agile Expertise: experience in implementing and adapting Agile methodologies.<br>* Strategic Thinking: ability to align product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.<br>* Data-Driven Decision Making: strong analytical skills to derive insights from data.<br>* Leadership and Mentorship: guiding and mentoring junior team members.<br/><br/>Tools:<br>* Analytics Tools: familiarity with tools like Google Analytics, Mixpanel, Amplitude, etc. for in-depth data analysis.<br>* Prototyping and Design Tools: experience using tools like Figma, Sketch, etc. for detailed prototyping and design. |
 
 </details>
 
