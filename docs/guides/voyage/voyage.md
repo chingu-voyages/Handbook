@@ -78,8 +78,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   current general level of skill and expertise. Our tiers are:
 
   * **Tier 1** - Getting started in your role
-  * **Tier 2** - Intermediate in your role
-  * **Tier 3** - Experiences in your role
+  * **Tier 2** - Intermediate skill level in your role
+  * **Tier 3** - Experienced skill level in your role
 
   However, the specific requirements for each of these varies by role. You can
   find the definition of what's required to be in each tier based on your role
