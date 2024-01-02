@@ -558,6 +558,22 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   everyone's learning.
 </details>
 
+<details>
+<summary>How can you effectively manage your tasks and responsibilities without getting overwhelmed?</summary>
+<br/>
+  Firstly, to take care of others, you have to take care of yourself, so:
+  Start by effectively planning your time. Allocate specific times for each task, taking into account their urgency and importance. This will help you stay on track and avoid distractions.
+  Next, set clear priorities. Identify the most critical tasks that need your immediate attention and tackle them first. This will ensure that the most important work gets done.
+  Finally, mitigate distractions. Minimize interruptions and focus on the task at hand. This will allow you to work more efficiently and effectively, but don't forget to take some free time and enjoy yourself. You deserve it!
+</details>
+
+<details>
+  <summary>How can you improve your approach and identify areas for growth?</summary>
+<br/>
+  Treat your team as your friends! You will be working with them for 6 weeks and to be a succesfull PO, you will need to make some connections with the others and build trust, create a friendly and supportive environment where feedback is welcome and valued, this will foster a collaborative environment where everyone feels comfortable contributing and sharing ideas, leading to continuous improvement and better product outcomes.
+  Actively listen, document, and analyze feedback to identify recurring themes and areas for improvement. Prioritize and implement changes accordingly to enhance your PO performance and align with team needs.
+</details>
+
 ### Tips for UI/UX Designers ✏️
 
 <details>
