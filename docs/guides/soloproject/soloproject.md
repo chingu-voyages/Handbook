@@ -34,43 +34,313 @@ intermediate (Tier 2), or experienced (Tier 3).
 <details>
 <summary>For Developers</summary>
 
-| Tier | Requirements |
-| :--- | :--- |
-| Tier 1 - Frontend | Developers are just starting out in Web Development and have a basic understanding of: <br/><br/> - CSS <br/> - HTML <br/> - Any web development language like Javascript, PHP, Python, Ruby, etc.  <br/><br/>No frameworks or backend application servers are used in Tier 1 projects <br/><br/> Your Solo Project **_must implement_** an FE using vanilla HTML, CSS, and a scripting language like Javascript or Python.  |
-| Tier 2 - Frontend | Developers should have the following skills & expertise: <br/><br/> - Have a solid foundation using intermediate HTML, CSS, & Any web development language like Javascript, PHP, Python, Ruby, etc.<br/> - Have started learning CSS preprocessors like SASS, LESS, Stylus, or TailwindCSS<br/> - Understand the importance and practice of Responsive Web Design Basics<br/> - Understand the fundamentals of how to use an API to retrieve data from a backend system<br/> - Uses a FE framework like React, Vue, Angular, etc. <br/><br/> Your Solo Project **_must implement_** an FE which written using a framework such as React, Svelte, VueJS, Django, Laravel, etc. |
-| Tier 3 - Full Stack | Developers should have the following skills & expertise: <br/> - Intermediate or Advanced HTML/CSS/JavaScript/PHP/Python/Ruby/etc. and experience in a framework/library like React, Vue, Angular, etc.<br/> - Understand how to create and use API's with REST or GraphQL API<br/> - Understand how to create backend servers which implement an API of your own design using packages such as Express <br/> - Your Solo Project **_must implement_** an FE which accesses a BE server that implements an API of your own design. Optionally uses a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL <br/> - Your backend must include CRUD (if using a database) or POST/READ/UPDATE/DELETE (for APIs)|
+<table>
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+<tr>
+<td>Tier&nbsp;1</td>
+<td>
+<p>This tier is for developers who are just starting out in web development.</p>
+<strong>Skills:</strong>
+<ul>
+    <li>Basic understanding of HTML and CSS.</li>
+    <li>Familiarity with at least one programming language (Python, Javascript, PHP, Ruby, etc.)</li>
+</ul>
+<strong>Tools</strong>
+<ul>
+    <li>Code Editor: Familiarity with a code editor such as Visual Studio Code, Vim, Sublime Text, etc.</li>
+    <li>Git/GitHub: Basic understanding of how to use Git/GitHub. Familiarity with cloning repositories, committing changes, and pushing code.</li>
+    <li>Web Development Tools: Basic use of browser developer tools for debugging HTML and CSS.</li>
+    <li>Simple Deployment Tools: Familiarity with FTP clients or basic hosting services to deploy static web pages.</li>
+</ul>
+
+<p>Your Solo Project <strong><em>must implement</em></strong> a front-end web page using vanilla HTML, CSS, and a scripting language like Javascript or Python.</p>
+
+</td>
+</tr>
+<tr>
+<td>Tier&nbsp;2</td>
+<td>
+<p>This tier is for developers who have a solid foundation in web development.</p>
+<strong>Skills:</strong>
+<ul>
+    <li>Intermediate HTML and CSS.</li>
+    <li>Intermediate or advanced programming experience with JavaScript/PHP/Python/Ruby/etc.</li>
+    <li>Understanding of CSS preprocessors like SASS, LESS, Stylus, or TailwindCSS.</li>
+    <li>Understanding of Responsive Web Design basics.</li>
+    <li>Understanding of how to use an API to retrieve data from a backend system.</li>
+    <li>Experience with a front-end framework such as React, Vue, Angular, etc.</li>
+</ul>
+
+<strong>Tools</strong>
+<ul>
+    <li>Advanced Code Editor Usage: Proficient use of code editors with advanced features such as integrated terminals, version control systems, and debugging tools.</li>
+    <li>Git/GitHub: Familiarity with Git/GitHub concepts such as branching, merging, pull requests, and resolving conflicts.</li>
+    <li>Web Development Tools: Intermediate use of browser developer tools for debugging HTML, CSS, and Javascript.</li>
+    <li>Deployment Tools: Familiarity with deployment tools such as Netlify, Heroku, or similar services.</li>
+</ul>
+
+<p>Your Solo Project <strong><em>must implement</em></strong> an FE which written using a framework such as React, Svelte, VueJS, Django, Laravel, etc.</p>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+<td>
+<p>This tier is for developers with intermediate or advanced competency in web development technologies.</p>
+<strong>Skills:</strong>
+<ul>
+    <li>Intermediate or Advanced HTML and CSS</li>
+    <li>Intermediate or advanced programming experience with JavaScript/PHP/Python/Ruby/etc.</li>
+    <li>Experience in a framework/library like React, Vue, Angular, etc.</li>
+    <li>Understanding of how to create and use APIs with REST or GraphQL API.</li>
+    <li>Ability to create a backend server which implements an API of your own design using packages such as Express.</li>
+</ul>
+
+<strong>Tools:</strong>
+
+<ul>
+<li>Integrated Development Environment (IDE): Mastery of a full-fledged IDE like WebStorm or advanced usage of Visual Studio Code for full-stack development.</li>
+<li>API Development Tools: Advanced use of REST or GraphQL API tools, including API design and documentation tools like Swagger or Apollo.</li>
+<li>Database Management Tools: Familiarity with database tools and ORMs for interacting with SQL (like PostgreSQL, MySQL) or NoSQL databases (like MongoDB).</li>
+
+</ul>
+
+<p>Your Solo Project <strong><em>must implement</em></strong> a front-end application which accesses a back-end server that implements an API of your own design, optionally using a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL.</p>
+
+<p>Your backend must include CRUD (if using a database) or POST/READ/UPDATE/DELETE (for APIs).</p>
+</tr>
+</table>
 
 </details>
 
 <details>
 <summary>For UI/UX Designers</summary>
 
-| Tier   | Requirements |
-| :--- | :--- |
-| Tier 1 | Skills:<br/>* Basic Design Principles: Understanding of basic design concepts like color theory, typography, layout, and composition.<br/>* User Research: Basic knowledge of conducting user research, creating user personas, and understanding user needs.<br/>* Wireframing and Prototyping: Familiarity with tools to create simple wireframes and prototypes.<br/>* UI/UX Fundamentals: Entry-level understanding of user interface and user experience principles.<br/><br/>Tools:<br/>* Design Software: Familiarity with beginner-friendly design tools like Figma or Sketch.<br/>* Prototyping Tools: Basic usage of tools like InVision, Marvel, or Figma for creating simple prototypes.<br/>* User Research Tools: Basic understanding of tools like Google Forms, Typeform for conducting surveys or user interviews. |
-| Tier 2 | Skills:<br/>* Design Principles: Strong grasp of design principles, ability to create visually appealing and functional designs.<br/>* User-Centered Design: Familiarity with user personas, conducting in-depth user research, and applying insights to design decisions.<br/>* Information Architecture: Ability to structure information effectively for better user experiences.<br/>* Usability Testing: Understanding and conducting usability testing to gather feedback and iterate designs.<br/><br/>Tools:<br/>* Design Software: Familiarity using tools like Figma, Sketch, or similar tools for design tasks.<br/>* Prototyping and Animation Tools: Ability to create interactive prototypes using advanced features in tools like Figma, Principle, or Adobe After Effects. |
-| Tier 3 | Skills:<br/>* Design Skills: Understanding of design principles, visual aesthetics, and creativity in problem-solving.<br/>* User Research: Ability to conduct comprehensive user research, analyze data, and derive actionable insights.<br/>* Design System Creation: Familiarity in developing and maintaining design systems for consistency and scalability.<br/>* Leadership and Collaboration: Ability to lead design projects, collaborate with cross-functional teams, and communicate design rationale effectively.<br/><br/>Tools:<br/>* User Testing Tools: Familiarity with tools like UserTesting.com, Maze, or Lookback for conducting user testing and gathering insights.<br/>* Design Software: Mastery of tools like Figma, Sketch, or other industry-standard software.<br/>* Prototyping and Animation Tools: Use of prototyping tools like Framer, Principle, or advanced animation features in design software.<br/>* Collaboration Tools: Familiarity using team collaboration tools like Miro, Notion, or Trello for team coordination and project management. |
+<table>
+
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;1</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Basic Design Principles: Understanding of basic design concepts like color theory, typography, layout, and composition.</li>
+    <li>User Research: Basic knowledge of conducting user research, creating user personas, and understanding user needs.</li>
+    <li>Wireframing and Prototyping: Familiarity with tools to create simple wireframes and prototypes.</li>
+    <li>UI/UX Fundamentals: Entry-level understanding of user interface and user experience principles.</li>
+    <li>Basic Accessibility Principles: Awareness of challenges faced by those with vision, hearing, motor, cognitive, etc. differences.</li>
+</ul>
+
+<strong>Tools:</strong>
+
+<ul>
+    <li>Design Software: Entry-level proficiency with user interface design tools like Figma or Sketch. Skills include using frames, groups, shapes, text entry, and font, color, size, and effect configuration.</li>
+    <li>Prototyping Tools: Basic usage of tools like InVision, Marvel, or Figma to create simple prototypes.</li>
+    <li>User Research Tools: Basic understanding of tools such as Google Forms or Typeform which may be used for conducting surveys or user interviews.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;2</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Design Principles: Strong grasp of design principles, ability to create visually appealing and functional designs.</li>
+    <li>User-Centered Design: Familiarity with user personas, conducting in-depth user research, and applying insights to design decisions.</li>
+    <li>Information Architecture: Ability to structure information effectively for better user experiences.</li>
+    <li>Usability Testing: Understanding and conducting usability testing to gather feedback and iterate designs.</li>
+</ul>
+<strong>Tools:</strong>
+
+<ul>
+    <li>Design Software: Familiarity using tools like Figma, Sketch, or similar tools for design tasks.</li>
+    <li>Prototyping and Animation Tools: Ability to create interactive prototypes using advanced features in tools like Figma, Principle, or Adobe After Effects.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Design Skills: Understanding of design principles, visual aesthetics, and creativity in problem-solving.</li>
+    <li>User Research: Ability to conduct comprehensive user research, analyze data, and derive actionable insights.</li>
+    <li>Design System Creation: Familiarity in developing and maintaining design systems for consistency and scalability.</li>
+    <li>Leadership and Collaboration: Ability to lead design projects, collaborate with cross-functional teams, and communicate design rationale effectively.</li>
+</ul>
+
+<strong>Tools:</strong>
+
+<ul>
+    <li>User Testing Tools: Familiarity with tools like UserTesting.com, Maze, or Lookback for conducting user testing and gathering insights.</li>
+    <li>Design Software: Mastery of tools like Figma, Sketch, or other industry-standard software.</li>
+    <li>Prototyping and Animation Tools: Use of prototyping tools like Framer, Principle, or advanced animation features in design software.</li>
+    <li>Collaboration Tools: Familiarity with team collaboration tools like Miro, Notion, or Trello for team coordination and project management.</li>
+</ul>
+</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary>For Product Owners</summary>
 
-| Tier   | Requirements |
-| :--- | :--- |
-| Tier 1 | Skills:<br>* Understanding Agile Principles: grasp the basics of the Agile Methodology and Scrum.<br>* Communication: ability to articulate ideas clearly and effectively.<br>* User Story Writing: crafting user stories that are simple, clear, and understandable.<br>* Basic Product Management: entry-level understanding of product development cycles.<br/><br/>Tools:<br>* Project Management Tools: familiarity with tools like Trello, Asana, or Jira for basic task tracking.<br>* Communication Tools: proficiency in Slack, Discord, or similar platforms for team communication. |
-| Tier 2 | Skills:<br>* Refinement of Agile Principles: deeper understanding and practical application of Agile methodologies.<br>* Stakeholder Management: ability to engage with stakeholders effectively.<br>* Prioritization Techniques: understanding various prioritization frameworks (MoSCoW, Value vs. Effort, etc.).<br>* Analytics and Metrics: basic understanding of key product metrics and how to measure them.<br/><br/>Tools:<br>* Project Management Tools: further proficiency in tools like Jira, Miro, ClickUp, etc..<br>* Prototyping Tools: familiarity with tools like Figma, Sketch, etc. for basic prototyping. |
-| Tier 3 | Skills:<br>* Agile Expertise: experience in implementing and adapting Agile methodologies.<br>* Strategic Thinking: ability to align product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.<br>* Data-Driven Decision Making: strong analytical skills to derive insights from data.<br>* Leadership and Mentorship: guiding and mentoring junior team members.<br/><br/>Tools:<br>* Analytics Tools: familiarity with tools like Google Analytics, Mixpanel, Amplitude, etc. for in-depth data analysis.<br>* Prototyping and Design Tools: experience using tools like Figma, Sketch, etc. for detailed prototyping and design. |
+<table>
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;1</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Understanding Agile Principles: Grasp the basics of the Agile Methodology and Scrum.</li>
+    <li>Communication: Ability to articulate ideas clearly and effectively.</li>
+    <li>User Story Writing: Crafting user stories that are simple, clear, and understandable.</li>
+    <li>Basic Product Management: Entry-level understanding of product development cycles.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Project Management Tools: Familiarity with tools like Trello, Asana, or Jira for basic task tracking.</li>
+    <li>Communication Tools: Proficiency in Slack, Discord, or similar platforms for team communication.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;2</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Refinement of Agile Principles: Deeper understanding and practical application of Agile methodologies.</li>
+    <li>Stakeholder Management: Ability to engage with stakeholders effectively.</li>
+    <li>Prioritization Techniques: Understanding various prioritization frameworks (MoSCoW, Value vs. Effort, etc.).</li>
+    <li>Analytics and Metrics: Basic understanding of key product metrics and how to measure them.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Project Management Tools: Further proficiency in tools like Jira, Miro, ClickUp, etc..</li>
+    <li>Prototyping Tools: Familiarity with tools like Figma, Sketch, etc. for basic prototyping.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Agile Expertise: Experience in implementing and adapting Agile methodologies.</li>
+    <li>Strategic Thinking: Ability to align product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
+    <li>Data-Driven Decision Making: Strong analytical skills to derive insights from data.</li>
+    <li>Leadership and Mentorship: Guiding and mentoring junior team members.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Analytics Tools: Familiarity with tools like Google Analytics, Mixpanel, Amplitude, etc. for in-depth data analysis.</li>
+    <li>Prototyping and Design Tools: Experience using tools like Figma, Sketch, etc. for detailed prototyping and design.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 </details>
 
 <details>
 <summary>For Data Scientists</summary>
 
-| Tier   | Requirements |
-| :--- | :--- |
-| Tier 1 | Skills:<br/>* Basic understanding of programming (Python, Javascript, etc.)<br/>* Fundamental knowledge of statistics and mathematics<br/>* Ability to clean and preprocess data<br/>* Basic knowledge of data visualization<br/>* Familiarity with basic machine learning concepts<br/>* Understand basic Web Development processes such as git/GitHub, Agile project management, etc.<br/><br/> Tools:<br/>* Programming Languages: Python or Javascrip<br/>* Data Manipulation: Pandas (Python), Pandas.js or Data-Forge (Javascript)<br/>* Data Visualization: Matplotlib, Seaborn (Python), D3 (Javascript)<br/>* IDEs: Jupyter Notebook |
-| Tier 2 | Skills:<br/>* Programming for data analysis and manipulation<br/>* Understanding of statistical analysis and hypothesis testing<br/>* Knowledge of data engineering principles<br/>* Understanding of big data technologies and frameworks<br/><br/>Tools:<br/>* Statistical Analysis: NumPy, SciPy (Python), Math.js, NumJS (Javascript)<br/>* Database Query Languages: SQL<br/>* Advanced Visualization: Plotly, Tableau, D3, etc.<br/>* Cloud Platforms: AWS, Azure, Google Cloud Platform, etc. |
-| Tier 3 | Skills:<br/>* Understanding of advanced machine learning algorithms and their implementation<br/>* Ability to build and deploy complex models<br/>* Expertise in data engineering and architecture<br/>* Strong problem-solving and analytical skills<br/>* Experience with machine learning algorithms and model evaluation<br/><br/>Tools:<br/>* Machine Learning Libraries: Scikit-learn (Python), TensorFlow.js (Javascript)<br/>* Deep Learning Frameworks: TensorFlow, PyTorch, etc.<br/>* Model Deployment: Flask, Docker, Kubernetes |
+<table>
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;1</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Basic understanding of programming (Python, Javascript, etc.)</li>
+    <li>Fundamental knowledge of statistics and mathematics</li>
+    <li>Ability to clean and preprocess data</li>
+    <li>Basic knowledge of data visualization</li>
+    <li>Familiarity with basic machine learning concepts</li>
+    <li>Understand basic Web Development processes such as git/GitHub, Agile project management, etc.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Programming Languages: Python or Javascrip</li>
+    <li>Data Manipulation: Pandas (Python), Pandas.js or Data-Forge (Javascript)</li>
+    <li>Data Visualization: Matplotlib, Seaborn (Python), D3 (Javascript)</li>
+    <li>IDEs: Jupyter Notebook</li>
+</ul>
+</td>
+
+</tr>
+<tr>
+<td>Tier&nbsp;2</td>
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Programming for data analysis and manipulation</li>
+    <li>Understanding of statistical analysis and hypothesis testing</li>
+    <li>Knowledge of data engineering principles</li>
+    <li>Understanding of big data technologies and frameworks</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Statistical Analysis: NumPy, SciPy (Python), Math.js, NumJS (Javascript)</li>
+    <li>Database Query Languages: SQL</li>
+    <li>Advanced Visualization: Plotly, Tableau, D3, etc.</li>
+    <li>Cloud Platforms: AWS, Azure, Google Cloud Platform, etc.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Understanding of advanced machine learning algorithms and their implementation</li>
+    <li>Ability to build and deploy complex models</li>
+    <li>Expertise in data engineering and architecture</li>
+    <li>Strong problem-solving and analytical skills</li>
+    <li>Experience with machine learning algorithms and model evaluation</li>   
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Machine Learning Libraries: Scikit-learn (Python), TensorFlow.js (Javascript)</li>
+    <li>Deep Learning Frameworks: TensorFlow, PyTorch, etc.</li>
+    <li>Model Deployment: Flask, Docker, Kubernetes</li>
+</ul>
+</td>
+</tr>
+</table>
 
 </details>
 
