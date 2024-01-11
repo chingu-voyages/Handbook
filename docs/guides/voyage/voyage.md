@@ -124,7 +124,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   While Chingu doesn't charge for organizing & managing Voyages, it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
   
   - Be an active participant rather than a passive observer.
-  - Set aside an average of 6-8 hours per week for your Voyage.
+  - Set aside an average of 8-12 hours per week for your Voyage.
+  - Share your status daily in your Team channel.
   - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well.
   
   We know you can do this and you'll find the impact on your career will be worth the effort.
