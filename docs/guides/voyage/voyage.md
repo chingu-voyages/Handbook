@@ -1,6 +1,6 @@
 # Voyage Guide
 
-![Team creating project backlog](./assets/Team_creating_agile_backlog_board.jpeg)
+![Team creating product backlog](./assets/Team_creating_agile_backlog_board.jpeg)
 
 ## What are Voyages❓
 
@@ -124,7 +124,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   While Chingu doesn't charge for organizing & managing Voyages, it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
   
   - Be an active participant rather than a passive observer.
-  - Set aside an average of 6-8 hours per week for your Voyage.
+  - Set aside an average of 8-12 hours per week for your Voyage.
+  - Share your status daily in your Team channel.
   - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well.
   
   We know you can do this and you'll find the impact on your career will be worth the effort.
@@ -268,7 +269,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [ ]  Prioritize each feature - *Must Have*, *Should Have*, *Nice to Have*
   - [ ]  Meet with the team to review each feature & refine priorities
   
-  Once you’ve agreed on the features and their priorities you can add them to the Project Backlog.
+  Once you’ve agreed on the features and their priorities you can add them to the Product Backlog.
   
   *Must Have* features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*s.
   
@@ -282,11 +283,11 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   ---
   
-  #### 5. Setup Project Backlog 📋
+  #### 5. Setup Product Backlog 📋
       
   **Objective**
   
-  The [Project Backlog](../../resources/glossary/glossary.md) is where you 
+  The [Product Backlog](../../resources/glossary/glossary.md) is where you 
   track the work that needs to be completed to finish the project.
 
   > If you are creating your Voyage project based on specifications provided by
@@ -301,13 +302,13 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages, teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
   - [ ]  Prioritize the user stories
   
-  During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process which helps you and your team concentrate only on the tasks that must be completed in that Sprint.
+  During the Voyage you’ll refine the Product Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process which helps you and your team concentrate only on the tasks that must be completed in that Sprint.
   
   **Resources**
   
   [Define Your MVP]((../../resources/glossary/glossary.md))
   
-  [How to Create a Project Backlog (video)](https://youtu.be/FaoT-DTtXyA)
+  [How to Create a Product Backlog (video)](https://youtu.be/FaoT-DTtXyA)
   
   [Agile Methodology 101 (article)](../../resources/projresources/agile101.md)
   
