@@ -82,7 +82,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Deployment Tools: Familiarity with deployment tools such as Netlify, Heroku, or similar services.</li>
 </ul>
 
-<p>Your Solo Project <strong><em>must implement</em></strong> an FE which written using a framework such as React, Svelte, VueJS, Django, Laravel, etc.</p>
+<p>Your Solo Project <strong><em>must implement</em></strong> a Front End written using a framework such as React, Svelte, VueJS, Django, Laravel, etc.</p>
 </td>
 </tr>
 
