@@ -82,7 +82,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Deployment Tools: Familiarity with deployment tools such as Netlify, Heroku, or similar services.</li>
 </ul>
 
-<p>Your Solo Project <strong><em>must implement</em></strong> a Front End written using a framework such as React, Svelte, VueJS, Django, Laravel, etc.</p>
+<p>Your Solo Project <strong><em>must implement</em></strong> a front-end written using a framework such as React, Svelte, VueJS, Django, Laravel, etc.</p>
 </td>
 </tr>
 
@@ -108,7 +108,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 </ul>
 
-<p>Your Solo Project <strong><em>must implement</em></strong> a front-end application which accesses a back-end server that implements an API of your own design, optionally using a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL.</p>
+<p>Your Solo Project <strong><em>must implement</em></strong> a front-end application that accesses a back-end server that implements an API of your own design, optionally using a database such as a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL.</p>
 
 <p>Your backend must include CRUD (if using a database) or POST/READ/UPDATE/DELETE (for APIs).</p>
 </tr>
@@ -250,7 +250,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <strong>Skills:</strong>
 <ul>
     <li>Agile Expertise: Experience in implementing and adapting Agile methodologies.</li>
-    <li>Strategic Thinking: Ability to align product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
+    <li>Strategic Thinking: Ability to align the product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
     <li>Data-Driven Decision Making: Strong analytical skills to derive insights from data.</li>
     <li>Leadership and Mentorship: Guiding and mentoring junior team members.</li>
 </ul>
@@ -351,10 +351,10 @@ chosen then go ahead and submit it for evaluation. Your project can be one
 you've completed on your own or as a part of a team. It should meet these 
 criteria:
     
-- It must coorespond to the requirements of the tier you've selected
+- It must correspond to the requirements of the tier you've selected
 - It should be original work (not copied from someone else, including a tutorial)
 - If created as part of a team you should be a major contributor to the project
-- It have been developed within the last 12 months, or have a significant number 
+- It has been developed within the last 12 months, or has a significant number 
 of commits made by you within the last year.
 
 ### 3. If you don't have a project ready
@@ -441,7 +441,7 @@ Remember that you are required to produce original work! You should not copy and
 1. It is more important to complete the project than it is to add features since completion is required before you can advance to the Voyage Project.
 2. Concentrate on completing the required tasks for your tier and then work on bonus tasks only if time permits. Keep in mind that advancing to the Voyage phase of the Cohort depends on the completion of the required tasks listed in the project repo we've provided.
 3. Choose tools you are comfortable and productive with. In the limited time available to complete the Solo Project it's not a good idea to try to use something you don't already know.
-4. Unless otherwise noted in the required tasks for you tiers Solo Project the languages, tools, libraries, and frameworks you use are up to you. For example, all of the following approaches are acceptable paths to a successful project:
+4. Unless otherwise noted in the required tasks for your tiers Solo Project the languages, tools, libraries, and frameworks you use are up to you. For example, all of the following approaches are acceptable paths to a successful project:
     - Using any language for web development, not just Javascript
     - Using Vanilla JS instead of a library or framework
     - Using a framework of your choice like React or Vue
