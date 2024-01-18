@@ -31,8 +31,7 @@ channel.
 ### Chingu Questions & Issues
     
 If you need assistance from our Admin Team you can open up a support ticket
-by clicking on the [#open-support-ticket](https://discord.com/channels/330284646283608064/1105911757177888908) channel. Make sure that you follow these guidelines
-[#how-to-ask-a-good-question](https://discord.com/channels/330284646283608064/1105911757177888908) to help us understand and quickly resolve your question.
+by clicking on the [#open-support-ticket](https://discord.com/channels/330284646283608064/1105911757177888908) channel. Make sure that you follow these [guidelines](#how-to-ask-a-good-question) to help us understand and quickly resolve your question.
 
 Another good resource it the [#community-chat](https://discord.com/channels/330284646283608064/578606247448936448) is the best place to ask questions 
 like "How do I submit a Solo Project?".
