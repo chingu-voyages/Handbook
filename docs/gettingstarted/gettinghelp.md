@@ -19,6 +19,12 @@ There's no shame in asking for help and at Chingu we believe:
 One benefit of our Discord community is it provides Chingus with 
 topic-specific channels to ask questions, get help, and seek advice. Take a 
 look at the [#read-me-first](https://discord.com/channels/330284646283608064/768860298965942323) channel for a list of some of our most popular channels.
+
+If you are getting started in your journey to become a Web Developer you will
+find our [**_Getting Started Corner_**](https://discord.com/channels/330284646283608064/1201180186717196368) in the [#coding-help channel](https://discord.com/channels/330284646283608064/1047615334703714394) to be a valuable resource. This is a 
+safe place to ask basic questions about vanilla CSS, HTML, and programming 
+languages (like Javascript & Python). **Plus**, it's moderated by Chingus who 
+experienced Web Developers to answer your questions and provide advice.
     
 ### Upcoming Events
     
