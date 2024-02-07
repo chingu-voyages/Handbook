@@ -87,7 +87,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 <p>Your Solo Project <strong><em>must implement</em></strong> a front-end app as follows:</p>
 <ul>
-    <li>Written using either Web Components or a framework such as React, Svelte, VueJS, Django, Laravel, etc.</li>
+    <li>Written using either Web Components or a framework such as React, Svelte, VueJS, Rails, etc.</li>
     <li>Implement logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen.</li>
 </ul>
 </td>
