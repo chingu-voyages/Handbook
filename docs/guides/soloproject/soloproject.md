@@ -225,12 +225,18 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Communication: Ability to articulate ideas clearly and effectively.</li>
     <li>User Story Writing: Crafting user stories that are simple, clear, and understandable.</li>
     <li>Basic Product Management: Entry-level understanding of product development cycles.</li>
+    <li>You have no formal training as either a Scrum Master or a Product Owner and you have not completed either of these certifications.</li>
 </ul>
 
 <strong>Tools:</strong>
 <ul>
     <li>Project Management Tools: Familiarity with tools like Trello, Asana, or Jira for basic task tracking.</li>
     <li>Communication Tools: Proficiency in Slack, Discord, or similar platforms for team communication.</li>
+</ul>
+
+<strong>Restrictions:</strong>
+<ul>
+    <li>In a Voyage Tier 1 PO's may not lead teams. However, they will be assigned to "shadow" either a Tier 2 or a Tier 3 PO.</li>
 </ul>
 </td>
 </tr>
@@ -245,6 +251,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Stakeholder Management: Ability to engage with stakeholders effectively.</li>
     <li>Prioritization Techniques: Understanding various prioritization frameworks (MoSCoW, Value vs. Effort, etc.).</li>
     <li>Analytics and Metrics: Basic understanding of key product metrics and how to measure them.</li>
+    <li>You have completed formal training as either a Scrum Master or a Product Owner, but you have not completed a certification.</li>
 </ul>
 
 <strong>Tools:</strong>
@@ -265,6 +272,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Strategic Thinking: Ability to align the product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
     <li>Data-Driven Decision Making: Strong analytical skills to derive insights from data.</li>
     <li>Leadership and Mentorship: Guiding and mentoring junior team members.</li>
+    <li>You have completed formal training as either a Scrum Master or a Product Owner and you completed a certification as either a Scrum Master or a PO.</li>
 </ul>
 
 <strong>Tools:</strong>
