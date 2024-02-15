@@ -1,6 +1,6 @@
 # Voyage Guide
 
-![Team creating project backlog](./assets/Team_creating_agile_backlog_board.jpeg)
+![Team creating product backlog](./assets/Team_creating_agile_backlog_board.jpeg)
 
 ## What are Voyages❓
 
@@ -65,9 +65,26 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   |---|---|
   | Developer | Developers are focused on designing, writing code, testing what has been developed, and deploying it to the Internet. |
   | UI/UX Designer | UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. |
-  | Product Owner | Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation since Chingu teams have a flat, rather than a hierarchical structure. |
+  | Product Owner | Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation and are responsible for maximizing the product value delivered through the software development effort - the Product Owner defines and prioritizes the product backlog and clarifies product goals and roadmaps. </br></br>Because so many of the issues are technical issues, Product Owners who have a strong background in technology, or who are also a developer, are often referred to as a _Technical Product Owner_. You can learn more about this variant of the PO role in our [Glossary](https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md#glossary). |
   | Voyage Guide | Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to provide help and advice to Voyage teams. <ul><li>Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li><li>Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.</li><li>Team members should research questions they have BEFORE asking their Voyage Guide.</li></ul>|
   | Data Scientist | Data Scientists help the team to add value to the project by using advanced data analysis and/or ML to create dashboards and data visualizations based on data captured by the application. |
+</details>
+
+<details>
+  <summary>Tier Definitions 🪜</summary>
+  <br/>
+
+  At Chingu we use three _tiers_ to group people into teams based on their
+  current general level of skill and expertise. Our tiers are:
+
+  * **Tier 1** - Getting started in your role
+  * **Tier 2** - Intermediate skill level in your role
+  * **Tier 3** - Experienced skill level in your role
+
+  However, the specific requirements for each of these varies by role. You can
+  find the definition of what's required to be in each tier based on your role
+  [here](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3).
+
 </details>
 
 <details>
@@ -107,7 +124,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   While Chingu doesn't charge for organizing & managing Voyages, it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
   
   - Be an active participant rather than a passive observer.
-  - Set aside an average of 6-8 hours per week for your Voyage.
+  - Set aside an average of 8-12 hours per week for your Voyage.
+  - Share your status daily in your Team channel.
   - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well.
   
   We know you can do this and you'll find the impact on your career will be worth the effort.
@@ -251,7 +269,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [ ]  Prioritize each feature - *Must Have*, *Should Have*, *Nice to Have*
   - [ ]  Meet with the team to review each feature & refine priorities
   
-  Once you’ve agreed on the features and their priorities you can add them to the Project Backlog.
+  Once you’ve agreed on the features and their priorities you can add them to the Product Backlog.
   
   *Must Have* features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*s.
   
@@ -265,11 +283,11 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   ---
   
-  #### 5. Setup Project Backlog 📋
+  #### 5. Setup Product Backlog 📋
       
   **Objective**
   
-  The [Project Backlog](../../resources/glossary/glossary.md) is where you 
+  The [Product Backlog](../../resources/glossary/glossary.md) is where you 
   track the work that needs to be completed to finish the project.
 
   > If you are creating your Voyage project based on specifications provided by
@@ -284,13 +302,13 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages, teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
   - [ ]  Prioritize the user stories
   
-  During the Voyage you’ll refine the Project Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process which helps you and your team concentrate only on the tasks that must be completed in that Sprint.
+  During the Voyage you’ll refine the Product Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process which helps you and your team concentrate only on the tasks that must be completed in that Sprint.
   
   **Resources**
   
   [Define Your MVP]((../../resources/glossary/glossary.md))
   
-  [How to Create a Project Backlog (video)](https://youtu.be/FaoT-DTtXyA)
+  [How to Create a Product Backlog (video)](https://youtu.be/FaoT-DTtXyA)
   
   [Agile Methodology 101 (article)](../../resources/projresources/agile101.md)
   
@@ -436,19 +454,25 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   <summary>How do I make a voice channel for my team❓</summary>
   <br/>
   
-  To create a temporary voice channel for your team, simply navigate to the Voice Channel HUB category and click on the channel named “Hub - Join to create”. This will create a voice channel in your name, and move you to that channel. Once everyone leaves the channel, the channel will be removed immediately.  
+  To create a temporary voice channel for your team, simply navigate to the Voyage Voice HUB category (Should be right above you Team Text Channel) and click on the channel named “#create-voice”. In this channel, select your tier and team from the list. This will create a voice channel for your team right below your teams text channel. The voice channel will be removed automatically shortly after everyone leaves, or after 1min if nobody joins it.  
 
-  ![How to create a voice channel](./assets/How_to_create_a_voice_channel.png)
+  <img src="./assets/How_to_create_a_voice_channel.png" alt="" width="800"/>
 
-  If you can’t see the category or the HUB channel, you have to navigate to the bottom and click on “Show all”
+  If you can’t see the category or the #create-voice channel, you have to navigate to the top-menu and click on “Show All Channels”
 
-  ![Show all Discord channels](./assets/Show_all_Discord_channels.png)
+  <img src="./assets/Show_all_Discord_channels.png" alt="" width="200"/>
 
-  **Please respect everyone's privacy, so don't join voice channels that someone on your team hasn't made. Trolling, harassing, and other forms of disruptive behavior will not be tolerated.** 
+  If you dont see the voice channel, you have to navigate all the way to the bottom and click "Show All"
 
-  Why did you remove the private team channels that we had before❓
+  <img src="./assets/Show_all_Discord_voice_channels.png" alt="" width="200"/>
 
-  Because Discord allows for a limited amount of channels on a server, so by having temporary voice channels, it reduces the number of active channels and gives us more space.
+  When you create a voice channel, Titan will also supply you with a link to join the channel
+
+  <img src="./assets/join_voice.png" alt="" width="500"/>
+
+  If some of your teammates struggle to find the voice channel, you can right click on the voice channel and click "Copy Link", and then paste that into your team channel. This will give your teammates a link to the channel.
+
+  <img src="./assets/copy_link.png" alt="" width="200"/>
 </details>
 
 <details>
@@ -539,6 +563,22 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   it all it's just going to change 😊 Relying on your teammates (and them 
   relying on you) will reduce stress, conflict, and will help to speed up
   everyone's learning.
+</details>
+
+<details>
+<summary>How can you effectively manage your tasks and responsibilities without getting overwhelmed?</summary>
+<br/>
+  Firstly, to take care of others, you have to take care of yourself, so:
+  Start by effectively planning your time. Allocate specific times for each task, taking into account their urgency and importance. This will help you stay on track and avoid distractions.
+  Next, set clear priorities. Identify the most critical tasks that need your immediate attention and tackle them first. This will ensure that the most important work gets done.
+  Finally, mitigate distractions. Minimize interruptions and focus on the task at hand. This will allow you to work more efficiently and effectively, but don't forget to take some free time and enjoy yourself. You deserve it!
+</details>
+
+<details>
+  <summary>How can you improve your approach and identify areas for growth?</summary>
+<br/>
+  Treat your team as your friends! You will be working with them for 6 weeks and to be a succesfull PO, you will need to make some connections with the others and build trust, create a friendly and supportive environment where feedback is welcome and valued, this will foster a collaborative environment where everyone feels comfortable contributing and sharing ideas, leading to continuous improvement and better product outcomes.
+  Actively listen, document, and analyze feedback to identify recurring themes and areas for improvement. Prioritize and implement changes accordingly to enhance your PO performance and align with team needs.
 </details>
 
 ### Tips for UI/UX Designers ✏️

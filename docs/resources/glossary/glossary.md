@@ -416,6 +416,28 @@
 </details>
     
 <details>
+  <summary>Technical Product Owner</summary>
+  <br/>
+
+  The role of a technical product owner is not defined in Scrum Framework or SAFe Guide - although both frameworks have the role of Product Owner.
+
+  Product Owners are responsible for maximizing the product value delivered through the software development effort - the Product Owner defines and prioritizes the product backlog and clarifies product goals and roadmaps.
+
+  In Chingu when you are a PO for a full stack product, when creating detailed and clear PBI you will face many technical issues: more new and complex features, more dependencies, increasing technical debt, essential architecture changes, increasing deployment frequency, etc. 
+
+  Because so many of the issues are technical issues, Product Owners who have a strong background in technology, or who are also a developer, are often referred to as a _Technical Product Owner_. Their focus remains the product backlog and the general scrum accountabilities of a product owner, yet they have a strong technical background.
+
+  _Technical Product Owners_, due to their technical knowledge, are sometimes considered subject-matter experts. A Product Owner generally does not take on technical work, yet Scrum doesn’t prohibit a Product Owner also working as a Developer - because in Scrum the key element regarding roles are accountabilities, and it is possible, although more difficult, for one person to fulfill multiple accountabilities. 
+
+  **_How much technical knowledge classifies a Product Owner as a Technical Product Owner?_** This is not well defined, yet, at Chingu, we would generally consider a TPO to be someone who has been a programmer, designer ,database architect or at least has comprehensive knowledge of the software development process.
+
+  **_What should you do if you are a Product Owner without a strong technical background?_** Transparency, honesty, and teamwork. Be open and frank with your team about your abilities, or lack of abilities. Lean on your team for their technical expertise - and learn.  If you don’t know Github and your team is having a meeting to discuss Github workflow, join in. Listen. Learn. Ask questions. Focus on increasing your technical skills. 
+
+  In summary, the role of a Technical Product Owner (TPO), especially here at Chingu, fills a unique and valuable niche, blending the traditional responsibilities of a Product Owner with a strong technical understanding of technology. For those serving as Product Owners who do not have a strong technical background, embracing a culture of continuous learning and collaboration is key to increasing technical knowledge - never hesitate to ask questions and learn something new.
+  <br/>
+</details>
+
+<details>
   <summary>Techstack</summary>
   <br/>
 
