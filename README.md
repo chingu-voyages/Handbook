@@ -65,11 +65,11 @@ graph LR
 
 | Project Resources                                                                    | Technical Resources                                                     |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| [Soft Skills 101](./docs/resources/projresources/softskills101.md)                   | [Choosing your Techstack](./docs/resources/techresources/techstack.md)  |
-| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md)        | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
-| [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Git & GitHub](./docs/resources/techresources/gitgithub.md)             |
-| [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md)        | [Glossary](./docs/resources/glossary/glossary.md)                       |
-| [Agile Methodology 101](./docs/resources/projresources/agile101.md)                  |                                                                         |
+| [Soft Skills 101](./docs/resources/projresources/softskills101.md)                   | [Git & GitHub](./docs/resources/techresources/gitgithub.md)  |
+| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md)        | [Choosing your Techstack](./docs/resources/techresources/techstack.md)  |
+| [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Deploying your App](./docs/resources/techresources/appdeployment.md) |
+| [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md)        | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
+| [Agile Methodology 101](./docs/resources/projresources/agile101.md)                  | [Glossary](./docs/resources/glossary/glossary.md) |
 
 ## Tips 💁🏽
 
