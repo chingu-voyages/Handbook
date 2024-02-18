@@ -12,6 +12,8 @@ although most of these have paid options they also have free ones as well. At
 Chingu we strongly suggest you take advantage of the free options, which provide
 virtually all of the services you'll need in your learning journey.
 
+## Deployment Options
+
 | Technology              | Frontend | Backend | Database |
 | ----------------------- | -------- | ------- | -------- |
 | Fly.io                  | ✓        | ✓       | ✓        |
@@ -22,8 +24,6 @@ virtually all of the services you'll need in your learning journey.
 | Render                  | ✓        | ✓       | ✓        |
 | Surge                   | ✓        |         |          |
 | Vercel                  | ✓        | ✓       |          |
-
-## Deployment Options
 
 ### Fly.io
 
@@ -77,3 +77,25 @@ problem. The free version of Vercel doesn't support deploying repos that are in
 a GitHub organization, like `chingu-voyages`. The solution is for your team to
 do their development work in the repo we've provided, but to fork this repo to
 one of your personal GitHub accounts and to deploy to Vercel from there.
+
+## Deployment Workflow
+
+It's important that you deploy your completed and tested functionality by the
+**_end of each and every sprint_**! Teams often wait until the final two 
+sprints of a Voyage to do this, which is a **serious mistake**.
+
+You want to deploy changes in the sprint they are completed in even if the
+app isn't completely finished or even functional for these reasons:
+
+1. Deploying early in the project means you are deploying the app in its
+simplest state. This means that any deployment issues you encounter will be
+easier to resolve.
+
+2. Deploying to the Internet give your team a way to test the app in an
+environment that's exactly the same as your users will use. It's common to find
+that local tests work just fine, but fail in the production environment.
+Deploying early lets you quickly find and fix issues that would otherwise not
+be discovered until the end of the project.
+
+## Tips for Deployment
+
