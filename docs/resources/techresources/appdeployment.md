@@ -86,16 +86,16 @@ sprints of a Voyage to do this, which is a **serious mistake**.
 
 ```mermaid
   flowchart LR
-    subgraph Sprints
+    subgraph SPRINTS
       subgraph Sprint-n
         direction TB
-          a(Sprint Planning) --> b(Code and Test)
-          b --> c(PR to `development`)
-          c --> d(Deploy & Integration test)
-          d --> e(PR to `main` & deploy as Prod)
+          a("Sprint Planning") --> b("Code and Test")
+          b --> c("PR to `development`")
+          c --> d("Deploy & Integration test")
+          d --> e("PR to `main` & deploy as Prod")
       end
     end
-  Start --> TOP --> End
+  Start --> SPRINTS --> End
 ```
 
 You want to deploy changes in the sprint they are completed in even if the
