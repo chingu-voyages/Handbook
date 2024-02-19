@@ -94,7 +94,7 @@ sprints of a Voyage to do this, which is a **serious mistake**.
           s1b --> s1c("PR to `development` and deploy")
           s1c --> s1d("Integration test")
           s1d --> s1e("PR to `main` & deploy as Prod")
-          style s1e color:#F00
+          style s1e color:#f00
       end
       subgraph Sprint:n+1
         direction TB
@@ -102,8 +102,18 @@ sprints of a Voyage to do this, which is a **serious mistake**.
           s2b --> s2c("PR to `development` and deploy")
           s2c --> s2d("Integration test")
           s2d --> s2e("PR to `main` & deploy as Prod")
+          style s2e color:#f00
+      end
+      subgraph Sprint:...
+        direction TB
+          s3a("Sprint Planning") --> s3b("Code and Test")
+          s3b --> s3c("PR to `development` and deploy")
+          s3c --> s3d("Integration test")
+          s3d --> s3e("PR to `main` & deploy as Prod")
+          style s3e color:#f00
       end
       Sprint:n --> Sprint:n+1
+      Sprint:n+1 --> Sprint:...
     end
   Start --> SPRINTS --> End
 ```
