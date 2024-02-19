@@ -85,22 +85,17 @@ It's important that you deploy your completed and tested functionality by the
 sprints of a Voyage to do this, which is a **serious mistake**.
 
 ```mermaid
-journey
-    title Deployment Workflow
-    section Sprint n
-      Sprint Planning Mtg.: Team
-      Code & test features: Individual Devs
-      PR to Development: 1: Individual Devs
-      Deploy & Integration testing: Team
-      PR to Main: 1: Team
-      Deploy as Production: 1: Team
-    section Sprint n+1
-      Sprint Planning Mtg.: Team
-      Code & test features: Individual Devs
-      PR to Development: 1: Individual Devs
-      Deploy & Integration testing: Team
-      PR to Main: 1: Team
-      Deploy as Production: 1: Team
+  flowchart LR
+    subgraph Sprints
+      subgraph Sprint-n
+        direction TB
+          a(Sprint Planning) --> b(Code and Test)
+          b --> c(PR to `development`)
+          c --> d(Deploy & Integration test)
+          d --> e(PR to `main` & deploy as Prod)
+      end
+    end
+  Start --> TOP --> End
 ```
 
 You want to deploy changes in the sprint they are completed in even if the
