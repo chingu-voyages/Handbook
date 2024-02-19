@@ -91,15 +91,16 @@ sprints of a Voyage to do this, which is a **serious mistake**.
       subgraph Sprint:n
         direction TB
           s1a("Sprint Planning") --> s1b("Code and Test")
-          s1b --> s1c("PR to `development`")
-          s1c --> s1d("Deploy & Integration test")
+          s1b --> s1c("PR to `development` and deploy")
+          s1c --> s1d("Integration test")
           s1d --> s1e("PR to `main` & deploy as Prod")
+          style s1e color:#FF0000,
       end
       subgraph Sprint:n+1
         direction TB
           s2a("Sprint Planning") --> s2b("Code and Test")
-          s2b --> s2c("PR to `development`")
-          s2c --> s2d("Deploy & Integration test")
+          s2b --> s2c("PR to `development` and deploy")
+          s2c --> s2d("Integration test")
           s2d --> s2e("PR to `main` & deploy as Prod")
       end
       Sprint:n --> Sprint:n+1
