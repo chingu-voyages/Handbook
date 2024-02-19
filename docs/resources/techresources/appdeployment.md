@@ -154,7 +154,7 @@ parts they didn't create.
 
 ## Tips for Deployment
 
-1. Here's some advice from V48-T2-15 concerning an issue they hit while 
+1. Here's some advice from V47-T2-15 concerning an issue they hit while 
 deploying a backend and frontend on Render.com and utilizing technologies 
 including **React, Vite, Node.js, Express, and MongoDB**.
 <br/><br/>
