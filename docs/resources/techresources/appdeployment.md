@@ -87,21 +87,21 @@ sprints of a Voyage to do this, which is a **serious mistake**.
 ```mermaid
   flowchart LR
     subgraph SPRINTS
-      subgraph s1("Sprint n")
+      subgraph Sprint:n
         direction TB
           a("Sprint Planning") --> b("Code and Test")
           b --> c("PR to `development`")
           c --> d("Deploy & Integration test")
           d --> e("PR to `main` & deploy as Prod")
       end
-      subgraph s2("Sprint n+1")
+      subgraph Sprint:n+1
         direction TB
           a("Sprint Planning") --> b("Code and Test")
           b --> c("PR to `development`")
           c --> d("Deploy & Integration test")
           d --> e("PR to `main` & deploy as Prod")
       end
-      s1 --> s2
+      Sprint:n --> Sprint:n+1
     end
   Start --> SPRINTS --> End
 ```
