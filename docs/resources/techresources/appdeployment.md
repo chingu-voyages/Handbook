@@ -3,9 +3,9 @@
 ![Team deploying an app](./assets/Application_Deployment.jpeg)
 
 Well before you've reached the MVP milestone for your application you'll want
-to deploy it to the Internet so your team can perform integration testing and
-get everything set up to incrementally deploy what you've completed at the end
-of **_every_** sprint.
+to deploy it to the Internet. This gives your team a place to perform integration 
+testing and you'll also have everything set up to incrementally deploy what 
+you've completed at the end of **_every_** sprint.
 
 The following lists some of the more popular web hosting services. Remember that
 although most of these have paid options they also have free ones as well. At
