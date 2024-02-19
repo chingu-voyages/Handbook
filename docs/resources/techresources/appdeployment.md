@@ -131,5 +131,58 @@ that local tests work just fine, but fail in the production environment.
 Deploying early lets you quickly find and fix issues that would otherwise not
 be discovered until the end of the project.
 
+3. Deploying your `development` branch gives you
+a great place to perform integration testing for the changes everyone on the
+team have completed in a sprint **before** you PR them to your `main` branch.
+When you do this you are creating an environment that supports good testing
+practices before you release them to Production, which is deployed from your 
+`main` branch.
+
+4. Keep in mind that it's important to set up your team's development workflow
+to require that PR's created by a teammate are reviewed by one or more other
+teammates **before** they can be merged. This is a quality check, but it's also
+a way for everyone on the team to become more familiar with the app. Even the
+parts they didn't create.
+
 ## Tips for Deployment
 
+1. Here's some advice from V48-T2-15 concerning an issue they hit while 
+deploying a backend and frontend on Render.com and utilizing technologies 
+including **React, Vite, Node.js, Express, and MongoDB**.
+<br/><br/>
+They encountered challenges with user authentication post-login, using a 
+passport authentication strategy. We had an issue with cookies that don't send 
+to the browser. Both the backend and frontend have been deployed separately on 
+Render.com. 
+<br/><br/>
+After spending days troubleshooting, they realized the importance of sharing 
+this experience to assist others facing similar challenges. Here's what we've 
+learned:
+<br/><br/>	
+   * Make sure to put endpoints in all React components without using proxy in 
+package.json
+   * Ensure Local Cookie Functionality: Make sure cookies function properly in 
+your local environment before deployment.
+   * Verify Trust Proxy Settings: Platforms like Heroku internally route through 
+multiple proxies, causing issues if `trust proxy` is not enabled. 
+   * Ensure it's configured correctly, especially if you're using Express. Add the 
+following code to your Express application:
+        ```js
+        app.set("trust proxy", 1)
+        ```
+   * Configure Cookie Options: When creating cookies, configure options properly to avoid browser-specific issues. 
+   * For cross-domain setups, use `sameSite:none` and `secure:true`. Also here an 
+example of the CORS settings they used:
+        ```js
+        app.use(
+          cors({
+            origin: 'https://cryptoview-us13.onrender.com',
+            methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+            credentials: true,
+            allowedHeaders:
+              'Origin,X-Requested-With,Content-Type,Accept,Authorization, Set-Cookie, Cookie',
+            exposedHeaders:
+              'Access-Control-Allow-Origin,Access-Control-Allow-Credentials, Set-Cookie, Cookie',
+          })
+        );
+        ```
