@@ -84,6 +84,25 @@ It's important that you deploy your completed and tested functionality by the
 **_end of each and every sprint_**! Teams often wait until the final two 
 sprints of a Voyage to do this, which is a **serious mistake**.
 
+```mermaid
+journey
+    title Deployment Workflow
+    section Sprint n
+      Sprint Planning Mtg.: Team
+      Code & test features: Individual Devs
+      PR to Development: 1: Individual Devs
+      Deploy & Integration testing: Team
+      PR to Main: 1: Team
+      Deploy as Production: 1: Team
+    section Sprint n+1
+      Sprint Planning Mtg.: Team
+      Code & test features: Individual Devs
+      PR to Development: 1: Individual Devs
+      Deploy & Integration testing: Team
+      PR to Main: 1: Team
+      Deploy as Production: 1: Team
+```
+
 You want to deploy changes in the sprint they are completed in even if the
 app isn't completely finished or even functional for these reasons:
 
