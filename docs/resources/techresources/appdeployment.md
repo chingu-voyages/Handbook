@@ -49,6 +49,10 @@ use. However, it is best suited for smaller projects.
 free of charge, easy to use, and integrated with GitHub repos. Netlify is a good
 solution for any size app.
 
+Even though Netlify supports backend applications using edge functionality, you
+will find it easier and more straightforward to deploy ExpressJS, Fastify, and
+Nginx-based backends on hosts such as Railway or Render.
+
 ### Railway
 
 [Railway](https://railway.app) is a GUI application hosting service that
@@ -71,6 +75,10 @@ suitable for publishing static frontend applications.
 [Vercel](https://vercel.com) is an application hosting service that is free of
 charge, easy to use, and integrated with GitHub repos. Vercel is a good solution
 for any size app.
+
+Even though Vercel technically supports backend applications, you
+will find it easier and more straightforward to deploy ExpressJS, Fastify, and
+Nginx-based backends on hosts such as Railway or Render.
 
 If you are using Vercel to host your deployed app be aware of this potential
 problem. The free version of Vercel doesn't support deploying repos that are in
