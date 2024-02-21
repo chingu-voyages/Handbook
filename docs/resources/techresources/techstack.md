@@ -19,37 +19,23 @@ products Web Developers may choose from in the JavaScript ecosystem.
 
 | Technology              | Frontend | Backend | Database |
 | ----------------------- | -------- | ------- | -------- |
-| Basic                   |          |         |          |
+| **__BASIC TECH__**      |          |         |          |
 | HTML                    | ✓        |         |          |
 | CSS                     | ✓        |         |          |
 | JavaScript              | ✓        |         |          |
-| Express                 |          | ✓       |          |
-| GitHub Pages            | ✓        |         |          |
-| Intermediate            |          |         |          |
+| **__INTERMEDIATE TECH__** |          |         |          |
 | Sass                    | ✓        |         |          |
-| jQuery                  | ✓        |         |          |
-| Angular                 | ✓        |         |          |
-| React                   | ✓        |         |          |
-| VueJS                   | ✓        |         |          |
 | Apollo Client (GraphQL) | ✓        |         |          |
 | NodeJS                  |          | ✓       |          |
-| MongoDB                 |          |         | ✓        |
-| Advanced                |          |         |          |
+| Express, Fastify, etc.  |          | ✓       |          |
+| Firebase, MongoDB       |          |         | ✓        |
+| React, Vue, Svelte, etc.| ✓        |         |          |
+| NextJS                  | ✓        | ✓       |          |
+| **__ADVANCED TECH__**   |          |         |          |
 | Docker                  | ✓        | ✓       | ✓        |
 | Redux                   | ✓        |         |          |
 | Apollo Server (GraphQL) |          | ✓       |          |
 | PostgreSQL              |          |         | ✓        |
-| Firebase                |          |         | ✓        |
-| Appwrite                |          |         | ✓        |
-| Web Hosting             |          |         |          |
-| Fly.io                  | ✓        | ✓       | ✓        |
-| GitHub Pages            | ✓        |         |          |
-| Glitch                  | ✓        |         |          |
-| Netlify                 | ✓        | ✓       |          |
-| Railway                 | ✓        | ✓       | ✓        |
-| Render                  | ✓        | ✓       | ✓        |
-| Surge                   | ✓        |         |          |
-| Vercel                  | ✓        | ✓       |          |
 
 ## Front-End Technologies
 
@@ -170,7 +156,7 @@ be agile and scalable, and it uses dynamic schemas so that you can create
 records without defining the structure first. It also supports hierarchical
 documentation of data.
 
-## platforms
+## Platforms
 
 ### Firebase
 
@@ -216,55 +202,10 @@ results as you did.
 
 ## Deployment Options
 
-### Fly.io
+Well before you've reached the MVP milestone for your application you'll want
+to deploy it to the Internet so your team can perform integration testing and
+get everything set up to incrementally deploy what you've completed at the end
+of **_every_** sprint.
 
-[Fly.io](http://Fly.io) is a CLI-first application hosting service supporting
-automatic migration from Heroku
-
-### GitHub Pages
-
-GitHub provides this simple hosting solution for static frontend-only
-applications. The advantages of [GitHub Pages](https://pages.github.com/) is
-that it's free, simple to use, and tightly integrated with the applications
-GitHub repo
-
-### Glitch
-
-[Glitch](https://glitch.com/) is a web-based interactive development environment
-similar to CodePen. It has both VSCode and GitHub integration and is simple to
-use. However, it is best suited for smaller projects.
-
-### Netlify
-
-[Netlify](https://www.netlify.com/) is an application hosting service that is
-free of charge, easy to use, and integrated with GitHub repos. Netlify is a good
-solution for any size app.
-
-### Railway
-
-[Railway](https://railway.app) is a GUI application hosting service that
-includes 50+ templates with support for Vite, Typescript, NodeJS, PostgreSQL,
-MongoDB, Svelte, Rails, Flask, NuxtJS, React, & more.
-
-### Render
-
-[Render](https://render.com/) allows you to build and run your websites with
-free TLS certificates, a global CDN, DDoS protection, private networks, and
-automatic deployment from Git.
-
-### Surge
-
-[Surge](https://surge.sh/) is similar in functionality to GitHub Pages. It is
-suitable for publishing static frontend applications.
-
-### Vercel
-
-[Vercel](https://vercel.com) is an application hosting service that is free of
-charge, easy to use, and integrated with GitHub repos. Vercel is a good solution
-for any size app.
-
-If you are using Vercel to host your deployed app be aware of this potential
-problem. The free version of Vercel doesn't support deploying repos that are in
-a GitHub organization, like `chingu-voyages`. The solution is for your team to
-do their development work in the repo we've provided, but to fork this repo to
-one of your personal GitHub accounts and to deploy to Vercel from there.
+You can learn more about the options for web hosting in the 
+[App Deployment](./appdeployment.md) topic of this Guide.

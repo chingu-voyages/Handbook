@@ -349,10 +349,10 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [ ]  Decide on the coding standards the team must follow.
   - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the workflow everyone must follow.
   - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
-  - [ ]  Decide on where you’ll deploy your app and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is 
+  - [ ]  Decide on where you’ll [deploy your app](../../resources/techresources/appdeployment.md) and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is 
   similar to your production environment. You should also deploy your app 
   changes to your `main` branch and test them in the Web host it is deployed 
-  to in each sprint.
+  to **_in each and every sprint_** even before the MVP is complete. 
   - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
   - [ ]  [Develop the App](#sprint-3-5---reaching-your-mvp)
   
@@ -388,7 +388,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
       - What am I currently working on and what will I work on next?
       - What issues or blockers do I need help with and from who?
   - *PR & Deploy* - As team members complete tasks they should create PRs for 
-  review and deploy the app.  
+  review and deploy the app. Remember that at the end of each and every sprint you should PR completed changes from your `development` branch into the `main` branch and [deploy it](../../resources/techresources/appdeployment.md) to the Internet web host you've chosen. 
   - *Sprint Review & Retrospective*
       - Meet at the end of each sprint to review how the team worked together & the processes you used. Make modifications as necessary to improve what didn’t work well and reinforce what did work well.
   
