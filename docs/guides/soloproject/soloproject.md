@@ -364,67 +364,35 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 </details>
 
-### 2. If you already have a project that matches your tier 👍
+### 2. Submit a project that matches your tier 👍
 
-If you already have a project that matches the requirements of the tier you've
+You will need to submit a project that matches the requirements of the tier you've
 chosen then go ahead and submit it for evaluation. Your project can be one 
-you've completed on your own or as a part of a team. It should meet these 
-criteria:
+you've completed on your own or as a part of a team. 
+
+It **must** meet these criteria:
     
-- It must correspond to the requirements of the tier you've selected
-- It should be original work (not copied from someone else, including a tutorial)
+- Your project should match the requirements of the 
+[tier you have chosen](#1-choose-your-tier)
+- It should be original work (not copied from someone else, including tutorials
+or AI-generated code)
 - If created as part of a team you should be a major contributor to the project
 - It has been developed within the last 12 months, or has a significant number 
-of commits made by you within the last year.
+of commits made by you within the last year.    
+- Project source code must be hosted on GitHub
+- Completed project must be deployed on the Internet.
+- You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9) for your project.
 
-### 3. If you don't have a project ready
+Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
 
-If you don't have a project you can create one from the 30+ projects we've
-provided specifications for.
+### 3. If you are a Product Owner and don't have a project ready
 
-<details>
-<summary>For Product Owners</summary>
+If you are in the Product Owner role and don't have a project you can create 
+one from the 30+ projects we've provided specifications for.
 
 | Project Name | Tier 1 | Tier 2 | Tier 3 |
 | :--- | :--- | :--- | :--- | 
 | Chingu Trivia | [Click here](https://github.com/chingu-voyages/soloproject-tier1-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po) |
-
-</details>
-<br/>
-
-<details>
-<summary>For Web Developers, UI/UX Designers, & Data Scientists</summary>
-<br>
-<b>Note: Some project requirements are outdated, we are in the process of updating them. You are still welcome to use the project ideas but the project will need to meet requirements listed above.</b>
-
-| Project Name | Tier 1 | Tier 2 | Tier 3 |
-| :--- | :--- | :--- | :--- | 
-| 100DaysofCSS Clone | [Click here](https://github.com/chingu-voyages/soloproject-tier1-100dayscss) | - | - |
-| Initab Clone | [Click here](https://github.com/chingu-voyages/soloproject-tier1-initab-clone) | - | - |
-| Tickybot Clone | [Click here](https://github.com/chingu-voyages/soloproject-tier1-tickybot-clone) | - | - |
-| Website Template | [Click here](https://github.com/chingu-voyages/soloproject-tier1-website-template) | - | - |
-| Connect 4 | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-connect4-game) | - |
-| MapBox API | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-mapbox-api) | - |
-| Matching Game | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-matching-game) | - |
-| Bookfinder | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-bookfinder) | - |
-| Bookfinder (React Native) | - | [Click here](https://github.com/chingu-voyages/soloproject-tier2-bookfinder-rn) | - |
-| Journal App | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-journal-app) |
-| Mars Photos | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-mars-photos) |
-| Meteorite Explorer | - | - | [Click here](https://github.com/chingu-voyages/soloproject-tier3-meteorite-explorer) |
-| Chingu Trivia | [Click here](https://github.com/chingu-voyages/soloproject-tier1-chingu-trivia) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chingu-trivia) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia) |
-| Critical Space Strike | [Click here](https://github.com/chingu-voyages/soloproject-tier1-criticalspacestrike) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-criticalspacestrike) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-criticalspacestrike) | 
-| eCalendar | [Click here](https://github.com/chingu-voyages/soloproject-tier1-ecalendar) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-ecalendar) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-ecalendar) |
-| Favorite Fonts | [Click here](https://github.com/chingu-voyages/soloproject-tier1-favfonts) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-favfonts) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-favfonts) |
-| Flutter Blog | [Click here](https://github.com/chingu-voyages/soloproject-tier1-flutter-blogui) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-flutter-blogui) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-flutter-blogui) |
-| Game Night | [Click here](https://github.com/chingu-voyages/soloproject-tier1-gamenight) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-gamenight) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-gamenight) |
-| Virtual Pet | [Click here](https://github.com/chingu-voyages/soloproject-tier1-virtualpet) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-virtualpet) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-virtualpet) |
-
-</details>
-<br/>
-
-One of our Facilitators will evaluate your Solo Project and will DM you in 
-Discord with feedback you can use! They will look at both your code as well 
-as the running app so you'll get 360-degree feedback.
 
 ### 4. Submit a Solo Project Completion Form ✅
     
@@ -434,27 +402,13 @@ When you've completed your Solo Project you will need to submit the **[Solo Pro
 > 
 
 Once you submit the Solo Project Completion Form your project will be 
-evaluated and a member of the Facilitation Team will provide you with 
+evaluated and a member our team will provide you with 
 status in a Discord direct message (DM).
 
 There is no need to resubmit the completion form once you've received 
 feedback. If any rework is requested you can open a support ticket 
 [here](https://discord.com/channels/330284646283608064/1105911757177888908)
 when you are ready for your project to be retested.
-    
-## Solo Project Requirements & Specifications 🧬
-    
-If you don't already have a project to submit you can create one from the following list. Simply pick a Solo Project that matches the tier you've chosen and click on the 'X' to see a detailed description, and what is required to complete it.
-    
-## Solo Project Prerequisites ✍️
-    
-- Your project should match the requirements of the 
-[tier you have chosen](#1-choose-your-tier)
-- Project source code must be hosted on GitHub
-- Completed project must be deployed on the Internet.
-- You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9) for your project.
-
-Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
     
 ## Solo Project Tips ✏️
     
