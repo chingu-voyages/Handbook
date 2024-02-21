@@ -19,11 +19,11 @@ virtually all of the services you'll need in your learning journey.
 | Fly.io                  | ✓        | ✓       | ✓        |
 | GitHub Pages            | ✓        |         |          |
 | Glitch                  | ✓        |         |          |
-| Netlify                 | ✓        | ✓       |          |
+| Netlify                 | ✓        |         |          |
 | Railway                 | ✓        | ✓       | ✓        |
 | Render                  | ✓        | ✓       | ✓        |
 | Surge                   | ✓        |         |          |
-| Vercel                  | ✓        | ✓       |          |
+| Vercel                  | ✓        |         |          |
 
 ### Fly.io
 

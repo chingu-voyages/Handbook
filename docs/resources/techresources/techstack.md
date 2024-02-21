@@ -23,24 +23,19 @@ products Web Developers may choose from in the JavaScript ecosystem.
 | HTML                    | ✓        |         |          |
 | CSS                     | ✓        |         |          |
 | JavaScript              | ✓        |         |          |
-| Express                 |          | ✓       |          |
-| GitHub Pages            | ✓        |         |          |
 | **__INTERMEDIATE TECH__** |          |         |          |
 | Sass                    | ✓        |         |          |
-| jQuery                  | ✓        |         |          |
-| Angular                 | ✓        |         |          |
-| React                   | ✓        |         |          |
-| VueJS                   | ✓        |         |          |
 | Apollo Client (GraphQL) | ✓        |         |          |
 | NodeJS                  |          | ✓       |          |
-| MongoDB                 |          |         | ✓        |
+| Express, Fastify, etc.  |          | ✓       |          |
+| Firebase, MongoDB       |          |         | ✓        |
+| React, Vue, Svelte, etc.| ✓        |         |          |
+| NextJS                  | ✓        |         |          |
 | **__ADVANCED TECH__**   |          |         |          |
 | Docker                  | ✓        | ✓       | ✓        |
 | Redux                   | ✓        |         |          |
 | Apollo Server (GraphQL) |          | ✓       |          |
 | PostgreSQL              |          |         | ✓        |
-| Firebase                |          |         | ✓        |
-| Appwrite                |          |         | ✓        |
 
 ## Front-End Technologies
 
