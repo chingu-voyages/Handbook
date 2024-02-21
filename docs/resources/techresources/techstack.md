@@ -30,7 +30,7 @@ products Web Developers may choose from in the JavaScript ecosystem.
 | Express, Fastify, etc.  |          | ✓       |          |
 | Firebase, MongoDB       |          |         | ✓        |
 | React, Vue, Svelte, etc.| ✓        |         |          |
-| NextJS                  | ✓        |         |          |
+| NextJS                  | ✓        | ✓       |          |
 | **__ADVANCED TECH__**   |          |         |          |
 | Docker                  | ✓        | ✓       | ✓        |
 | Redux                   | ✓        |         |          |
