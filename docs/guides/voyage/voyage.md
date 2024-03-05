@@ -41,7 +41,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
   You can use the `/user` command in any Discord channel to find out if you
   have completed your Solo Project and signed up for the next Voyage. You
-  can learn more [here](https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/techresources/titan.md#getting-your-chingu-status-information).
+  can learn more [here](../../../docs/resources/techresources/titan.md#getting-your-chingu-status-information).
 </details>
 
 <details>
