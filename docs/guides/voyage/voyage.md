@@ -36,6 +36,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ### How to Prepare for your Voyage 📝
 
 <details>
+  <summary>How do I check my Voyage Signup status?</summary>
+  <br/>
+
+  You can use the `/user` command in any Discord channel to find out if you
+  have completed your Solo Project and signed up for the next Voyage. You
+  can learn more [here]().
+</details>
+
+<details>
   <summary>What Does a Voyage Cost? 💰💰💰</summary>
   <br/>
 
