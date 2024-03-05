@@ -69,7 +69,8 @@ graph LR
 | [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md)        | [Choosing your Techstack](./docs/resources/techresources/techstack.md)  |
 | [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Deploying your App](./docs/resources/techresources/appdeployment.md) |
 | [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md)        | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
-| [Agile Methodology 101](./docs/resources/projresources/agile101.md)                  | [Glossary](./docs/resources/glossary/glossary.md) |
+| [Agile Methodology 101](./docs/resources/projresources/agile101.md)                  | [Titan](./docs/techresources/titan.md) |
+| | [Glossary](./docs/resources/glossary/glossary.md) |
 
 ## Tips 💁🏽
 
