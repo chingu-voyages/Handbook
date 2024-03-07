@@ -31,4 +31,4 @@ resolution.
 
 You may find this information useful on [How to Ask a Good Question](https://github.com/chingu-voyages/Handbook/blob/main/docs/gettingstarted/gettinghelp.md#how-to-ask-a-good-question). 
 
-![Titan Support Ticket DM](./assets/Open_titan_ticket_dm.png)
+![Titan Support Ticket DM](./assets/Open_Titan_ticket_dm.png)
