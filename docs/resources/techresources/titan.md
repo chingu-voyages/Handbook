@@ -20,17 +20,15 @@ in any of our Discord channels, but its output will only be visible to you.
 ## Using the Chingu Ticketing System
 
 To open a ticket, open the `#support-ticket-channel` and click on the 
-`Create Ticket` button. Titan will then open a thread inside the 
-`#titan-tickets` channel in the `Incoming tickets` category. Threads will 
-contain a unique ticket number and your Discord user name.
+`Create Ticket` button. 
 
-![Open Support Ticket](./assets/Open_support_ticket.png)
+![Titan Open Support Ticket](./assets/Open_Titan_ticket.png)
 
-Once you've opened a ticket you can then post messages as you would in any
-channel. At this point enter your question or a description of the problem
-you are experiencing and one of our Administrators will help you find a 
+Titan will then open a DM with you. You can then post messages in this DM as 
+you would in any channel. At this point enter your question or a description 
+of the problem you are experiencing and one of our Administrators will help you find a 
 resolution.
 
 You may find this information useful on [How to Ask a Good Question](https://github.com/chingu-voyages/Handbook/blob/main/docs/gettingstarted/gettinghelp.md#how-to-ask-a-good-question). 
 
-![Newly opened Ticket](./assets/Newly_opened_ticket.png)
+![Titan Support Ticket DM](./assets/Open_titan_ticket_dm.png)
