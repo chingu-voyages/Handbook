@@ -84,10 +84,9 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
       </ul>
       The PO also works closely with the Scrum Master by:
       <ul>
-        <li>Ensuring that any changes to the backlog from other stakeholders, 
-        like users, are communicated to the SM</li>
+        <li>Participating in Sprint Planning, Review, and Retrospective meetings</li>
+        <li>Actively listening to all ideas and concerns from the team</li>
         <li>Quickly resolving any issues or suggestions related to the backlog</li>
-        <li>Relying on the SM for technical information and advice</li>
         <li>Working closely together to ensure that the needs of all stakeholders, 
         including the development team, are met</li>
       </ul>
