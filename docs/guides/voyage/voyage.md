@@ -82,16 +82,24 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
         <li>Ensuring that the Product Backlog is transparent, visible and understood</li>
         <li>Making sure all stakeholders are represented and have a "voice" in the project</li>
       </ul>
+      The PO also works closely with the Scrum Master by:
+      <ul>
+        <li>Participating in Sprint Planning, Review, and Retrospective meetings</li>
+        <li>Actively listening to all ideas and concerns from the team</li>
+        <li>Quickly resolving any issues or suggestions related to the backlog</li>
+        <li>Working closely together to ensure that the needs of all stakeholders, 
+        including the development team, are met</li>
+      </ul>
       PO's should ensure that the backlog is visible to all team members and open to their ideas, suggestions, and revisions. Regardless, of this the PO is accountable for these.<br/><br/>But, it is important that everyone on the team support them with active participation and feedback, and their decisions must be respected. These decisions must be visible the Product Backlog, and shared in the Scrum events.<br/><br/>PO's are individuals, not committees. Teammates wanting to change the Product Backlog must do so through the PO, but they must trust the PO's final decision.</br></br>Because so many of the issues are technical issues, Product Owners who have a strong background in technology, or who are also a developer, are often referred to as a <em>Technical Product Owner (TPO)</em>. You can learn more about this variant of the PO role in the <a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md#glossary">Glossary</a>.</td>
     </tr>
     <tr>
       <td><strong>Scrum Master</strong></td>
       <td>
-        The <em>Scrum Master (SM)</em> is accountable for helping the team understand Scrum theory and practice, as definedin the <a href="https://scrumguides.org/scrum-guide.html">Scrum Guide</a>. SM's are also accountable for the effectiveness of the team by enabling them to improve their practices, within the Scrum framework.
+        The <em>Scrum Master (SM)</em> is accountable for helping the team understand Scrum theory and practice, as defined in the <a href="https://scrumguides.org/scrum-guide.html">Scrum Guide</a>. SM's are also accountable for the effectiveness of the team by enabling them to improve their practices, within the Scrum framework.
         The SM serves the team in the following ways:
         <ul>
           <li>Coaching team members in self-management and cross-functionality</li>
-          <li>Helping the team focus on creating high-value sprints that meet the Definition of Done</li>
+          <li>Helping the team focus on creating high-value increments that meet the Definition of Done</li>
           <li>Helping to avoid and remove blockers to team’s progress</li>
           <li>Ensuring that all Scrum events take place and are positive, productive, and timeboxed</li>
         </ul>
