@@ -59,7 +59,7 @@ proud of and which one would you like to do over again. Why?
 
 ## Create and submit your Solo Project
 
-The [Solo Project](../guides/soloproject.md) helps you validate that you have 
+The [Solo Project](../guides/soloproject/soloproject.md) helps you validate that you have 
 the necessary technical skills to be successful in a Voyage. It's also another 
 way to build an app for your portfolio.
 ```mermaid
