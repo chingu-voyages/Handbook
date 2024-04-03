@@ -15,7 +15,7 @@ graph LR
 ## Submit an Application form
 
 If you are reading this you've probably already done this. But, if you haven't
-signed up yet [click here to apply](https://forms.gle/irXhGqgqrRx94mrA9).
+signed up yet, please go to [chingu.io](https://chingu.io) and click the `Apply for free` button.
     
 We use the information you provide to help us make your Chingu experience worthwhile, and we **NEVER** share your email address or other personal information.  
 
@@ -72,7 +72,7 @@ graph LR
     E --> F((Signup for\na Voyage))
 ```
     
-You'll first need to choose the [tier](https://www.notion.so/Solo-Projects-2a41ff900cc24a72a919f0eb5e79c42b?pvs=21) that matches your 
+You'll first need to choose the [tier](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3) that matches your 
 current skill level. There are three tiers and ou should select the one that 
 best matches your curren skill level - beginner (Tier 1), 
 intermediate (Tier 2), or experienced (Tier 3). 
@@ -85,21 +85,16 @@ on your own or as a part of a team. It should meet these criteria:
 - It should be original work (not copied from someone else, including a tutorial)
 - If created as part of a team you should be a major contributor to the project
 
-If you don't have a project you can create one from the 30+ projects we've
-provided specifications for.
-    
-- If you applied as a Developer, UI/UX designer, or Data Scientist you can find 
-ideas for Solo Projects to create —> [here](https://www.notion.so/4efdd43df321489d9bf4e73cbc4e66cb?pvs=21)
-
-- If you applied as a Product Owner you can find ideas for Solo Projects to create —> [here](https://www.notion.so/45b5f1e7967f4919aea77a7c09fa5172?pvs=21)
-    
-When you are done, submit a [Solo Project Completion form](https://docs.google.com/forms/d/e/1FAIpQLSdN3dN7OjzppDCBNIsIf-bOJC_XAlQ9eiPcYQx_m6DfhaiRmA/viewform) so we can evaluate your project.
+When you are done, submit a [Solo Project Completion form](https://docs.google.com/forms/d/e/1FAIpQLSdN3dN7OjzppDCBNIsIf-bOJC_XAlQ9eiPcYQx_m6DfhaiRmA/viewform) so we can evaluate your project. 
+(Note: please use the same email as your application form)
     
 One of our Facilitators will evaluate your Solo Project and will DM you in 
 Discord with feedback you can use! They will look at both your code as well 
-as the running app so you'll get 360-degree feedback.
+as the running app so you'll get 360-degree feedback. 
 
-Once you've passed the Solo Project you'll be ready to participate in a Voyage!
+Please check your `Message Requests` or spam folder on discord. If you have not received a DM in 5 days after submission, feel free to open a ticket to check the status.
+
+Once you've passed the Solo Project, you will receive a link to sign up for the next voyage, and a commitment form closer to the start date, you'll be ready to participate in a Voyage!
     
 
 ## Sign up to Participate in a Voyage!
