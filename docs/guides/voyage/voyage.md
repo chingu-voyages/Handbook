@@ -310,7 +310,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   "Our Team". Before the end of Sprint 1 every team member should update this
   section with their infomation.
 
-  This documents not only who is on the team, but it is also a quick and easy
+  This shows not only who is on the team, but it is also a quick and easy
   way to verify everyone has update access.
 
   **Resources**
