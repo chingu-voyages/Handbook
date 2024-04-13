@@ -291,7 +291,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   ^ These are read only templates.
     
   ---
-  #### 3. Add your info to the team list in your README.md 👓
+  #### 3. Add your info to the team list in your README.md ✏️
 
   **Objective**
   
