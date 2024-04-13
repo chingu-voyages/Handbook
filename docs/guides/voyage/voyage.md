@@ -291,7 +291,34 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   ^ These are read only templates.
     
   ---
-  #### 3. Choose a project & create a Vision Statement 👓
+  #### 3. Add your info to the team list in your README.md ✏️
+
+  **Objective**
+  
+  Your team repo is a public repo and any GitHub user has read-only access to
+  it. However, only members of your team have been granted update access to it.
+
+  It's important that every member of the team verify they have update access
+  to their teams repo. This includes Product Owners, Scrum Masters, UI/UX 
+  Designers, Developers, and Data Scientists on the team.
+
+  **How**
+
+  ![Our Team topic in Team Repo](./assets/Team_Repo_Our_Team.png)
+
+  We populate your team repo with a template which includes a section titled
+  "Our Team". Before the end of Sprint 1 every team member should update this
+  section with their infomation.
+
+  This shows not only who is on the team, but it is also a quick and easy
+  way to verify everyone has update access.
+
+  **Resources**
+
+  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
+
+  ---
+  #### 4. Choose a project & create a Vision Statement 👓
 
   ** This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project and the link to its requirements and specification will be posted in your team channel.
   
@@ -326,7 +353,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   ^ These are read only templates.
     
   ---
-  #### 4. Define & prioritize MVP features 🔢
+  #### 5. Define & prioritize MVP features 🔢
     
   **Objective**
   
@@ -352,7 +379,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   ---
   
-  #### 5. Setup Product Backlog 📋
+  #### 6. Setup Product Backlog 📋
       
   **Objective**
   
@@ -386,7 +413,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [Install ZenHub browser extension](https://tinyurl.com/yfpcf7ke)
       
   ---
-  #### 6. Create a low-fidelity wireframe 🖼️
+  #### 7. Create a low-fidelity wireframe 🖼️
       
   **Objective**
   
@@ -407,7 +434,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
       
   ---
-  #### 7. Setup your team workflow 🌊
+  #### 8. Setup your team workflow 🌊
       
   **Objective**
   
@@ -439,7 +466,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)
     
-### Sprint 3-5 - Reaching your MVP 🪜
+### 9. Sprint 3-5 - Reaching your MVP 🪜
 
   ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
   
@@ -486,7 +513,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   ^ These are read only templates.
     
-### Sprint 6 - Project Closure 🏁
+### 10. Sprint 6 - Project Closure 🏁
   
   **Objective**
   
