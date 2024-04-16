@@ -381,14 +381,14 @@ or AI-generated code)
 of commits made by you within the last year.    
 - Project source code must be hosted on GitHub
 - Completed project must be deployed on the Internet.
-- You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9) for your project.
+- You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6) for your project.
 
 Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
 
 ### 3. If you are a Product Owner and don't have a project ready
 
 If you are in the Product Owner role and don't have a project you can create 
-one from the 30+ projects we've provided specifications for.
+a backlog from these project specifications.
 
 | Project Name | Tier 1 | Tier 2 | Tier 3 |
 | :--- | :--- | :--- | :--- | 
@@ -396,7 +396,7 @@ one from the 30+ projects we've provided specifications for.
 
 ### 4. Submit a Solo Project Completion Form ✅
     
-When you've completed your Solo Project you will need to submit the **[Solo Project Completion Form](https://forms.gle/4qiLptoNdfkfaDVv9)** before you can move on to the Voyage Project.
+When you've completed your Solo Project you will need to submit the **[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)** before you can move on to the Voyage Project.
 
 > You are encouraged to submit this form as soon as your Solo Project is done. There is no need to wait until the submission deadline if you finish earlier.
 > 
