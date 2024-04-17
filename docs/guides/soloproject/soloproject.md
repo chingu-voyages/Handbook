@@ -17,12 +17,15 @@ as well as your UI/UX.
 
 ```mermaid
 graph LR
-    A[Choose your Tier] --> B{Do you already\nhave a project?}
-    B -- Yes --> C[Submit your\nSolo Project]
-    B -- No --> D[Create from\nChingu Specs]
-    D --> C
-    C --> E[Facilitator\ngives feedback]
-    E --> F((Signup for\na Voyage))
+    A[Choose your Tier] --> B{What is your role?}
+    B -- Product Owner --> F
+    B -- Scrum Master --> G
+    B -- UI/UX Designer --> G
+    B -- Developer or Data Scientist --> F{Do you have a project?}
+    F -- Yes --> G[Submit your\nSolo Project]
+    F -- No --> H[Create from\nChingu Specs]
+    G --> I[Facilitator\ngives feedback]
+    I --> J((Signup for\na Voyage))
 ```
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
 
