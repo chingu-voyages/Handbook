@@ -287,6 +287,97 @@ intermediate (Tier 2), or experienced (Tier 3).
 </details>
 
 <details>
+<summary>For Scrum Masters</summary>
+
+<table>
+<tr>
+<td><strong>Tier</strong></td>
+<td><strong>Requirements</strong></td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;1</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Basic understanding of Scrum framework: Knowledge of key concepts, values, principles, and ceremonies.</li>
+    <li>Facilitation: Able to guide and support team meetings like daily stand-ups and retrospectives.</li>
+    <li>Communication: Clear and open communication with team members and stakeholders.</li>
+    <li>Conflict Resolution: Ability to identify conflicts within the team and resolve them effectively.</li>
+    <li>Time Management: Capability to manage meetings efficiently and keep the team on track.</li>
+    <li>Listening: Attentive listening to team members' concerns and feedback.</li>
+    <li>You have no formal training as a Scrum Master and you have not completed any certifications.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+  <li>Project Management Tools: Familiarity with tools like Trello, Asana, or Jira for basic task tracking.</li>
+  <li>Communication Tools: Proficiency in Slack, Discord, or similar platforms for team communication.</li>
+  <li>Video conferencing: Platforms such as Discord, Zoom or Google Meet for remote meetings.</li>
+  <li>Documentation: Familiarity with using tools like Google Drive for maintaining project documentation.</li>
+</ul>
+
+<strong>Restrictions:</strong>
+<ul>
+  <li>In a Voyage Tier 1 SM's may not lead teams. However, they will be assigned to "shadow" either a Tier 2 or a Tier 3 PO.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;2</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Scrum knowledge: In-depth understanding of Scrum roles, artifacts, and ceremonies.</li>
+    <li>Coaching: Ability to mentor and guide the team to improve processes and practices.</li>
+    <li>Conflict Resolution: More advanced skills in handling team conflicts and fostering a collaborative environment.</li>
+    <li>Continuous improvement: Promoting and implementing continuous improvement strategies.</li>
+    <li>Metrics and Reporting: Use metrics (e.g., velocity, burndown charts) to track and improve team performance.</li>
+    <li>Change Management: Navigating change and helping the team adapt to new circumstances.</li>
+    <li>You have completed formal Scrum Master training, but you have not completed a certification.</li>
+
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Project Management Tools: Further proficiency in tools like Jira, Miro, ClickUp, etc..</li>
+    <li>Advanced Agile project management: Utilizing tools like those above with plugins & with the ability to customize workflows.</li>
+    <li>Collaboration tools: Use of platforms like Discord, with channels and threads, for improved team communication.</li>
+    <li>Metrics and analytics tools: Utilizing burndown charts, velocity charts, and other reports for data-driven decision making.</li>
+    <li>Visualization tools: Using tools like Miro or Lucidchart for process mapping and collaboration.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>Tier&nbsp;3</td>
+
+<td>
+<strong>Skills:</strong>
+<ul>
+    <li>Scrum Expertise: Use Scrum and Agile methodologies and the ability to adapt them to different teams and projects.</li>
+    <li>Leadership and Mentorship: Inspiring teams to high performance. Guiding and mentoring junior team members.</li>
+    <li>Strategic thinking: Developing strategies for improving team and organizational performance.</li>
+    <li>Metrics and data analysis: Using data analytics to gain insights and drive improvement.</li>
+    <li>Conflict Management: Understand how to resolve and prevent conflicts inside and outside the team</li>
+    <li>You have completed formal Scrum Master training and you hold a certification as a Scrum Master.</li>
+</ul>
+
+<strong>Tools:</strong>
+<ul>
+    <li>Collaboration tools: Integrating various communication, task management, and reporting tools for optimized workflows.</li>
+    <li>Data analytics tools: Utilizing advanced analytics tools and data visualization software to derive insights.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
 <summary>For Data Scientists</summary>
 
 <table>
@@ -378,23 +469,37 @@ It **must** meet these criteria:
 or AI-generated code)
 - If created as part of a team you should be a major contributor to the project
 - It has been developed within the last 12 months, or has a significant number 
-of commits made by you within the last year.    
-- Project source code must be hosted on GitHub
-- Completed project must be deployed on the Internet.
-- You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6) for your project.
+of commits made by you within the last year.
 
 Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
 
-### 3. If you are a Product Owner and don't have a project ready
+#### If you are a Developer or Data Scientist
 
-If you are in the Product Owner role and don't have a project you can create 
-a backlog from these project specifications.
+You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6) for your project.
+
+Your project source code **must be hosted on GitHub** and your completed project must be deployed on the Internet.
+
+#### If you are a Product Owner
+
+If you are in the Product Owner role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. You will also be asked to provide the URL of a public website containing a sample product backlog you have created. 
+
+Your sample product backlog doesn't need to be complicated, but it should demonstrate that you understand how to organize the project visually using a combination of Epics, User Stories, and Tasks. Including dependencies between these product backlog items as well as acceptance criteria, edge cases, and test criteria is a definite plus.
+
+If you You don't have a project you can create a backlog from tis project specification.
 
 | Project Name | Tier 1 | Tier 2 | Tier 3 |
 | :--- | :--- | :--- | :--- | 
 | Chingu Trivia | [Click here](https://github.com/chingu-voyages/soloproject-tier1-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po) |
 
-### 4. Submit a Solo Project Completion Form ✅
+#### If you are a Scrum Master
+
+If you are in the Product Owner role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions.
+
+#### If you are a UI/UX Designer
+
+You will also be asked to provide the URL of a public website containing a website design you have created. This could be a design hosted on Figma, AdobeXD, or in any other prototyping tool. It might also be a more formal study including things like the definition of personas and stakeholder goals as well as basic screen layout and navigation.
+
+### 3. Submit a Solo Project Completion Form ✅
     
 When you've completed your Solo Project you will need to submit the **[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)** before you can move on to the Voyage Project.
 
