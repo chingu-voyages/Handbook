@@ -18,9 +18,8 @@ as well as your UI/UX.
 ```mermaid
 graph LR
     A[Choose your Tier] --> B{What is your role?}
-    B -- Product Owner --> F
     B -- Scrum Master or UI/UX Designer --> G
-    B -- Developer or Data Scientist --> F{Do you have a project?}
+    B -- Product Owner/Developer/Data Scientist --> F{Do you have a project?}
     F -- Yes --> G[Submit your\nSolo Project]
     F -- No --> H[Create from\nChingu Specs]
     H --> G
