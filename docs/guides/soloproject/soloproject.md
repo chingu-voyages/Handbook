@@ -19,7 +19,7 @@ as well as your UI/UX.
 graph LR
     A[Choose your Tier] --> B{What is your role?}
     B -- Scrum Master or UI/UX Designer --> G
-    B -- Product Owner/Developer/Data Scientist --> F{Do you have a project?}
+    B -- Product Owner\nDeveloper\nData Scientist --> F{Do you have a project?}
     F -- Yes --> G[Submit your\nSolo Project]
     F -- No --> H[Create from\nChingu Specs]
     H --> G
