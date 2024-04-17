@@ -24,6 +24,7 @@ graph LR
     B -- Developer or Data Scientist --> F{Do you have a project?}
     F -- Yes --> G[Submit your\nSolo Project]
     F -- No --> H[Create from\nChingu Specs]
+    H --> G
     G --> I[Facilitator\ngives feedback]
     I --> J((Signup for\na Voyage))
 ```
