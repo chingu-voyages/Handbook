@@ -483,7 +483,7 @@ Your project source code **must be hosted on GitHub** and your completed project
 
 #### If you are a Product Owner
 
-If you are in the Product Owner role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. You will also be asked to provide the URL of a public website containing a sample product backlog you have created. 
+If you are in the Product Owner role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. You will also be asked to provide the URL of a public website containing a sample product backlog you have created. This backlog can be in the service of your choice including GitHub Projects, Trello, Miro, ClickUp, Jira, or any similar tool.
 
 Your sample product backlog doesn't need to be complicated, but it should demonstrate that you understand how to organize the project visually using a combination of Epics, User Stories, and Tasks. Including dependencies between these product backlog items as well as acceptance criteria, edge cases, and test criteria is a definite plus.
 
