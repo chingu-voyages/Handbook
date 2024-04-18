@@ -495,7 +495,7 @@ If you You don't have a project you can create a backlog from tis project specif
 
 #### If you are a Scrum Master
 
-If you are in the Product Owner role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions.
+If you are in the Scrum Master role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions.
 
 #### If you are a UI/UX Designer
 
