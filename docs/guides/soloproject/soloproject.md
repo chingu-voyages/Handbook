@@ -483,7 +483,9 @@ Your project source code **must be hosted on GitHub** and your completed project
 
 #### If you are a Product Owner
 
-If you are in the Product Owner role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. You will also be asked to provide the URL of a public website containing a sample product backlog you have created. This backlog can be in the service of your choice including GitHub Projects, Trello, Miro, ClickUp, Jira, or any similar tool.
+If you are in the Product Owner role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed. 
+
+You will also be asked to provide the URL of a public website containing a sample product backlog you have created. This backlog can be in the service of your choice including GitHub Projects, Trello, Miro, ClickUp, Jira, or any similar tool.
 
 Your sample product backlog doesn't need to be complicated, but it should demonstrate that you understand how to organize the project visually using a combination of Epics, User Stories, and Tasks. Including dependencies between these product backlog items as well as acceptance criteria, edge cases, and test criteria is a definite plus.
 
@@ -495,7 +497,9 @@ If you You don't have a project you can create a backlog from tis project specif
 
 #### If you are a Scrum Master
 
-If you are in the Scrum Master role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions.
+If you are in the Scrum Master role your Solo Project will include a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions. 
+
+The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed. 
 
 #### If you are a UI/UX Designer
 
