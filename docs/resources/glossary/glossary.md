@@ -279,9 +279,8 @@
   <br/>
 </details>
 
-    
 <details>
-  <summary><a>Plagarism</a></summary>
+  <summary>Plagarism</summary>
   <br/>
 
   Modern software development is built on collaboration and the work others have
