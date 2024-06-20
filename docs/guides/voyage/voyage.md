@@ -18,21 +18,20 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
   timeline
-    May 2024 : Voyage 49
     July 2024 : Voyage 50
     Sept 2024 : Voyage 51
-
+    Nov 2024 : Voyage 52
 ```
     
-| Milestone | Voyage 49 | Voyage 50 | Voyage 51 |
+| Milestone | Voyage 50 | Voyage 51 | Voyage 52 |
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
-| Solo Project Deadline | April 28, 2024 | June 23, 2024 | August 25, 2024 
-| Voyage Launch | May 6 | July 1 | September 4 |
+| Solo Project Deadline | June 23, 2024 | August 25, 2024 | October 27, 2024 |
+| Voyage Launch | July 1 | September 4 | November 4 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | June 16 | August 11 | October 13 |
-| Completion Certificates issued | June 23 | August 18 | October 20 |
-| Voyage Showcase article published | June 30 | August 25 | October 27 |
+| Voyage ends & projects due | August 11 | October 13 | December 15 |
+| Completion Certificates issued | August 18 | October 20 | December 22 |
+| Voyage Showcase article published | August 25 | October 27 | December 27 |
     
 ### How to Prepare for your Voyage 📝
 
@@ -511,6 +510,9 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+
+  [Plagarism caution & advice](../../resources/glossary/glossary.md#plagarism)
+
   
   ^ These are read only templates.
     
