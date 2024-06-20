@@ -279,6 +279,73 @@
   <br/>
 </details>
 
+    
+<details>
+  <summary><a>Plagarism</a></summary>
+  <br/>
+
+  Modern software development is built on collaboration and the work others have
+  shared on the Internet. For example, code examples in tutorials, articles,
+  videos, and on sites like [Stack Overflow](https://stackoverflow.com/).
+
+  While it's an accepted practice to copy/paste code and then modify it for your
+  own purposes you should provide attribution to acknowledge the those who have
+  been kind enough to share their work.
+
+  When using code from other sources, web developers should follow these best practices to ensure proper attribution:
+
+1. **Include Clear Comments**:
+   - **Direct Comment**: Immediately before or within the code block, add a comment specifying the original source. For example:
+     ```javascript
+     // Code snippet taken from https://example.com/tutorial on 2024-06-20
+     function exampleFunction() {
+         // original code here
+     }
+     ```
+   - **Author Credit**: Mention the author's name if available:
+     ```javascript
+     // Code by John Doe from https://example.com/tutorial
+     function exampleFunction() {
+         // original code here
+     }
+     ```
+
+2. **Use Readme Files**:
+   - **Documentation**: If you’re using multiple pieces of code from different sources, maintain a `README.md` file or equivalent documentation. List all external code sources, including URLs and authors, along with the specific parts of your project where they are used.
+
+3. **License Compliance**:
+   - **Check the License**: Before using any code, review its license to ensure you comply with its terms. Some licenses require more than just attribution (e.g., sharing modifications under the same license).
+   - **Include License Text**: If the code's license requires it, include the full license text in your project. For instance, if using code under the MIT License, include a `LICENSE` file in your project root.
+
+4. **External Attribution Files**:
+   - **Credits File**: Maintain a `CREDITS.md` or similar file in your project root, detailing all third-party contributions. This can include code snippets, libraries, and other resources.
+
+5. **Web Page Footers**:
+   - **Visible Attribution**: If applicable, especially for open-source web projects, provide visible attribution in the footer or about page of your website.
+
+6. **Git Commit Messages**:
+   - **Commit Records**: When adding copied code, note the source in your git commit message. This makes the history clear and traceable.
+     ```sh
+     git commit -m "Added sorting function from https://example.com/tutorial"
+     ```
+
+7. **In-Line Documentation**:
+   - **Code Comments**: Add comments directly in the code to explain its origin and purpose, making it easier for other developers to understand and follow the attribution.
+
+8. **Avoid Plagiarism**:
+   - **Do Not Claim as Your Own**: Clearly distinguish between your original code and copied code. Never imply that copied code is your original work.
+
+9. **Respect Source Restrictions**:
+   - **API Terms of Use**: If using code snippets from APIs or other restricted sources, ensure compliance with their terms of use, which may include specific attribution requirements.
+
+10. **Ask for Permission if Needed**:
+    - **Contact Authors**: For non-open-source code or if you are unsure about the terms of use, consider contacting the original author for permission to use their code.
+
+Following these practices helps maintain transparency, respect intellectual property rights, and fosters a culture of open and ethical collaboration in the development community.
+  
+  <br/>
+</details>
+
 <details>
   <summary>Prototype</summary>
   <br/>
