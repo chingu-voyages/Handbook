@@ -266,8 +266,6 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [When2Meet](https://when2meet.com/)
   
   [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
-
-  [Plagarism](../../resources/glossary/glossary.md#plagarism)
   
   ^ These are read only templates.
 
@@ -512,6 +510,9 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
   [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+
+  [Plagarism caution & advice](../../resources/glossary/glossary.md#plagarism)
+
   
   ^ These are read only templates.
     
