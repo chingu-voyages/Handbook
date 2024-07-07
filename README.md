@@ -8,7 +8,7 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
-## What is Chingu❓ 
+## What is Chingu❓
 
 We're excited that you've chosen to join us and we know you have lots of
 questions. So let's get started! 🎬
@@ -46,6 +46,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 ### Guides 📒
 
 ---
+
 ```mermaid
 graph LR
     A["Complete your Solo Project\nPrior to 1st Voyage"] --> B["Join a Voyage\nBi-monthly (optional)"]
@@ -53,6 +54,7 @@ graph LR
     D["Contribute to this Handbook\nAdhoc (optional)"]
     E["Share what you've learned\nAdhoc (optional)"]
 ```
+
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
 - [Voyage Guide](./docs/guides/voyage/voyage.md)

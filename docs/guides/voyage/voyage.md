@@ -263,10 +263,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
-  [When2Meet](https://when2meet.com/)
-  
-  [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
-  
+  [Schej meeting availability tool](https://schej.it/home)  
   ^ These are read only templates.
 
   ---
@@ -278,7 +275,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **How**
   
-  - The first person to arrive in the Team Channel on the first day of the Voyage should create a [When2Meet](https://www.when2meet.com/) event and post its URL in the channel. This will let everyone update it with their availability for the week so a Kickoff meeting can be scheduled.
+  - The first person to arrive in the Team Channel on the first day of the Voyage should create a [Schej meeting availability](https://schej.it/home) event and post its URL in the channel. This will let everyone update it with their availability for the week so a Kickoff meeting can be scheduled.
   - Try to find a time as early as possible in Sprint 1 for your Kickoff meeting. Six weeks sounds like a long time, but it’s quite short and every day you delay in getting started counts!
   - Use the Voyage Kickoff meeting agenda template we’ve provided to guide you and as a place to record notes from the meeting. At the start of the Voyage, all document templates will be copied to the `docs` subdirectory in your team's repo.
 
@@ -503,9 +500,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   
-  [When2Meet website](https://when2meet.com/)
-  
-  [How to Create a When2Meet Link (gif)](./assets/How_to_use_when2meet.gif)
+  [Schej meeting availability tool](https://schej.it/home)
   
   [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
   

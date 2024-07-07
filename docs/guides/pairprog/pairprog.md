@@ -13,7 +13,7 @@ Through Chingu Pair Programming you will:
 - Learn new technologies and techniques from your peers
 
 > Every week we match people who are interested in learning and practicing Pair Programming to "level up".
-> 
+>
 
 To learn more about Pair Programming checkout this [article](https://stackify.com/pair-programming-advantages/)
 
@@ -31,7 +31,6 @@ This means you need to commit yourself to being responsive to your partner and p
 
 ## Steps to Follow
 
-
 ![Pair Programming Timeline V3.png](./assets/Pair_Programming_Timeline_V3.png)
 
 1. You may signup for the next Pair Programming Session using the ***[Pair Programming Match Request](https://forms.gle/khf7yHUNCGodLoDg6)*** form. A link will also be posted in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel every Monday morning.
@@ -39,7 +38,7 @@ This means you need to commit yourself to being responsive to your partner and p
 3. When your Pair Programming channel is assigned introduce yourself to your partner and set up a time to meet online.
 
 > We suggest using the conferencing and screensharing that's built into Discord, but you may use any collaboration tool you prefer.
-> 
+>
 1. Select a challenge you can complete within one week. You should choose a problem you both have an interest in. Sources for ideas include:
     - Pick a feature in your favorite language, library, or framework!
     - [Florin Pop's App Ideas](https://github.com/florinpop17/app-ideas)
@@ -54,7 +53,7 @@ This means you need to commit yourself to being responsive to your partner and p
 3. At the end of the week we'll provide a [feedback form](https://forms.gle/aHbipqJ5Y8WXzUJ3A) you can use to share your Pair Programming experience with us and to help us improve this program.
 
 > If you have technical questions post them in the [`#coding-help`](https://discord.com/channels/330284646283608064/1047615334703714394) channel.
-> 
+>
 
 ## Tips
 
