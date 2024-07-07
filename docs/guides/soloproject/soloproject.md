@@ -2,7 +2,6 @@
 
 ![Team creating project backlog](./assets/SoloProject_coder.jpeg)
 
-
 ## Overview
 
 The goal of the Solo Project is to help you and the Chingu team verify that
@@ -26,12 +25,13 @@ graph LR
     G --> I[Facilitator\ngives feedback]
     I --> J((Signup for\na Voyage))
 ```
+
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
 
-You'll first need to choose a *_tier_* that matches your 
-current skill level. There are three tiers and you should select the one that 
-best matches your current skill level - beginner (Tier 1), 
-intermediate (Tier 2), or experienced (Tier 3). 
+You'll first need to choose a *_tier_* that matches your
+current skill level. There are three tiers and you should select the one that
+best matches your current skill level - beginner (Tier 1),
+intermediate (Tier 2), or experienced (Tier 3).
 
 <details>
 <summary>For Developers</summary>
