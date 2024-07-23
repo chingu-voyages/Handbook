@@ -513,7 +513,7 @@ When you've completed your Solo Project you will need to submit the **[Solo Pro
 > 
 
 Once you submit the Solo Project Completion Form your project will be 
-evaluated and a member our team will provide you with 
+evaluated within **_2 business_** days and a member our team will provide you with 
 status in a Discord direct message (DM).
 
 There is no need to resubmit the completion form once you've received 
