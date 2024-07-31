@@ -394,7 +394,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <td>
 <strong>Skills:</strong>
 <ul>
-    <li>Basic understanding of programming (Python, Javascript, etc.)</li>
+    <li>Basic understanding of programming (Python, R, Javascript, etc.)</li>
     <li>Fundamental knowledge of statistics and mathematics</li>
     <li>Ability to clean and preprocess data</li>
     <li>Basic knowledge of data visualization</li>
@@ -404,7 +404,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 <strong>Tools:</strong>
 <ul>
-    <li>Programming Languages: Python or Javascrip</li>
+    <li>Programming Languages: Python, R, or Javascript</li>
     <li>Data Manipulation: Pandas (Python), Pandas.js or Data-Forge (Javascript)</li>
     <li>Data Visualization: Matplotlib, Seaborn (Python), D3 (Javascript)</li>
     <li>IDEs: Jupyter Notebook</li>
@@ -425,10 +425,9 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 <strong>Tools:</strong>
 <ul>
-    <li>Statistical Analysis: NumPy, SciPy (Python), Math.js, NumJS (Javascript)</li>
+    <li>Statistical Analysis: NumPy, SciPy (Python), Math.js, NumJS (Javascript), R</li>
     <li>Database Query Languages: SQL</li>
     <li>Advanced Visualization: Plotly, Tableau, D3, etc.</li>
-    <li>Cloud Platforms: AWS, Azure, Google Cloud Platform, etc.</li>
 </ul>
 </td>
 </tr>
@@ -450,6 +449,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Machine Learning Libraries: Scikit-learn (Python), TensorFlow.js (Javascript)</li>
     <li>Deep Learning Frameworks: TensorFlow, PyTorch, etc.</li>
     <li>Model Deployment: Flask, Docker, Kubernetes</li>
+    <li>Cloud Platforms: AWS, Azure, Google Cloud Platform, etc.</li>
 </ul>
 </td>
 </tr>
