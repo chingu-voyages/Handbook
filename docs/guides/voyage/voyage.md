@@ -122,7 +122,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     </tr>
     <tr>
       <td><strong>Data Scientist</strong></td>
-      <td>Data Scientists help the team to add value to the project by using advanced data analysis and/or ML to create dashboards and data visualizations based on data captured by the application.</td>
+      <td>Data Scientists use their skills to perform deep analysis and visualization of data in Data Science specfic projects. This includes all forms of Data Science including analytics, machine learning, and deep learning.</td>
     </tr>
     <tr>
       <td><strong>Voyage Guide</strong></td>
@@ -221,6 +221,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   4. Technical Stack preferences
 
      We also try to match team members on their technical stack preferences. However, in the course of organizing Voyages over a period of years we've learned that communication & collaboration are better indicators of success. We'll reach out to you prior to the start of your Voyage if we aren't able to match you to a team with the same tech stack preferences as yours.
+
+  5. Role-based teams
+
+     Teams are also matched based on the roles participants signup with. Based on your role you'll be added to one of the following types of teams:
+
+     * **Web Development** teams consist of a Product Owner, a Scrum Master, 3-5 Web Developers, and a UI/UX Designer.
+     * **Data Science** teams consist of a Product Owner, a Scrum Master, and 3-5 Data Scientists
+
+     Keep in mind that assigning Product Owners, Scrum Masters and UI/UX Designers to teams depend on how many Chingus in those roles sign up for a Voyage. In addition, for Data Science teams, we'll reach out to Data Scientists if we don't have enough in your tier and timezone to form a team. In this case you'll be given the option to join a Web Development team or to wait until the next Voyage. 
 </details>
        
 ## The Voyage Process
