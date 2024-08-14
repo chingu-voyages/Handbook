@@ -18,12 +18,12 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
   timeline
-    July 2024 : Voyage 50
     Sept 2024 : Voyage 51
     Nov 2024 : Voyage 52
+    Jan 2025 : Voyage 53
 ```
     
-| Milestone | Voyage 51 | Voyage 52 | Voyage 52 |
+| Milestone | Voyage 51 | Voyage 52 | Voyage 53 |
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
 | Solo Project Deadline | August 25, 2024 | October 27, 2024 | December 29, 2024 |
