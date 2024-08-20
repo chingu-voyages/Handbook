@@ -27,7 +27,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
 | Solo Project Deadline | August 25, 2024 | October 27, 2024 | December 29, 2024 |
-| Voyage Launch | September 4 | November 4 | January 6 |
+| Voyage Launch | September 2 | November 4 | January 6 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
 | Voyage ends & projects due | October 13 | December 15 | February 16 |
 | Completion Certificates issued | October 20 | December 22 | February 23 |
