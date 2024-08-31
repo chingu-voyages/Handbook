@@ -210,16 +210,21 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 <details>
 <summary>For Product Owners</summary>
+<br/>
+All Product Owners are welcome at Chingu, regardless of whether they have training or a certification. However, participation is regulated to ensure they have the skills needed to guide Voyage teams in a effective manner.
+
+> If you are a Product Owner requiring training or perhaps a refresher we recommend you consider [The Job Hackers](https://www.thejobhackers.org/). 
+
+Product Owner duties and responsibilities are the same regardless of what tier they are placed in during a Voyage. For this reason PO's are't asked to choose a tier when submitting a Solo Project.
+
+However, they should meet these requirements, which are the minimum needed to successfully guide a Voyage team.
 
 <table>
 <tr>
-<td><strong>Tier</strong></td>
 <td><strong>Requirements</strong></td>
 </tr>
 
 <tr>
-<td>Tier&nbsp;1</td>
-
 <td>
 <strong>Skills:</strong>
 <ul>
@@ -227,63 +232,27 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Communication: Ability to articulate ideas clearly and effectively.</li>
     <li>User Story Writing: Crafting user stories that are simple, clear, and understandable.</li>
     <li>Basic Product Management: Entry-level understanding of product development cycles.</li>
-    <li>You have no formal training as either a Scrum Master or a Product Owner and you have not completed either of these certifications.</li>
+    <li>Analytics and Metrics: Basic understanding of key product metrics and how to measure them.</li>
+    <li>Strategic Thinking: Ability to align the product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
 </ul>
 
 <strong>Tools:</strong>
 <ul>
     <li>Project Management Tools: Familiarity with tools like Trello, Asana, or Jira for basic task tracking.</li>
+    <li>Prototyping Tools: Familiarity with tools like Figma, Sketch, etc. for basic prototyping.</li>
     <li>Communication Tools: Proficiency in Slack, Discord, or similar platforms for team communication.</li>
 </ul>
 
 <strong>Restrictions:</strong>
 <ul>
-    <li>In a Voyage Tier 1 PO's may not lead teams. However, they will be assigned to "shadow" either a Tier 2 or a Tier 3 PO.</li>
+    <li>Product Owners who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
+    <li>Product Owners who are trained, but not certified must shadow another Product Owner in a Voyage before they can guide their own team in a subsequent Voyage</li>
+    <li>Product Owners with no training and no certification may only shadow more experienced Product Owners in a Voyage</li>
+    <li>If you have successfully completed the [AgileMBA program](https://www.thejobhackers.org/participant/) Chingu considers you to be the same as someone who is both trained and certified.</li>
 </ul>
 </td>
 </tr>
 
-<tr>
-<td>Tier&nbsp;2</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Refinement of Agile Principles: Deeper understanding and practical application of Agile methodologies.</li>
-    <li>Stakeholder Management: Ability to engage with stakeholders effectively.</li>
-    <li>Prioritization Techniques: Understanding various prioritization frameworks (MoSCoW, Value vs. Effort, etc.).</li>
-    <li>Analytics and Metrics: Basic understanding of key product metrics and how to measure them.</li>
-    <li>You have completed formal training as either a Scrum Master or a Product Owner, but you have not completed a certification.</li>
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Project Management Tools: Further proficiency in tools like Jira, Miro, ClickUp, etc..</li>
-    <li>Prototyping Tools: Familiarity with tools like Figma, Sketch, etc. for basic prototyping.</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Tier&nbsp;3</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Agile Expertise: Experience in implementing and adapting Agile methodologies.</li>
-    <li>Strategic Thinking: Ability to align the product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
-    <li>Data-Driven Decision Making: Strong analytical skills to derive insights from data.</li>
-    <li>Leadership and Mentorship: Guiding and mentoring junior team members.</li>
-    <li>You have completed formal training as either a Scrum Master or a Product Owner and you completed a certification as either a Scrum Master or a PO.</li>
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Analytics Tools: Familiarity with tools like Google Analytics, Mixpanel, Amplitude, etc. for in-depth data analysis.</li>
-    <li>Prototyping and Design Tools: Experience using tools like Figma, Sketch, etc. for detailed prototyping and design.</li>
-</ul>
-</td>
-</tr>
 </table>
 
 </details>
