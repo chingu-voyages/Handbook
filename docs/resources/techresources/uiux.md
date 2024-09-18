@@ -15,31 +15,32 @@ use to implement a website design when a UI/UX Designer isn't available.
 ```mermaid
 block-beta
 columns 1
-    block:STRATEGY
-      columns 6
-      A["Product Strategy"]
-      B["1.1 Create an App Vision"]
-      C["1.2 Define User Personas"]
-      D["1.3 Write User Stories"]
-      E["1.4 Prioritize the Feature List"]
-      space
-    end
-    block:STRUCTURE
-      columns 6
-      G["Product Structure"]
-      H["2.1 Outline Primary Screens"]
-      I["2.2 Map User Flow"]
-      J["2.3 Wireframe App Layout"]
-      K["2.4 Wireframe Primary Screens"]
-      L["2.5 Wireframe Interactivity"]
-    end
-    block:STYLE
-      columns 6
-      M["Product Style"]
-      N["3.1 Finalize Brand Personality"]
-      O["3.2 Create Style Guide"]
-      P["3.3 Create Page Mockups"]
-      Q["3.4 Design for Interactivity"]
-      space
-    end
+  block:STRATEGY
+    columns 6
+    A["Product Strategy"]
+    B["1.1 Create an App Vision"]
+    C["1.2 Define User Personas"]
+    D["1.3 Write User Stories"]
+    E["1.4 Prioritize the Feature List"]
+    space
+  end
+  block:STRUCTURE
+    columns 6
+    G["Product Structure"]
+    H["2.1 Outline Primary Screens"]
+    I["2.2 Map User Flow"]
+    J["2.3 Wireframe App Layout"]
+    K["2.4 Wireframe Primary Screens"]
+    L["2.5 Wireframe Interactivity"]
+  end
+  block:STYLE
+    columns 6
+    M["Product Style"]
+    N["3.1 Finalize Brand Personality"]
+    O["3.2 Create Style Guide"]
+    P["3.3 Create Page Mockups"]
+    Q["3.4 Design for Interactivity"]
+    space
+  end
+  style A fill:#969
 ```
