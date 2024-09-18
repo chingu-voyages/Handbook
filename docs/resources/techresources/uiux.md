@@ -17,20 +17,20 @@ block-beta
 columns 1
     block:STRATEGY
       columns 5
-      A["Product Strategy"];
-      B["1.1 Create an App Vision"];
-      C["1.2 Define User Personas"];
-      D["1.3 Write User Stories"];
-      E["1.4 Prioritize the Feature List"];
+      A["Product Strategy"]
+      B["1.1 Create an App Vision"]
+      C["1.2 Define User Personas"]
+      D["1.3 Write User Stories"]
+      E["1.4 Prioritize the Feature List"]
     end
     space
     block:STRUCTURE
       columns 5
-      G["Product Strategy"];
-      H["1.1 Create an App Vision"];
-      I["1.2 Define User Personas"];
-      J["1.3 Write User Stories"];
-      K["1.4 Prioritize the Feature List"];
+      G["Product Strategy"]
+      H["1.1 Create an App Vision"]
+      I["1.2 Define User Personas"]
+      J["1.3 Write User Stories"]
+      K["1.4 Prioritize the Feature List"]
     end
   space
 ```
