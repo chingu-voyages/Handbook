@@ -51,7 +51,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 flowchart TB
    A(["Signup & submit Application Form"]) --> B(Join the Chingu Discord Server);
    B --> C(Choose your tier);
-   C --> D(Submit an original Solo Project for evaluation);
+   C --> D(Submit an original <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md'>Solo Project</a> for evaluation);
    D --> E(Evaluator DMs feedback in Discord);
    E --> F{Accepted?};
    F -- Yes --> G(Submit Voyage Signup form);
@@ -61,7 +61,7 @@ flowchart TB
    G --> Z([End]);
 ```
 
-### Guides
+### Program Guides
 
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
