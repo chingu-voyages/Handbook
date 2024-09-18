@@ -48,7 +48,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 ---
 
 ```mermaid
-flowchart LR
+flowchart TB
    A(["Signup at chingu.io & submit Application Form"]) --> B["Join the Chingu Discord community server"];
    B --> C["Choose your tier"];
    C --> D["Submit your Solo Project for evaluation"];
