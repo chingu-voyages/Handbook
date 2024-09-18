@@ -15,15 +15,15 @@ as well as your UI/UX.
 ## Steps to Follow
 
 ```mermaid
-graph LR
+graph TB
     A[Choose your Tier] --> B{What is your role?}
-    B -- Scrum Master or UI/UX Designer --> G
-    B -- Product Owner\nDeveloper\nData Scientist --> F{Do you have a project?}
-    F -- Yes --> G[Submit your\nSolo Project]
-    F -- No --> H[Create new\nSolo Project\nmatching your tier]
+    B -- Scrum Master --> G
+    B -- Product Owner, Developer, UI/UX Designer, or Data Scientist --> F{Do you have a project?}
+    F -- Yes --> G[Submit your Solo Project form]
+    F -- No --> H[Create a new Solo Project matching your tier]
     H --> G
-    G --> I[Facilitator\ngives feedback]
-    I --> J((Signup for\na Voyage))
+    G --> I[Evaluator DMs feedback in Discord]
+    I --> J((Signup for a Voyage))
 ```
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
