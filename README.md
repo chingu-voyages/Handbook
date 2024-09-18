@@ -49,7 +49,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ```mermaid
 flowchart TB
-   A(["Signup & submit Application Form"]) --> B("Join the Chingu Discord";
+   A(["Signup & submit Application Form"]) --> B(Join the Chingu Discord Server);
    B --> C("Choose your tier");
    C --> D("Submit your Solo Project for evaluation");
    D --> E("Evaluator provides feedback");
