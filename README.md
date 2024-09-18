@@ -52,7 +52,7 @@ flowchart TB
    A(["Signup & submit Application Form"]) --> B(Join the Chingu Discord Server);
    B --> C(Choose your tier);
    C --> D(Submit your Solo Project for evaluation);
-   D --> E(Evaluator provides feedback);
+   D --> E(Evaluator DMs feedback in Discord);
    E --> F{Solo Project accepted?};
    F -- Yes --> G(Submit Voyage Signup form);
    F -- No --> H(Make requested changes);
