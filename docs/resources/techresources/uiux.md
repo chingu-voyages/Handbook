@@ -22,11 +22,6 @@ columns 1
       C["1.2 Define User Personas"]
       D["1.3 Write User Stories"]
       E["1.4 Prioritize the Feature List"]
-      space
-      B1["What problem will your app solve for its users?"]
-      C1["Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs."]
-      D1["What discrete tasks will each user need to accomplish when using your app?"]
-      E1["Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?"]
     end
     space
     block:STRUCTURE
@@ -47,5 +42,4 @@ columns 1
       P["3.3 Create Page Mockups"]
       Q["3.4 Design for Interactivity"]
     end
-  space
 ```
