@@ -54,12 +54,12 @@ flowchart LR
    C --> D["Submit your Solo Project for evaluation"];
    D --> E["Evaluator provides feedback"];
    E --> F{"Solo Project accepted?"};
-   F|Yes| G["Submit Voyage Signup form"];
-   F|No| H["Make requested changes"];
+   F -- Yes --> G["Submit Voyage Signup form"];
+   F -- No --> H["Make requested changes"];
    I["Open support ticket to inform Evaluator"];
    H --> I;
    I --> E;
-   E --> Z["End"];
+   E -----> Z["End"];
 ```
 
 ```mermaid
