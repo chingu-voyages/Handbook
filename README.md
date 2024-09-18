@@ -49,7 +49,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ```mermaid
 flowchart TB
-   A(["Signup at chingu.io & submit Application Form"]) --> B["Join the Chingu Discord community server"];
+   A(["Signup & submit Application Form"]) --> B["Join the Chingu Discord"];
    B --> C["Choose your tier"];
    C --> D["Submit your Solo Project for evaluation"];
    D --> E["Evaluator provides feedback"];
@@ -59,7 +59,7 @@ flowchart TB
    I["Open ticket to Evaluator"];
    H --> I;
    I --> E;
-   G -----> Z["End"];
+   G -----> Z(["End"]);
 ```
 
 ```mermaid
