@@ -56,7 +56,7 @@ flowchart TB
    E --> F{"Solo Project accepted?"};
    F -- Yes --> G["Submit Voyage Signup form"];
    F -- No --> H["Make requested changes"];
-   I["Open support ticket to inform Evaluator"];
+   I["Open ticket to Evaluator"];
    H --> I;
    I --> E;
    G -----> Z["End"];
