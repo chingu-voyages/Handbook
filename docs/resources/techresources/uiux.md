@@ -16,21 +16,31 @@ use to implement a website design when a UI/UX Designer isn't available.
 block-beta
 columns 1
     block:STRATEGY
-      columns 5
+      columns 6
       A["Product Strategy"]
-      B["1.1 Create an App Vision"]
-      C["1.2 Define User Personas"]
+      B["1.1 Create an App Vision</br>What problems will your app solve?"]
+      C["1.2 Define User Personas</br>Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs."]
       D["1.3 Write User Stories"]
       E["1.4 Prioritize the Feature List"]
     end
     space
     block:STRUCTURE
-      columns 5
-      G["Product Strategy"]
-      H["1.1 Create an App Vision"]
-      I["1.2 Define User Personas"]
-      J["1.3 Write User Stories"]
-      K["1.4 Prioritize the Feature List"]
+      columns 6
+      G["Product Structure"]
+      H["2.1 Outline Primary Screens"]
+      I["2.2 Map User Flow"]
+      J["2.3 Wireframe App Layout"]
+      K["2.4 Wireframe Primary Screens"]
+      L["2.5 Wireframe Interactivity"]
+    end
+    space
+    block:STYLE
+      columns 6
+      M["Product Style"]
+      N["3.1 Finalize Brand Personality"]
+      O["3.2 Create Style Guide"]
+      P["3.3 Create Page Mockups"]
+      Q["3.4 Design for Interactivity"]
     end
   space
 ```
