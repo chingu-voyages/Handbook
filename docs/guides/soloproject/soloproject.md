@@ -215,7 +215,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 All Product Owners are welcome at Chingu, regardless of whether they have training or a certification. However, participation is regulated to ensure they have the skills needed to guide Voyage teams in a effective manner.
 </br></br>
 
-> If you are a Product Owner requiring training or perhaps a refresher we recommend you consider [The Job Hackers](https://www.thejobhackers.org/). 
+> If you are a Product Owner requiring training or perhaps a refresher we recommend you consider [The Job Hackers](https://www.thejobhackers.org/).
 
 Product Owner duties and responsibilities are the same regardless of what tier they are placed in during a Voyage. For this reason PO's are't asked to choose a tier when submitting a Solo Project.
 
@@ -250,7 +250,7 @@ However, they should meet these requirements, which are the minimum needed to su
     <li>Product Owners who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
     <li>Product Owners who are trained, but not certified must shadow another Product Owner in a Voyage before they can guide their own team in a subsequent Voyage</li>
     <li>Product Owners with no training and no certification may not participate in a Voyage</li>
-    <li>If you have successfully completed the [AgileMBA program](https://www.thejobhackers.org/participant) Chingu considers you to be the same as someone who is both trained and certified.</li>
+    <li>If you have successfully completed the <a href='https://www.thejobhackers.org/participant'>AgileMBA program</a> Chingu considers you to be the same as someone who is both trained and certified.</li>
 </ul>
 </td>
 </tr>
@@ -302,7 +302,7 @@ However, they should meet these requirements, which are the minimum needed to su
     <li>Scrum Masters who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
     <li>Scrum Masters who are trained, but not certified must shadow another Scrum Master in a Voyage before they can guide their own team in a subsequent Voyage</li>
     <li>Scrum Masters with no training and no certification may May not participate in a Voyage</li>
-    <li>If you have successfully completed the [AgileMBA program](https://www.thejobhackers.org/participant) Chingu considers you to be the same as someone who is both trained and certified.</li>
+    <li>If you have successfully completed the <a href='https://www.thejobhackers.org/participant'>AgileMBA program</a> Chingu considers you to be the same as someone who is both trained and certified.</li>
 </ul>
 </td>
 </tr>
