@@ -213,6 +213,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <summary>For Product Owners</summary>
 <br/>
 All Product Owners are welcome at Chingu, regardless of whether they have training or a certification. However, participation is regulated to ensure they have the skills needed to guide Voyage teams in a effective manner.
+</br></br>
 
 > If you are a Product Owner requiring training or perhaps a refresher we recommend you consider [The Job Hackers](https://www.thejobhackers.org/). 
 
@@ -248,8 +249,8 @@ However, they should meet these requirements, which are the minimum needed to su
 <ul>
     <li>Product Owners who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
     <li>Product Owners who are trained, but not certified must shadow another Product Owner in a Voyage before they can guide their own team in a subsequent Voyage</li>
-    <li>Product Owners with no training and no certification may only shadow more experienced Product Owners in a Voyage</li>
-    <li>If you have successfully completed the [AgileMBA program](https://www.thejobhackers.org/participant/) Chingu considers you to be the same as someone who is both trained and certified.</li>
+    <li>Product Owners with no training and no certification may not participate in a Voyage</li>
+    <li>If you have successfully completed the [AgileMBA program](https://www.thejobhackers.org/participant) Chingu considers you to be the same as someone who is both trained and certified.</li>
 </ul>
 </td>
 </tr>
@@ -260,26 +261,32 @@ However, they should meet these requirements, which are the minimum needed to su
 
 <details>
 <summary>For Scrum Masters</summary>
+</br>
+All Scrum Masters are welcome at Chingu, regardless of whether they have training or a certification. However, participation is regulated to ensure they have the skills needed to guide Voyage teams in a effective manner.
+</br></br>
+
+> If you are a Scrum Master requiring training or perhaps a refresher we recommend you consider [The Job Hackers](https://www.thejobhackers.org).
+
+Scrum Master duties and responsibilities are the same regardless of what tier they are placed in during a Voyage. For this reason SM's are't asked to choose a tier when submitting a Solo Project.
+
+However, they should meet these requirements, which are the minimum needed to successfully guide a Voyage team.
 
 <table>
 <tr>
-<td><strong>Tier</strong></td>
 <td><strong>Requirements</strong></td>
 </tr>
 
 <tr>
-<td>Tier&nbsp;1</td>
-
 <td>
 <strong>Skills:</strong>
 <ul>
-    <li>Basic understanding of Scrum framework: Knowledge of key concepts, values, principles, and ceremonies.</li>
-    <li>Facilitation: Able to guide and support team meetings like daily stand-ups and retrospectives.</li>
-    <li>Communication: Clear and open communication with team members and stakeholders.</li>
-    <li>Conflict Resolution: Ability to identify conflicts within the team and resolve them effectively.</li>
-    <li>Time Management: Capability to manage meetings efficiently and keep the team on track.</li>
-    <li>Listening: Attentive listening to team members' concerns and feedback.</li>
-    <li>You have no formal training as a Scrum Master and you have not completed any certifications.</li>
+    <li>Scrum knowledge: In-depth understanding of Scrum roles, artifacts, and ceremonies.</li>
+    <li>Coaching: Ability to mentor and guide the team to improve processes and practices.</li>
+    <li>Conflict Resolution: More advanced skills in handling team conflicts and fostering a collaborative environment.</li>
+    <li>Continuous improvement: Promoting and implementing continuous improvement strategies.</li>
+    <li>Metrics and Reporting: Use metrics (e.g., velocity, burndown charts) to track and improve team performance.</li>
+    <li>Change Management: Navigating change and helping the team adapt to new circumstances.</li>
+    <li>You have completed formal Scrum Master training, but you have not completed a certification.</li>
 </ul>
 
 <strong>Tools:</strong>
@@ -292,57 +299,13 @@ However, they should meet these requirements, which are the minimum needed to su
 
 <strong>Restrictions:</strong>
 <ul>
-  <li>In a Voyage Tier 1 SM's may not lead teams. However, they will be assigned to "shadow" either a Tier 2 or a Tier 3 PO.</li>
+    <li>Scrum Masters who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
+    <li>Scrum Masters who are trained, but not certified must shadow another Scrum Master in a Voyage before they can guide their own team in a subsequent Voyage</li>
+    <li>Scrum Masters with no training and no certification may May not participate in a Voyage</li>
+    <li>If you have successfully completed the [AgileMBA program](https://www.thejobhackers.org/participant) Chingu considers you to be the same as someone who is both trained and certified.</li>
 </ul>
 </td>
 </tr>
-
-<tr>
-<td>Tier&nbsp;2</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Scrum knowledge: In-depth understanding of Scrum roles, artifacts, and ceremonies.</li>
-    <li>Coaching: Ability to mentor and guide the team to improve processes and practices.</li>
-    <li>Conflict Resolution: More advanced skills in handling team conflicts and fostering a collaborative environment.</li>
-    <li>Continuous improvement: Promoting and implementing continuous improvement strategies.</li>
-    <li>Metrics and Reporting: Use metrics (e.g., velocity, burndown charts) to track and improve team performance.</li>
-    <li>Change Management: Navigating change and helping the team adapt to new circumstances.</li>
-    <li>You have completed formal Scrum Master training, but you have not completed a certification.</li>
-
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Project Management Tools: Further proficiency in tools like Jira, Miro, ClickUp, etc..</li>
-    <li>Advanced Agile project management: Utilizing tools like those above with plugins & with the ability to customize workflows.</li>
-    <li>Collaboration tools: Use of platforms like Discord, with channels and threads, for improved team communication.</li>
-    <li>Metrics and analytics tools: Utilizing burndown charts, velocity charts, and other reports for data-driven decision making.</li>
-    <li>Visualization tools: Using tools like Miro or Lucidchart for process mapping and collaboration.</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Tier&nbsp;3</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Scrum Expertise: Use Scrum and Agile methodologies and the ability to adapt them to different teams and projects.</li>
-    <li>Leadership and Mentorship: Inspiring teams to high performance. Guiding and mentoring junior team members.</li>
-    <li>Strategic thinking: Developing strategies for improving team and organizational performance.</li>
-    <li>Metrics and data analysis: Using data analytics to gain insights and drive improvement.</li>
-    <li>Conflict Management: Understand how to resolve and prevent conflicts inside and outside the team</li>
-    <li>You have completed formal Scrum Master training and you hold a certification as a Scrum Master.</li>
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Collaboration tools: Integrating various communication, task management, and reporting tools for optimized workflows.</li>
-    <li>Data analytics tools: Utilizing advanced analytics tools and data visualization software to derive insights.</li>
-</ul>
 </td>
 </tr>
 </table>
@@ -411,7 +374,7 @@ However, they should meet these requirements, which are the minimum needed to su
     <li>Ability to build and deploy complex models</li>
     <li>Expertise in data engineering and architecture</li>
     <li>Strong problem-solving and analytical skills</li>
-    <li>Experience with machine learning algorithms and model evaluation</li>   
+    <li>Experience with machine learning algorithms and model evaluation</li>
 </ul>
 
 <strong>Tools:</strong>
@@ -430,12 +393,12 @@ However, they should meet these requirements, which are the minimum needed to su
 ### 2. Submit a project that matches your tier 👍
 
 You will need to submit a project that matches the requirements of the tier you've
-chosen then go ahead and submit it for evaluation. Your project can be one 
-you've completed on your own or as a part of a team. 
+chosen then go ahead and submit it for evaluation. Your project can be one
+you've completed on your own or as a part of a team.
 
 It **must** meet these criteria:
     
-- Your project should match the requirements of the 
+- Your project should match the requirements of the
 [tier you have chosen](#1-choose-your-tier)
 - It should be original work (not copied from someone else, including tutorials
 or AI-generated code)
