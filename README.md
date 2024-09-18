@@ -43,7 +43,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Getting Help](./docs/gettingstarted/gettinghelp.md)
 - [What to Do First](./docs/gettingstarted/whattodofirst.md)
 
-### Guides 📒
+### Onboarding 📒
 
 ---
 
@@ -61,13 +61,7 @@ flowchart TB
    G --> Z([End]);
 ```
 
-```mermaid
-graph LR
-    A["Complete your Solo Project\nPrior to 1st Voyage"] --> B["Join a Voyage\nBi-monthly (optional)"]
-    A --> C["Join in Pair Programming\nWeekly (optional)"]
-    D["Contribute to this Handbook\nAdhoc (optional)"]
-    E["Share what you've learned\nAdhoc (optional)"]
-```
+### Guides
 
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
