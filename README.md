@@ -59,7 +59,7 @@ flowchart TB
    I["Open support ticket to inform Evaluator"];
    H --> I;
    I --> E;
-   E -----> Z["End"];
+   G -----> Z["End"];
 ```
 
 ```mermaid
