@@ -44,5 +44,5 @@ columns 1
   end
   style A fill:#008000
   style G fill:#008080
-  style M fill:#008800
+  style M fill:#808000
 ```
