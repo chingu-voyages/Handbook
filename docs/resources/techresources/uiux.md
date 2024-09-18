@@ -16,7 +16,7 @@ use to implement a website design when a UI/UX Designer isn't available.
 block-beta
 columns 1
     block:STRATEGY
-      columns 5;
+      columns 5
       A["Product Strategy"];
       B["1.1 Create an App Vision"];
       C["1.2 Define User Personas"];
@@ -25,7 +25,7 @@ columns 1
     end
     space
     block:STRUCTURE
-      columns 5;
+      columns 5
       G["Product Strategy"];
       H["1.1 Create an App Vision"];
       I["1.2 Define User Personas"];
