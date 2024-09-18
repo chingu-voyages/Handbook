@@ -24,7 +24,6 @@ columns 1
       E["1.4 Prioritize the Feature List"]
       space
     end
-    space
     block:STRUCTURE
       columns 6
       G["Product Structure"]
@@ -34,7 +33,6 @@ columns 1
       K["2.4 Wireframe Primary Screens"]
       L["2.5 Wireframe Interactivity"]
     end
-    space
     block:STYLE
       columns 6
       M["Product Style"]
