@@ -23,7 +23,7 @@ columns 6
       D[1.3 Write User Stories]
       E[1.4 Prioritize the Feature List]
     end
-      block:STRATEGY
+    block:STRUCTURE
       columns 6
       G[Product Strategy]
       H["1.1 Create an App Vision"]
