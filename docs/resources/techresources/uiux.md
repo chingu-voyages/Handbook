@@ -42,5 +42,7 @@ columns 1
     Q["3.4 Design for Interactivity"]
     space
   end
-  style A fill:#969
+  style A fill:#9FE2BF
+  style G fill:#40E0D0
+  style M fill:#6495ED
 ```
