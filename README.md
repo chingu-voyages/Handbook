@@ -49,17 +49,16 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ```mermaid
 flowchart TB
-   A(["Signup & submit Application Form"]) --> B["Join the Chingu Discord"];
-   B --> C["Choose your tier"];
-   C --> D["Submit your Solo Project for evaluation"];
-   D --> E["Evaluator provides feedback"];
+   A(["Signup & submit Application Form"]) --> B("Join the Chingu Discord";
+   B --> C("Choose your tier");
+   C --> D("Submit your Solo Project for evaluation");
+   D --> E("Evaluator provides feedback");
    E --> F{"Solo Project accepted?"};
-   F -- Yes --> G["Submit Voyage Signup form"];
-   F -- No --> H["Make requested changes"];
-   I["Open ticket to Evaluator"];
-   H --> I;
+   F -- Yes --> G("Submit Voyage Signup form");
+   F -- No --> H("Make requested changes");
+   H --> I("Open ticket to Evaluator");
    I --> E;
-   G -----> Z(["End"]);
+   G --> Z(["End"]);
 ```
 
 ```mermaid
