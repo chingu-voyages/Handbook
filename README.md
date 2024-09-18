@@ -80,7 +80,7 @@ flowchart TB
 | [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Deploying your App](./docs/resources/techresources/appdeployment.md) |
 | [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md)        | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
 | [Agile Methodology 101](./docs/resources/projresources/agile101.md)                  | [Titan - User Status & Ticketing System](./docs/resources/techresources/titan.md) |
-| [Glossary](./docs/resources/glossary/glossary.md) | [UI/UX Workflow](./docs/uiux.md) |
+| [Glossary](./docs/resources/glossary/glossary.md) | [UI/UX Workflow](./docs/resouces/techresources/uiux.md) |
 
 ## Tips 💁🏽
 
