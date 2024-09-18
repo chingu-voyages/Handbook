@@ -14,7 +14,7 @@ use to implement a website design when a UI/UX Designer isn't available.
 
 ```mermaid
 block-beta
-columns 6
+columns 1
     block:STRATEGY
       columns 5;
       A["Product Strategy"];
