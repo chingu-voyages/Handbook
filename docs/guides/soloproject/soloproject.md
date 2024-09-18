@@ -44,10 +44,11 @@ intermediate (Tier 2), or experienced (Tier 3).
 <tr>
 <td>Tier&nbsp;1</td>
 <td>
-<p>This tier is for developers who are just starting out in web development.</p>
+<p>This tier is for developers who are starting out in frontend web development.</p>
 <strong>Skills:</strong>
 <ul>
     <li>Basic understanding of CSS and HTML.</li>
+    <li>Ability to create simple apps using any frontend framework such as ReactJS, SvelteJS, VueJS, Angular, Django, etc.
     <li>Familiarity with at least one programming language (Python, Javascript, PHP, Ruby, etc.)</li>
     <li>Ability to create and deploy a webpage to the Internet that dynamically interacts with events such as buttons and form fields to alter the information displayed on the screen.</li>
 </ul>
@@ -68,7 +69,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <tr>
 <td>Tier&nbsp;2</td>
 <td>
-<p>This tier is for developers who have a solid foundation in web development.</p>
+<p>This tier is for developers who have a solid foundation in frontend web development.</p>
 <strong>Skills:</strong>
 <ul>
     <li>Intermediate HTML and CSS.</li>
