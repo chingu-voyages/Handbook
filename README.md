@@ -53,10 +53,10 @@ flowchart TB
    B --> C(Choose your tier);
    C --> D(Submit an original Solo Project for evaluation);
    D --> E(Evaluator DMs feedback in Discord);
-   E --> F{Solo Project accepted?};
+   E --> F{Solo Project accepted by Evaluator?};
    F -- Yes --> G(Submit Voyage Signup form);
    F -- No --> H(Make requested changes);
-   H --> I(Open ticket to Evaluator);
+   H --> I(Open ticket to notify Evaluator);
    I --> E;
    G --> Z([End]);
 ```
