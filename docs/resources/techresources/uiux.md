@@ -22,6 +22,7 @@ columns 1
       C["1.2 Define User Personas"]
       D["1.3 Write User Stories"]
       E["1.4 Prioritize the Feature List"]
+      space
     end
     space
     block:STRUCTURE
@@ -41,5 +42,6 @@ columns 1
       O["3.2 Create Style Guide"]
       P["3.3 Create Page Mockups"]
       Q["3.4 Design for Interactivity"]
+      space
     end
 ```
