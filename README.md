@@ -49,17 +49,17 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 
 ```mermaid
 flowchart LR
-   A(["Signup at chingu.io & submit Application Form"]) --> B["Join the Chingu Discord community server"]
-   B --> C ["Choose your tier"]
-   C --> D["Submit your Solo Project for evaluation"]
-   D --> E["Evaluator provides feedback"]
-   E --> F{"Solo Project accepted?"}
-   F|Yes| G["Submit Voyage Signup form"]
-   F|No| H["Make requested changes"]
-   I["Open support ticket to inform Evaluator"]
-   H --> I
-   I --> E
-   E --> Z["End"]
+   A(["Signup at chingu.io & submit Application Form"]) --> B["Join the Chingu Discord community server"];
+   B --> C ["Choose your tier"];
+   C --> D["Submit your Solo Project for evaluation"];
+   D --> E["Evaluator provides feedback"];
+   E --> F{"Solo Project accepted?"};
+   F|Yes| G["Submit Voyage Signup form"];
+   F|No| H["Make requested changes"];
+   I["Open support ticket to inform Evaluator"];
+   H --> I;
+   I --> E;
+   E --> Z["End"];
 ```
 
 ```mermaid
