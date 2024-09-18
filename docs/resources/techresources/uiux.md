@@ -23,8 +23,9 @@ columns 6
       D["1.3 Write User Stories"];
       E["1.4 Prioritize the Feature List"];
     end
+    space
     block:STRUCTURE
-      columns 6;
+      columns 5;
       G["Product Strategy"];
       H["1.1 Create an App Vision"];
       I["1.2 Define User Personas"];
