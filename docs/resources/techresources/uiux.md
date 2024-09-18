@@ -16,20 +16,20 @@ use to implement a website design when a UI/UX Designer isn't available.
 block-beta
 columns 6
     block:STRATEGY
-      columns 6
-      A[Product Strategy]
-      B["1.1 Create an App Vision"]
-      C[1.2 Define User Personas]
-      D[1.3 Write User Stories]
-      E[1.4 Prioritize the Feature List]
+      columns 5;
+      A[Product Strategy];
+      B["1.1 Create an App Vision"];
+      C[1.2 Define User Personas];
+      D[1.3 Write User Stories];
+      E[1.4 Prioritize the Feature List];
     end
     block:STRUCTURE
-      columns 6
-      G[Product Strategy]
-      H["1.1 Create an App Vision"]
-      I[1.2 Define User Personas]
-      J[1.3 Write User Stories]
-      K[1.4 Prioritize the Feature List]
+      columns 6;
+      G[Product Strategy];
+      H["1.1 Create an App Vision"];
+      I[1.2 Define User Personas];
+      J[1.3 Write User Stories];
+      K[1.4 Prioritize the Feature List];
     end
   space
 ```
