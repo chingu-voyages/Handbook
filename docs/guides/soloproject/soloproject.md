@@ -16,11 +16,11 @@ as well as your UI/UX.
 
 ```mermaid
 graph TB
-    A[Choose your Tier] --> B{What is your role?}
+    A[<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3'>Choose your Tier</a>] --> B{What is your role?}
     B -- Scrum Master --> G
     B -- Product Owner, Developer, UI/UX Designer, or Data Scientist --> F{Do you have a project?}
-    F -- Yes --> G[Submit your Solo Project form]
-    F -- No --> H[Create a new Solo Project matching your tier]
+    F -- Yes --> G[Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'>Solo Project form</a>]
+    F -- No --> H[Create a new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-that-matches-your-tier-'>matching your tier</a>]
     H --> G
     G --> I[Evaluator DMs feedback in Discord]
     I --> J((Signup for a Voyage))
