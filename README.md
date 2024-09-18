@@ -54,9 +54,9 @@ flowchart TB
    C --> D(Submit an original</br><a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md' target='_blank'>Solo Project</a> for evaluation);
    D --> E(Evaluator DMs feedback in Discord);
    E --> F{Accepted?};
-   F -- Yes --> G(Submit Voyage Signup form);
+   F -- Yes --> G(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
    F -- No --> H(Make requested changes);
-   H --> I(Open ticket to notify Evaluator);
+   H --> I(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a> to notify Evaluator);
    I --> E;
    G --> Z([End]);
 ```
