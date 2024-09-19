@@ -46,7 +46,7 @@ columns 1
   style A fill:#117864
   style G fill:#9a7d0a
   style M fill:#21618c
-  style STRATEGY fill:#a3e4d7
+  style STRATEGY fill:#76d7c4
   style STRUCTURE fill:#f9e79f
   style STYLE fill:#aed6f1
 ```
