@@ -32,6 +32,7 @@ columns 1
     K["2.4 Wireframe Primary Screens"]
     L["2.5 Wireframe Interactivity"]
   end
+  STRATEGY --> STRUCTURE
   block:STYLE
     columns 2
     M["3. Product Style"]:2
@@ -40,7 +41,6 @@ columns 1
     P["3.3 Create Page Mockups"]
     Q["3.4 Design for Interactivity"]
   end
-  STRATEGY --> STRUCTURE
   STRUCTURE --> STYLE
   style A fill:#008000
   style G fill:#008080
