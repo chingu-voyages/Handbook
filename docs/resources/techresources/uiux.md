@@ -61,8 +61,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [How To Write A Vision Statement In 4 Steps + Tips & Examples](https://www.cascade.app/blog/write-good-vision-statement)
 ---
 #### 1.2 Define the User Personas
 
@@ -95,8 +94,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Define & Prioritize MVP Features](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-)
 ---
 ### 2. Product Structure
 
