@@ -22,8 +22,9 @@ columns 1
     C["1.2 Define User Personas"]
     D["1.3 Write User Stories"]
     E["1.4 Prioritize the Feature List"]
+    space
   end
-  blockArrowA<["&nbsp;&nbsp;"]>(down)
+  blockArrowA<["&nbsp;&nbsp;&nbsp;&nbsp;"]>(down)
   block:STRUCTURE
     columns 2
     G["2. Product Structure"]:2
@@ -33,7 +34,7 @@ columns 1
     K["2.4 Wireframe Primary Screens"]
     L["2.5 Wireframe Interactivity"]
   end
-  blockArrowB<["&nbsp;&nbsp;"]>(down)
+  blockArrowB<["&nbsp;&nbsp;&nbsp;&nbsp;"]>(down)
   block:STYLE
     columns 2
     M["3. Product Style"]:2
@@ -41,6 +42,7 @@ columns 1
     O["3.2 Create Style Guide"]
     P["3.3 Create Page Mockups"]
     Q["3.4 Design for Interactivity"]
+    space
   end
   style A fill:#008000
   style G fill:#008080
