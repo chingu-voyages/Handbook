@@ -242,6 +242,10 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
 graph LR
+  STEP1(("1"))
+  STEP2(("2"))
+  STEP3(("3"))
+  
   SPRINT1("Sprint 1")
   SPRINT2("Sprint 2")
   SPRINT1-->SPRINT2
@@ -250,11 +254,9 @@ graph LR
   SPRINT6("Sprint 6")
   SPRINT35-->SPRINT6
 
-  STEP1(("1"))
+  
   STEP1-- Meet teammates & schedule Kickoff ---SPRINT1
-  STEP2(("2"))
   STEP2-- Conduct Kickoff ---SPRINT1
-  STEP3(("3"))
   STEP3-- Update readme.md with your info ---SPRINT1
 
   STEP6(("6"))
