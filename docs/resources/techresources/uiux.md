@@ -45,10 +45,22 @@ columns 1
   STRUCTURE --> STYLE
   style A fill:#0e6251
   style B fill:#148f77
-  style G fill:#9a7d0a
-  style M fill:#21618c
-  style STRUCTURE fill:#f9e79f
-  style STYLE fill:#aed6f1
+  style C fill:#148f77
+  style D fill:#148f77
+  style E fill:#148f77
+
+  style G fill:#7d6608
+  style H fill:#b7950b
+  style I fill:#b7950b
+  style J fill:#b7950b
+  style K fill:#b7950b
+  style L fill:#b7950b
+
+  style M fill:#1b4f72
+  style N fill:#2874a6
+  style O fill:#2874a6
+  style P fill:#2874a6
+  style Q fill:#2874a6
 ```
 ### 1. Product Strategy
 
