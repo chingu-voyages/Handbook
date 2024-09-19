@@ -121,11 +121,10 @@ columns 1
 ---
 #### 2.2 Map the User Flow
 
-**_Objective:_** For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
+**_Objective:_** Map the desired user flow to make sure it is included in your design.
 
 **_How?_**
-1. ...
-2. ...
+1. For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
 
 **_Resources:_**
 
@@ -134,11 +133,10 @@ columns 1
 ---
 #### 2.3 Wireframe the App Layout
 
-**_Objective:_** What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
+**_Objective:_** Create a sketch to identify common parts of your UI/UX.
 
 **_How?_**
-1. ...
-2. ...
+1. What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
 
 **_Resources:_**
 
@@ -147,11 +145,10 @@ columns 1
 ---
 #### 2.4 Wireframe the Primary Screens
 
-**_Objective:_** Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
+**_Objective:_** Create a low-fidelity sketch to show what content and components are on each page.
 
 **_How?_**
-1. ...
-2. ...
+1. Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
 
 **_Resources:_**
 
@@ -160,11 +157,10 @@ columns 1
 ---
 #### 2.5 Wireframe the Interactivity
 
-**_Objective:_** Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
+**_Objective:_** Identify how application state changes in response to user actions.
 
 **_How?_**
-1. ...
-2. ...
+1. Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
 
 **_Resources:_**
 
@@ -175,11 +171,10 @@ columns 1
 
 #### 3.1 Finalize your Brand Personality
 
-**_Objective:_** Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
+**_Objective:_** Choose a unique and descriptive name for your app.
 
 **_How?_**
-1. ...
-2. ...
+1. Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
 
 **_Resources:_**
 
@@ -188,11 +183,10 @@ columns 1
 ---
 #### 3.2 Create a Visual Style Guide
 
-**_Objective:_** Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
+**_Objective:_** Create a theme that gives your app a consistent look and feel.
 
 **_How?_**
-1. ...
-2. ...
+1. Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
 
 **_Resources:_**
 
@@ -201,11 +195,10 @@ columns 1
 ---
 #### 3.3 Create your Page Mockups
 
-**_Objective:_** Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
+**_Objective:_** Apply your theme to your wireframe (optional).
 
 **_How?_**
-1. ...
-2. ...
+1. Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
 
 **_Resources:_**
 
@@ -214,11 +207,10 @@ columns 1
 ---
 #### 3.4 Design for Interactivity
 
-**_Objective:_** Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
+**_Objective:_** Refine your theme with styling to be applied based on user actions.
 
 **_How?_**
-1. ...
-2. ...
+1. Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
 
 **_Resources:_**
 
