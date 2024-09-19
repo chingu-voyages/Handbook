@@ -107,8 +107,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
 ---
 #### 2.2 Map the User Flow
 
@@ -119,8 +118,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
 ---
 #### 2.3 Wireframe the App Layout
 
@@ -132,7 +130,6 @@ columns 1
 **_Resources:_**
 
 * [Layout basics](https://m3.material.io/foundations/layout/understanding-layout/overview)
-
 ---
 #### 2.4 Wireframe the Primary Screens
 
@@ -143,8 +140,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Low Fidelity Wireframes](https://alvarotrigo.com/blog/low-fidelity-wireframes/)
 ---
 #### 2.5 Wireframe the Interactivity
 
@@ -168,8 +164,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [How to choose the perfect name for your app](https://www.goodbarber.com/blog/how-to-choose-the-perfect-name-for-your-app-a696/)
 ---
 #### 3.2 Create a Visual Style Guide 
 
@@ -191,8 +186,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* N/a
 ---
 #### 3.4 Design for Interactivity
 
