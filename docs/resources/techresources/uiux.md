@@ -17,10 +17,7 @@ block-beta
 columns 1
   block:STRATEGY
     columns 2
-    A["1. Product Strategy"]
-    space
-    space
-    space
+    A["1. Product Strategy"]:2
     B["1.1 Create an App Vision"]
     C["1.2 Define User Personas"]
     D["1.3 Write User Stories"]
@@ -29,8 +26,7 @@ columns 1
   blockArrowA<["&nbsp;"]>(down)
   block:STRUCTURE
     columns 2
-    G["2. Product Structure"]
-    space
+    G["2. Product Structure"]:2
     H["2.1 Outline Primary Screens"]
     I["2.2 Map User Flow"]
     J["2.3 Wireframe App Layout"]
@@ -40,8 +36,7 @@ columns 1
   blockArrowB<["&nbsp;"]>(down)
   block:STYLE
     columns 2
-    M["3. Product Style"]
-    space
+    M["3. Product Style"]:2
     N["3.1 Finalize Brand Personality"]
     O["3.2 Create Style Guide"]
     P["3.3 Create Page Mockups"]
