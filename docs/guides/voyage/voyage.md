@@ -243,8 +243,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ```mermaid
 block-beta
 columns 7
-  SPRINT1 space SPRINT2 space SPRINT35 space SPRINT6
-  SPRINT1("Sprint 1")-->SPRINT2("Sprint 2")-->SPRINT35("Sprints 3-5")-->SPRINT6("Sprint 6")
+  SPRINT1("Sprint 1") space SPRINT2("Sprint 2") space SPRINT35("Sprints 3-5") space SPRINT6("Sprint 6")
+  SPRINT1-->SPRINT2-->SPRINT35-->SPRINT6
 ```
 
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
