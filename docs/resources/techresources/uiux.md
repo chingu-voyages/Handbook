@@ -24,7 +24,7 @@ columns 1
     E["1.4 Prioritize the Feature List"]
     space
   end
-  blockArrowA<[" "]>(down)
+  blockArrowA<["&nbsp;"]>(down)
   block:STRUCTURE
     columns 6
     G["Product Structure"]
@@ -34,7 +34,7 @@ columns 1
     K["2.4 Wireframe Primary Screens"]
     L["2.5 Wireframe Interactivity"]
   end
-  blockArrowB<["&nbsp"]>(down)
+  blockArrowB<["&nbsp;"]>(down)
   block:STYLE
     columns 6
     M["Product Style"]
@@ -47,6 +47,6 @@ columns 1
   style A fill:#008000
   style G fill:#008080
   style M fill:#808000
-  style blockArrowA fill:FFD700,stroke-width:1px
-  style blockArrowB fill:FFD700,stroke-width:4px
+  style blockArrowA fill:#FFD700,stroke-width:2px
+  style blockArrowB fill:#FFD700,stroke-width:2px
 ```
