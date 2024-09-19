@@ -22,9 +22,9 @@ graph TB
     F -- Yes --> G(Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'>Solo Project form</a>)
     F -- No --> H(Create a new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-that-matches-your-tier-'>matching your tier</a>)
     H --> G
-    G --> K(Evaluator DMs feedback in Discord)
+    G --> J(Evaluator DMs feedback in Discord)
 
-    K --> J{Accepted?};
+    J --> K{Accepted?};
     J -- Yes --> K(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
     J -- No --> L(Make requested changes);
     H --> M(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a> to notify Evaluator);
