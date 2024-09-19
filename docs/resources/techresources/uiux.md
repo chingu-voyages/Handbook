@@ -19,6 +19,8 @@ columns 1
     columns 2
     A["1. Product Strategy"]
     space
+    space
+    space
     B["1.1 Create an App Vision"]
     C["1.2 Define User Personas"]
     D["1.3 Write User Stories"]
