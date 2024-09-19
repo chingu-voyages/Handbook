@@ -248,6 +248,12 @@ columns 7
   space
 ```
 
+```mermaid
+block-beta
+columns 7
+  SPRINT1("Sprint 1")-->SPRINT2("Sprint 2")-->SPRINT35("Sprints 3-5")-->SPRINT6("Sprint 6")
+```
+
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
 
 You will also be provided with a GitHub repo in the `chingu-voyages` 
