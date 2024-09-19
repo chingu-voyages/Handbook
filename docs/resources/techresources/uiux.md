@@ -33,6 +33,7 @@ columns 1
     L["2.5 Wireframe Interactivity"]
   end
   STRATEGY --> STRUCTURE
+  space
   block:STYLE
     columns 2
     M["3. Product Style"]:2
