@@ -52,7 +52,7 @@ columns 1
 ```
 ### 1. Product Strategy
 
-1.1 **_Cast your App Vision_**
+#### 1.1 Cast your App Vision
 
 **_Objective:_** What problem will your app solve for its users?
 
