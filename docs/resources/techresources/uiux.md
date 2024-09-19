@@ -65,54 +65,162 @@ columns 1
 * ...
 * ...
 
-1.2 **_Define the User Personas_**
+#### 1.2 Define the User Personas
 
-Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
+**_Objective:_** Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
 
-1.3 **_Write the User Stories_**
+**_How?_**
+1. ...
+2. ...
 
-What discrete tasks will each user need to accomplish when using your app?
+**_Resources:_**
 
-1.4 **_Prioritize the Feature List_**
+* ...
+* ...
 
-Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
+#### 1.3 Write the User Stories
+
+**_Objective:_** What discrete tasks will each user need to accomplish when using your app?
+
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
+
+#### 1.4 Prioritize the Feature List
+
+**_Objective:_** Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
+
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
 
 ### 2. Product Structure
 
-2.1 **_Outline the Primary Screens_**
+#### 2.1 Outline the Primary Screens
 
-What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
+**_Objective:_** What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
 
-2.2 **_Map the User Flow_**
+**_How?_**
+1. ...
+2. ...
 
-For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
+**_Resources:_**
 
-2.3 **_Wireframe the App Layout_**
+* ...
+* ...
 
-What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
+#### 2.2 Map the User Flow
 
-2.4 **_Wireframe the Primary Screens_**
+**_Objective:_** For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
 
-Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
+**_How?_**
+1. ...
+2. ...
 
-2.5 **_Wireframe the Interactivity_**
+**_Resources:_**
 
-Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
+* ...
+* ...
+
+#### 2.3 Wireframe the App Layout
+
+**_Objective:_** What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
+
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
+
+#### 2.4 Wireframe the Primary Screens
+
+**_Objective:_** Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
+
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
+
+#### 2.5 Wireframe the Interactivity
+
+**_Objective:_** Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
+
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
 
 ### 3. Product Style
 
-3.1 **_Finalize your Brand Personality_**
+#### 3.1 Finalize your Brand Personality
 
-Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
+**_Objective:_** Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
 
-3.2 **_Create a Visual Style Guide_**
+**_How?_**
+1. ...
+2. ...
 
-Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
+**_Resources:_**
 
-3.3 **_Create your Page Mockups_**
+* ...
+* ...
 
-Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
+#### 3.2 Create a Visual Style Guide
 
-3.4 **_Design for Interactivity_**
+**_Objective:_** Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
 
-Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
+
+#### 3.3 Create your Page Mockups
+
+**_Objective:_** Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
+
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
+
+#### 3.4 Design for Interactivity
+
+**_Objective:_** Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
+
+**_How?_**
+1. ...
+2. ...
+
+**_Resources:_**
+
+* ...
+* ...
