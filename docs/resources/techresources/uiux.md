@@ -61,6 +61,10 @@ columns 1
   style O fill:#2874a6
   style P fill:#2874a6
   style Q fill:#2874a6
+
+  style STRATEGY fill:#b3b6b7
+  style STRUCTURE fill:#b3b6b7
+  style STYLE fill:#b3b6b7
 ```
 ### 1. Product Strategy
 
