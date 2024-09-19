@@ -242,7 +242,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
 block-beta
-columns 6
+columns 8
 SPRINT1("Sprint 1") space SPRINT2("Sprint 2") space SPRINT35("Sprints 3-5") space SPRINT6("Sprint 6")
 SPRINT1-->SPRINT2-->SPRINT35-->SPRINT6
 ```
