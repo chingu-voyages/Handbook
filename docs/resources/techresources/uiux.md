@@ -49,12 +49,12 @@ columns 1
   style D fill:#148f77
   style E fill:#148f77
 
-  style G fill:#7d6608
-  style H fill:#b7950b
-  style I fill:#b7950b
-  style J fill:#b7950b
-  style K fill:#b7950b
-  style L fill:#b7950b
+  style G fill:#7e5109
+  style H fill:#b9770e
+  style I fill:#b9770e
+  style J fill:#b9770e
+  style K fill:#b9770e
+  style L fill:#b9770e
 
   style M fill:#1b4f72
   style N fill:#2874a6
