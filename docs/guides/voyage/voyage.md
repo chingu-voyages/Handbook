@@ -118,7 +118,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     </tr>
     <tr>
       <td><strong>UI/UX Designer</strong></td>
-      <td>UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. </td>
+      <td>UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. If you are in a Voyage team without a UI/UX Designer check out <a href="../../resources/techresources/uiux.md">this guide</a> your team can use to perform this function.</td>
     </tr>
     <tr>
       <td><strong>Data Scientist</strong></td>
