@@ -43,10 +43,12 @@ columns 1
     Q["3.4 Design for Interactivity"]
   end
   STRUCTURE --> STYLE
-  style A fill:#148f77
-  style G fill:#008080
-  style M fill:#808000
+  style A fill:#117864
+  style G fill:#9a7d0a
+  style M fill:#21618c
   style STRATEGY fill:#a3e4d7
+  style STRUCTURE fill:#f9e79f
+  style STYLE fill:#aed6f1
 ```
 ### 1. Product Strategy
 
