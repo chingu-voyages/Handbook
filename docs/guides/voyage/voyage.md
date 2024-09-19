@@ -256,6 +256,9 @@ graph LR
   STEP2-- Conduct Kickoff ---SPRINT1
   STEP3(("3"))
   STEP3-- Update readme.md with your info ---SPRINT1
+
+  STEP6(("6"))
+  STEP6-- Create Product Backlog ---SPRINT2
 ```
 
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
