@@ -241,7 +241,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ![How it Works](./assets/Voyage_Project_How_it_Works.png)
 
 ```mermaid
-graph LR
+flowchart LR
   subgraph A
     direction LR
     STEP1(("1"))
