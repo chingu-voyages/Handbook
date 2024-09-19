@@ -24,12 +24,12 @@ graph TB
     H --> G
     G --> J(Evaluator DMs feedback in Discord)
     J --> K{Accepted?};
-    K -- Yes --> K(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
-    K -- No --> L(Make requested changes);
-    H --> M(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a> to notify Evaluator);
-    M --> I;
+    K -- Yes --> L(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
+    K -- No --> M(Make requested changes);
+    M --> N(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a> to notify Evaluator);
+    N --> J;
 
-    K --> Z([End]);
+    L --> Z([End]);
 ```
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
