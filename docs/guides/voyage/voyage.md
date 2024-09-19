@@ -210,6 +210,10 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
      All participants in a team will be from the same tier. This is the tier you selected on the [Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
 
+     * Tier 1: Developers, plus Agile Product Owners and/or Scrum Masters if they are available
+     * Tier 2: All roles
+     * Tier 3: All roles
+
   2. Timezone
 
      We try to match teams so no two teammates will be more than 2 timezones away from one another. This makes it easier to find times for meetings and pair programming sessions.
