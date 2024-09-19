@@ -33,6 +33,7 @@ columns 1
     K["2.4 Wireframe Primary Screens"]
     L["2.5 Wireframe Interactivity"]
   end
+  space
   block:STYLE
     columns 2
     M["3. Product Style"]:2
@@ -42,6 +43,7 @@ columns 1
     Q["3.4 Design for Interactivity"]
     space
   end
+  space
   STRATEGY --> STRUCTURE
   STRUCTURE --> STYLE
   style A fill:#008000
