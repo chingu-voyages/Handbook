@@ -21,7 +21,8 @@ graph TB
     B -- Product Owner, Developer, UI/UX Designer, or Data Scientist --> F{Do you have a project?}
     F -- Yes --> G(Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'>Solo Project form</a>)
     F -- No --> H(Create a new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-that-matches-your-tier-'>matching your tier</a>)
-    H --> K(Evaluator DMs feedback in Discord)
+    H --> G
+    G --> K(Evaluator DMs feedback in Discord)
 
     K --> J{Accepted?};
     J -- Yes --> K(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
