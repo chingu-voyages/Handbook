@@ -54,11 +54,10 @@ columns 1
 
 #### 1.1 Cast your App Vision
 
-**_Objective:_** What problem will your app solve for its users?
+**_Objective:_** Define the problem to be solved and the value the app will provide to its users.
 
 **_How?_**
-1. ...
-2. ...
+1. What problem will your app solve for its users?
 
 **_Resources:_**
 
@@ -67,11 +66,10 @@ columns 1
 ---
 #### 1.2 Define the User Personas
 
-**_Objective:_** Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
+**_Objective:_** Define the types of users who will be using the app.
 
 **_How?_**
-1. ...
-2. ...
+1. Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
 
 **_Resources:_**
 
@@ -80,11 +78,10 @@ columns 1
 ---
 #### 1.3 Write the User Stories
 
-**_Objective:_** What discrete tasks will each user need to accomplish when using your app?
+**_Objective:_** Define the functionality to be implemented.
 
 **_How?_**
-1. ...
-2. ...
+1. What discrete tasks will each user need to accomplish when using your app?
 
 **_Resources:_**
 
@@ -96,8 +93,7 @@ columns 1
 **_Objective:_** Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
 
 **_How?_**
-1. ...
-2. ...
+1. Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
 
 **_Resources:_**
 
@@ -108,11 +104,10 @@ columns 1
 
 #### 2.1 Outline the Primary Screens
 
-**_Objective:_** What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
+**_Objective:_** Define how the pages are to be organized.
 
 **_How?_**
-1. ...
-2. ...
+1. What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
 
 **_Resources:_**
 
