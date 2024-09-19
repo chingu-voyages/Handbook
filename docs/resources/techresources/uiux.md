@@ -57,7 +57,7 @@ columns 1
 **_Objective:_** Define the problem to be solved and the value the app will provide to its users.
 
 **_How?_**
-1. What problem will your app solve for its users?
+* What problem will your app solve for its users?
 
 **_Resources:_**
 
@@ -68,7 +68,7 @@ columns 1
 **_Objective:_** Define the types of users who will be using the app.
 
 **_How?_**
-1. Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
+* Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
 
 **_Resources:_**
 
@@ -79,7 +79,7 @@ columns 1
 **_Objective:_** Define the functionality to be implemented.
 
 **_How?_**
-1. What discrete tasks will each user need to accomplish when using your app?
+* What discrete tasks will each user need to accomplish when using your app?
 
 **_Resources:_**
 
@@ -90,7 +90,7 @@ columns 1
 **_Objective:_** Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
 
 **_How?_**
-1. Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
+* Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
 
 **_Resources:_**
 
@@ -103,7 +103,7 @@ columns 1
 **_Objective:_** Define how the pages are to be organized.
 
 **_How?_**
-1. What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
+* What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
 
 **_Resources:_**
 
@@ -114,7 +114,7 @@ columns 1
 **_Objective:_** Map the desired user flow to make sure it is included in your design.
 
 **_How?_**
-1. For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
+* For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
 
 **_Resources:_**
 
@@ -125,7 +125,7 @@ columns 1
 **_Objective:_** Create a sketch to identify common parts of your UI/UX.
 
 **_How?_**
-1. What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
+* What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
 
 **_Resources:_**
 
@@ -136,7 +136,7 @@ columns 1
 **_Objective:_** Create a low-fidelity sketch to show what content and components are on each page.
 
 **_How?_**
-1. Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
+* Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
 
 **_Resources:_**
 
@@ -147,7 +147,7 @@ columns 1
 **_Objective:_** Identify how application state changes in response to user actions.
 
 **_How?_**
-1. Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
+* Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
 
 **_Resources:_**
 
@@ -160,7 +160,7 @@ columns 1
 **_Objective:_** Choose a unique and descriptive name for your app.
 
 **_How?_**
-1. Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
+* Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
 
 **_Resources:_**
 
@@ -171,7 +171,7 @@ columns 1
 **_Objective:_** Create a theme that gives your app a consistent look and feel.
 
 **_How?_**
-1. Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
+* Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
 
 **_Resources:_**
 
@@ -182,7 +182,7 @@ columns 1
 **_Objective:_** Apply your theme to your wireframe (optional).
 
 **_How?_**
-1. Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
+* Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
 
 **_Resources:_**
 
@@ -193,7 +193,7 @@ columns 1
 **_Objective:_** Refine your theme with styling to be applied based on user actions.
 
 **_How?_**
-1. Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
+* Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
 
 **_Resources:_**
 
