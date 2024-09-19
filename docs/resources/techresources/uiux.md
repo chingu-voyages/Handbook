@@ -47,6 +47,6 @@ columns 1
   style A fill:#008000
   style G fill:#008080
   style M fill:#808000
-  style blockArrowA fill:#FFD700,stroke-width:2px
-  style blockArrowB fill:#FFD700,stroke-width:2px
+  style blockArrowA fill:#FFD700,stroke:#FFD700,stroke-width:2px
+  style blockArrowB fill:#FFD700,stroke:#FFD700,stroke-width:2px
 ```
