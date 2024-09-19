@@ -44,6 +44,7 @@ columns 1
     Q["3.4 Design for Interactivity"]
     space
   end
+  STRUCTURE --> STYLE
   style A fill:#008000
   style G fill:#008080
   style M fill:#808000
