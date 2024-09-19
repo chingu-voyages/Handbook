@@ -64,7 +64,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 1.2 Define the User Personas
 
 **_Objective:_** Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
@@ -77,7 +77,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 1.3 Write the User Stories
 
 **_Objective:_** What discrete tasks will each user need to accomplish when using your app?
@@ -90,7 +90,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 1.4 Prioritize the Feature List
 
 **_Objective:_** Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
@@ -103,7 +103,7 @@ columns 1
 
 * ...
 * ...
-
+---
 ### 2. Product Structure
 
 #### 2.1 Outline the Primary Screens
@@ -118,7 +118,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 2.2 Map the User Flow
 
 **_Objective:_** For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
@@ -131,7 +131,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 2.3 Wireframe the App Layout
 
 **_Objective:_** What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
@@ -144,7 +144,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 2.4 Wireframe the Primary Screens
 
 **_Objective:_** Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
@@ -157,7 +157,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 2.5 Wireframe the Interactivity
 
 **_Objective:_** Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
@@ -170,7 +170,7 @@ columns 1
 
 * ...
 * ...
-
+---
 ### 3. Product Style
 
 #### 3.1 Finalize your Brand Personality
@@ -185,7 +185,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 3.2 Create a Visual Style Guide
 
 **_Objective:_** Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
@@ -198,7 +198,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 3.3 Create your Page Mockups
 
 **_Objective:_** Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
@@ -211,7 +211,7 @@ columns 1
 
 * ...
 * ...
-
+---
 #### 3.4 Design for Interactivity
 
 **_Objective:_** Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
