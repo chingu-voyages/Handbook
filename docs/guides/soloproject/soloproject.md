@@ -256,7 +256,6 @@ However, they should meet these requirements, which are the minimum needed to su
     <li>Product Owners who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
     <li>Product Owners who are trained, but not certified must shadow another Product Owner in a Voyage before they can guide their own team in a subsequent Voyage</li>
     <li>Product Owners with no training and no certification may not participate in a Voyage</li>
-    <li>If you have successfully completed the <a href='https://www.thejobhackers.org/participant'>AgileMBA program</a> Chingu considers you to be the same as someone who is both trained and certified.</li>
 </ul>
 </td>
 </tr>
@@ -308,7 +307,6 @@ However, they should meet these requirements, which are the minimum needed to su
     <li>Scrum Masters who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
     <li>Scrum Masters who are trained, but not certified must shadow another Scrum Master in a Voyage before they can guide their own team in a subsequent Voyage</li>
     <li>Scrum Masters with no training and no certification may May not participate in a Voyage</li>
-    <li>If you have successfully completed the <a href='https://www.thejobhackers.org/participant'>AgileMBA program</a> Chingu considers you to be the same as someone who is both trained and certified.</li>
 </ul>
 </td>
 </tr>
