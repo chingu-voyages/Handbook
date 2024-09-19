@@ -73,8 +73,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [How to create a Persona](https://xtensio.com/how-to-create-a-persona/)
 ---
 #### 1.3 Write the User Stories
 
@@ -85,8 +84,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Agile Methodology 101](https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/projresources/agile101.md)
 ---
 #### 1.4 Prioritize the Feature List
 
