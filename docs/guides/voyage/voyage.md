@@ -242,7 +242,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ```mermaid
 graph LR
-  subgraph ONE[""]
+  subgraph ""
     direction LR
     STEP1(("1"))
     STEP2(("2"))
@@ -257,7 +257,7 @@ graph LR
   end
 
   direction LR
-    subgraph TWO[""]
+    subgraph ""
     SPRINT1("Sprint 1")
     SPRINT2("Sprint 2")
     SPRINT1-->SPRINT2
