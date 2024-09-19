@@ -32,7 +32,7 @@ columns 1
     K["2.4 Wireframe Primary Screens"]
     L["2.5 Wireframe Interactivity"]
   end
-  STRATEGY --> STRUCTURE
+    blockArrowId6<["&nbsp;&nbsp;&nbsp;"]>(down)
   space
   block:STYLE
     columns 2
