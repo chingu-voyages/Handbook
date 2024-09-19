@@ -68,7 +68,8 @@ columns 1
 **_Objective:_** Define the types of users who will be using the app.
 
 **_How?_**
-* Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
+* Who, specifically, will use the app? 
+* Name them, and then as you design your site be sure to consider their wants and needs.
 
 **_Resources:_**
 
@@ -87,10 +88,11 @@ columns 1
 ---
 #### 1.4 Prioritize the Feature List
 
-**_Objective:_** Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
+**_Objective:_** Define user stories
 
 **_How?_**
-* Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
+* Which user stories are core to your app’s purpose? 
+* What can you reasonably expect to achieve in a six-week voyage?
 
 **_Resources:_**
 
@@ -103,7 +105,8 @@ columns 1
 **_Objective:_** Define how the pages are to be organized.
 
 **_How?_**
-* What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
+* What views, or pages, will your app need? 
+* What should be displayed and/or what actions should be available for each view?
 
 **_Resources:_**
 
@@ -125,7 +128,8 @@ columns 1
 **_Objective:_** Create a sketch to identify common parts of your UI/UX.
 
 **_How?_**
-* What components (header, footer, etc.) will be used again and again on every page? How should they be laid out? Create a sketch!
+* What components (header, footer, etc.) will be used again and again on every page? 
+* How should they be laid out? Create a sketch!
 
 **_Resources:_**
 
@@ -136,7 +140,8 @@ columns 1
 **_Objective:_** Create a low-fidelity sketch to show what content and components are on each page.
 
 **_How?_**
-* Now lay out the relevant content and components for each of your app’s pages. Again, a low-fidelity sketch is enough to get started.
+* Now lay out the relevant content and components for each of your app’s pages. 
+* Again, a low-fidelity sketch is enough to get started.
 
 **_Resources:_**
 
