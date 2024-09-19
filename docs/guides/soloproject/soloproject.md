@@ -30,7 +30,7 @@ graph TB
     H --> M(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a> to notify Evaluator);
     M --> I;
 
-   J --> Z([End]);
+    K --> Z([End]);
 ```
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
