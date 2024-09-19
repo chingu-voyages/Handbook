@@ -24,7 +24,6 @@ columns 1
     E["1.4 Prioritize the Feature List"]
     space
   end
-  blockArrowA<["&nbsp;&nbsp;&nbsp;&nbsp;"]>(down)
   block:STRUCTURE
     columns 2
     G["2. Product Structure"]:2
