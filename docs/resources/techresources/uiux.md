@@ -17,30 +17,30 @@ block-beta
 columns 1
   block:STRATEGY
     columns 2
-    A["1. Product Strategy"]:2
-    B["1.1 Create an App Vision"]
-    C["1.2 Define User Personas"]
-    D["1.3 Write User Stories"]
-    E["1.4 Prioritize the Feature List"]
+    A("1. Product Strategy"):2
+    B("1.1 Create an App Vision")
+    C("1.2 Define User Personas")
+    D("1.3 Write User Stories")
+    E("1.4 Prioritize the Feature List")
   end
   block:STRUCTURE
     columns 2
-    G["2. Product Structure"]:2
-    H["2.1 Outline Primary Screens"]
-    I["2.2 Map User Flow"]
-    J["2.3 Wireframe App Layout"]
-    K["2.4 Wireframe Primary Screens"]
-    L["2.5 Wireframe Interactivity"]
+    G("2. Product Structure"):2
+    H("2.1 Outline Primary Screens")
+    I("2.2 Map User Flow")
+    J("2.3 Wireframe App Layout")
+    K("2.4 Wireframe Primary Screens")
+    L("2.5 Wireframe Interactivity")
   end
-    blockArrowId6<["&nbsp;&nbsp;&nbsp;"]>(down)
+  STRATEGY --> STRUCTURE
   space
   block:STYLE
     columns 2
-    M["3. Product Style"]:2
-    N["3.1 Finalize Brand Personality"]
-    O["3.2 Create Style Guide"]
-    P["3.3 Create Page Mockups"]
-    Q["3.4 Design for Interactivity"]
+    M("3. Product Style"):2
+    N("3.1 Finalize Brand Personality")
+    O("3.2 Create Style Guide")
+    P("3.3 Create Page Mockups")
+    Q("3.4 Design for Interactivity")
   end
   STRUCTURE --> STYLE
   style A fill:#0e6251
