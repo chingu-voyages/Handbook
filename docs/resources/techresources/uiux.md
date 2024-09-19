@@ -42,7 +42,6 @@ columns 1
     P["3.3 Create Page Mockups"]
     Q["3.4 Design for Interactivity"]
   end
-  space
   STRATEGY --> STRUCTURE
   STRUCTURE --> STYLE
   style A fill:#008000
