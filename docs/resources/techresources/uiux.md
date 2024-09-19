@@ -181,7 +181,7 @@ columns 1
 * ...
 * ...
 ---
-#### 3.2 Create a Visual Style Guide
+#### 3.2 Create a Visual Style Guide 
 
 **_Objective:_** Create a theme that gives your app a consistent look and feel.
 
