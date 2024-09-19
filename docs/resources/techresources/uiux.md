@@ -50,7 +50,7 @@ columns 1
   style blockArrowA fill:#FFD700,stroke:#FFD700,stroke-width:2px
   style blockArrowB fill:#FFD700,stroke:#FFD700,stroke-width:2px
 ```
-1. Product Strategy
+### 1. Product Strategy
 
 1.1 **_Cast your App Vision_** - What problem will your app solve for its users?
 
@@ -60,7 +60,7 @@ columns 1
 
 1.4 **_Prioritize the Feature List_** - Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
 
-2. Product Structure
+### 2. Product Structure
 
 2.1 **_Outline the Primary Screens_** - What views, or pages, will your app need? What should be displayed and/or what actions should be available for each view?
 
@@ -72,7 +72,7 @@ columns 1
 
 2.5 **_Wireframe the Interactivity_** - Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
 
-3. Product Style
+### 3. Product Style
 
 3.1 **_Finalize your Brand Personality_** - Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
 
