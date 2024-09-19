@@ -135,8 +135,8 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Layout basics](https://m3.material.io/foundations/layout/understanding-layout/overview)
+
 ---
 #### 2.4 Wireframe the Primary Screens
 
@@ -159,8 +159,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [States](https://m3.material.io/foundations/interaction/states/overview)
 ---
 ### 3. Product Style
 
@@ -185,8 +184,7 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Style Guide](https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices)
 ---
 #### 3.3 Create your Page Mockups
 
@@ -209,5 +207,5 @@ columns 1
 
 **_Resources:_**
 
-* ...
-* ...
+* [Inputs](https://m3.material.io/foundations/interaction/inputs)
+* [Selection](https://m3.material.io/foundations/interaction/selection)
