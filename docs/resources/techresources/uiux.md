@@ -52,13 +52,21 @@ columns 1
 ```
 ### 1. Product Strategy
 
-1.1 **_Cast your App Vision_** - What problem will your app solve for its users?
+1.1 **_Cast your App Vision_**
 
-1.2 **_Define the User Personas_** - Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
+What problem will your app solve for its users?
 
-1.3 **_Write the User Stories_** - What discrete tasks will each user need to accomplish when using your app?
+1.2 **_Define the User Personas_**
 
-1.4 **_Prioritize the Feature List_** - Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
+Who, specifically, will use the app? Name them, and then as you design your site be sure to consider their wants and needs.
+
+1.3 **_Write the User Stories_**
+
+What discrete tasks will each user need to accomplish when using your app?
+
+1.4 **_Prioritize the Feature List_**
+
+Which user stories are core to your app’s purpose? What can you reasonably expect to achieve in a six-week voyage?
 
 ### 2. Product Structure
 
