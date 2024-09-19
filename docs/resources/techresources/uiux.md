@@ -23,7 +23,7 @@ columns 1
     D["1.3 Write User Stories"]
     E["1.4 Prioritize the Feature List"]
   end
-  blockArrowA<["&nbsp;"]>(down)
+  blockArrowA<["&nbsp;&nbsp;"]>(down)
   block:STRUCTURE
     columns 2
     G["2. Product Structure"]:2
@@ -33,7 +33,7 @@ columns 1
     K["2.4 Wireframe Primary Screens"]
     L["2.5 Wireframe Interactivity"]
   end
-  blockArrowB<["&nbsp;"]>(down)
+  blockArrowB<["&nbsp;&nbsp;"]>(down)
   block:STYLE
     columns 2
     M["3. Product Style"]:2
