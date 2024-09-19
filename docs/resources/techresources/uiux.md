@@ -34,7 +34,6 @@ columns 1
     K["2.4 Wireframe Primary Screens"]
     L["2.5 Wireframe Interactivity"]
   end
-  blockArrowB<["&nbsp;&nbsp;&nbsp;&nbsp;"]>(down)
   block:STYLE
     columns 2
     M["3. Product Style"]:2
@@ -44,12 +43,11 @@ columns 1
     Q["3.4 Design for Interactivity"]
     space
   end
+  STRATEGY --> STRUCTURE
   STRUCTURE --> STYLE
   style A fill:#008000
   style G fill:#008080
   style M fill:#808000
-  style blockArrowA fill:#FFD700,stroke:#FFD700,stroke-width:2px
-  style blockArrowB fill:#FFD700,stroke:#FFD700,stroke-width:2px
 ```
 ### 1. Product Strategy
 
