@@ -250,8 +250,12 @@ graph LR
   SPRINT6("Sprint 6")
   SPRINT35-->SPRINT6
 
-  ONE(("1"))
-  ONE-- Meet teammates & schedule Kickoff ---SPRINT1
+  STEP1(("1"))
+  STEP1-- Meet teammates & schedule Kickoff ---SPRINT1
+  STEP2(("2"))
+  STEP2-- Conduct Kickoff ---SPRINT1
+  STEP3(("3"))
+  STEP3-- Update readme.md with your info ---SPRINT1
 ```
 
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
