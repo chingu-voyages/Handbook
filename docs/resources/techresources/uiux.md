@@ -30,6 +30,7 @@ columns 1
     J("2.1 Wireframe Your App")
     L("2.2 Wireframe Interactivity")
   end
+  space
   STRATEGY --> STRUCTURE
   block:STYLE
     columns 2
