@@ -27,10 +27,9 @@ columns 1
   block:STRUCTURE
     columns 2
     G("2. Product Structure"):2
-    H("2.1 Outline Primary Screens")
-    J("2.2 Wireframe App Layout")
-    K("2.3 Wireframe Primary Screens")
-    L("2.4 Wireframe Interactivity")
+    J("2.1 Wireframe App Layout")
+    K("2.2 Wireframe Primary Screens")
+    L("2.3 Wireframe Interactivity")
   end
   STRATEGY --> STRUCTURE
   space
@@ -50,7 +49,6 @@ columns 1
   style E fill:#148f77
 
   style G fill:#7e5109
-  style H fill:#b9770e
   style J fill:#b9770e
   style K fill:#b9770e
   style L fill:#b9770e
@@ -158,24 +156,14 @@ block-beta
 ---
 ### 2. Product Structure
 
-#### 2.1 Outline the Primary Screens
-
-**_Objective:_** Define how the pages are to be organized.
-
-**_How?_**
-* What views, or pages, will your app need? 
-* What should be displayed and/or what actions should be available for each view?
-
-**_Resources:_**
-
-* [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
----
-#### 2.2 Wireframe the App Layout
+#### 2.1 Wireframe the App Layout
 
 **_Objective:_** Create a sketch to identify common parts of your UI/UX.
 
 **_How?_**
-* What components (header, footer, etc.) will be used again and again on every page? 
+* What pages will your app need? 
+* What components (header, footer, etc.) will be used again and again on every page?
+* What should be displayed and/or what actions should be available for each view? 
 * How should they be laid out? Create a sketch!
 * For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
 
@@ -184,7 +172,7 @@ block-beta
 * [Layout basics](https://m3.material.io/foundations/layout/understanding-layout/overview)
 * [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
 ---
-#### 2.3 Wireframe the Primary Screens
+#### 2.2 Wireframe the Primary Screens
 
 **_Objective:_** Create a low-fidelity sketch to show what content and components are on each page.
 
@@ -196,7 +184,7 @@ block-beta
 
 * [Low Fidelity Wireframes](https://alvarotrigo.com/blog/low-fidelity-wireframes/)
 ---
-#### 2.4 Wireframe the Interactivity
+#### 2.3 Wireframe the Interactivity
 
 **_Objective:_** Identify how application state changes in response to user actions.
 
