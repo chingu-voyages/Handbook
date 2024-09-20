@@ -95,7 +95,7 @@ block-beta
   block:TEMPLATE
     columns 2
     NAME("Name")
-    VNAME(*_Casual User_*)
+    VNAME("Casual User")
     DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
     VDEMOGRAPHICS("Background, lifestyle, & behavioral practices")
     ARCHETYPES("Personality, motivations, and goals")
@@ -106,7 +106,8 @@ block-beta
     VMOTIVATIONS("Motivations")
   end
   style TEMPLATE fill:#aed6f1
-  style NAME fill:#2874a6
+  style NAME fill:#21618c
+  style VNAME font-style:italic
 ```
 
 **_Resources:_**
