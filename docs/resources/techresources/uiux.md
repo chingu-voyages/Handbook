@@ -127,7 +127,7 @@ block-beta
   columns 1
   block:TEMPLATE
     columns 2
-    WHO("As a <persona>")
+    WHO("**As a <persona>**")
     VWHO("Casual User")
     WANT("I want to...")
     VWANT("Access the corporate event schedule for the next month")
