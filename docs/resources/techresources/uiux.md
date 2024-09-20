@@ -151,6 +151,7 @@ block-beta
 **_How?_**
 * Which user stories are core to your app’s purpose? 
 * What can you reasonably expect to achieve in a six-week voyage?
+* You should create this as a team as defined in the Voyage Sprint 1 process we've provided [here](../../guides/voyage/voyage.md#5-define--prioritize-mvp-features-)
 
 **_Resources:_**
 
@@ -224,6 +225,7 @@ block-beta
 
 **_How?_**
 * Name the app and describe its character with words like playful or reliable, dynamic or solid, etc.
+* This is a team effort and something you will have most likely already done in Sprint 1
 
 **_Resources:_**
 
@@ -240,23 +242,25 @@ block-beta
 
 * [Style Guide](https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices)
 ---
-#### 3.3 Create your Page Mockups
+#### 3.3 Create your Page Mockups (Optional)
 
-**_Objective:_** Apply your theme to your wireframe (optional).
+**_Objective:_** Apply your theme to your wireframe.
 
 **_How?_**
 * Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
+* This is an advanced technique that's only required for very complex applications. You may skip this for most Voyage projects
 
 **_Resources:_**
 
 * N/a
 ---
-#### 3.4 Design for Interactivity
+#### 3.4 Design for Interactivity (Optional)
 
 **_Objective:_** Refine your theme with styling to be applied based on user actions.
 
 **_How?_**
 * Show how links, buttons, menus, forms and other components should look when the user interacts or the app updates.
+* This is an advanced technique that's only required for very complex applications. You may skip this for most Voyage projects
 
 **_Resources:_**
 
