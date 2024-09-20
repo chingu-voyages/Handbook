@@ -27,10 +27,9 @@ columns 1
     columns 2
     G("2. Product Structure"):2
     H("2.1 Outline Primary Screens")
-    I("2.2 Map User Flow")
-    J("2.3 Wireframe App Layout")
-    K("2.4 Wireframe Primary Screens")
-    L("2.5 Wireframe Interactivity")
+    J("2.2 Wireframe App Layout")
+    K("2.3 Wireframe Primary Screens")
+    L("2.4 Wireframe Interactivity")
   end
   STRATEGY --> STRUCTURE
   space
@@ -51,7 +50,6 @@ columns 1
 
   style G fill:#7e5109
   style H fill:#b9770e
-  style I fill:#b9770e
   style J fill:#b9770e
   style K fill:#b9770e
   style L fill:#b9770e
@@ -171,30 +169,21 @@ block-beta
 
 * [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
 ---
-#### 2.2 Map the User Flow
-
-**_Objective:_** Map the desired user flow to make sure it is included in your design.
-
-**_How?_**
-* For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
-
-**_Resources:_**
-
-* [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
----
-#### 2.3 Wireframe the App Layout
+#### 2.2 Wireframe the App Layout
 
 **_Objective:_** Create a sketch to identify common parts of your UI/UX.
 
 **_How?_**
 * What components (header, footer, etc.) will be used again and again on every page? 
 * How should they be laid out? Create a sketch!
+* For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
 
 **_Resources:_**
 
 * [Layout basics](https://m3.material.io/foundations/layout/understanding-layout/overview)
+* [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
 ---
-#### 2.4 Wireframe the Primary Screens
+#### 2.3 Wireframe the Primary Screens
 
 **_Objective:_** Create a low-fidelity sketch to show what content and components are on each page.
 
@@ -206,7 +195,7 @@ block-beta
 
 * [Low Fidelity Wireframes](https://alvarotrigo.com/blog/low-fidelity-wireframes/)
 ---
-#### 2.5 Wireframe the Interactivity
+#### 2.4 Wireframe the Interactivity
 
 **_Objective:_** Identify how application state changes in response to user actions.
 
