@@ -92,7 +92,7 @@ columns 1
 ```mermaid
 block-beta
   columns 1
-  block:LABELS
+  block:TEMPLATE
     columns 2
     NAME("Name")
     VNAME("Unauthenticated User")
@@ -105,6 +105,8 @@ block-beta
     MOTIVATIONS("Motivations")
     VMOTIVATIONS("Motivations")
   end
+  style TEMPLATE fill:#aed6f1
+  style NAME fill:#2874a6
 ```
 
 **_Resources:_**
