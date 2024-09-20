@@ -99,7 +99,7 @@ block-beta
     DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
     VDEMOGRAPHICS("Not computer savvy</br>Deals with many interruptions</br>Short attention span")
     GOALS("Goals & frustruations")
-    VGOALS("Wants quick access to public info</br>Doesn't need confidential info</br>Requires additional feedback")
+    VGOALS("Wants quick access to public info</br>Doesn't need confidential info</br>Appreciates additional feedback")
     MOTIVATIONS("Motivations")
     VMOTIVATIONS("Uses app to provide support to other customers")
   end
@@ -120,6 +120,24 @@ block-beta
 
 **_How?_**
 * What discrete tasks will each user need to accomplish when using your app?
+* User stories have a simple format that captures the persona performing the task, what they need to do, and the value it provides to them.
+
+```mermaid
+block-beta
+  columns 1
+  block:TEMPLATE
+    columns 2
+    WHO("As a <persona>")
+    VWHO("Casual User")
+    WANT("I want to...")
+    VWANT("Access the corporate event schedule for the next month")
+    BENEFIT("So I can...")
+    VBENEFIT("During a customer support call quickly locate the events they are interested in participating in and relay the details to them" )
+  end
+  style TEMPLATE fill:#aed6f1
+  style WHO fill:#21618c
+  style WANT fill:#21618c
+  style BENEFIT fill:#21618c
 
 **_Resources:_**
 
