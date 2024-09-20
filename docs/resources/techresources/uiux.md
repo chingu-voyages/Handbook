@@ -49,7 +49,6 @@ columns 1
 
   style G fill:#7e5109
   style J fill:#b9770e
-  style K fill:#b9770e
   style L fill:#b9770e
 
   style M fill:#1b4f72
