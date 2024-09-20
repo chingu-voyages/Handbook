@@ -253,15 +253,12 @@ To embed your app’s style guide into a README.md file, follow these steps:
 
 * Logo: [logo image]
 * Logo with text: [logo image with text]
-
-For more information, see the [Design System documentation](https://design-system.example.com) or the [Style Guide PDF](https://example.com/style-guide.pdf).
 ```
-
-  
-
 **_Resources:_**
 
 * [Style Guide](https://m3.material.io/foundations/content-design/style-guide/ux-writing-best-practices)
+* [Design System documentation](https://design-system.example.com)
+* [Style Guide PDF](https://example.com/style-guide.pdf).
 ---
 #### 3.3 Create your Page Mockups (Optional)
 
