@@ -23,6 +23,7 @@ columns 1
     D("1.3 Write User Stories")
     E("1.4 Prioritize the Feature List")
   end
+  space
   block:STRUCTURE
     columns 2
     G("2. Product Structure"):2
