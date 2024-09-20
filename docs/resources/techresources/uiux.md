@@ -95,7 +95,7 @@ block-beta
   block:TEMPLATE
     columns 2
     NAME("Name")
-    VNAME("Unauthenticated User")
+    VNAME(*_Casual User_*)
     DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
     VDEMOGRAPHICS("Background, lifestyle, & behavioral practices")
     ARCHETYPES("Personality, motivations, and goals")
