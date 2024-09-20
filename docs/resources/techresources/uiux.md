@@ -39,8 +39,8 @@ columns 1
     M("3. Product Style"):2
     N("3.1 Finalize Brand Personality")
     O("3.2 Create Style Guide")
-    P("3.3 Create Page Mockups")
-    Q("3.4 Design for Interactivity")
+    P("3.3 Create Page Mockups (optional)")
+    Q("3.4 Design for Interactivity (optional)")
   end
   STRUCTURE --> STYLE
   style A fill:#0e6251
