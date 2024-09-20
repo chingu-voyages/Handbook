@@ -241,8 +241,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ![How it Works](./assets/Voyage_Project_How_it_Works.png)
 
 ```mermaid
-block-beta
-  block:STEPS
+flowchart TB
+  direction LR
     STEP1(("1"))
     STEP2(("2"))
     STEP3(("3"))
@@ -253,8 +253,8 @@ block-beta
     STEP8(("8"))
     STEP9(("9"))
     STEP10(("10"))
-  end
-  block:SPRINTS
+
+  direction LR
     SPRINT1("Sprint 1")
     SPRINT2("Sprint 2")
     SPRINT1-->SPRINT2
@@ -262,7 +262,6 @@ block-beta
     SPRINT2-->SPRINT35
     SPRINT6("Sprint 6")
     SPRINT35-->SPRINT6
-  end
 
   STEP1-- Meet teammates & schedule Kickoff ---SPRINT1
   STEP2-- Conduct Kickoff ---SPRINT1
