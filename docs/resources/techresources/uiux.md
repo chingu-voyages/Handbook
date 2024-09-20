@@ -132,7 +132,7 @@ block-beta
     WANT("I want to...")
     VWANT("Access the corporate event schedule for the next month")
     BENEFIT("So I can...")
-    VBENEFIT("During a customer support call quickly locate the events they are interested in participating in and relay the details to them" )
+    VBENEFIT("During a customer support call</br>quickly locate the events they</br>are interested in attending</br>and relay the details to them" )
   end
   style TEMPLATE fill:#aed6f1
   style WHO fill:#21618c
