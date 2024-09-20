@@ -74,6 +74,7 @@ columns 1
 
 **_How?_**
 * What problem will your app solve for its users?
+* You should create this as a team as defined in the Voyage Sprint 1 process we've provided [here](../../guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-)
 
 **_Resources:_**
 
@@ -86,6 +87,17 @@ columns 1
 **_How?_**
 * Who, specifically, will use the app? 
 * Name them, and then as you design your site be sure to consider their wants and needs.
+* Personas shouldn't be complex or take a lot of time to create in a Voyage project. Here's a simple template to use:
+
+```mermaid
+block-beta
+  columns 1
+  NAME("Name")
+  DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
+  ARCHETYPES("Personality, motivations, and goals")
+  GOALS("Goals & frustruations")
+  MOTIVATIONS("Motivations")
+```
 
 **_Resources:_**
 
