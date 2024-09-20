@@ -97,7 +97,7 @@ block-beta
     NAME("Name")
     VNAME("Casual User")
     DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
-    VDEMOGRAPHICS("Background, lifestyle, & behavioral practices")
+    VDEMOGRAPHICS("* Not computer savvy</br>* test")
     ARCHETYPES("Personality, motivations, and goals")
     VARCHETYPES("Personality, motivations, and goals")
     GOALS("Goals & frustruations")
