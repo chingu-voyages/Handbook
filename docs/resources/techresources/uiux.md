@@ -36,8 +36,7 @@ columns 1
     M("3. Product Style"):2
     N("3.1 Finalize Brand Personality")
     O("3.2 Create Style Guide")
-    P("3.3 Create Page Mockups (optional)")
-    Q("3.4 Design for Interactivity (optional)")
+    Q("3.3 Design for Interactivity (optional)")
   end
   STRUCTURE --> STYLE
   style A fill:#0e6251
@@ -53,7 +52,6 @@ columns 1
   style M fill:#1b4f72
   style N fill:#2874a6
   style O fill:#2874a6
-  style P fill:#2874a6
   style Q fill:#2874a6
 
   style STRATEGY fill:#b3b6b7
@@ -260,19 +258,7 @@ To embed your app’s style guide into a README.md file, follow these steps:
 * [Design System documentation](https://design-system.example.com)
 * [Style Guide PDF](https://example.com/style-guide.pdf)
 ---
-#### 3.3 Create your Page Mockups (Optional)
-
-**_Objective:_** Apply your theme to your wireframe.
-
-**_How?_**
-* Glow up your sketches with the theme from your style guide, and make sure layout and spacing is intuitive and consistent site-wide.
-* This is an advanced technique that's only required for very complex applications. You may skip this for most Voyage projects
-
-**_Resources:_**
-
-* N/a
----
-#### 3.4 Design for Interactivity (Optional)
+#### 3.3 Design for Interactivity (Optional)
 
 **_Objective:_** Refine your theme with styling to be applied based on user actions.
 
