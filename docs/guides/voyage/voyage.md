@@ -240,41 +240,6 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ![How it Works](./assets/Voyage_Project_How_it_Works.png)
 
-```mermaid
-flowchart TB
-  direction LR
-    STEP1(("1"))
-    STEP2(("2"))
-    STEP3(("3"))
-    STEP4(("4"))
-    STEP5(("5"))
-    STEP6(("6"))
-    STEP7(("7"))
-    STEP8(("8"))
-    STEP9(("9"))
-    STEP10(("10"))
-
-  direction LR
-    SPRINT1("Sprint 1")
-    SPRINT2("Sprint 2")
-    SPRINT1-->SPRINT2
-    SPRINT35("Sprints 3-5")
-    SPRINT2-->SPRINT35
-    SPRINT6("Sprint 6")
-    SPRINT35-->SPRINT6
-
-  STEP1-- Meet teammates & schedule Kickoff ---SPRINT1
-  STEP2-- Conduct Kickoff ---SPRINT1
-  STEP3-- Update readme.md with your info ---SPRINT1
-  STEP4-- Choose project & create Vision Stmt. ---SPRINT1
-  STEP5-- Define & prioritize features ---SPRINT1
-  STEP6-- Create Product Backlog ---SPRINT2
-  STEP7-- Create wireframe ---SPRINT2
-  STEP8-- Setup team workflow ---SPRINT2
-  STEP9-- Design, code, test, & deploy ---SPRINT35
-  STEP10-- Project Closure ---SPRINT6
-```
-
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
 
 You will also be provided with a GitHub repo in the `chingu-voyages` 
