@@ -99,7 +99,7 @@ block-beta
     DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
     VDEMOGRAPHICS("Not computer savvy</br>Deals with many interruptions</br>Short attention span")
     GOALS("Goals & frustruations")
-    VGOALS("Wants quick access to info</br>Requires additional feedback")
+    VGOALS("Wants quick access to public info</br>Doesn't need confidential info</br>Requires additional feedback")
     MOTIVATIONS("Motivations")
     VMOTIVATIONS("Uses app to provide support to other customers")
   end
