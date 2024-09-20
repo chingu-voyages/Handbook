@@ -27,9 +27,8 @@ columns 1
   block:STRUCTURE
     columns 2
     G("2. Product Structure"):2
-    J("2.1 Wireframe App Layout")
-    K("2.2 Wireframe Primary Screens")
-    L("2.3 Wireframe Interactivity")
+    J("2.1 Wireframe Your App")
+    L("2.2 Wireframe Interactivity")
   end
   STRATEGY --> STRUCTURE
   space
@@ -156,7 +155,7 @@ block-beta
 ---
 ### 2. Product Structure
 
-#### 2.1 Wireframe the App Layout
+#### 2.1 Wireframe Your App
 
 **_Objective:_** Create a sketch to identify common parts of your UI/UX.
 
@@ -171,20 +170,9 @@ block-beta
 
 * [Layout basics](https://m3.material.io/foundations/layout/understanding-layout/overview)
 * [Creating the User Journey – map of screens as core UX design practice](https://itcraftapps.com/blog/user-journey-map-of-screens/)
----
-#### 2.2 Wireframe the Primary Screens
-
-**_Objective:_** Create a low-fidelity sketch to show what content and components are on each page.
-
-**_How?_**
-* Now lay out the relevant content and components for each of your app’s pages. 
-* Again, a low-fidelity sketch is enough to get started.
-
-**_Resources:_**
-
 * [Low Fidelity Wireframes](https://alvarotrigo.com/blog/low-fidelity-wireframes/)
 ---
-#### 2.3 Wireframe the Interactivity
+#### 2.2 Wireframe the Interactivity
 
 **_Objective:_** Identify how application state changes in response to user actions.
 
