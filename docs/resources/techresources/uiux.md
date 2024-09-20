@@ -107,7 +107,10 @@ block-beta
   end
   style TEMPLATE fill:#aed6f1
   style NAME fill:#21618c
-  style VNAME font-style:italic
+  style DEMOGRAPHICS fill:#21618c
+  style ARCHETYPES fill:#21618c
+  style GOALS fill:#21618c
+  style MOTIVATIONS fill:#21618c
 ```
 
 **_Resources:_**
