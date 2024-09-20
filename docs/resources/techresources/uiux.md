@@ -91,8 +91,9 @@ columns 1
 
 ```mermaid
 block-beta
-  columns 2
+  columns 1
   block LABELS
+    columns 2
     NAME("Name")
     VNAME("Unauthenticated User")
     DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
