@@ -92,18 +92,16 @@ columns 1
 ```mermaid
 block-beta
   columns 2
-  block LABELS:1
+  block LABELS
     NAME("Name")
-    DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
-    ARCHETYPES("Personality, motivations, and goals")
-    GOALS("Goals & frustruations")
-    MOTIVATIONS("Motivations")
-  end
-  block VALUES:1
     VNAME("Unauthenticated User")
+    DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
     VDEMOGRAPHICS("Background, lifestyle, & behavioral practices")
+    ARCHETYPES("Personality, motivations, and goals")
     VARCHETYPES("Personality, motivations, and goals")
+    GOALS("Goals & frustruations")
     VGOALS("Goals & frustruations")
+    MOTIVATIONS("Motivations")
     VMOTIVATIONS("Motivations")
   end
 ```
