@@ -180,9 +180,12 @@ block-beta
 **_How?_**
 * Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
 
+![Wireframe state change example](./assets/Wireframe_state_change.png.crdownload)
+
 **_Resources:_**
 
 * [States](https://m3.material.io/foundations/interaction/states/overview)
+* [What is a wireframe state?](https://www.visual-paradigm.com/support/documents/vpuserguide/2822/2613/83713_whatisawiref.html)
 ---
 ### 3. Product Style
 
@@ -204,6 +207,57 @@ block-beta
 
 **_How?_**
 * Create your color scheme and typography, decide on an icon set, and explore the possibility of bringing in images or illustrations.
+* There are a lot of tools available to create and render style guides. But, the simplest approach is to embed your style guide in the `readme.md` in your repo
+To embed your app’s style guide into a README.md file, follow these steps:
+
+  1. Use Markdown syntax: Write your style guide in Markdown syntax, using formatting options like headings, bold text, and code blocks. This will make it easy to read and maintain.
+  2. Include examples: Provide concrete examples of each style guideline, using code snippets or images. This will help developers understand how to apply the guidelines in their code.
+  3. Link to additional resources: If you have additional resources (e.g., design files, style guides in other formats), link to them from your README.md file.
+  4. Integrate into README.md: In your README.md file, create a section dedicated to your app’s style guide. Use a clear heading (e.g., “Style Guide”) and provide a brief introduction to the guidelines.
+  5. Maintain and update: Regularly review and update your style guide to ensure it remains consistent and accurate.
+
+* Here's a sample template to follow:
+```
+**Style Guide**
+================
+
+### Color Palette
+
+* Primary color: `#2A91BD` (defined in `colors.xml`)
+* Secondary color: `#FFFFFF` (defined in `colors.xml`)
+
+### Typography
+
+* Font family: `Open Sans`
+* Font sizes:
+	+ Headings: 18px
+	+ Body text: 14px
+* Font styles:
+	+ Bold: `**bold text**`
+	+ Italic: `*italic text*`
+
+### Spacing and Margins
+
+* Default margin: 16px
+* Default padding: 8px
+
+### Iconography
+
+* Icon set: Material Design Icons
+* Icon sizes:
+	+ Small: 16px
+	+ Medium: 24px
+	+ Large: 48px
+
+### Branding Elements
+
+* Logo: [logo image]
+* Logo with text: [logo image with text]
+
+For more information, see the [Design System documentation](https://design-system.example.com) or the [Style Guide PDF](https://example.com/style-guide.pdf).
+```
+
+  
 
 **_Resources:_**
 
