@@ -53,7 +53,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <p>This tier is for developers who are starting out in frontend web development.</p>
 <strong>Skills:</strong>
 <ul>
-    <li>Basic understanding of CSS and HTML.</li>
+    <li>Basic understanding of CSS and HTML. You may use also CSS processors like SASS, LESS, Stylus, TailwindCSS, etc.</li>
     <li>Ability to create simple apps using any frontend framework such as ReactJS, SvelteJS, VueJS, Angular, Django, etc.
     <li>Familiarity with at least one programming language (Python, Javascript, PHP, Ruby, etc.)</li>
     <li>Ability to create and deploy a webpage to the Internet that dynamically interacts with events such as buttons and form fields to alter the information displayed on the screen.</li>
@@ -66,9 +66,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Deployment Tools: Hosting services to deploy static web pages such as GitHub Pages, Netlify, Vercel, Render, Railway, etc.</li>
 </ul>
 
-<p>Your Solo Project <strong><em>must</em></strong> be defined using CSS and HTML, which also uses logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen.</p>
-
-<p>In addition, Tier 1 Chingus will only use vanilla CSS/HTML + a programming language for Solo Projects and Voyages. Those using any form of FE framework such as React, VueJS, Svelte, etc. should apply for Tier 2 or higher.</p>
+<p>Your Solo Project <strong><em>must</em></strong> implement logic (designed and written solely by you) which dynamically processes events and inputs to display or modify information on the screen.</p>
 
 </td>
 </tr>
