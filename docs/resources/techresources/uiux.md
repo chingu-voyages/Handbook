@@ -163,6 +163,9 @@ block-beta
 * What should be displayed and/or what actions should be available for each view? 
 * How should they be laid out? Create a sketch!
 * For the primary user stories, chart the path your user will take from screen to screen to accomplish their task.
+* You may use a tool like [Figma](https://figma.com) to build your wireframe, but a hand-drawn sketch is usually a faster approach
+
+![Hand drawn wireframe](./assets/Wireframe_example.webp)
 
 **_Resources:_**
 
