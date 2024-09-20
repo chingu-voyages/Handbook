@@ -97,18 +97,15 @@ block-beta
     NAME("Name")
     VNAME("Casual User")
     DEMOGRAPHICS("Background, lifestyle, & behavioral practices")
-    VDEMOGRAPHICS("* Not computer savvy</br>* test")
-    ARCHETYPES("Personality, motivations, and goals")
-    VARCHETYPES("Personality, motivations, and goals")
+    VDEMOGRAPHICS("Not computer savvy</br>Deals with many interruptions</br>Short attention span")
     GOALS("Goals & frustruations")
-    VGOALS("Goals & frustruations")
+    VGOALS("Wants quick access to info</br>Requires additional feedback")
     MOTIVATIONS("Motivations")
-    VMOTIVATIONS("Motivations")
+    VMOTIVATIONS("Uses app to provide support to other customers")
   end
   style TEMPLATE fill:#aed6f1
   style NAME fill:#21618c
   style DEMOGRAPHICS fill:#21618c
-  style ARCHETYPES fill:#21618c
   style GOALS fill:#21618c
   style MOTIVATIONS fill:#21618c
 ```
