@@ -241,9 +241,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 ![How it Works](./assets/Voyage_Project_How_it_Works.png)
 
 ```mermaid
-flowchart LR
-  subgraph A
-    direction LR
+block-beta
+  block:STEPS
     STEP1(("1"))
     STEP2(("2"))
     STEP3(("3"))
@@ -255,9 +254,7 @@ flowchart LR
     STEP9(("9"))
     STEP10(("10"))
   end
-
-  subgraph B
-    direction LR
+  block:SPRINTS
     SPRINT1("Sprint 1")
     SPRINT2("Sprint 2")
     SPRINT1-->SPRINT2
