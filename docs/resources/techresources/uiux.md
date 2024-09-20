@@ -146,7 +146,7 @@ block-beta
 ---
 #### 1.4 Prioritize the Feature List
 
-**_Objective:_** Define user stories
+**_Objective:_** Prioritize your list of essential user stories and tasks
 
 **_How?_**
 * Which user stories are core to your app’s purpose? 
