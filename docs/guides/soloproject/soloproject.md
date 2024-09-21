@@ -8,8 +8,8 @@ The goal of the Solo Project is to help you and the Chingu team verify that
 you've chosen a Tier that gives you the best chance of success in a Voyage. It
 also gives you another app you can add to your portfolio.
 
-When you are done and have submitted your Solo Project our team will 
-evaluate your project and provide feedback you can use on both functionality 
+When you are done and have submitted your Solo Project our team will
+evaluate your project and provide feedback you can use on both functionality
 as well as your UI/UX.
 
 ## Steps to Follow
@@ -34,7 +34,7 @@ graph TB
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
 
-You'll first need to choose a *_tier_* that matches your
+You'll first need to choose a **tier** that matches your
 current skill level. There are three tiers and you should select the one that
 best matches your current skill level - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
@@ -50,11 +50,10 @@ intermediate (Tier 2), or experienced (Tier 3).
 <tr>
 <td>Tier&nbsp;1</td>
 <td>
-<p>This tier is for developers who are starting out in frontend web development.</p>
+<p>This tier is for developers who are just starting out in web development.</p>
 <strong>Skills:</strong>
 <ul>
-    <li>Basic understanding of CSS and HTML. You may use also CSS processors like SASS, LESS, Stylus, TailwindCSS, etc.</li>
-    <li>Ability to create simple apps using any frontend framework such as ReactJS, SvelteJS, VueJS, Angular, etc.
+    <li>Basic understanding of CSS and HTML.</li>
     <li>Familiarity with at least one programming language (Python, Javascript, PHP, Ruby, etc.)</li>
     <li>Ability to create and deploy a webpage to the Internet that dynamically interacts with events such as buttons and form fields to alter the information displayed on the screen.</li>
 </ul>
@@ -66,14 +65,16 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Deployment Tools: Hosting services to deploy static web pages such as GitHub Pages, Netlify, Vercel, Render, Railway, etc.</li>
 </ul>
 
-<p>Your Solo Project <strong><em>must</em></strong> implement logic (designed and written solely by you) which dynamically processes events and inputs to display or modify information on the screen.</p>
+<p>Your Solo Project <strong><em>must</em></strong> be defined using CSS and HTML, which also uses logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen.</p>
+
+<p>In addition, Tier 1 Chingus will only use vanilla CSS/HTML + a programming language for Solo Projects and Voyages. Those using any form of FE framework such as React, VueJS, Svelte, etc. should apply for Tier 2 or higher.</p>
 
 </td>
 </tr>
 <tr>
 <td>Tier&nbsp;2</td>
 <td>
-<p>This tier is for developers who have a solid foundation in frontend web development.</p>
+<p>This tier is for developers who have a solid foundation in web development.</p>
 <strong>Skills:</strong>
 <ul>
     <li>Intermediate HTML and CSS.</li>
@@ -89,7 +90,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Advanced Code Editor Usage: Proficient use of code editors with advanced features such as integrated terminals, version control systems, and debugging tools.</li>
     <li>Git/GitHub: Familiarity with Git/GitHub concepts such as branching, merging, pull requests, and resolving conflicts.</li>
     <li>Web Development Tools: Intermediate use of browser developer tools for debugging HTML, CSS, and Javascript.</li>
-    <li>Deployment Tools: Familiarity with deployment tools such as Netlify, Vercel, Railway, Render, or similar services</li>
+    <li>Deployment Tools: Familiarity with deployment tools such as Netlify, Vercel, Railway, Render, or similar services<li>
 </ul>
 
 <p>Your Solo Project <strong><em>must implement</em></strong> a front-end app as follows:</p>
@@ -399,13 +400,13 @@ chosen then go ahead and submit it for evaluation. Your project can be one
 you've completed on your own or as a part of a team.
 
 It **must** meet these criteria:
-    
+
 - Your project should match the requirements of the
 [tier you have chosen](#1-choose-your-tier)
 - It should be original work (not copied from someone else, including tutorials
 or AI-generated code)
 - If created as part of a team you should be a major contributor to the project
-- It has been developed within the last 12 months, or has a significant number 
+- It has been developed within the last 12 months, or has a significant number
 of commits made by you within the last year.
 
 Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
@@ -418,7 +419,7 @@ Your project source code **must be hosted on GitHub** and your completed project
 
 #### If you are a Product Owner
 
-If you are in the Product Owner role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6). The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed. 
+If you are in the Product Owner role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6). The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed.
 
 You will also be asked to provide the URL of a public website containing a sample product backlog you have created. This backlog can be in the service of your choice including GitHub Projects, Trello, Miro, ClickUp, Jira, or any similar tool.
 
@@ -427,37 +428,37 @@ Your sample product backlog doesn't need to be complicated, but it should demons
 If you You don't have a project you can create a backlog from tis project specification.
 
 | Project Name | Tier 1 | Tier 2 | Tier 3 |
-| :--- | :--- | :--- | :--- | 
+| :--- | :--- | :--- | :--- |
 | Chingu Trivia | [Click here](https://github.com/chingu-voyages/soloproject-tier1-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po) |
 
 #### If you are a Scrum Master
 
-If you are in the Scrum Master role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6). 
+If you are in the Scrum Master role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
 
-The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed. 
+The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed.
 
 #### If you are a UI/UX Designer
 
 You will also be asked to provide the URL of a public website containing a website design you have created. This could be a design hosted on Figma, AdobeXD, or in any other prototyping tool. It might also be a more formal study including things like the definition of personas and stakeholder goals as well as basic screen layout and navigation.
 
 ### 3. Submit a Solo Project Completion Form ✅
-    
+
 When you've completed your Solo Project you will need to submit the **[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)** before you can move on to the Voyage Project.
 
 > You are encouraged to submit this form as soon as your Solo Project is done. There is no need to wait until the submission deadline if you finish earlier.
-> 
+>
 
-Once you submit the Solo Project Completion Form your project will be 
-evaluated within **_2 business_** days and a member our team will provide you with 
+Once you submit the Solo Project Completion Form your project will be
+evaluated within ***2 business*** days and a member our team will provide you with
 status in a Discord direct message (DM).
 
-There is no need to resubmit the completion form once you've received 
-feedback. If any rework is requested you can open a support ticket 
+There is no need to resubmit the completion form once you've received
+feedback. If any rework is requested you can open a support ticket
 [here](https://discord.com/channels/330284646283608064/1105911757177888908)
 when you are ready for your project to be retested.
-    
+
 ## Solo Project Tips ✏️
-    
+
 1. It is more important to complete the project than it is to add features since completion is required before you can advance to the Voyage Project.
 2. Concentrate on completing the required tasks for your tier and then work on bonus tasks only if time permits. Keep in mind that advancing to the Voyage phase of the Cohort depends on the completion of the required tasks listed in the project repo we've provided.
 3. Choose tools you are comfortable and productive with. In the limited time available to complete the Solo Project it's not a good idea to try to use something you don't already know.
@@ -469,12 +470,12 @@ when you are ready for your project to be retested.
     - Using a CSS library or creating your own CSS
 5. Your repo should contain a well written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).
 6. Remember that your app should run error-free. There should be no errors in the browser or server console logs.
-7. When you submit your project ***you must provide URL's for***: 
+7. When you submit your project ***you must provide URL's for***:
     - the publicly accessible repository containing your project (eg. Github).
-    - the running version of your project where you have deployed it on an 
+    - the running version of your project where you have deployed it on an
     Internet accessible host (eg. Github Pages, Netlify, etc.) so we can evaluate not
     just your code, but also your UI/UX.
-8. You may **NOT** use a source code generator (like GitHub Co-Pilot) to 
+8. You may **NOT** use a source code generator (like GitHub Co-Pilot) to
 create any part of your Solo Project.
 9. Chingu is all about collaborative learning and supporting each other as
     we level up! Use our Discord channels to get help and advice.
