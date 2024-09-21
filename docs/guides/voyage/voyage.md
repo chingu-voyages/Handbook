@@ -212,12 +212,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
      For Web Development teams:
 
-     - Tier 1: Developers, plus Product Owners and/or Scrum Masters if they are available
-     - Tier 2: Developers, plus Product Owners, Scrum Masters, & UI/UX Designers if they are available
-     - Tier 3: Developers, plus Product Owners, Scrum Masters, & UI/UX Designers if they are available
+     - Tier 1: Developers, plus Product Owners, Scrum Masters, & Voyage Guides
+     - Tier 2: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
+     - Tier 3: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
 
      For Data Science teams:
-     - All tiers: Data Scientists, plus Product Owners and/or Scrum Masters if they are available
+     - All tiers: Data Scientists, plus Product Owners and/or Scrum Masters
+
+     Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and 
+     Voyage Guides are added to teams if they are available.
 
   2. Timezone
 
