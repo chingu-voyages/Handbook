@@ -54,7 +54,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <strong>Skills:</strong>
 <ul>
     <li>Basic understanding of CSS and HTML. You may use also CSS processors like SASS, LESS, Stylus, TailwindCSS, etc.</li>
-    <li>Ability to create simple apps using any frontend framework such as ReactJS, SvelteJS, VueJS, Angular, Django, etc.
+    <li>Ability to create simple apps using any frontend framework such as ReactJS, SvelteJS, VueJS, Angular, etc.
     <li>Familiarity with at least one programming language (Python, Javascript, PHP, Ruby, etc.)</li>
     <li>Ability to create and deploy a webpage to the Internet that dynamically interacts with events such as buttons and form fields to alter the information displayed on the screen.</li>
 </ul>
