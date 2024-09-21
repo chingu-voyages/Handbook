@@ -208,16 +208,16 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
   1. Tier
 
-    All participants in a team will be from the same tier. This is the tier you selected on the [Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
+     All participants in a team will be from the same tier. This is the tier you selected on the [Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
 
-    For Web Development teams:
-    * Tier 1: Developers, plus Product Owners and/or Scrum Masters if they are available
-    * Tier 2: Developers, plus Product Owners, Scrum Masters, & UI/UX Designers if they are available
-    * Tier 3: Developers, plus Product Owners, Scrum Masters, & UI/UX Designers if they are available
+     For Web Development teams:
 
-    For Data Science teams:
-    * All tiers: Data Scientists, plus Product Owners and/or Scrum Masters if they are available
+     - Tier 1: Developers, plus Product Owners and/or Scrum Masters if they are available
+     - Tier 2: Developers, plus Product Owners, Scrum Masters, & UI/UX Designers if they are available
+     - Tier 3: Developers, plus Product Owners, Scrum Masters, & UI/UX Designers if they are available
 
+     For Data Science teams:
+     - All tiers: Data Scientists, plus Product Owners and/or Scrum Masters if they are available
 
   2. Timezone
 
