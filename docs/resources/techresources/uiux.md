@@ -15,31 +15,28 @@ use to implement a website design when a UI/UX Designer isn't available.
 ```mermaid
 block-beta
 columns 1
-  block
-    columns 1
-    block:STRATEGY
-      columns 2
-      A("1. Product Strategy"):2
-      B("1.1 Create an App Vision")
-      C("1.2 Define User Personas")
-      D("1.3 Write User Stories")
-      E("1.4 Prioritize the Feature List")
-    end
-    space
-    block:STRUCTURE
-      columns 2
-      G("2. Product Structure"):2
-      J("2.1 Wireframe Your App")
-      L("2.2 Wireframe Interactivity")
-    end
-    space
-    STRATEGY --> STRUCTURE
-    block:STYLE
-      columns 2
-      M("3. Product Style"):2
-      N("3.1 Finalize Brand Personality")
-      O("3.2 Create Style Guide")
-    end
+  block:STRATEGY
+    columns 2
+    A("1. Product Strategy"):2
+    B("1.1 Create an App Vision")
+    C("1.2 Define User Personas")
+    D("1.3 Write User Stories")
+    E("1.4 Prioritize the Feature List")
+  end
+  space
+  block:STRUCTURE
+    columns 2
+    G("2. Product Structure"):2
+    J("2.1 Wireframe Your App")
+    L("2.2 Wireframe Interactivity")
+  end
+  space
+  STRATEGY --> STRUCTURE
+  block:STYLE
+    columns 2
+    M("3. Product Style"):2
+    N("3.1 Finalize Brand Personality")
+    O("3.2 Create Style Guide")
   end
 
   STRUCTURE --> STYLE
