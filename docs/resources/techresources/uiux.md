@@ -38,7 +38,11 @@ columns 1
     N("3.1 Finalize Brand Personality")
     O("3.2 Create Style Guide")
   end
+
   STRUCTURE --> STYLE
+
+  linkStyle default stroke:red
+  
   style A fill:#0e6251
   style B fill:#148f77
   style C fill:#148f77
