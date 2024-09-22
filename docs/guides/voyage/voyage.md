@@ -277,7 +277,7 @@ config:
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
-      A1 -- "<a href="../voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT1
+      A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/feature/define-new-tiers/docs/guides/voyage/voyage.md#sprint-1---getting-off-to-a-solid-start">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT1
       A2 -- "</br></br></br></br></br></br>Hold</br>Kickoff" --> SPRINT1
       A3 -- "Update</br>readme.md</br>team list" --> SPRINT1
       A4 -- "Choose</br>project &</br>define</br>vision stmt." --> SPRINT1
