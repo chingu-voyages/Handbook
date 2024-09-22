@@ -372,7 +372,20 @@ config:
     SPRINT2 --> SPRINTS35
     SPRINTS35 --> SPRINT6
 
-      style A1 fill:#1d8348
+    style B1TOP stroke:#292d30,fill:#292d30
+    style B1CENTER stroke:#292d30,fill:#292d30
+    style B1BOTTOM stroke:#292d30,fill:#292d30
+    style B2TOP stroke:#292d30,fill:#292d30
+    style B2CENTER stroke:#292d30,fill:#292d30
+    style B2BOTTOM stroke:#292d30,fill:#292d30
+    style B3TOP stroke:#292d30,fill:#292d30
+    style B3CENTER stroke:#292d30,fill:#292d30
+    style B3BOTTOM stroke:#292d30,fill:#292d30
+    style B4TOP stroke:#292d30,fill:#292d30
+    style B4CENTER stroke:#292d30,fill:#292d30
+    style B4BOTTOM stroke:#292d30,fill:#292d30
+        
+    style A1 fill:#1d8348
     style A2 fill:#1d8348
     style A3 fill:#1d8348
     style A4 fill:#1d8348
