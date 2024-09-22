@@ -278,10 +278,10 @@ config:
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
       A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT1
-      A2 -- "</br></br></br></br></br></br>Hold</br>Kickoff" --> SPRINT1
-      A3 -- "Update</br>readme.md</br>team list" --> SPRINT1
-      A4 -- "Choose</br>project &</br>define</br>vision stmt." --> SPRINT1
-      A5 -- "Define &</br>prioritize</br>features" --> SPRINT1
+      A2 -- "</br></br></br></br></br></br><a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</a>" --> SPRINT1
+      A3 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
+      A4 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>define</br>vision stmt.</a>" --> SPRINT1
+      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
     end
 
     block:B2:1
@@ -308,9 +308,9 @@ config:
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         space
       end
-      A6 -- "Create</br>Product</br>Backlog" --> SPRINT2
-      A7 -- "Create</br>Wireframe" --> SPRINT2
-      A8 -- "Define team workflow" --> SPRINT2
+      A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
+      A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
+      A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-your-team-workflow-">Define team workflow</a>" --> SPRINT2
     end
 
     block:B3:1
@@ -338,7 +338,7 @@ config:
         space
         space
       end
-      A9 -- "Design, code,</br>test & deploy" --> SPRINTS35
+      A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
     end
 
     block:B4:1
@@ -365,7 +365,7 @@ config:
         space
         space
       end
-      A10 -- "Project Closure" --> SPRINT6
+      A10 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
     end
 
     SPRINT1 --> SPRINT2
