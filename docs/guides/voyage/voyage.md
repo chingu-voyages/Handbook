@@ -385,20 +385,20 @@ config:
     style B4CENTER stroke:#292d30,fill:#292d30
     style B4BOTTOM stroke:#292d30,fill:#292d30
         
-    style A1 fill:#1d8348
-    style A2 fill:#1d8348
-    style A3 fill:#1d8348
-    style A4 fill:#1d8348
-    style A5 fill:#1d8348
-    style A6 fill:#1d8348
-    style A7 fill:#1d8348
-    style A8 fill:#1d8348
-    style A9 fill:#1d8348
-    style A10 fill:#1d8348
-    style SPRINT1 fill:#b9770e
-    style SPRINT2 fill:#b9770e
-    style SPRINTS35 fill:#b9770e
-    style SPRINT6 fill:#b9770e
+    style A1 color:#f0f6fc,fill:#1d8348
+    style A2 color:#f0f6fc,fill:#1d8348
+    style A3 color:#f0f6fc,fill:#1d8348
+    style A4 color:#f0f6fc,fill:#1d8348
+    style A5 color:#f0f6fc,fill:#1d8348
+    style A6 color:#f0f6fc,fill:#1d8348
+    style A7 color:#f0f6fc,fill:#1d8348
+    style A8 color:#f0f6fc,fill:#1d8348
+    style A9 color:#f0f6fc,fill:#1d8348
+    style A10 color:#f0f6fc,fill:#1d8348
+    style SPRINT1 color:#f0f6fc,fill:#b9770e
+    style SPRINT2 color:#f0f6fc,fill:#b9770e
+    style SPRINTS35 color:#f0f6fc,fill:#b9770e
+    style SPRINT6 color:#f0f6fc,fill:#b9770e
 ```
 
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
