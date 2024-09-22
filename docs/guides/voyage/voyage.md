@@ -245,9 +245,6 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
        
 ## The Voyage Process
-
-![How it Works](./assets/Voyage_Project_How_it_Works.png)
-
 ```mermaid
 ---
 config:
