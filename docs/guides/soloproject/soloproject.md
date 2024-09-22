@@ -18,15 +18,15 @@ as well as your UI/UX.
 graph TB
     A((<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3'>Choose your Tier</a>)) --> B{What is your role?}
     B -- Scrum Master --> G
-    B -- Product Owner, Developer, UI/UX Designer, or Data Scientist --> F{Do you have a project?}
-    F -- Yes --> G(Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'>Solo Project form</a>)
-    F -- No --> H(Create a new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-that-matches-your-tier-'>matching your tier</a>)
+    B -- Product Owner, Developer,</br>UI/UX Designer, Data Scientist --> F{Do you have a project?}
+    F -- Yes --> G(Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'></br>Solo Project form</a>)
+    F -- No --> H(Create new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-that-matches-your-tier-'></br>matching your tier</a>)
     H --> G
-    G --> J(Evaluator DMs feedback in Discord)
+    G --> J(Evaluator DMs feedback</br>in Discord)
     J --> K{Accepted?};
     K -- Yes --> L(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
     K -- No --> M(Make requested changes);
-    M --> N(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a> to notify Evaluator);
+    M --> N(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a></br>to notify Evaluator);
     N --> J;
 
     L --> Z([End]);
