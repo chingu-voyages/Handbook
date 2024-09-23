@@ -8,27 +8,33 @@ The goal of the Solo Project is to help you and the Chingu team verify that
 you've chosen a Tier that gives you the best chance of success in a Voyage. It
 also gives you another app you can add to your portfolio.
 
-When you are done and have submitted your Solo Project our team will 
-evaluate your project and provide feedback you can use on both functionality 
+When you are done and have submitted your Solo Project our team will
+evaluate your project and provide feedback you can use on both functionality
 as well as your UI/UX.
 
 ## Steps to Follow
 
 ```mermaid
-graph LR
-    A[Choose your Tier] --> B{What is your role?}
-    B -- Scrum Master or UI/UX Designer --> G
-    B -- Product Owner\nDeveloper\nData Scientist --> F{Do you have a project?}
-    F -- Yes --> G[Submit your\nSolo Project]
-    F -- No --> H[Create new\nSolo Project\nmatching your tier]
+graph TB
+    A((<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3'>Choose your Tier</a>)) --> B{What is your role?}
+    B -- Scrum Master --> G
+    B -- Product Owner, Developer,</br>UI/UX Designer,</br>Data Scientist --> F{Do you have a project?}
+    F -- Yes --> G(Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'></br>Solo Project form</a>)
+    F -- No --> H(Create new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-that-matches-your-tier-'></br>matching your tier</a>)
     H --> G
-    G --> I[Facilitator\ngives feedback]
-    I --> J((Signup for\na Voyage))
+    G --> J(Evaluator DMs feedback</br>in Discord)
+    J --> K{Accepted?};
+    K -- Yes --> L(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
+    K -- No --> M(Make requested changes);
+    M --> N(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a></br>to notify Evaluator);
+    N --> J;
+
+    L --> Z([End]);
 ```
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
 
-You'll first need to choose a *_tier_* that matches your
+You'll first need to choose a **tier** that matches your
 current skill level. There are three tiers and you should select the one that
 best matches your current skill level - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
@@ -210,16 +216,22 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 <details>
 <summary>For Product Owners</summary>
+<br/>
+All Product Owners are welcome at Chingu, regardless of whether they have training or a certification. However, participation is regulated to ensure they have the skills needed to guide Voyage teams in a effective manner.
+</br></br>
+
+> If you are a Product Owner requiring training or perhaps a refresher we recommend you consider [The Job Hackers](https://www.thejobhackers.org/).
+
+Product Owner duties and responsibilities are the same regardless of what tier they are placed in during a Voyage. For this reason PO's are't asked to choose a tier when submitting a Solo Project.
+
+However, they should meet these requirements, which are the minimum needed to successfully guide a Voyage team.
 
 <table>
 <tr>
-<td><strong>Tier</strong></td>
 <td><strong>Requirements</strong></td>
 </tr>
 
 <tr>
-<td>Tier&nbsp;1</td>
-
 <td>
 <strong>Skills:</strong>
 <ul>
@@ -227,89 +239,58 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Communication: Ability to articulate ideas clearly and effectively.</li>
     <li>User Story Writing: Crafting user stories that are simple, clear, and understandable.</li>
     <li>Basic Product Management: Entry-level understanding of product development cycles.</li>
-    <li>You have no formal training as either a Scrum Master or a Product Owner and you have not completed either of these certifications.</li>
+    <li>Analytics and Metrics: Basic understanding of key product metrics and how to measure them.</li>
+    <li>Strategic Thinking: Ability to align the product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
 </ul>
 
 <strong>Tools:</strong>
 <ul>
     <li>Project Management Tools: Familiarity with tools like Trello, Asana, or Jira for basic task tracking.</li>
+    <li>Prototyping Tools: Familiarity with tools like Figma, Sketch, etc. for basic prototyping.</li>
     <li>Communication Tools: Proficiency in Slack, Discord, or similar platforms for team communication.</li>
 </ul>
 
 <strong>Restrictions:</strong>
 <ul>
-    <li>In a Voyage Tier 1 PO's may not lead teams. However, they will be assigned to "shadow" either a Tier 2 or a Tier 3 PO.</li>
+    <li>Product Owners who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
+    <li>Product Owners who are trained, but not certified must shadow another Product Owner in a Voyage before they can guide their own team in a subsequent Voyage</li>
+    <li>Product Owners with no training and no certification may not participate in a Voyage</li>
 </ul>
 </td>
 </tr>
 
-<tr>
-<td>Tier&nbsp;2</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Refinement of Agile Principles: Deeper understanding and practical application of Agile methodologies.</li>
-    <li>Stakeholder Management: Ability to engage with stakeholders effectively.</li>
-    <li>Prioritization Techniques: Understanding various prioritization frameworks (MoSCoW, Value vs. Effort, etc.).</li>
-    <li>Analytics and Metrics: Basic understanding of key product metrics and how to measure them.</li>
-    <li>You have completed formal training as either a Scrum Master or a Product Owner, but you have not completed a certification.</li>
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Project Management Tools: Further proficiency in tools like Jira, Miro, ClickUp, etc..</li>
-    <li>Prototyping Tools: Familiarity with tools like Figma, Sketch, etc. for basic prototyping.</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Tier&nbsp;3</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Agile Expertise: Experience in implementing and adapting Agile methodologies.</li>
-    <li>Strategic Thinking: Ability to align the product roadmap with the company's overall strategy. This includes crafting product vision & goals, plus sprint goals.</li>
-    <li>Data-Driven Decision Making: Strong analytical skills to derive insights from data.</li>
-    <li>Leadership and Mentorship: Guiding and mentoring junior team members.</li>
-    <li>You have completed formal training as either a Scrum Master or a Product Owner and you completed a certification as either a Scrum Master or a PO.</li>
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Analytics Tools: Familiarity with tools like Google Analytics, Mixpanel, Amplitude, etc. for in-depth data analysis.</li>
-    <li>Prototyping and Design Tools: Experience using tools like Figma, Sketch, etc. for detailed prototyping and design.</li>
-</ul>
-</td>
-</tr>
 </table>
 
 </details>
 
 <details>
 <summary>For Scrum Masters</summary>
+</br>
+All Scrum Masters are welcome at Chingu, regardless of whether they have training or a certification. However, participation is regulated to ensure they have the skills needed to guide Voyage teams in a effective manner.
+</br></br>
+
+> If you are a Scrum Master requiring training or perhaps a refresher we recommend you consider [The Job Hackers](https://www.thejobhackers.org).
+
+Scrum Master duties and responsibilities are the same regardless of what tier they are placed in during a Voyage. For this reason SM's are't asked to choose a tier when submitting a Solo Project.
+
+However, they should meet these requirements, which are the minimum needed to successfully guide a Voyage team.
 
 <table>
 <tr>
-<td><strong>Tier</strong></td>
 <td><strong>Requirements</strong></td>
 </tr>
 
 <tr>
-<td>Tier&nbsp;1</td>
-
 <td>
 <strong>Skills:</strong>
 <ul>
-    <li>Basic understanding of Scrum framework: Knowledge of key concepts, values, principles, and ceremonies.</li>
-    <li>Facilitation: Able to guide and support team meetings like daily stand-ups and retrospectives.</li>
-    <li>Communication: Clear and open communication with team members and stakeholders.</li>
-    <li>Conflict Resolution: Ability to identify conflicts within the team and resolve them effectively.</li>
-    <li>Time Management: Capability to manage meetings efficiently and keep the team on track.</li>
-    <li>Listening: Attentive listening to team members' concerns and feedback.</li>
-    <li>You have no formal training as a Scrum Master and you have not completed any certifications.</li>
+    <li>Scrum knowledge: In-depth understanding of Scrum roles, artifacts, and ceremonies.</li>
+    <li>Coaching: Ability to mentor and guide the team to improve processes and practices.</li>
+    <li>Conflict Resolution: More advanced skills in handling team conflicts and fostering a collaborative environment.</li>
+    <li>Continuous improvement: Promoting and implementing continuous improvement strategies.</li>
+    <li>Metrics and Reporting: Use metrics (e.g., velocity, burndown charts) to track and improve team performance.</li>
+    <li>Change Management: Navigating change and helping the team adapt to new circumstances.</li>
+    <li>You have completed formal Scrum Master training, but you have not completed a certification.</li>
 </ul>
 
 <strong>Tools:</strong>
@@ -322,57 +303,12 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 <strong>Restrictions:</strong>
 <ul>
-  <li>In a Voyage Tier 1 SM's may not lead teams. However, they will be assigned to "shadow" either a Tier 2 or a Tier 3 PO.</li>
+    <li>Scrum Masters who are certified are eligible to guide Voyage teams once they complete their Solo Project</li>
+    <li>Scrum Masters who are trained, but not certified must shadow another Scrum Master in a Voyage before they can guide their own team in a subsequent Voyage</li>
+    <li>Scrum Masters with no training and no certification may May not participate in a Voyage</li>
 </ul>
 </td>
 </tr>
-
-<tr>
-<td>Tier&nbsp;2</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Scrum knowledge: In-depth understanding of Scrum roles, artifacts, and ceremonies.</li>
-    <li>Coaching: Ability to mentor and guide the team to improve processes and practices.</li>
-    <li>Conflict Resolution: More advanced skills in handling team conflicts and fostering a collaborative environment.</li>
-    <li>Continuous improvement: Promoting and implementing continuous improvement strategies.</li>
-    <li>Metrics and Reporting: Use metrics (e.g., velocity, burndown charts) to track and improve team performance.</li>
-    <li>Change Management: Navigating change and helping the team adapt to new circumstances.</li>
-    <li>You have completed formal Scrum Master training, but you have not completed a certification.</li>
-
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Project Management Tools: Further proficiency in tools like Jira, Miro, ClickUp, etc..</li>
-    <li>Advanced Agile project management: Utilizing tools like those above with plugins & with the ability to customize workflows.</li>
-    <li>Collaboration tools: Use of platforms like Discord, with channels and threads, for improved team communication.</li>
-    <li>Metrics and analytics tools: Utilizing burndown charts, velocity charts, and other reports for data-driven decision making.</li>
-    <li>Visualization tools: Using tools like Miro or Lucidchart for process mapping and collaboration.</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>Tier&nbsp;3</td>
-
-<td>
-<strong>Skills:</strong>
-<ul>
-    <li>Scrum Expertise: Use Scrum and Agile methodologies and the ability to adapt them to different teams and projects.</li>
-    <li>Leadership and Mentorship: Inspiring teams to high performance. Guiding and mentoring junior team members.</li>
-    <li>Strategic thinking: Developing strategies for improving team and organizational performance.</li>
-    <li>Metrics and data analysis: Using data analytics to gain insights and drive improvement.</li>
-    <li>Conflict Management: Understand how to resolve and prevent conflicts inside and outside the team</li>
-    <li>You have completed formal Scrum Master training and you hold a certification as a Scrum Master.</li>
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Collaboration tools: Integrating various communication, task management, and reporting tools for optimized workflows.</li>
-    <li>Data analytics tools: Utilizing advanced analytics tools and data visualization software to derive insights.</li>
-</ul>
 </td>
 </tr>
 </table>
@@ -441,7 +377,7 @@ intermediate (Tier 2), or experienced (Tier 3).
     <li>Ability to build and deploy complex models</li>
     <li>Expertise in data engineering and architecture</li>
     <li>Strong problem-solving and analytical skills</li>
-    <li>Experience with machine learning algorithms and model evaluation</li>   
+    <li>Experience with machine learning algorithms and model evaluation</li>
 </ul>
 
 <strong>Tools:</strong>
@@ -460,17 +396,17 @@ intermediate (Tier 2), or experienced (Tier 3).
 ### 2. Submit a project that matches your tier 👍
 
 You will need to submit a project that matches the requirements of the tier you've
-chosen then go ahead and submit it for evaluation. Your project can be one 
-you've completed on your own or as a part of a team. 
+chosen then go ahead and submit it for evaluation. Your project can be one
+you've completed on your own or as a part of a team.
 
 It **must** meet these criteria:
-    
-- Your project should match the requirements of the 
+
+- Your project should match the requirements of the
 [tier you have chosen](#1-choose-your-tier)
 - It should be original work (not copied from someone else, including tutorials
 or AI-generated code)
 - If created as part of a team you should be a major contributor to the project
-- It has been developed within the last 12 months, or has a significant number 
+- It has been developed within the last 12 months, or has a significant number
 of commits made by you within the last year.
 
 Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
@@ -483,7 +419,7 @@ Your project source code **must be hosted on GitHub** and your completed project
 
 #### If you are a Product Owner
 
-If you are in the Product Owner role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6). The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed. 
+If you are in the Product Owner role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6). The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed.
 
 You will also be asked to provide the URL of a public website containing a sample product backlog you have created. This backlog can be in the service of your choice including GitHub Projects, Trello, Miro, ClickUp, Jira, or any similar tool.
 
@@ -492,37 +428,37 @@ Your sample product backlog doesn't need to be complicated, but it should demons
 If you You don't have a project you can create a backlog from tis project specification.
 
 | Project Name | Tier 1 | Tier 2 | Tier 3 |
-| :--- | :--- | :--- | :--- | 
+| :--- | :--- | :--- | :--- |
 | Chingu Trivia | [Click here](https://github.com/chingu-voyages/soloproject-tier1-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po) |
 
 #### If you are a Scrum Master
 
-If you are in the Scrum Master role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6). 
+If you are in the Scrum Master role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
 
-The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed. 
+The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed.
 
 #### If you are a UI/UX Designer
 
 You will also be asked to provide the URL of a public website containing a website design you have created. This could be a design hosted on Figma, AdobeXD, or in any other prototyping tool. It might also be a more formal study including things like the definition of personas and stakeholder goals as well as basic screen layout and navigation.
 
 ### 3. Submit a Solo Project Completion Form ✅
-    
+
 When you've completed your Solo Project you will need to submit the **[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)** before you can move on to the Voyage Project.
 
 > You are encouraged to submit this form as soon as your Solo Project is done. There is no need to wait until the submission deadline if you finish earlier.
-> 
+>
 
-Once you submit the Solo Project Completion Form your project will be 
-evaluated within **_2 business_** days and a member our team will provide you with 
+Once you submit the Solo Project Completion Form your project will be
+evaluated within ***2 business*** days and a member our team will provide you with
 status in a Discord direct message (DM).
 
-There is no need to resubmit the completion form once you've received 
-feedback. If any rework is requested you can open a support ticket 
+There is no need to resubmit the completion form once you've received
+feedback. If any rework is requested you can open a support ticket
 [here](https://discord.com/channels/330284646283608064/1105911757177888908)
 when you are ready for your project to be retested.
-    
+
 ## Solo Project Tips ✏️
-    
+
 1. It is more important to complete the project than it is to add features since completion is required before you can advance to the Voyage Project.
 2. Concentrate on completing the required tasks for your tier and then work on bonus tasks only if time permits. Keep in mind that advancing to the Voyage phase of the Cohort depends on the completion of the required tasks listed in the project repo we've provided.
 3. Choose tools you are comfortable and productive with. In the limited time available to complete the Solo Project it's not a good idea to try to use something you don't already know.
@@ -534,12 +470,12 @@ when you are ready for your project to be retested.
     - Using a CSS library or creating your own CSS
 5. Your repo should contain a well written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).
 6. Remember that your app should run error-free. There should be no errors in the browser or server console logs.
-7. When you submit your project ***you must provide URL's for***: 
+7. When you submit your project ***you must provide URL's for***:
     - the publicly accessible repository containing your project (eg. Github).
-    - the running version of your project where you have deployed it on an 
+    - the running version of your project where you have deployed it on an
     Internet accessible host (eg. Github Pages, Netlify, etc.) so we can evaluate not
     just your code, but also your UI/UX.
-8. You may **NOT** use a source code generator (like GitHub Co-Pilot) to 
+8. You may **NOT** use a source code generator (like GitHub Co-Pilot) to
 create any part of your Solo Project.
 9. Chingu is all about collaborative learning and supporting each other as
     we level up! Use our Discord channels to get help and advice.
