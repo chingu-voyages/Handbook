@@ -217,7 +217,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
      - Tier 3: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
 
      For Data Science teams:
-     - All tiers: Data Scientists, plus Product Owners and/or Scrum Masters
+     - All tiers: Data Scientists
 
      Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and 
      Voyage Guides are added to teams if they are available.
