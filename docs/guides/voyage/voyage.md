@@ -219,7 +219,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
      For Data Science teams:
      - All tiers: Data Scientists
 
-     Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and 
+     Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and
      Voyage Guides are added to teams if they are available.
 
   2. Timezone
@@ -241,7 +241,20 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
      * **Web Development** teams consist of a Product Owner, a Scrum Master, 3-5 Web Developers, and a UI/UX Designer.
      * **Data Science** teams consist of a Product Owner, a Scrum Master, and 3-5 Data Scientists
 
-     Keep in mind that assigning Product Owners, Scrum Masters and UI/UX Designers to teams depend on how many Chingus in those roles sign up for a Voyage. In addition, for Data Science teams, we'll reach out to Data Scientists if we don't have enough in your tier and timezone to form a team. In this case you'll be given the option to join a Web Development team or to wait until the next Voyage. 
+     Keep in mind that assigning Product Owners, Scrum Masters and UI/UX Designers to teams depend on how many Chingus in those roles signup for a Voyage. In addition, for Data Science teams, we'll reach out to Data Scientists if we don't have enough in your tier andtimezone to form a team. In this case you'll be given the option to join a Web Development team or to wait until the next Voyage.
+
+  6. Availability
+
+     Teams are capped at 9 participants per team including:
+
+     * 4-6 Developers
+     * 1 UI/UX Designer
+     * 1 Product Owner
+     * 1 Scrum Master
+
+     In addition, while teams will always have Developers, they will have the
+     other three roles depending on whether or not Chingus in the other roles
+     in the same tier and timezone range signup for the Voyage.
 </details>
        
 ## The Voyage Process
