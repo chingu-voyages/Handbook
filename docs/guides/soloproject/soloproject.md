@@ -448,9 +448,10 @@ When you've completed your Solo Project you will need to submit the **[Solo Pro
 > You are encouraged to submit this form as soon as your Solo Project is done. There is no need to wait until the submission deadline if you finish earlier.
 >
 
-Once you submit the Solo Project Completion Form your project will be
-evaluated within ***2 business*** days and a member our team will provide you with
-status in a Discord direct message (DM).
+Once you submit the Solo Project Completion Form our goal is to evaluate your
+project and provide feedback in a Discord direct message (DM) within
+***2 business*** days. However, this may take longer based on the number of
+Chingus submitting projects in the same timeframe.
 
 There is no need to resubmit the completion form once you've received
 feedback. If any rework is requested you can open a support ticket
