@@ -118,7 +118,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     </tr>
     <tr>
       <td><strong>UI/UX Designer</strong></td>
-      <td>UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. </td>
+      <td>UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. If you are in a Voyage team without a UI/UX Designer check out <a href="../../resources/techresources/uiux.md">this guide</a> your team can use to perform this roles duties.</td>
     </tr>
     <tr>
       <td><strong>Data Scientist</strong></td>
@@ -210,6 +210,18 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
      All participants in a team will be from the same tier. This is the tier you selected on the [Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
 
+     For Web Development teams:
+
+     - Tier 1: Developers, plus Product Owners, Scrum Masters, & Voyage Guides
+     - Tier 2: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
+     - Tier 3: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
+
+     For Data Science teams:
+     - All tiers: Data Scientists
+
+     Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and
+     Voyage Guides are added to teams if they are available.
+
   2. Timezone
 
      We try to match teams so no two teammates will be more than 2 timezones away from one another. This makes it easier to find times for meetings and pair programming sessions.
@@ -229,12 +241,178 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
      * **Web Development** teams consist of a Product Owner, a Scrum Master, 3-5 Web Developers, and a UI/UX Designer.
      * **Data Science** teams consist of a Product Owner, a Scrum Master, and 3-5 Data Scientists
 
-     Keep in mind that assigning Product Owners, Scrum Masters and UI/UX Designers to teams depend on how many Chingus in those roles sign up for a Voyage. In addition, for Data Science teams, we'll reach out to Data Scientists if we don't have enough in your tier and timezone to form a team. In this case you'll be given the option to join a Web Development team or to wait until the next Voyage. 
+     Keep in mind that assigning Product Owners, Scrum Masters and UI/UX Designers to teams depend on how many Chingus in those roles signup for a Voyage. In addition, for Data Science teams, we'll reach out to Data Scientists if we don't have enough in your tier andtimezone to form a team. In this case you'll be given the option to join a Web Development team or to wait until the next Voyage.
+
+  6. Availability
+
+     Teams are capped at 9 participants per team including:
+
+     * 4-6 Developers
+     * 1 UI/UX Designer
+     * 1 Product Owner
+     * 1 Scrum Master
+
+     In addition, while teams will always have Developers, they will have the
+     other three roles depending on whether or not Chingus in the other roles
+     in the same tier and timezone range signup for the Voyage.
 </details>
        
 ## The Voyage Process
+```mermaid
+---
+config:
+  layout: elk
+  theme: dark
+---
+  block-beta
+    columns 4
+    block:B1:1
+      columns 1
+      block:B1TOP
+        columns 3
+        A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+      end
+      space
+      space
+      block:B1CENTER
+        columns 3
+        space
+        SPRINT1("&nbsp;Sprint 1&nbsp;")
+        space
+      end
+      space
+      space
+      block:B1BOTTOM
+        columns 3
+        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        space
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+      end
+      A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT1
+      A2 -- "</br></br></br></br></br></br><a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</a>" --> SPRINT1
+      A3 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
+      A4 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>define</br>vision stmt.</a>" --> SPRINT1
+      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
+    end
 
-![How it Works](./assets/Voyage_Project_How_it_Works.png)
+    block:B2:1
+      columns 1
+      block:B2TOP
+        columns 3
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
+        space
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
+      end
+      space
+      space
+      block:B2CENTER
+        columns 3
+        space
+        SPRINT2("&nbsp;Sprint 2&nbsp;")
+        space
+      end
+      space
+      space
+      block:B2BOTTOM
+        columns 3
+        space
+        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
+        space
+      end
+      A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
+      A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
+      A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-your-team-workflow-">Define team workflow</a>" --> SPRINT2
+    end
+
+    block:B3:1
+      columns 1
+      block:B3TOP
+        columns 3
+        space
+        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
+        space
+      end
+      space
+      space
+      space
+      space
+      block:B3CENTER
+        columns 3
+        space
+        SPRINTS35("&nbsp;Sprint 3-5 ")
+        space
+      end
+      space
+      block:B3BOTTOM
+        columns 3
+        space
+        space
+        space
+      end
+      A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
+    end
+
+    block:B4:1
+      columns 1
+      block:B4TOP
+        columns 3
+        space
+        A10(("&nbsp;&nbsp;&nbsp;10&nbsp;"))
+        space
+      end
+      space
+      space
+      block:B4CENTER
+        columns 3
+        space
+        SPRINT6("&nbsp;Sprint 6&nbsp;")
+        space
+      end
+      space
+      space
+      block:B4BOTTOM
+        columns 3
+        space
+        space
+        space
+      end
+      A10 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
+    end
+
+    SPRINT1 --> SPRINT2
+    SPRINT2 --> SPRINTS35
+    SPRINTS35 --> SPRINT6
+
+    style B1TOP stroke:#292d30,fill:#292d30
+    style B1CENTER stroke:#292d30,fill:#292d30
+    style B1BOTTOM stroke:#292d30,fill:#292d30
+    style B2TOP stroke:#292d30,fill:#292d30
+    style B2CENTER stroke:#292d30,fill:#292d30
+    style B2BOTTOM stroke:#292d30,fill:#292d30
+    style B3TOP stroke:#292d30,fill:#292d30
+    style B3CENTER stroke:#292d30,fill:#292d30
+    style B3BOTTOM stroke:#292d30,fill:#292d30
+    style B4TOP stroke:#292d30,fill:#292d30
+    style B4CENTER stroke:#292d30,fill:#292d30
+    style B4BOTTOM stroke:#292d30,fill:#292d30
+        
+    style A1 color:#f0f6fc,fill:#1d8348
+    style A2 color:#f0f6fc,fill:#1d8348
+    style A3 color:#f0f6fc,fill:#1d8348
+    style A4 color:#f0f6fc,fill:#1d8348
+    style A5 color:#f0f6fc,fill:#1d8348
+    style A6 color:#f0f6fc,fill:#1d8348
+    style A7 color:#f0f6fc,fill:#1d8348
+    style A8 color:#f0f6fc,fill:#1d8348
+    style A9 color:#f0f6fc,fill:#1d8348
+    style A10 color:#f0f6fc,fill:#1d8348
+    style SPRINT1 color:#f0f6fc,fill:#b9770e
+    style SPRINT2 color:#f0f6fc,fill:#b9770e
+    style SPRINTS35 color:#f0f6fc,fill:#b9770e
+    style SPRINT6 color:#f0f6fc,fill:#b9770e
+```
 
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
 
@@ -436,6 +614,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/) or even pencil and paper.
   
   **Resources**
+
+  If you are in a Voyage team without a UI/UX Designer check out <a href="../../resources/techresources/uiux.md">this guide</a> your team can use to perform this roles duties.
   
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
       
