@@ -111,7 +111,7 @@ To signup simply complete and submit a [Voyage Signup](https://forms.gle/QGLbjKu
 
 ## Join a Pair Programming session
 
-While you are waiting for your Voyage to start you might wish to join in one
+While you are waiting for your Voyage to start you might wish to join in one of
 our weekly Pair Programming sessions. Pair Programming with another Chingu will
 help you learn with a like-minded professional and expand your network.
 
