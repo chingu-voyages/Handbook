@@ -1,11 +1,11 @@
 # Community Standards
 
-We view this as an obligation to all of our Members. Any Members violating 
-the Community Standards will be removed from the community. Violations should 
-be reported to [support@chingu.io](mailto:support@chingu.io) and will be kept 
+We view this as an obligation to all of our Members. Any Members violating
+the Community Standards will be removed from the community. Violations should
+be reported to [support@chingu.io](mailto:support@chingu.io) and will be kept
 confidential.
 
-Learning requires an open environment where information and ideas can be 
+Learning requires an open environment where information and ideas can be
 freely exchanged. Our Community Standards maintain a focus on learning by:
 
 ## Creating a Friendly and Open Community

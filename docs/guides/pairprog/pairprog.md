@@ -34,7 +34,7 @@ This means you need to commit yourself to being responsive to your partner and p
 ![Pair Programming Timeline V3.png](./assets/Pair_Programming_Timeline_V3.png)
 
 1. You may signup for the next Pair Programming Session using the ***[Pair Programming Match Request](https://forms.gle/khf7yHUNCGodLoDg6)*** form. A link will also be posted in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel every Monday morning.
-2. We'll match you with a partner in a Discord channel on Tuesday after 5:00 p.m. CST/CDT (Chicago), which also contains next steps and tips for success. We'll email you when we've completed the matching process and we'll also post a status update in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel. 
+2. We'll match you with a partner in a Discord channel on Tuesday after 5:00 p.m. CST/CDT (Chicago), which also contains next steps and tips for success. We'll email you when we've completed the matching process and we'll also post a status update in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel.
 3. When your Pair Programming channel is assigned introduce yourself to your partner and set up a time to meet online.
 
 > We suggest using the conferencing and screensharing that's built into Discord, but you may use any collaboration tool you prefer.
@@ -58,7 +58,7 @@ This means you need to commit yourself to being responsive to your partner and p
 ## Tips
 
 1. Choose a small challenge you can complete in a week based on the assumption that you and your partner will only be able to meet for a total of 2-4 hours over the week. This means the challenge you choose to solve will need to be very small.
-2. Carefully manage scope. Since each Pair Programming session is only a week there's no time to develop a "project". 
+2. Carefully manage scope. Since each Pair Programming session is only a week there's no time to develop a "project".
 3. Choose a small problem like:
     - Which is faster when processing all entries in an array? A `forEach` or a `for-loop`?
     - How can the default color of an CSS element be dynamically modified from Javascript?
