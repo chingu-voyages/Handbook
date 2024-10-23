@@ -166,6 +166,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 </details>
 
 <details>
+  <summary>What if I need more “Hard Skills” 🖌️</summary>
+  <br/>
+
+  If you feel that you need additional Agile/Scrum or technical skills **[check
+  out our Partners](../../gettingstarted/partners.md)**, who provide these resources free or at a discount to
+  Chingus
+</details>
+
+<details>
   <summary>Familiarize yourself with Git & GitHub</summary>
   <br/>
 
