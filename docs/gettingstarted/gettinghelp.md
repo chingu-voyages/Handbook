@@ -50,7 +50,9 @@ in the [#coding-help](https://discord.com/channels/330284646283608064/1047615334
 
 ### Getting help for a confidential situation
   
-If you need to ask something confidential you can email `support@chingu.io`.
+If you need to ask something confidential you can
+[open a support ticket](https://discord.com/channels/330284646283608064/1193342042080817323)
+to bring it to the attention of the Admin team.
 
 ## How to Ask a Good Question
 

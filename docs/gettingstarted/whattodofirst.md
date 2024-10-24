@@ -68,7 +68,7 @@ graph LR
     B -- Yes --> C[Submit your\nSolo Project]
     B -- No --> D[Create from\nChingu Specs]
     D --> C
-    C --> E[Facilitator\ngives feedback]
+    C --> E[Evaluator\ngives feedback]
     E --> F((Signup for\na Voyage))
 ```
 
@@ -88,7 +88,7 @@ on your own or as a part of a team. It should meet these criteria:
 When you are done, submit a [Solo Project Completion form](https://docs.google.com/forms/d/e/1FAIpQLSdN3dN7OjzppDCBNIsIf-bOJC_XAlQ9eiPcYQx_m6DfhaiRmA/viewform) so we can evaluate your project.
 (Note: please use the same email as your application form)
 
-One of our Facilitators will evaluate your Solo Project and will DM you in
+One of our Evaluators will evaluate your Solo Project and will DM you in
 Discord with feedback you can use! They will look at both your code as well
 as the running app so you'll get 360-degree feedback.
 
