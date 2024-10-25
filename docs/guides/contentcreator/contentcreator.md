@@ -2,7 +2,6 @@
 
 ![Developer writing an article](./assets/Developer_writing_article.jpeg)
 
-
 ## Introduction
 
 The Impostor Syndrome is something virtually all Developers struggle with. At its core, diagram (see [Developers: How to Overcome Impostor Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4)) below sums up this syndrome very accurately and concisely.
@@ -28,7 +27,7 @@ Some examples of articles and videos created by members of the Chingu community 
 
 {% youtube aXGsLI13lF4 %}
 
-### It is Time to Get Started!
+### It is Time to Get Started
 
 What follows are guidelines to help you create content that will be relevant, easily understood, and professionally formatted. These can be used as your checklist as you create content:
 
@@ -138,7 +137,7 @@ These are are especially important if you will be sharing your work with peers a
 - _Define Acronyms_ — An old joke says there are two kinds of acronyms — three-letter acronyms (TLA’s) and four-letter acronyms (FLA’s). Acronyms are useful shortcuts for commonly used phrases. But make sure to list the phrase and its acronym in parentheses when it is first used to help your readers understand what the letters mean. For uncommon acronyms you might also consider adding a more detailed definition and why they are important.
 - _Give Credit Where Credit is Due_ — When using your reference material be sure to cite your sources. This helps to avoid plagiarism and demonstrates your professionalism by the fact that you are recognizing the contributions of others. Two commonly used formats for citing other works are from the [American Psychological Association](http://www.citationmachine.net/apa) (APA) and the [Modern Language Association](http://www.citationmachine.net/mla) (MLA).
 - _Edit Before you Publish_ — Few, if any, first drafts are ready to be published. That is why they are called first drafts. Taking the time to review and revise what you’ve written produces stronger and more polished content. You might also want to put yourself in the place of your target audience and read your article or script out loud. Hearing how it sounds is a good technique for finding phrasing issues and cadence.
-- _Don’t be a Perfectionist — _As important as it may be to conduct multiple edits you should balance the number of edits against the reality that what you produce is useful only if it reaches the audience! Use the rule of [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) to determine when it is time to stop editing.
+- _Don’t be a Perfectionist  _-As important as it may be to conduct multiple edits you should balance the number of edits against the reality that what you produce is useful only if it reaches the audience! Use the rule of [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) to determine when it is time to stop editing.
 
 If you are creating a video your script will have these same elements, however it should be in the form of a more detailed outline rather than an article. When presenting you’ll use this script as a guide to ensure you include all the necessary topics and key points.
 
@@ -180,4 +179,4 @@ Creating content gives you a deeper understanding about the topic you are presen
 
 Sharing what you know is also an excellent way to counter the Impostor Syndrome. A large part of the syndrome comes from being hesitant and unsure about your knowledge as compared to others. It only makes sense that the effort you put into researching the subject you are presenting will increase your confidence in what you know, but also in your ability to learn new information and effectively communicate it to others.
 
-Finally, remember that once you’ve published your article or video don’t forget this final critical step — Celebrate Your Success!
+Finally, remember that once you’ve published your article or video don’t forget this final critical step — Celebrate Your Success

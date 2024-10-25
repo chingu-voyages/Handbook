@@ -42,6 +42,7 @@ Data Scientists, and Agile Product Owners & Scrum Masters.
 - [Programs & Services](./docs/gettingstarted/programs.md)
 - [Getting Help](./docs/gettingstarted/gettinghelp.md)
 - [What to Do First](./docs/gettingstarted/whattodofirst.md)
+- [Our Partners](./docs/gettingstarted/partners.md)
 
 ### Onboarding 📒
 

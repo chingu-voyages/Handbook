@@ -12,7 +12,7 @@ Voyages are 6-week long remote team projects where you'll level up your skills a
 
 ## Before you Start
 
-Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member. 
+Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member.
 
 ### Voyage Schedule 🗓️
 
@@ -22,7 +22,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     Jan 2025 : Voyage 53
     Mar 2025 : Voyage 54
 ```
-    
+  
 | Milestone | Voyage 52 | Voyage 53 | Voyage 54 |
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
@@ -32,7 +32,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 | Voyage ends & projects due | December 15 | February 16 | April 13 |
 | Completion Certificates issued | December 22 | February 23 | April 20 |
 | Voyage Showcase article published | December 27 | March 2 | May 4 |
-    
+
 ### How to Prepare for your Voyage 📝
 
 <details>
@@ -50,10 +50,10 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
   1. **Voyages are free**, but you will need to pay to receive the Voyage Completion Certificate.
   2. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at $2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** as needed for $3.99.
-  3. You can sign up for Subscriptions or Products in our [Discord Server Shop](https://discord.com/channels/330284646283608064/shop) 
+  3. You can sign up for Subscriptions or Products in our [Discord Server Shop](https://discord.com/channels/330284646283608064/shop)
   4. You can also sign up for [Subscriptions](https://buy.stripe.com/7sIaHh0Ev5oY3BecMN) and [Products](https://buy.stripe.com/bIY5mXevl5oYgo0fYY) in Stripe.
   
-  When you sign up for a monthly subscription you will get access to an exclusive _Superstars channel + your Voyage Completion Certificate_ at no additional charge. You may cancel this at any time. 
+  When you sign up for a monthly subscription you will get access to an exclusive _Superstars channel + your Voyage Completion Certificate_ at no additional charge. You may cancel this at any time.
   
   You’ll still be able to purchase [Chingu swag](https://chingu.myspreadshop.com/) and make one-time contributions via [Buy us a Coffee](https://www.buymeacoffee.com/chingu). Past and future contributors using Buy Me a Coffee will automatically be added to the Superstars channel.
 
@@ -76,7 +76,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
       <td><strong>Product Owner</strong></td>
       <td>The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation.<br/><br/>Specific PO responsibilities include:
       <ul>
-        <li>Developing and explicitly communicating the Product Goal through a Product Roadmap and 
+        <li>Developing and explicitly communicating the Product Goal through a Product Roadmap and
         Product Backlog</li>
         <li>Defining, prioritizing, and clearly communicating items the product backlog</li>
         <li>Ensuring that the Product Backlog is transparent, visible and understood</li>
@@ -87,7 +87,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
         <li>Participating in Sprint Planning, Review, and Retrospective meetings</li>
         <li>Actively listening to all ideas and concerns from the team</li>
         <li>Quickly resolving any issues or suggestions related to the backlog</li>
-        <li>Working closely together to ensure that the needs of all stakeholders, 
+        <li>Working closely together to ensure that the needs of all stakeholders,
         including the development team, are met</li>
       </ul>
       PO's should ensure that the backlog is visible to all team members and open to their ideas, suggestions, and revisions. Regardless, of this the PO is accountable for these.<br/><br/>But, it is important that everyone on the team support them with active participation and feedback, and their decisions must be respected. These decisions must be visible the Product Backlog, and shared in the Scrum events.<br/><br/>PO's are individuals, not committees. Teammates wanting to change the Product Backlog must do so through the PO, but they must trust the PO's final decision.</br></br>Because so many of the issues are technical issues, Product Owners who have a strong background in technology, or who are also a developer, are often referred to as a <em>Technical Product Owner (TPO)</em>. You can learn more about this variant of the PO role in the <a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md#glossary">Glossary</a>.</td>
@@ -126,7 +126,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     </tr>
     <tr>
       <td><strong>Voyage Guide</strong></td>
-      <td>Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to provide help and advice to Voyage teams. 
+      <td>Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to provide help and advice to Voyage teams.
         <ul>
           <li>Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li>
           <li>Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.</li>
@@ -163,6 +163,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
   - [ ] If this is your first Voyage, **complete a [Solo Project](../soloproject/soloproject.md)**
   - [ ] Read **[How to be a Great Teammate](../../resources/projresources/greatteammate.md)** (5 minutes)
   - [ ] Read **[Soft Skills 101](../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** (5 minutes)
+</details>
+
+<details>
+  <summary>What if I need more “Hard Skills” 🖌️</summary>
+  <br/>
+
+  If you feel that you need additional Agile/Scrum or technical skills **[check
+  out our Partners](../../gettingstarted/partners.md)**, who provide these resources free or at a discount to
+  Chingus
 </details>
 
 <details>
