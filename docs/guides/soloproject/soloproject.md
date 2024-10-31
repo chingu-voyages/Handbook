@@ -55,6 +55,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <ul>
     <li>Basic understanding of CSS and HTML.</li>
     <li>Familiarity with at least one programming language (Python, Javascript, PHP, Ruby, etc.)</li>
+    <li>Experience with either Web Components or a front-end framework such as React, Vue, Angular, etc.</li>
     <li>Ability to create and deploy a webpage to the Internet that dynamically interacts with events such as buttons and form fields to alter the information displayed on the screen.</li>
 </ul>
 <strong>Tools</strong>
@@ -67,7 +68,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 
 <p>Your Solo Project <strong><em>must</em></strong> be defined using CSS and HTML, which also uses logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen.</p>
 
-<p>In addition, Tier 1 Chingus will only use vanilla CSS/HTML + a programming language for Solo Projects and Voyages. Those using any form of FE framework such as React, VueJS, Svelte, etc. should apply for Tier 2 or higher.</p>
+Tier 1 Chingus will use a programming language in addition to a framework such as React, Vue, Svelte, etc. If you haven't yet learned a FE framework, you will need to learn that skill before submitting a Solo Project and joining a Voyage. We recommend [Scrimba](../../gettingstarted/partners.md)
 
 </td>
 </tr>
@@ -150,22 +151,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 <td>Tier&nbsp;1</td>
 
 <td>
-<strong>Skills:</strong>
-<ul>
-    <li>Basic Design Principles: Understanding of basic design concepts like color theory, typography, layout, and composition.</li>
-    <li>User Research: Basic knowledge of conducting user research, creating user personas, and understanding user needs.</li>
-    <li>Wireframing and Prototyping: Familiarity with tools to create simple wireframes and prototypes.</li>
-    <li>UI/UX Fundamentals: Entry-level understanding of user interface and user experience principles.</li>
-    <li>Basic Accessibility Principles: Awareness of challenges faced by those with vision, hearing, motor, cognitive, etc. differences.</li>
-</ul>
-
-<strong>Tools:</strong>
-
-<ul>
-    <li>Design Software: Entry-level proficiency with user interface design tools like Figma or Sketch. Skills include using frames, groups, shapes, text entry, and font, color, size, and effect configuration.</li>
-    <li>Prototyping Tools: Basic usage of tools like InVision, Marvel, or Figma to create simple prototypes.</li>
-    <li>User Research Tools: Basic understanding of tools such as Google Forms or Typeform which may be used for conducting surveys or user interviews.</li>
-</ul>
+Tier 1 is not an option for UI/UX Designers
 </td>
 </tr>
 
@@ -326,28 +312,11 @@ However, they should meet these requirements, which are the minimum needed to su
 
 <tr>
 <td>Tier&nbsp;1</td>
-
 <td>
-<strong>Skills:</strong>
-<ul>
-    <li>Basic understanding of programming (Python, R, Javascript, etc.)</li>
-    <li>Fundamental knowledge of statistics and mathematics</li>
-    <li>Ability to clean and preprocess data</li>
-    <li>Basic knowledge of data visualization</li>
-    <li>Familiarity with basic machine learning concepts</li>
-    <li>Understand basic Web Development processes such as git/GitHub, Agile project management, etc.</li>
-</ul>
-
-<strong>Tools:</strong>
-<ul>
-    <li>Programming Languages: Python, R, or Javascript</li>
-    <li>Data Manipulation: Pandas (Python), Pandas.js or Data-Forge (Javascript)</li>
-    <li>Data Visualization: Matplotlib, Seaborn (Python), D3 (Javascript)</li>
-    <li>IDEs: Jupyter Notebook</li>
-</ul>
+Tier 1 is not an option for Data Scientists
 </td>
-
 </tr>
+
 <tr>
 <td>Tier&nbsp;2</td>
 <td>
@@ -425,11 +394,7 @@ You will also be asked to provide the URL of a public website containing a sampl
 
 Your sample product backlog doesn't need to be complicated, but it should demonstrate that you understand how to organize the project visually using a combination of Epics, User Stories, and Tasks. Including dependencies between these product backlog items as well as acceptance criteria, edge cases, and test criteria is a definite plus.
 
-If you You don't have a project you can create a backlog from tis project specification.
-
-| Project Name | Tier 1 | Tier 2 | Tier 3 |
-| :--- | :--- | :--- | :--- |
-| Chingu Trivia | [Click here](https://github.com/chingu-voyages/soloproject-tier1-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier2-chingu-trivia-po) | [Click here](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po) |
+If you don't have a project you can create a backlog from [this project specification](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po).
 
 #### If you are a Scrum Master
 
