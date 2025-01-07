@@ -65,7 +65,7 @@ flowchart TB
 ### Program Guides
 
 - [Solo Project Guide](./docs/guides/soloproject/soloproject.md)
-- [Voyage Guide](./docs/guides/voyage/voyage.md)
+- [Voyage Manual](./docs/guides/voyage/voyage.md)
 - [Pair Programming Guide](./docs/guides/pairprog/pairprog.md)
 - [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
 - [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md)
