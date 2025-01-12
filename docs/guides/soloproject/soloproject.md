@@ -1,4 +1,4 @@
-# Solo Project Guide
+# Solo Project
 
 ![Team creating project backlog](./assets/SoloProject_coder.jpeg)
 
