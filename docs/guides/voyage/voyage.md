@@ -1,4 +1,4 @@
-# Voyage Manual
+# Voyage
 
 ![Team creating product backlog](./assets/Team_creating_agile_backlog_board.jpeg)
 
