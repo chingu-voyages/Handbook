@@ -91,7 +91,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
         including the development team, are met</li>
       </ul>
       PO's should ensure that the backlog is visible to all team members and open to their ideas, suggestions, and revisions. Regardless, of this the PO is accountable for these.<br/><br/>But, it is important that everyone on the team support them with active participation and feedback, and their decisions must be respected. These decisions must be visible the Product Backlog, and shared in the Scrum events.<br/><br/>PO's are individuals, not committees. Teammates wanting to change the Product Backlog must do so through the PO, but they must trust the PO's final decision.</br></br>Because so many of the issues are technical issues, Product Owners who have a strong background in technology, or who are also a developer, are often referred to as a <em>Technical Product Owner (TPO)</em>. You can learn more about this variant of the PO role in the <a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md#glossary">Glossary</a>.</br></br>
-      Chingu's may assigned as _Primary_ or _Shadow_ Product Owners. The difference is Primary PO's have both the certifications and experience to effectively coordinate teams, while Shadow PO's need to observe an experienced PO before they are ready to be a Primary PO.</br></br>
+      Chingu's may assigned as *Primary* or *Shadow* Product Owners. The difference is Primary PO's have both the certifications and experience to effectively coordinate teams, while Shadow PO's need to observe an experienced PO before they are ready to be a Primary PO.</br></br>
       Primary PO's can be thought of a mentors for Shadow PO's. They must help answer any questions Shadow PO's must have, explain their role and how they fulfill the PO responsibilities, and assign small tasks to the Shadow (like leading a Sprint Planning session) when they feel they are ready.
       </td>
     </tr>
@@ -122,7 +122,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
     <tr>
       <td><strong>UI/UX Designer</strong></td>
       <td>UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. If you are in a Voyage team without a UI/UX Designer check out <a href="../../resources/techresources/uiux.md">this guide</a> your team can use to perform this roles duties.</td></br></br>
-      Chingu's may assigned as _Primary_ or _Shadow_ Scrum Master. The difference is Primary SM's have both the certifications and experience to effectively coordinate teams, while Shadow SM's need to observe an experienced SM before they are ready to be a Primary SM.</br></br>
+      Chingu's may assigned as __Primary__ or **Shadow** Scrum Master. The difference is Primary SM's have both the certifications and experience to effectively coordinate teams, while Shadow SM's need to observe an experienced SM before they are ready to be a Primary SM.</br></br>
       Primary SM's can be thought of a mentors for Shadow SM's. They must help answer any questions Shadow SM's must have, explain their role and how they fulfill the SM responsibilities, and assign small tasks to the Shadow (like leading a Scrum events) when they feel they are ready.
     </tr>
     <tr>
