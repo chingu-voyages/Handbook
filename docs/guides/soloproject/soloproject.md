@@ -67,7 +67,7 @@ Remember that you are required to produce original work! You should not copy and
 
 ```mermaid
 graph TB
-    A{[I am a Developer or Data Scientist?](#if-you-are-a-developer-or-data-scientist)};
+    A{I am a Developer or Data Scientist?};
     A -- Yes --> B(URL's for GitHub repo &</br>deployed application);
     A -- No --> C{I am a Product Owner};
     C -- Yes --> D(Complete quiz in Solo Project</br>form & URL of sample</br>Product Backlog);
