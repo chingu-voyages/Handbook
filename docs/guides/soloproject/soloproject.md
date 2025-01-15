@@ -63,6 +63,26 @@ of commits made by you within the last year.
 
 Remember that you are required to produce original work! You should not copy and submit a solo project you did not personally author. For more information refer to our [Community Standards](../../gettingstarted/communitystds.md).
 
+#### What you will need to submit
+
+```mermaid
+graph TB
+    A{I am a Developer or Data Scientist?};
+    A -- Yes --> B(URL's for GitHub repo & deployed application);
+    A -- No --> C{I am a Product Owner};
+    C -- Yes --> D(Complete quiz in Solo Project form & URL of sample Product Backlog);
+    C -- No --> E{I am a Scrum Master};
+    E -- Yes --> F(Complete quiz in Solo Project form);
+    E -- No --> G{I am a UI/UX Designer};
+    G -- Yes --> H(URL for a website design);
+    G -- No --> I(Chingu doesn't support your preferred role);
+    B --> Z([End]);
+    D --> Z;
+    F --> Z;
+    H --> Z;
+    I --> Z;
+```
+
 #### If you are a Developer or Data Scientist
 
 You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6) for your project.
