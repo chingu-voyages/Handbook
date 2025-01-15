@@ -70,11 +70,11 @@ graph TB
     A{I am a Developer</br>or Data Scientist?};
     A -- Yes --> B(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#if-you-are-a-developer-or-data-scientist'>URL's for GitHub repo &</br>deployed application</a>);
     A -- No --> C{I am a Product Owner};
-    C -- Yes --> D(Complete quiz in Solo Project</br>form & URL of sample</br>Product Backlog);
+    C -- Yes --> D(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#if-you-are-a-product-owner'>Complete quiz in Solo Project</br>form & URL of sample</br>Product Backlog</a>);
     C -- No --> E{I am a Scrum Master};
-    E -- Yes --> F(Complete quiz in</br>Solo Project form);
+    E -- Yes --> F(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#if-you-are-a-scrum-master'>Complete quiz in</br>Solo Project form</a>);
     E -- No --> G{I am a UI/UX Designer};
-    G -- Yes --> H(URL for a website design);
+    G -- Yes --> H(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#if-you-are-a-uiux-designer'>URL for a website design);
     G -- No --> I(Chingu doesn't support</br>your preferred role);
     B --> Z([End]);
     D --> Z;
