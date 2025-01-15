@@ -54,7 +54,7 @@ you've completed on your own or as a part of a team.
 It **must** meet these criteria:
 
 - Your project should match the requirements of the
-[tier you have chosen](#1-choose-your-tier)
+[tier you have chosen](#1-choose-your-tier-1%EF%B8%8F⃣-2%EF%B8%8F⃣-3%EF%B8%8F⃣)
 - It should be original work (not copied from someone else, including tutorials
 or AI-generated code)
 - If created as part of a team you should be a major contributor to the project
