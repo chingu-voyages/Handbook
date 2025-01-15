@@ -68,14 +68,14 @@ Remember that you are required to produce original work! You should not copy and
 ```mermaid
 graph TB
     A{I am a Developer or Data Scientist?};
-    A -- Yes --> B(URL's for GitHub repo & deployed application);
+    A -- Yes --> B(URL's for GitHub repo &</br>deployed application);
     A -- No --> C{I am a Product Owner};
-    C -- Yes --> D(Complete quiz in Solo Project form & URL of sample Product Backlog);
+    C -- Yes --> D(Complete quiz in Solo Project</br>form & URL of sample</br>Product Backlog);
     C -- No --> E{I am a Scrum Master};
-    E -- Yes --> F(Complete quiz in Solo Project form);
+    E -- Yes --> F(Complete quiz in</br>Solo Project form);
     E -- No --> G{I am a UI/UX Designer};
     G -- Yes --> H(URL for a website design);
-    G -- No --> I(Chingu doesn't support your preferred role);
+    G -- No --> I(Chingu doesn't support</br>your preferred role);
     B --> Z([End]);
     D --> Z;
     F --> Z;
