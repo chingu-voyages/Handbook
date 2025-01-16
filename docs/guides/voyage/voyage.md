@@ -5,7 +5,7 @@
 ## All About Your Voyage
 
  1. [What are Voyages](#what-are-voyages)
- 2. [Before you Start(#before0-you-start)
+ 2. [Before you Start](#before-you-start)
  3. [The Voyage Process](#the-voyage-process)
  4. [Voyage Tips](#voyage-tips)
 
