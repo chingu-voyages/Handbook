@@ -2,6 +2,12 @@
 
 ![Team creating product backlog](./assets/Team_creating_agile_backlog_board.jpeg)
 
+## All About Your Voyage
+
+[[TOC]]
+
+---
+
 ## What are Voyages❓
 
 Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by:
