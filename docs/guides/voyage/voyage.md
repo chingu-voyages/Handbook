@@ -35,33 +35,12 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ### How to Prepare for your Voyage 📝
 
-<details>
-  <summary>How do I check my Voyage Signup status?</summary>
-  <br/>
-
-  You can use the `/user` command in any Discord channel to find out if you
-  have completed your Solo Project and signed up for the next Voyage. You
-  can learn more [here](../../../docs/resources/techresources/titan.md#getting-your-chingu-status-information).
-</details>
+[How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
+[What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
+[What the different roles in a Voyage team?](./topics/voyage_cost.md)</br>
 
 <details>
-  <summary>What Does a Voyage Cost? 💰💰💰</summary>
-  <br/>
-
-  1. **Voyages are free**, but you will need to pay to receive the Voyage Completion Certificate.
-  2. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at $2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** as needed for $3.99.
-  3. You can sign up for Subscriptions or Products in our [Discord Server Shop](https://discord.com/channels/330284646283608064/shop)
-  4. You can also sign up for [Subscriptions](https://buy.stripe.com/7sIaHh0Ev5oY3BecMN) and [Products](https://buy.stripe.com/bIY5mXevl5oYgo0fYY) in Stripe.
-  
-  When you sign up for a monthly subscription you will get access to an exclusive _Superstars channel + your Voyage Completion Certificate_ at no additional charge. You may cancel this at any time.
-  
-  You’ll still be able to purchase [Chingu swag](https://chingu.myspreadshop.com/) and make one-time contributions via [Buy us a Coffee](https://www.buymeacoffee.com/chingu). Past and future contributors using Buy Me a Coffee will automatically be added to the Superstars channel.
-
-  If you have questions we can help answer them in our weekly Roundtable discussions and in the [#admin-feedback](https://discord.com/channels/330284646283608064/906906045077671986) channel.
-</details>
-
-<details>
-  <summary>Team Member Roles 🧑🏾‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏽</summary>
+  <summary>What the different roles in a Voyage team? 🧑🏾‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏽</summary>
   <br/>
 
   The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project. Team members contribute to the project in different ways, each having their own set of responsibilities depending on their role.
