@@ -531,160 +531,26 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
 ### Tips for all teammates ✏️
 
-<details>
-  <summary>How do I make a voice channel for my team❓</summary>
-  <br/>
-  
-  To create a temporary voice channel for your team, simply navigate to the Voyage Voice HUB category (Should be right above you Team Text Channel) and click on the channel named “#create-voice”. In this channel, select your tier and team from the list. This will create a voice channel for your team right below your teams text channel. The voice channel will be removed automatically shortly after everyone leaves, or after 1min if nobody joins it.  
-
-  <img src="./assets/How_to_create_a_voice_channel.png" alt="" width="800"/>
-
-  If you can’t see the category or the #create-voice channel, you have to navigate to the top-menu and click on “Show All Channels”
-
-  <img src="./assets/Show_all_Discord_channels.png" alt="" width="200"/>
-
-  If you dont see the voice channel, you have to navigate all the way to the bottom and click "Show All"
-
-  <img src="./assets/Show_all_Discord_voice_channels.png" alt="" width="200"/>
-
-  When you create a voice channel, Titan will also supply you with a link to join the channel
-
-  <img src="./assets/join_voice.png" alt="" width="500"/>
-
-  If some of your teammates struggle to find the voice channel, you can right click on the voice channel and click "Copy Link", and then paste that into your team channel. This will give your teammates a link to the channel.
-
-  <img src="./assets/copy_link.png" alt="" width="200"/>
-</details>
-
-<details>
-  <summary>What should I do if I don't have access to my team repo❓</summary>
-  <br/>
-
-  Before a Voyage starts, we create a GitHub repo in the `chingu-voyages` GitHub organization for every team. We also grant every teammate the `Admin` privilege on it.
-
-  If this is your first Voyage, GitHub will send an email notification as part of this process. **_You must click the link_** in that email to validate your identity and get access to your team repo.
-  
-  If you haven't received this email, please check the *_junk_* or *_spam_* folder in your email application. If it's not there, you can go to the 
-  [`chingu-voyages`](https://github.com/chingu-voyages) organization in GitHub and click on the `View invitation` button. From there you can validate your identity.
-
-  If you have questions or need help you can ask other Chingu's for advice in
-  the [`#coding-help` channel](https://discord.com/channels/330284646283608064/1047615334703714394) or you may open a ticket to the Chingu Admin team in the [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
-</details>
-
-<details>
-  <summary>How can I “pin” messages to my Team Channel❓</summary>
-  <br/>
-
-  Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
-  
-  Discord does require that to pin a message, you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
-</details>
-
-<details>
-  <summary>Which team role is the most important one❓</summary>
-  <br/>
-
-  No one team role is more important than the other! Different roles are
-  needed because software projects are complex and they will only become more
-  complex over time.
-
-  Evey member of the team brings different experiences and skills that to 
-  contribute to the project. Every teammate is also a **_subject matter
-  expert (SME)_** in their respective role and should be respected for what
-  they bring to the team.
-</details>
-
-<details>
-  <summary>My team doesn't have a Product Owner. What should we do❓</summary>
-  <br/>
-
-  In a Voyage, we will add a Product Owner to as many teams as we can.
-  Unfortunately, this depends on *_how many Product Owner's sign up._*
-
-  If your team doesn't have a Product Owner, don't worry! Follow the steps that are defined in this Voyage Guide to help you determine what needs to be done, in what order, and how to execute each step.
-
-  In past Voyages teams without a Product Owner have used one of these
-  strategies:
-
-  1. Someone on your team can volunteer to be the Product Owner. This works
-  best if someone on the team has previous experience working on a team with a PO or if they are familiar with Scrum and the Agile Methodology.
-
-  2. Team members can rotate the PO responsibilities in each Sprint. This
-  ensures that everyone gets a chance to learn more about this role.
-
-  3. Team members can agree to share the PO responsibilities with one another. This is the least desirable option, since shared responsibility often means it's not done.
-
-  Whichever option you choose, remember that teammates should support one
-  another and you will either succeed together or fail together. Teamwork is
-  critical to success.
-
-</details>
+[How do I make a voice channel for my team?](./topics/tips_voice_channel.md)</br>
+[What should I do if I don't have access to my team repo?](./topics/tips_repo_access.md)</br>
+[How can I “pin” messages to my Team Channel?](./topics/tips_pin_messages.md)</br>
+[Which team role is the most important one?](./topics/tips_voyage_role.md)</br>
+[My team doesn't have a Product Owner. What should we do?](./topics/tips_no_po.md)</br>
 
 ### Tips for Product Owners ✏️
 
-<details>
-  <summary>Do I need to be able to develop code like the rest of the team?</summary>
-  <br/>
-
-  **Absolutely not!!!** 😾 It's certainly fine if you come to the Product Owner
-  role with software development experience, but *_it's not required_*.
-
-  As a Product Owner your job is to help your team coordinate their efforts
-  to design, build, test, and deploy your MVP. Keep in mind that everyone on
-  the team is an *_subject matter expert_* in their role. So, the key to
-  working in a team is to trust your teammates and to treat them as partners.
-
-  When you get in a situations where you feel overwhelmed by complexity,
-  technology, and/or terminology reach out to your team for help. You may
-  think this is a sign of weakness, but it's actually a sign of strength and
-  maturity since it shows you trust your team and you are helping to build
-  their confidence and experience.
-
-  Finally, remember that none of us knows it all and if we ever should learn
-  it all it's just going to change 😊 Relying on your teammates (and them 
-  relying on you) will reduce stress, conflict, and will help to speed up
-  everyone's learning.
-</details>
-
-<details>
-<summary>How can you effectively manage your tasks and responsibilities without getting overwhelmed?</summary>
-<br/>
-  Firstly, to take care of others, you have to take care of yourself, so:
-  Start by effectively planning your time. Allocate specific times for each task, taking into account their urgency and importance. This will help you stay on track and avoid distractions.
-  Next, set clear priorities. Identify the most critical tasks that need your immediate attention and tackle them first. This will ensure that the most important work gets done.
-  Finally, mitigate distractions. Minimize interruptions and focus on the task at hand. This will allow you to work more efficiently and effectively, but don't forget to take some free time and enjoy yourself. You deserve it!
-</details>
-
-<details>
-  <summary>How can you improve your approach and identify areas for growth?</summary>
-<br/>
-  Treat your team as your friends! You will be working with them for 6 weeks and to be a succesfull PO, you will need to make some connections with the others and build trust, create a friendly and supportive environment where feedback is welcome and valued, this will foster a collaborative environment where everyone feels comfortable contributing and sharing ideas, leading to continuous improvement and better product outcomes.
-  Actively listen, document, and analyze feedback to identify recurring themes and areas for improvement. Prioritize and implement changes accordingly to enhance your PO performance and align with team needs.
-</details>
+[Do PO's need to be able to develop code?](./topics/tips_po_code.md)</br>
+[How can PO's keep from getting overwhelmed?](./topics/tips_po_code.md)</br>
+[How can you improve your approach and identify areas for growth?](./topics/tips_po_growth.md)</br>
 
 ### Tips for UI/UX Designers ✏️
 
-<details>
-  <summary>Stay tuned!</summary>
-  <br/>
-
-  Stay tuned for new content we'll be adding here soon.
-</details>
+Stay tuned for new content!
 
 ### Tips for Web Developers ✏️
 
-<details>
-  <summary>Stay tuned!</summary>
-  <br/>
-
-  Stay tuned for new content we'll be adding here soon.
-</details>
+Stay tuned for new content!
 
 ### Tips for Data Scientists ✏️
 
-<details>
-  <summary>Stay tuned!</summary>
-  <br/>
-
-  Stay tuned for new content we'll be adding here soon.
-</details>
+Stay tuned for new content!
