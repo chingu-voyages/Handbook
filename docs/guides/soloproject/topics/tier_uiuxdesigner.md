@@ -1,4 +1,5 @@
 # UI/UX Designer Tiers
+![Solo Project topic image](../assets/horizontal-paint-splash-yellow.jpg)
 
 <table>
 

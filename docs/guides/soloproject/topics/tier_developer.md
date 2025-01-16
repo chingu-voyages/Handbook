@@ -1,5 +1,5 @@
 # Developer Tiers
-
+![Solo Project topic image](../assets/horizontal-paint-splash-yellow.jpg)
 <table>
 <tr>
 <td><strong>Tier</strong></td>

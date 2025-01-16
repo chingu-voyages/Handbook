@@ -1,4 +1,5 @@
 # Product Owner Tiers
+![Solo Project topic image](../assets/horizontal-paint-splash-yellow.jpg)
 
 All Product Owners are welcome at Chingu, regardless of whether they have training or a certification. However, participation is regulated to ensure they have the skills needed to guide Voyage teams in a effective manner.
 </br></br>
