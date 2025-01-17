@@ -39,11 +39,11 @@ current skill level. There are three tiers and you should select the one that
 best matches your current skill level - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
 
-[Click here for Developer tiers](./topics/tier_developer.md)</br>
-[Click here for UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
-[Click here for Product Owner tiers](./topics/tier_productowner.md)</br>
-[Click here for Scrum Master tiers](./topics/tier_scrummaster.md)</br>
-[Click here for Data Scientist tiers](./topics/tier_datascientist.md)</br>
+[Developer tiers](./topics/tier_developer.md)</br>
+[UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
+[Product Owner tiers](./topics/tier_productowner.md)</br>
+[Scrum Master tiers](./topics/tier_scrummaster.md)</br>
+[Data Scientist tiers](./topics/tier_datascientist.md)</br>
 
 ### 2. Submit a project that matches your tier 👍
 
