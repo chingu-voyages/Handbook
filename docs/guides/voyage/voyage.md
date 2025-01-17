@@ -48,12 +48,12 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 [What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
 [How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
 [What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
-[What the roles in a Voyage team?](./topics/voyage_cost.md)</br>
-[What the tiers in a Voyage?](./topics/voyage_cost.md)</br>
+[What the roles in a Voyage team?](./topics/voyage_roles.md)</br>
+[What the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
 [How are Voyage teams formed?](./topics/voyage_teams.md)</br>
 [What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
 [What if I need more skills?](./topics/voyage_skills.md)</br>
-[What git & GitHub knowledge will I need?](./topics/voyage_skills.md)</br>
+[What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
        
 ## The Voyage Process
 ```mermaid
