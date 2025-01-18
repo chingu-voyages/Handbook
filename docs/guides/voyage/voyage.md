@@ -2,6 +2,15 @@
 
 ![Team creating product backlog](./assets/Team_creating_agile_backlog_board.jpeg)
 
+## All About Your Voyage
+
+ 1. [What are Voyages](#what-are-voyages)
+ 2. [Before you Start](#before-you-start)
+ 3. [The Voyage Process](#the-voyage-process)
+ 4. [Voyage Tips](#voyage-tips)
+
+---
+
 ## What are Voyages❓
 
 Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by:
@@ -35,257 +44,16 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 
 ### How to Prepare for your Voyage 📝
 
-<details>
-  <summary>How do I check my Voyage Signup status?</summary>
-  <br/>
-
-  You can use the `/user` command in any Discord channel to find out if you
-  have completed your Solo Project and signed up for the next Voyage. You
-  can learn more [here](../../../docs/resources/techresources/titan.md#getting-your-chingu-status-information).
-</details>
-
-<details>
-  <summary>What Does a Voyage Cost? 💰💰💰</summary>
-  <br/>
-
-  1. **Voyages are free**, but you will need to pay to receive the Voyage Completion Certificate.
-  2. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at $2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** as needed for $3.99.
-  3. You can sign up for Subscriptions or Products in our [Discord Server Shop](https://discord.com/channels/330284646283608064/shop)
-  4. You can also sign up for [Subscriptions](https://buy.stripe.com/7sIaHh0Ev5oY3BecMN) and [Products](https://buy.stripe.com/bIY5mXevl5oYgo0fYY) in Stripe.
-  
-  When you sign up for a monthly subscription you will get access to an exclusive _Superstars channel + your Voyage Completion Certificate_ at no additional charge. You may cancel this at any time.
-  
-  You’ll still be able to purchase [Chingu swag](https://chingu.myspreadshop.com/) and make one-time contributions via [Buy us a Coffee](https://www.buymeacoffee.com/chingu). Past and future contributors using Buy Me a Coffee will automatically be added to the Superstars channel.
-
-  If you have questions we can help answer them in our weekly Roundtable discussions and in the [#admin-feedback](https://discord.com/channels/330284646283608064/906906045077671986) channel.
-</details>
-
-<details>
-  <summary>Team Member Roles 🧑🏾‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏽</summary>
-  <br/>
-
-  The primary goal of all team members is to work together in a professional manner to identify, design, develop, and deploy the MVP for their team project. Team members contribute to the project in different ways, each having their own set of responsibilities depending on their role.
-
-  All members of the team must commit to following the Agile methodology to develop the team project they've chosen. This involves actively participating in team meetings and discussions, sharing their daily status with the team, and completing the tasks they volunteer to work on in each Sprint.ß
-  <table>
-    <tr>
-    <td><strong>Role Name</strong></td>
-    <td><strong>Description</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Product Owner</strong></td>
-      <td>The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. Product Owners guide the team through the Voyage using the Agile methodology as their roadmap. They are "servant leaders" who lead through teamwork & motivation.<br/><br/>Specific PO responsibilities include:
-      <ul>
-        <li>Developing and explicitly communicating the Product Goal through a Product Roadmap and
-        Product Backlog</li>
-        <li>Defining, prioritizing, and clearly communicating items the product backlog</li>
-        <li>Ensuring that the Product Backlog is transparent, visible and understood</li>
-        <li>Making sure all stakeholders are represented and have a "voice" in the project</li>
-      </ul>
-      The PO also works closely with the Scrum Master by:
-      <ul>
-        <li>Participating in Sprint Planning, Review, and Retrospective meetings</li>
-        <li>Actively listening to all ideas and concerns from the team</li>
-        <li>Quickly resolving any issues or suggestions related to the backlog</li>
-        <li>Working closely together to ensure that the needs of all stakeholders,
-        including the development team, are met</li>
-      </ul>
-      PO's should ensure that the backlog is visible to all team members and open to their ideas, suggestions, and revisions. Regardless, of this the PO is accountable for these.<br/><br/>But, it is important that everyone on the team support them with active participation and feedback, and their decisions must be respected. These decisions must be visible the Product Backlog, and shared in the Scrum events.<br/><br/>PO's are individuals, not committees. Teammates wanting to change the Product Backlog must do so through the PO, but they must trust the PO's final decision.</br></br>Because so many of the issues are technical issues, Product Owners who have a strong background in technology, or who are also a developer, are often referred to as a <em>Technical Product Owner (TPO)</em>. You can learn more about this variant of the PO role in the <a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md#glossary">Glossary</a>.</br></br>
-      Chingu's may assigned as Primary or Shadow Product Owners. The difference is Primary PO's have both the certifications and experience to effectively coordinate teams, while Shadow PO's need to observe an experienced PO before they are ready to be a Primary PO.</br></br>
-      Primary PO's can be thought of a mentors for Shadow PO's. They must help answer any questions Shadow PO's must have, explain their role and how they fulfill the PO responsibilities, and assign small tasks to the Shadow (like leading a Sprint Planning session) when they feel they are ready.
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Scrum Master</strong></td>
-      <td>
-        The <em>Scrum Master (SM)</em> is accountable for helping the team understand Scrum theory and practice, as defined in the <a href="https://scrumguides.org/scrum-guide.html">Scrum Guide</a>. SM's are also accountable for the effectiveness of the team by enabling them to improve their practices, within the Scrum framework.
-        The SM serves the team in the following ways:
-        <ul>
-          <li>Coaching team members in self-management and cross-functionality</li>
-          <li>Helping the team focus on creating high-value increments that meet the Definition of Done</li>
-          <li>Helping to avoid and remove blockers to team’s progress</li>
-          <li>Ensuring that all Scrum events take place and are positive, productive, and timeboxed</li>
-        </ul>
-        The Scrum Master also works closely with the Product Owner by:
-        <ul>
-          <li>Helping find techniques for effective Product Goal definition and Product Backlog management</li>
-          <li>Helping the Scrum Team understand the need for clear and concise Product Backlog items</li>
-          <li>Helping establish empirical product planning for a complex environment</li>
-          <li>Facilitating stakeholder collaboration as requested or needed</li>
-        </ul>
-        </br></br>
-        Chingu's may assigned as Primary or Shadow Scrum Masters. The difference is Primary SM's have both the certifications and experience to effectively coordinate teams, while Shadow SM's need to observe an experienced SM before they are ready to be a Primary SM.</br></br>
-        Primary SM's can be thought of a mentors for Shadow SM's. They must help answer any questions Shadow SM's must have, explain their role and how they fulfill the SM responsibilities, and assign small tasks to the Shadow (like leading a Scrum events) when they feel they are ready.
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Developer</strong></td>
-      <td>Developers are focused on designing, writing code, testing what has been developed, and deploying it to the Internet.</td>
-    </tr>
-    <tr>
-      <td><strong>UI/UX Designer</strong></td>
-      <td>UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. If you are in a Voyage team without a UI/UX Designer check out <a href="../../resources/techresources/uiux.md">this guide</a> your team can use to perform this roles duties.</td>
-    </tr>
-    <tr>
-      <td><strong>Data Scientist</strong></td>
-      <td>Data Scientists use their skills to perform deep analysis and visualization of data in Data Science specfic projects. This includes all forms of Data Science including analytics, machine learning, and deep learning.</td>
-    </tr>
-    <tr>
-      <td><strong>Voyage Guide</strong></td>
-      <td>Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to provide help and advice to Voyage teams.
-        <ul>
-          <li>Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li>
-          <li>Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.</li>
-          <li>Team members should research questions they have BEFORE asking their Voyage Guide.</li>
-          <li>If your team has a Product Owner or Scrum Master direct questions about Agile/Scrum to them</li>
-        </ul>
-        If a Voyage Guide has time available they may choose to more actively mentor and coach team members on technical topics.
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary>Tier Definitions 🪜</summary>
-  <br/>
-
-  At Chingu we use three _tiers_ to group people into teams based on their
-  current general level of skill and expertise. Our tiers are:
-
-  * **Tier 1** - Getting started in your role
-  * **Tier 2** - Intermediate skill level in your role
-  * **Tier 3** - Experienced skill level in your role
-
-  However, the specific requirements for each of these varies by role. You can
-  find the definition of what's required to be in each tier based on your role
-  [here](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3).
-
-</details>
-
-<details>
-  <summary>Brush up on your “Soft Skills” 🖌️</summary>
-  <br/>
-
-  - [ ] If this is your first Voyage, **complete a [Solo Project](../soloproject/soloproject.md)**
-  - [ ] Read **[How to be a Great Teammate](../../resources/projresources/greatteammate.md)** (5 minutes)
-  - [ ] Read **[Soft Skills 101](../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** (5 minutes)
-</details>
-
-<details>
-  <summary>What if I need more “Hard Skills” 🖌️</summary>
-  <br/>
-
-  If you feel that you need additional Agile/Scrum or technical skills **[check
-  out our Partners](../../gettingstarted/partners.md)**, who provide these resources free or at a discount to
-  Chingus
-</details>
-
-<details>
-  <summary>Familiarize yourself with Git & GitHub</summary>
-  <br/>
-
-  - [ ] Read **[What is Git](https://guides.github.com/introduction/git-handbook/)**
-  - [ ] Read **[Interactive Git Tutorial](https://learngitbranching.js.org/)**
-  - [ ] Read **[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)**
-  - [ ] If you don’t already have a **[GitHub account](https://github.com/)** create one (5 minutes)
-  - [ ] Set up **[Git on your computer & hook it up to GitHub authentication](https://help.github.com/articles/set-up-git/)** (10 minutes)
-  - [ ] Study **[Introduction to GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)**
-  - [ ] Study **[Uploading Your Project to GitHub](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)**
-  - [ ] Study **[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)**
-  - [ ] Study **[Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**
-  - [ ] Study **[Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)**
-  - [ ] View **[Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)**
-  - [ ] View **[Chingu Video: How to Undo a git commit](https://youtu.be/ZoIBdFuj8_M)**
-  - [ ] View **[Chingu Video: How to Delete git commits](https://youtu.be/Wjd8iEcCSM4)**
-</details>
-
-<details>
-  <summary>What Level of Commitment is Required for a Voyage? 🛳️</summary>
-  <br/>
-
-  During this 6-week team effort, you'll learn new technical skills, refine the skills you already have worked hard to build, and learn "soft" skills like teamwork, Agile Development, planning, & design. In other words, the skills that will help set you apart from other job candidates.
-  
-  While Chingu doesn't charge for organizing & managing Voyages, it doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment to be an active participant with your teammates and to finish what you start.
-  
-  - Be an active participant rather than a passive observer.
-  - Set aside an average of 8-12 hours per week for your Voyage.
-  - Share your status daily in your Team channel.
-  - Submit the weekly Voyage Checkin form we’ll provide each week to help us understand not just how you are doing, but how we can improve as well.
-  
-  We know you can do this and you'll find the impact on your career will be worth the effort.
-</details>
-
-<details>
-  <summary>How are Voyage teams formed? 🫱🏻‍🫲🏼</summary>
-  <br/>
-
-  You will be assigned to a team by the Chingu Admins based on the following criteria, from highest-to-lowest priority:
-
-  1. Tier
-
-     All participants in a team will be from the same tier. This is the tier you selected on the [Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
-
-     For Web Development teams:
-
-     - Tier 1: Developers, plus Product Owners, Scrum Masters, & Voyage Guides
-     - Tier 2: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
-     - Tier 3: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
-
-     For Data Science teams:
-     - All tiers: Data Scientists
-
-     Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and
-     Voyage Guides are added to teams if they are available.
-
-  2. Timezone
-
-     We try to match teams so no two teammates will be more than 2 timezones away from one another. This makes it easier to find times for meetings and pair programming sessions.
-
-  3. Chingu Superstars
-
-     We also try to match Chingu Superstars, those who have donated to Chingu, in the same teams. Although donations aren't required Chingu's who do contribute have a lower probability of dropping out of a Voyage.
-
-  4. Technical Stack preferences
-
-     We also try to match team members on their technical stack preferences. However, in the course of organizing Voyages over a period of years we've learned that communication & collaboration are better indicators of success. We'll reach out to you prior to the start of your Voyage if we aren't able to match you to a team with the same tech stack preferences as yours.
-
-  5. Role-based teams
-
-     Teams are also matched based on the roles participants signup with. Based on your role you'll be added to one of the following types of teams:
-
-     * **Web Development** teams consist of a Product Owner, a Scrum Master, 3-5 Web Developers, and a UI/UX Designer.
-     * **Data Science** teams consist of a Product Owner, a Scrum Master, and 3-5 Data Scientists
-
-     Keep in mind that assigning Product Owners, Scrum Masters and UI/UX Designers to teams depend on how many Chingus in those roles signup for a Voyage. In addition, for Data Science teams, we'll reach out to Data Scientists if we don't have enough in your tier andtimezone to form a team. In this case you'll be given the option to join a Web Development team or to wait until the next Voyage.
-
-  6. Availability
-
-     Teams are capped at 9 participants per team including:
-
-     * 4-6 Developers
-     * 1 UI/UX Designer
-     * 1 Product Owner
-     * 1 Scrum Master
-
-     In addition, while teams will always have Developers, they will have the
-     other three roles depending on whether or not Chingus in the other roles
-     in the same tier and timezone range signup for the Voyage.
-</details>
-
-<details>
-  <summary>What are the criteria for successfully completing a Voyage? 🫱🏻‍🫲🏼</summary>
-  <br/>
-
-  Voyages aren't easy. They require consistent participation, contributions to the project, and a lot of teamwork. The criteria for having successfully completed a Voyage depends on as Voyagers role as defined below:
-
-  | Role | Completion Criteria |
-  |------|---------------------|
-  | All  | 1. Consistent sharing of status in either the team channel or schedule standup meetings in every sprint </br> 2. Regular communication & collaboration in the team channel in every sprint </br> 3. Attend all team meetings </br> 4. Submit completed team project |
-  | PO & Scrum Masters | 1. PO's & SM's must demonstrate in the team channel that they are helping to coordinate the team's activities </br> 2. Complete Agile Leadership Course on EdApp in the current or a prior Voyage </br> 3. Submit a summary deck at the end of the Voyage describing the teams app, challenges and successes, and lessons learned. |
-  | Developers & Data Scientists | 1. Consistent and significant commits to the teams GitHub repo </br> 2. Create and assist with PR reviews |
-  | UI/UX Designers | 1. Provide the team with a wireframe by the end of Sprint 3 </br> 2. Monitor the application as the Voyage progresses to provide assistance and to make sure the design is being both followed and adapted to new information. | 
-
-</details>
+[What Level of Commitment is Required for a Voyage](./topics/voyage_commitment.md)</br>
+[What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
+[How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
+[What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
+[What the roles in a Voyage team?](./topics/voyage_roles.md)</br>
+[What the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
+[How are Voyage teams formed?](./topics/voyage_teams.md)</br>
+[What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
+[What if I need more skills?](./topics/voyage_skills.md)</br>
+[What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
        
 ## The Voyage Process
 ```mermaid
@@ -763,160 +531,26 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
 ### Tips for all teammates ✏️
 
-<details>
-  <summary>How do I make a voice channel for my team❓</summary>
-  <br/>
-  
-  To create a temporary voice channel for your team, simply navigate to the Voyage Voice HUB category (Should be right above you Team Text Channel) and click on the channel named “#create-voice”. In this channel, select your tier and team from the list. This will create a voice channel for your team right below your teams text channel. The voice channel will be removed automatically shortly after everyone leaves, or after 1min if nobody joins it.  
-
-  <img src="./assets/How_to_create_a_voice_channel.png" alt="" width="800"/>
-
-  If you can’t see the category or the #create-voice channel, you have to navigate to the top-menu and click on “Show All Channels”
-
-  <img src="./assets/Show_all_Discord_channels.png" alt="" width="200"/>
-
-  If you dont see the voice channel, you have to navigate all the way to the bottom and click "Show All"
-
-  <img src="./assets/Show_all_Discord_voice_channels.png" alt="" width="200"/>
-
-  When you create a voice channel, Titan will also supply you with a link to join the channel
-
-  <img src="./assets/join_voice.png" alt="" width="500"/>
-
-  If some of your teammates struggle to find the voice channel, you can right click on the voice channel and click "Copy Link", and then paste that into your team channel. This will give your teammates a link to the channel.
-
-  <img src="./assets/copy_link.png" alt="" width="200"/>
-</details>
-
-<details>
-  <summary>What should I do if I don't have access to my team repo❓</summary>
-  <br/>
-
-  Before a Voyage starts, we create a GitHub repo in the `chingu-voyages` GitHub organization for every team. We also grant every teammate the `Admin` privilege on it.
-
-  If this is your first Voyage, GitHub will send an email notification as part of this process. **_You must click the link_** in that email to validate your identity and get access to your team repo.
-  
-  If you haven't received this email, please check the *_junk_* or *_spam_* folder in your email application. If it's not there, you can go to the 
-  [`chingu-voyages`](https://github.com/chingu-voyages) organization in GitHub and click on the `View invitation` button. From there you can validate your identity.
-
-  If you have questions or need help you can ask other Chingu's for advice in
-  the [`#coding-help` channel](https://discord.com/channels/330284646283608064/1047615334703714394) or you may open a ticket to the Chingu Admin team in the [`#open-support-ticket` channel](https://discord.com/channels/330284646283608064/1105911757177888908).
-</details>
-
-<details>
-  <summary>How can I “pin” messages to my Team Channel❓</summary>
-  <br/>
-
-  Every team member in a voyage has the Discord privileges needed to let them “pin” important messages to the channel so they will be easy to find.
-  
-  Discord does require that to pin a message, you must also have enabled [Two Factor Authentication (2FA)](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication) on your personal Discord account.
-</details>
-
-<details>
-  <summary>Which team role is the most important one❓</summary>
-  <br/>
-
-  No one team role is more important than the other! Different roles are
-  needed because software projects are complex and they will only become more
-  complex over time.
-
-  Evey member of the team brings different experiences and skills that to 
-  contribute to the project. Every teammate is also a **_subject matter
-  expert (SME)_** in their respective role and should be respected for what
-  they bring to the team.
-</details>
-
-<details>
-  <summary>My team doesn't have a Product Owner. What should we do❓</summary>
-  <br/>
-
-  In a Voyage, we will add a Product Owner to as many teams as we can.
-  Unfortunately, this depends on *_how many Product Owner's sign up._*
-
-  If your team doesn't have a Product Owner, don't worry! Follow the steps that are defined in this Voyage Guide to help you determine what needs to be done, in what order, and how to execute each step.
-
-  In past Voyages teams without a Product Owner have used one of these
-  strategies:
-
-  1. Someone on your team can volunteer to be the Product Owner. This works
-  best if someone on the team has previous experience working on a team with a PO or if they are familiar with Scrum and the Agile Methodology.
-
-  2. Team members can rotate the PO responsibilities in each Sprint. This
-  ensures that everyone gets a chance to learn more about this role.
-
-  3. Team members can agree to share the PO responsibilities with one another. This is the least desirable option, since shared responsibility often means it's not done.
-
-  Whichever option you choose, remember that teammates should support one
-  another and you will either succeed together or fail together. Teamwork is
-  critical to success.
-
-</details>
+[How do I make a voice channel for my team?](./topics/tips_voice_channel.md)</br>
+[What should I do if I don't have access to my team repo?](./topics/tips_repo_access.md)</br>
+[How can I “pin” messages to my Team Channel?](./topics/tips_pin_messages.md)</br>
+[Which team role is the most important one?](./topics/tips_voyage_role.md)</br>
+[My team doesn't have a Product Owner. What should we do?](./topics/tips_no_po.md)</br>
 
 ### Tips for Product Owners ✏️
 
-<details>
-  <summary>Do I need to be able to develop code like the rest of the team?</summary>
-  <br/>
-
-  **Absolutely not!!!** 😾 It's certainly fine if you come to the Product Owner
-  role with software development experience, but *_it's not required_*.
-
-  As a Product Owner your job is to help your team coordinate their efforts
-  to design, build, test, and deploy your MVP. Keep in mind that everyone on
-  the team is an *_subject matter expert_* in their role. So, the key to
-  working in a team is to trust your teammates and to treat them as partners.
-
-  When you get in a situations where you feel overwhelmed by complexity,
-  technology, and/or terminology reach out to your team for help. You may
-  think this is a sign of weakness, but it's actually a sign of strength and
-  maturity since it shows you trust your team and you are helping to build
-  their confidence and experience.
-
-  Finally, remember that none of us knows it all and if we ever should learn
-  it all it's just going to change 😊 Relying on your teammates (and them 
-  relying on you) will reduce stress, conflict, and will help to speed up
-  everyone's learning.
-</details>
-
-<details>
-<summary>How can you effectively manage your tasks and responsibilities without getting overwhelmed?</summary>
-<br/>
-  Firstly, to take care of others, you have to take care of yourself, so:
-  Start by effectively planning your time. Allocate specific times for each task, taking into account their urgency and importance. This will help you stay on track and avoid distractions.
-  Next, set clear priorities. Identify the most critical tasks that need your immediate attention and tackle them first. This will ensure that the most important work gets done.
-  Finally, mitigate distractions. Minimize interruptions and focus on the task at hand. This will allow you to work more efficiently and effectively, but don't forget to take some free time and enjoy yourself. You deserve it!
-</details>
-
-<details>
-  <summary>How can you improve your approach and identify areas for growth?</summary>
-<br/>
-  Treat your team as your friends! You will be working with them for 6 weeks and to be a succesfull PO, you will need to make some connections with the others and build trust, create a friendly and supportive environment where feedback is welcome and valued, this will foster a collaborative environment where everyone feels comfortable contributing and sharing ideas, leading to continuous improvement and better product outcomes.
-  Actively listen, document, and analyze feedback to identify recurring themes and areas for improvement. Prioritize and implement changes accordingly to enhance your PO performance and align with team needs.
-</details>
+[Do PO's need to be able to develop code?](./topics/tips_po_code.md)</br>
+[How can PO's keep from getting overwhelmed?](./topics/tips_po_code.md)</br>
+[How can you improve your approach and identify areas for growth?](./topics/tips_po_growth.md)</br>
 
 ### Tips for UI/UX Designers ✏️
 
-<details>
-  <summary>Stay tuned!</summary>
-  <br/>
-
-  Stay tuned for new content we'll be adding here soon.
-</details>
+Stay tuned for new content!
 
 ### Tips for Web Developers ✏️
 
-<details>
-  <summary>Stay tuned!</summary>
-  <br/>
-
-  Stay tuned for new content we'll be adding here soon.
-</details>
+Stay tuned for new content!
 
 ### Tips for Data Scientists ✏️
 
-<details>
-  <summary>Stay tuned!</summary>
-  <br/>
-
-  Stay tuned for new content we'll be adding here soon.
-</details>
+Stay tuned for new content!
