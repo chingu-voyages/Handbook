@@ -42,3 +42,4 @@ A few Product Backlog tools Chingus have successfully used in Voyages include th
 | [Jira](https://www.atlassian.com/software/jira?referer=jira.com) | - Popular with many companies</br>- High learning curve |
 | [Miro](https://miro.com/) | - Intermediate features</br>- Low learning curve |
 | [Taiga](https://taiga.io/#Features) | - Intermediate features</br>-Low learning curve |
+| [Trello](https://trello.com/) | - Basic features</br>- Low learning curve |
