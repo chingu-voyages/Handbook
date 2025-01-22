@@ -74,15 +74,15 @@ flowchart TB
 
 ---
 
-| Project Resources                                                                    | Technical Resources                                                     |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| [Soft Skills 101](./docs/resources/projresources/softskills101.md)                   | [Git & GitHub](./docs/resources/techresources/gitgithub.md)  |
-| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md)        | [Choosing your Techstack](./docs/resources/techresources/techstack.md)  |
-| [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | [Deploying your App](./docs/resources/techresources/appdeployment.md) |
-| [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md)        | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
-| [Agile Methodology 101](./docs/resources/projresources/agile101.md)                  | [Titan - User Status & Ticketing System](./docs/resources/techresources/titan.md) |
-| [Agile Tools](./docs/resources/projresources/agiletools.md) | [UI/UX Workflow](./docs/resources/techresources/uiux.md) |
-| [Glossary](./docs/resources/glossary/glossary.md) | |
+| Teamwork Resources | Project Resources | Technical Resources |
+| ------------------ | ----------------- | ------------------- |
+| [Soft Skills 101](./docs/resources/projresources/softskills101.md) | [Agile Methodology 101](./docs/resources/projresources/agile101.md) | [Git & GitHub](./docs/resources/techresources/gitgithub.md)  |
+| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md) | [Agile Tools](./docs/resources/projresources/agiletools.md) | [Choosing your Techstack](./docs/resources/techresources/techstack.md)  |
+| [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | | [Deploying your App](./docs/resources/techresources/appdeployment.md) |
+| [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md) | | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
+| | | [Titan - User Status & Ticketing System](./docs/resources/techresources/titan.md) |
+| | | [UI/UX Workflow](./docs/resources/techresources/uiux.md) |
+| | | [Glossary](./docs/resources/glossary/glossary.md) |
 
 ## Tips 💁🏽
 
