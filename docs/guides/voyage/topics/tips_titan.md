@@ -15,11 +15,11 @@ You can access information about your status, including your Solo Project and
 most recent Voyage signup using the `/user` command. You may issue this command
 in any of our Discord channels, but its output will only be visible to you.
 
-![User Command Output](../assets/User_command_output.png)
+![User Command Output](../assets/user_command_output.png)
 
 ## Using the Chingu Ticketing System
 
-To open a ticket, open the `#support-ticket-channel` and click on the 
+To open a ticket, open the `#support-ticket-channel` and click on the
 `Create Ticket` button. 
 
 ![Titan Open Support Ticket](../assets/Open_Titan_ticket.png)
