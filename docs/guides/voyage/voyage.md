@@ -536,6 +536,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 [How can I “pin” messages to my Team Channel?](./topics/tips_pin_messages.md)</br>
 [Which team role is the most important one?](./topics/tips_voyage_role.md)</br>
 [My team doesn't have a Product Owner. What should we do?](./topics/tips_no_po.md)</br>
+[Titan - User Status & Ticketing System](./topics/tips_titan.md)
 
 ### Tips for Product Owners ✏️
 
