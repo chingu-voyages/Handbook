@@ -29,7 +29,7 @@ Teams that build strong individual rapport early rarely have members go inactive
 
 If you put people in a corner, they will retreat. If you showcase impatience, they won’t want to work with you, and will eventually retreat. This is why it is often said that EQ is 80% of success and IQ only 20%. We are social animals who live in a complex world. Almost everything you do will involve interacting with others and success always involves working with others in some way.
 
-Use this cohort as an opportunity to practice improving your [social skills](./greatteammate.md).
+Use your Voyage as an opportunity to practice improving your [social skills](./greatteammate.md).
 
 > Did I establish common ground-rules with my team so we had mutual expectations for communication, responsibilities and activity?
 > 
