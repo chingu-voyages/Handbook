@@ -252,7 +252,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   (These read-only templates will be copied to the `docs` subdirectory in your
-  team’s repo when the Voyage starts) ^
+  team’s repo when the Voyage starts)
 
   ---
   #### 2. Conduct kickoff meeting 🫱🏼‍🫲🏽
@@ -271,13 +271,10 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
       
   **Resources**
   
-  The following document templates will be copied to the `docs` subdirectory in
-  your team’s repo when the Voyage starts. ^
-
   [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+    (These read-only templates will be copied to the `docs` subdirectory in your
+  team’s repo when the Voyage starts)
 
-  ^ These are read only templates.
-    
   ---
   #### 3. Add your info to the team list in your README.md ✏️
 
@@ -331,13 +328,12 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   [Voyage Project Showcase articles (Dev.to)](https://dev.to/chingu)
 
-  The following document templates will be copied to the `docs` subdirectory in
-  your team’s repo when the Voyage starts. ^
+  The following read-only document templates will be copied to the `docs`
+  subdirectory in your team’s repo when the Voyage starts.
 
   [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  
   [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
-
-  ^ These are read-only templates.
 
   ---
   #### 5. Define & prioritize MVP features 🔢
@@ -357,13 +353,9 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   *Must Have* features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*s.
   
   **Resources**
-  
-  The following document template will be copied to the `docs` subdirectory in
-  your team’s repo when the Voyage starts. ^
-  
-  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
-  
-  ^ These are read only templates.
+
+  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These read-only templates will be copied to the `docs` subdirectory in your
+  team’s repo when the Voyage starts)
 
 ### Sprint 2 - Getting off to a Solid Start
 
@@ -501,14 +493,12 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   [Plagarism caution & advice](../../resources/glossary/glossary.md#plagarism)
   
-  The following document templates will be copied to the `docs` subdirectory in
-  your team’s repo when the Voyage starts. ^
+  The following read-only document templates will be copied to the `docs` subdirectory in
+  your team’s repo when the Voyage starts.
 
   [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
-
-  ^ These are read only templates.
 
 ### 10. Sprint 6 - Project Closure 🏁
   
