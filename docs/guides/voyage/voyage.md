@@ -54,8 +54,10 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 [What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
 [What if I need more skills?](./topics/voyage_skills.md)</br>
 [What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
-       
+[How should my Team select a project?](./topics/voyage_project.md)</br>
+
 ## The Voyage Process
+
 ```mermaid
 ---
 config:
@@ -216,11 +218,13 @@ When your Voyage starts, you will see that we have provided your team with your 
 
 You will also be provided with a GitHub repo in the `chingu-voyages` 
 organization for your project code. Everyone on your team will have `admin`
-access to this repo so you'll be able to adjust settings. But, **_you must
-leave this as a public repo and you must not rename the repo we've created or
-create your own repo_**.
+access to this repo so you'll be able to adjust settings. But, **you must***:
 
-If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to create it for you. 
+- leave this as a public repo
+- not rename the repo we've provided
+- not create any additional repos on your own
+
+If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to create it for you.
 
 ### Sprint 1 - Getting off to a Solid Start
 
@@ -242,14 +246,13 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **Resources**
   
-  [What Roles are there in a Voyage Team? (video)](https://youtu.be/f_TzehtBliE)
-  
-  [How to Select a Project video](https://youtu.be/5Xv0C5VAKZc)
-  
-  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+  [What the different roles in a Voyage team?](./topics/voyage_roles.md)
   
   [Schej meeting availability tool](https://schej.it/home)  
-  ^ These are read only templates.
+
+  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  (These read-only templates will be copied to the `docs` subdirectory in your
+  team’s repo when the Voyage starts) ^
 
   ---
   #### 2. Conduct kickoff meeting 🫱🏼‍🫲🏽
@@ -268,7 +271,10 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
       
   **Resources**
   
-  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+  The following document templates will be copied to the `docs` subdirectory in
+  your team’s repo when the Voyage starts. ^
+
+  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
   ^ These are read only templates.
     
@@ -302,7 +308,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   ---
   #### 4. Choose a project & create a Vision Statement 👓
 
-  ** This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project and the link to its requirements and specification will be posted in your team channel.
+  **This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project and the link to its requirements and specification will be posted in your team channel.
   
   **Objective**
   
@@ -321,19 +327,18 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **Resources**
   
-  [How to Select a Voyage Project video](https://youtu.be/5Xv0C5VAKZc)
+  [How to Select a Project](./topics/voyage_project.md)
   
-  [Voyage Project Showcase article (2020)](https://medium.com/chingu/chingu-fall-project-showcase-c6bf0f8210ab)
+  [Voyage Project Showcase articles (Dev.to)](https://dev.to/chingu)
 
-  [Voyage Project Showcase article (2021)](https://dev.to/chingu/build-collaborate-learn-remote-developer-projects-showcase-3bad)
-  
-  [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the 
-  `docs` subdirectory in your team’s repo when the Voyage starts) ^
-  
-  [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+  The following document templates will be copied to the `docs` subdirectory in
+  your team’s repo when the Voyage starts. ^
 
-  ^ These are read only templates.
-    
+  [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+
+  ^ These are read-only templates.
+
   ---
   #### 5. Define & prioritize MVP features 🔢
     
@@ -353,7 +358,10 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **Resources**
   
-  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
+  The following document template will be copied to the `docs` subdirectory in
+  your team’s repo when the Voyage starts. ^
+  
+  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   
   ^ These are read only templates.
 
@@ -365,19 +373,19 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
       
   **Objective**
   
-  The [Product Backlog](../../resources/glossary/glossary.md) is where you 
+  The [Product Backlog](../../resources/glossary/glossary.md) is where you
   track the work that needs to be completed to finish the project.
 
   > If you are creating your Voyage project based on specifications provided by
-  Chingu you don't need to wait until Sprint 2 to start this task. Instead, 
-  get ahead of the game and start it during Sprint 1. 
+  Chingu you don't need to wait until Sprint 2 to start this task. Instead,
+  get ahead of the game and start it during Sprint 1.
   
   **How**
   
   - [ ]  Identify & prioritize features
   - [ ]  Create an epic for each feature
   - [ ]  Choose the highest priority epics & divide them into user stories
-  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages, teams have used tools like Jira, Miro, GitHub Projects, ZenHub, and others as well.
+  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages, teams have used tools like Jira, Miro, GitHub Projects, Trello, and others as well.
   - [ ]  Prioritize the user stories
   
   During the Voyage you’ll refine the Product Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process which helps you and your team concentrate only on the tasks that must be completed in that Sprint.
@@ -390,26 +398,24 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   [Agile Methodology 101 (article)](../../resources/projresources/agile101.md)
   
-  [ZenHub website](https://www.zenhub.com/)
-  
-  [Install ZenHub browser extension](https://tinyurl.com/yfpcf7ke)
-      
   ---
   #### 7. Create a low-fidelity wireframe 🖼️
-      
+
   **Objective**
   
   Establish a common understanding across the team of what information is on each screen and the actions that may be invoked from each screen.
 
   > If you are creating your Voyage project based on specifications provided by
-  Chingu you don't need to wait until Sprint 2 to start this task. Instead, 
+  Chingu you don't need to wait until Sprint 2 to start this task. Instead,
   get ahead of the game and start it during Sprint 1.
   
   **How**
   
   - [ ]  Using the features you added to the Feature Planning template in step 4 identify the screens you’ll need and the information on each one.
-  - [ ]  Map the actions users will be able to perform from each screen and the navigation from screen-to-screen.
-  - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/) or even pencil and paper.
+  - [ ]  Map the actions users will be able to perform from each screen and
+  the navigation from screen-to-screen.
+  - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/)
+  or even pencil and paper.
   
   **Resources**
 
@@ -456,21 +462,27 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **Objective**
   
-  Incrementally create your app by using Scrum and Agile frameworks.
+  Incrementally create your app by using Scrum and Agile frameworks. At the
+  end of each sprint you should deploy your app to the `main` branch in your
+  team repo and to your production webhost.
   
   **How**
     
-  - *Sprint Planning* - Meet at the start of each sprint to select the highest 
+  - *Sprint Planning* - Meet at the start of each sprint to select the highest
   priority tasks the team can realistically complete in the sprint
-  - *Post Daily Status* - Communicating & collaborating with your team is the 
+  - *Post Daily Status* - Communicating & collaborating with your team is the
   most important factor to success. Post answers to these questions every day:
       - What tasks have I completed?
       - What am I currently working on and what will I work on next?
       - What issues or blockers do I need help with and from who?
-  - *PR & Deploy* - As team members complete tasks they should create PRs for 
-  review and deploy the app. Remember that at the end of each and every sprint you should PR completed changes from your `development` branch into the `main` branch and [deploy it](../../resources/techresources/appdeployment.md) to the Internet web host you've chosen. 
-  - *Sprint Review & Retrospective*
-      - Meet at the end of each sprint to review how the team worked together & the processes you used. Make modifications as necessary to improve what didn’t work well and reinforce what did work well.
+  - *PR & Deploy* - As team members complete tasks they should create PRs for
+  review and deploy the app. Remember that at the end of each and every sprint
+  you should PR completed changes from your `development` branch into the
+  `main` branch and [deploy it](../../resources/techresources/appdeployment.md)
+  to the Internet web host you've chosen.
+  - *Sprint Review & Retrospective* - Meet at the end of each sprint to review
+  how the team worked together & the processes you used. Make modifications as
+  necessary to improve what didn’t work well and reinforce what did work well.
   
   Many teams have found the following meeting schedule helpful:
   
@@ -485,19 +497,19 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)
   
-  [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
-  
   [Schej meeting availability tool](https://schej.it/home)
-  
-  [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
-  
-  [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (This and other document templates will be copied to the `docs` subdirectory in your team’s repo when the Voyage starts) ^
 
   [Plagarism caution & advice](../../resources/glossary/glossary.md#plagarism)
-
   
+  The following document templates will be copied to the `docs` subdirectory in
+  your team’s repo when the Voyage starts. ^
+
+  [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+
   ^ These are read only templates.
-    
+
 ### 10. Sprint 6 - Project Closure 🏁
   
   **Objective**
