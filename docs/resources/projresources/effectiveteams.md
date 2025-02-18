@@ -18,7 +18,22 @@ Team members pay attention to one another. They are empathetic to the feelings o
 
 **4. Communication**
 
-High performing teams don't just talk to one another; they practice active listening and participation, and are open to the ideas of others. Team members don't acquiesce when differences arise, but instead provide honest and respectful feedback.
+High performing teams don't just talk to one another; they practice active
+listening and participation, and are open to the ideas of others. Team members
+don't give up their principles when differences arise, but instead provide
+honest and respectful feedback.
+
+A problem teammates often face is when one teammate says something, thinks that
+they've been quite clear, but it's interpreted diffently be another teammate.
+Practicing active listening goes a long way to resolving this type of situation.
+But, the effectiveness of your communication is supercharged if you take the
+time to understand what type of communicator each of your teammates are.
+
+The [DiSC Model](https://www.everythingdisc.com/what-is-disc/) is one way to
+help you and your teammates categorize your individual communication styles
+to help you identify how best to communication with one another.
+
+![DiSC Communications](./assets/DiSC-communication.jpg)
 
 **5. Stress Tolerance**
 
