@@ -497,7 +497,9 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   your team’s repo when the Voyage starts.
 
   [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  
   [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  
   [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
 ### 10. Sprint 6 - Project Closure 🏁
