@@ -83,13 +83,13 @@ graph TB
     I --> Z;
 ```
 
-#### If you are a Developer or Data Scientist
+### If you are a Developer or Data Scientist
 
 You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6) for your project.
 
 Your project source code **must be hosted on GitHub** and your completed project must be deployed on the Internet.
 
-#### If you are a Product Owner
+### If you are a Product Owner
 
 If you are in the Product Owner role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6). The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed.
 
@@ -99,13 +99,13 @@ Your sample product backlog doesn't need to be complicated, but it should demons
 
 If you don't have a project you can create a backlog from [this project specification](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po).
 
-#### If you are a Scrum Master
+### If you are a Scrum Master
 
-If you are in the Scrum Master role your Solo Project submission form includes a short quiz to help both you and Chingu assess your level of PO skill. These include a combination of multiple choice and a few long form questions. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
+If you are in the Scrum Master role your Solo Project submission form includes a short quiz to help both you and Chingu to assess your Scrum Master level. These include a combination of multiple-choice and a few long-form questions. You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
 
 The minimum passing score for the quiz is 80%. But, if you score below that we'll let you update your answers for the questions you missed.
 
-#### If you are a UI/UX Designer
+### If you are a UI/UX Designer
 
 You will also be asked to provide the URL of a public website containing a website design you have created. This could be a design hosted on Figma, AdobeXD, or in any other prototyping tool. It might also be a more formal study including things like the definition of personas and stakeholder goals as well as basic screen layout and navigation.
 
@@ -137,12 +137,12 @@ when you are ready for your project to be retested.
     - Using a framework of your choice like React or Vue
     - Using a boilerplate or generator like Create React App (CRA)
     - Using a CSS library or creating your own CSS
-5. Your repo should contain a well written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).
+5. Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).
 6. Remember that your app should run error-free. There should be no errors in the browser or server console logs.
 7. When you submit your project ***you must provide URL's for***:
     - the publicly accessible repository containing your project (eg. Github).
     - the running version of your project where you have deployed it on an
-    Internet accessible host (eg. Github Pages, Netlify, etc.) so we can evaluate not
+    Internet-accessible host (eg. Github Pages, Netlify, etc.) so we can evaluate not
     just your code, but also your UI/UX.
 8. You may **NOT** use a source code generator (like GitHub Co-Pilot) to
 create any part of your Solo Project.
