@@ -9,7 +9,7 @@ You will be assigned to a team by the Chingu Admins based on the following crite
 
     For Web Development teams:
 
-    - Tier 1: Developers, plus Product Owners, Scrum Masters, & Voyage Guides
+    - Tier 1: Developers, plus Voyage Guides
     - Tier 2: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
     - Tier 3: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
 
