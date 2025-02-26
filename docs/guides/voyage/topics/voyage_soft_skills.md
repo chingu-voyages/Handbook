@@ -3,6 +3,11 @@
 
 A big part of working in a team involves cultivating "soft skills" in addition to technical skills. In fact, soft skills like communication and collaboration have more of an impact on team success than do technical skills.
 
-Read **[How to be a Great Teammate](../../resources/projresources/greatteammate.md)** (5 minutes)
+1. Read and practice the [**Scrum Values**](https://www.scrum.org/resources/scrum-values)
+as a team throughout your Voyage.
 
-Read **[Soft Skills 101](../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** (5 minutes)
+2. Read and follow the [**Three Pillars of Scrum**](https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum) in everything your team does.
+
+3. Read **[How to be a Great Teammate](../../../resources/projresources/greatteammate.md)** 
+
+4. Read **[Soft Skills 101](../../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** 
