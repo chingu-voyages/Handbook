@@ -8,6 +8,6 @@ as a team throughout your Voyage.
 
 2. Read and follow the [**Three Pillars of Scrum**](https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum) in everything your team does.
 
-3. Read **[How to be a Great Teammate](../../resources/projresources/greatteammate.md)** 
+3. Read **[How to be a Great Teammate](../../../resources/projresources/greatteammate.md)** 
 
-4. Read **[Soft Skills 101](../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** 
+4. Read **[Soft Skills 101](../../../resources/projresources/softskills101.md)** **for the type of communication skills you should practice here.** 
