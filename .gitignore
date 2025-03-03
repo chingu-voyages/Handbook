@@ -130,3 +130,5 @@ dist
 .pnp.*
 
 src/.DS_Store
+
+/.idea
