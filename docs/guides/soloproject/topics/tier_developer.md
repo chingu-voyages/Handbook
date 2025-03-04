@@ -6,7 +6,7 @@
 <td><strong>Requirements</strong></td>
 </tr>
 <tr>
-<td>Tier&nbsp;1</td>
+<td>Tier&nbsp;1: Beginner Frontend</td>
 <td>
 <p>This tier is for developers who are just starting out in web development.</p>
 <strong>Skills:</strong>
@@ -31,7 +31,7 @@ Tier 1 Chingus will use a programming language in addition to a framework such a
 </td>
 </tr>
 <tr>
-<td>Tier&nbsp;2</td>
+<td>Tier&nbsp;2: Advanced Frontend</td>
 <td>
 <p>This tier is for developers who have a solid foundation in web development.</p>
 <strong>Skills:</strong>
@@ -61,7 +61,7 @@ Tier 1 Chingus will use a programming language in addition to a framework such a
 </tr>
 
 <tr>
-<td>Tier&nbsp;3</td>
+<td>Tier&nbsp;3: Fullstack</td>
 <td>
 <p>This tier is for developers with intermediate or advanced competency in web development technologies.</p>
 <strong>Skills:</strong>
