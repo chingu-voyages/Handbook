@@ -8,7 +8,7 @@
 <tr>
 <td>Tier&nbsp;1: Foundations (Getting Started)</td>
 <td>
-<p>This tier is for developers who are just starting out in development in python.</p>
+<p>This tier is for developers who are just starting out in development in Python.</p>
 <strong>Skills:</strong>
 <ul>
     <li><strong>Basic Syntax & Structure:</strong> Variables, data types, operators, and indentation.</li>
@@ -27,13 +27,13 @@
 
 <p>Your Solo Project <strong><em>must</em></strong> showcase at least 4/6 of the above skills. The project must be deployed, or a demo video can be used instead of a deployment.</p>
 
-<p>The solo project must include a readme, less than 12 month old, and must be your own work (not following tutorials).</p> 
+<p>The Solo Project must include a readme, less than 12 month old, and must be your own work (not following tutorials and not using AI to generate your code).</p> 
 </td>
 </tr>
 <tr>
 <td>Tier&nbsp;2: Core Python Skills (Basic Real World Skills)</td>
 <td>
-<p>This tier is for developers who have a solid foundation in python development.</p>
+<p>This tier is for developers who have a solid foundation in Python development.</p>
 <strong>Skills:</strong>
 <ul>
     <li><strong>Error Handling:</strong> Using try-except, finally, and custom exception messages.</li>
@@ -63,7 +63,7 @@
 <tr>
 <td>Tier&nbsp;3: Intermediate-Advanced Applications (Real-World Skills)</td>
 <td>
-<p>This tier is for developers with intermediate or advanced competency in python development</p>
+<p>This tier is for developers with intermediate or advanced competency in Python development</p>
 <strong>Skills:</strong>
 <ul>
     <li><strong>Data Manipulation:</strong> Basic pandas and numpy for data analysis and transformation.</li>

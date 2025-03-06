@@ -39,7 +39,7 @@ current skill level. There are three tiers and you should select the one that
 best matches your current skill level - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
 
-[Developer tiers](./topics/tier_developer.md)</br>
+[Developer (Web) tiers](./topics/tier_developer.md)</br>
 [Developer (Python) tiers](./topics/tier_developer_python.md)</br>
 [UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
 [Product Owner tiers](./topics/tier_productowner.md)</br>

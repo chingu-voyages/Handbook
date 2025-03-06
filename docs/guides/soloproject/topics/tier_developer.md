@@ -1,4 +1,4 @@
-# Developer Tiers
+# Developer (Web) Tiers
 ![Solo Project topic image](../assets/horizontal-paint-splash-yellow.jpg)
 <table>
 <tr>
