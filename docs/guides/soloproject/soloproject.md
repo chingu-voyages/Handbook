@@ -39,11 +39,11 @@ current skill level. There are three tiers and you should select the one that
 best matches your current skill level - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
 
-[Developer tiers](./topics/tier_developer.md)</br>
+[Developer (Web) tiers](./topics/tier_developer.md)</br>
+[Developer (Python) tiers](./topics/tier_developer_python.md)</br>
 [UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
 [Product Owner tiers](./topics/tier_productowner.md)</br>
 [Scrum Master tiers](./topics/tier_scrummaster.md)</br>
-[Data Scientist tiers](./topics/tier_datascientist.md)</br>
 
 ### 2. Submit a project that matches your tier 👍
 
@@ -67,8 +67,8 @@ Remember that you are required to produce original work! You should not copy and
 
 ```mermaid
 graph TB
-    A{I am a Developer</br>or Data Scientist?};
-    A -- Yes --> B(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#if-you-are-a-developer-or-data-scientist'>URL's for GitHub repo &</br>deployed application</a>);
+    A{I am a Developer?};
+    A -- Yes --> B(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#if-you-are-a-developer'>URL's for GitHub repo &</br>deployed application</a>);
     A -- No --> C{I am a Product Owner};
     C -- Yes --> D(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#if-you-are-a-product-owner'>Complete quiz in Solo Project</br>form & URL of sample</br>Product Backlog</a>);
     C -- No --> E{I am a Scrum Master};
@@ -83,7 +83,7 @@ graph TB
     I --> Z;
 ```
 
-### If you are a Developer or Data Scientist
+### If you are a Developer
 
 You'll be asked to provide the URLs for both your GitHub repo and the [deployed application](../../resources/techresources/techstack.md#deployment-options) when you submit the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6) for your project.
 
