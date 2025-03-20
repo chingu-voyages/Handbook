@@ -48,6 +48,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 [What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
 [How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
 [What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
+[How should PO's and Scrum Masters work together?](.topics/voyage_posm_teamwork.md)
 [What the roles in a Voyage team?](./topics/voyage_roles.md)</br>
 [What the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
 [How are Voyage teams formed?](./topics/voyage_teams.md)</br>
