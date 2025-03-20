@@ -237,13 +237,18 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   Teamwork is the foundation of any project and learning how to work effectively in a team is every bit as important as your technical knowledge. This is a skill that is valued by employers, so increasing your team skills is one way to set yourself above other job applicants.
   
   Your project’s success depends on how effective your team is at working together. In fact, this is more important than how much code you create or how fast you deploy it.
+
+  The first two sprints are devoted to setting a solid foundation for your project. In these sprints you'll meet and get to know your new teammates, do highlevel design of both your project and how you will work together, and build you Product Backlog to guide your efforts in the
+  remaining sprints.
   
   **How**
   
   - Post an introduction in the team channel. Let your teammates know a bit about what you hope to achieve and more about you as a person as well as a Developer. Share your time commitments, available coding time per week, & goals with your teammates.
   - Use the Team Channel we've set up to schedule a time to meet up on a teleconferencing site such as Discord, Zoom, or TeamViewer.
   - Establish your shared goal for the Voyage as a team. Do you want to learn a new package like React? Do you want to learn a new feature like GraphQL for API’s?
-  - Discuss your expectations for how the team will operate. Specifically, what does success look like for your team, how will you make decisions, and how will you deal with conflict?
+  - Discuss your expectations for how the team will operate. Specifically, what does success look like for your team, how will you make decisions, and how will you deal with conflict? Use
+  this discussion to build a _working agreement_ for how you'll go about building and maintaining
+  the project.
   
   **Resources**
   
