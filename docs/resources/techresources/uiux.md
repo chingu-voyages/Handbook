@@ -177,7 +177,7 @@ block-beta
 **_How?_**
 * Note how state changes for each component based on different actions, like the click of a button or data entered into a field.
 
-![Wireframe state change example](./assets/Wireframe_state_change.png.crdownload)
+![Wireframe state change example](./assets/Wireframe_state_change.png)
 
 **_Resources:_**
 
