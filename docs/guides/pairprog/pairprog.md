@@ -33,7 +33,7 @@ This means you need to commit yourself to being responsive to your partner and p
 
 
 1. You may signup for a Pair Challenge Session by join the #🟢Lobby channel on Discord. Nobody will be able to talk in the lobby. Info can also be found in the #🍐pair-challenge channel.
-2. Our bot, Parity, will send you a DM, so simply follow the steps(so make sure your privacy setting allow DM from people on our server)
+2. Our bot, Parity, will send you a DM, so simply follow the steps (so make sure your privacy setting allow DM from people on our server)
 3. Choose your role after signing up. Only Developer is available right now, but Agile Leader is coming soon
 4. Choose difficulty (This is what you are comfortable with, challenge difficulty is marked on the challenges)
 5. Wait for someone else with the same role and difficulty to signup, or ask around on the server to find someone that wants to join you
