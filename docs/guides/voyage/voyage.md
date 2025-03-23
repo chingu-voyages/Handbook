@@ -48,6 +48,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 [What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
 [How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
 [What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
+[How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
 [What the roles in a Voyage team?](./topics/voyage_roles.md)</br>
 [What the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
 [How are Voyage teams formed?](./topics/voyage_teams.md)</br>
@@ -216,7 +217,7 @@ config:
 
 When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
 
-You will also be provided with a GitHub repo in the `chingu-voyages` 
+You will also be provided with a GitHub repo in the `chingu-voyages`
 organization for your project code. Everyone on your team will have `admin`
 access to this repo so you'll be able to adjust settings. But, **you must***:
 
@@ -236,13 +237,18 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   Teamwork is the foundation of any project and learning how to work effectively in a team is every bit as important as your technical knowledge. This is a skill that is valued by employers, so increasing your team skills is one way to set yourself above other job applicants.
   
   Your project’s success depends on how effective your team is at working together. In fact, this is more important than how much code you create or how fast you deploy it.
+
+  The first two sprints are devoted to setting a solid foundation for your project. In these sprints you'll meet and get to know your new teammates, do highlevel design of both your project and how you will work together, and build you Product Backlog to guide your efforts in the
+  remaining sprints.
   
   **How**
   
   - Post an introduction in the team channel. Let your teammates know a bit about what you hope to achieve and more about you as a person as well as a Developer. Share your time commitments, available coding time per week, & goals with your teammates.
   - Use the Team Channel we've set up to schedule a time to meet up on a teleconferencing site such as Discord, Zoom, or TeamViewer.
   - Establish your shared goal for the Voyage as a team. Do you want to learn a new package like React? Do you want to learn a new feature like GraphQL for API’s?
-  - Discuss your expectations for how the team will operate. Specifically, what does success look like for your team, how will you make decisions, and how will you deal with conflict?
+  - Discuss your expectations for how the team will operate. Specifically, what does success look like for your team, how will you make decisions, and how will you deal with conflict? Use
+  this discussion to build a _working agreement_ for how you'll go about building and maintaining
+  the project.
   
   **Resources**
   
