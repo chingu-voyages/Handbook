@@ -12,9 +12,11 @@ completing a Voyage.
 but of a longer duration to allow the applications you'll be developing to be more full
 featured. You'll work with a team of remote Developers working in an environment that
 mimics what you'll encounter in the workplace
-- ***Pair Programming*** is a program which partners you with another developer
+- ***Pair Challenges*** is a program which partners you with another member in the community
 to complete short challenges together in real time. You'll help and learn from
-each other to improve your skills.
+each other to improve your skills. We call them pair challenges because the challenges
+are not exclusive to developers. Soon you'll find challenges for other roles like 
+Scrum Master and Product Owner as well.
 - ***Moonshots*** are special assignments given to select Tier 3 teams during a
 Voyage. These are generally standalone applications that address specific
 member needs or which help add value to the Chingu organization. For example,
