@@ -1,67 +1,54 @@
-# Pair Programming Guide
+# Pair Challenge Guide
 
 ![Team creating project backlog](./assets/PairProgramming_coders.jpeg)
 
 ## Overview
 
-Pair Programming is a proven technique that helps to improve code quality, transfer knowledge between developers, and gain valuable collaboration skills and experience. Just as important is the fact that this is a way to learn how other coders approach challenges and how they think.
+Pair programming is a proven technique that helps improve code quality, transfer knowledge between developers, and foster valuable collaboration skills and experience. At Chingu, we want to extend this practice to other roles as well, which is why we don't limit it to 'pair programming' alone. Roles like Scrum Master and Product Owner should also be able to solve challenges together. It's just as important for agile leaders to learn how others approach challenges within an agile team as it is for developers to learn how other coders think and tackle problems.
 
-Through Chingu Pair Programming you will:
+Through Chingu Pair Challenge you will:
 
-- Meet a new coder every week to solve a coding challenge
+- Meet a new people to solve a challenge
 - Take what you know to the next level by sharing your knowledge with others
 - Learn new technologies and techniques from your peers
 
-> Every week we match people who are interested in learning and practicing Pair Programming to "level up".
+> Every week we match people who are interested in learning and particapate in Pair Challenges to "level up".
 >
 
 To learn more about Pair Programming checkout this [article](https://stackify.com/pair-programming-advantages/)
 
 ## Prerequisites
 
-Pair Programming Sessions are scheduled weekly (Wednesday through Tuesday).
+Pair Challenge Sessions are scheduled daily by you. For now you have to join the #🟢Lobby channel to start the process, but in the future you will be able to schdule sessions a head of time.
 
-We take the weekly pair programming signups and make the most optimal matches based on a variety of criteria (timezone, tier, technical stack).
+
 
 ## Your Responsibilities
 
-Your primary responsibilities are to learn more about how Pair Programming works, to help your partner achieve the same goal, and to hopefully make a new friend in the process.
+Your primary responsibilities are to learn more about how Pair Challenges works, to help your partner achieve the same goal, and to hopefully make a new friend in the process.
 
-This means you need to commit yourself to being responsive to your partner and participating in your scheduled Pair Programming session(s).
+This means you need to commit yourself to being responsive to your partner and participating in your scheduled Pair Challenge session(s).
 
 ## Steps to Follow
 
-![Pair Programming Timeline V3.png](./assets/Pair_Programming_Timeline_V3.png)
 
-1. You may signup for the next Pair Programming Session using the ***[Pair Programming Match Request](https://forms.gle/khf7yHUNCGodLoDg6)*** form. A link will also be posted in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel every Monday morning.
-2. We'll match you with a partner in a Discord channel on Tuesday after 5:00 p.m. CST/CDT (Chicago), which also contains next steps and tips for success. We'll email you when we've completed the matching process and we'll also post a status update in the [`#announcements`](https://discord.com/channels/330284646283608064/553968470455353361) channel.
-3. When your Pair Programming channel is assigned introduce yourself to your partner and set up a time to meet online.
+1. You may signup for a Pair Challenge Session by join the #🟢Lobby channel on Discord. Nobody will be able to talk in the lobby. Info can also be found in the #🍐pair-challenge channel.
+2. Our bot, Parity, will send you a DM, so simply follow the steps (so make sure your privacy setting allow DM from people on our server)
+3. Choose your role after signing up. Only Developer is available right now, but Agile Leader is coming soon
+4. Choose difficulty (This is what you are comfortable with, challenge difficulty is marked on the challenges)
+5. Wait for someone else with the same role and difficulty to signup, or ask around on the server to find someone that wants to join you
+6. Once paired, the bot will create a private space for the two of you, and this is where you select challenge
+    * Discuss carefully which challenge you wish to take before selecting one.
+* Leaving the #🟢Lobby channel BEFORE you've been matched, will remove you from matchmaking.
 
 > We suggest using the conferencing and screensharing that's built into Discord, but you may use any collaboration tool you prefer.
 >
-1. Select a challenge you can complete within one week. You should choose a problem you both have an interest in. Sources for ideas include:
-    - Pick a feature in your favorite language, library, or framework!
-    - [Florin Pop's App Ideas](https://github.com/florinpop17/app-ideas)
-    - [CodeWars](https://codewars.com/)
-    - [Leetcode](https://leetcode.com/)
-    - [Hackerrank](https://www.hackerrank.com/)
-    - [CodingGame](http://codinggame.com/)
-    - [HackerEarth](https://hackerearth.com/)
-    - [ProjectEuler](https://projecteuler.net/)
-    - Create a design based on an idea from websites like [Dribble](https://dribbble.com/)
-2. During the remainder of the week you'll meet as many times as necessary with your partner to complete the challenge you've selected.
-3. At the end of the week we'll provide a [feedback form](https://forms.gle/aHbipqJ5Y8WXzUJ3A) you can use to share your Pair Programming experience with us and to help us improve this program.
 
-> If you have technical questions post them in the [`#coding-help`](https://discord.com/channels/330284646283608064/1047615334703714394) channel.
+
+> If you have technical questions post them in the [`#coding-help`](https://discord.com/channels/330284646283608064/1047615334703714394) channel. [Open a ticket](https://discord.com/channels/330284646283608064/1193342042080817323) if you have a technical problem related to matching or the challenge process. 
 >
 
 ## Tips
 
-1. Choose a small challenge you can complete in a week based on the assumption that you and your partner will only be able to meet for a total of 2-4 hours over the week. This means the challenge you choose to solve will need to be very small.
-2. Carefully manage scope. Since each Pair Programming session is only a week there's no time to develop a "project".
-3. Choose a small problem like:
-    - Which is faster when processing all entries in an array? A `forEach` or a `for-loop`?
-    - How can the default color of an CSS element be dynamically modified from Javascript?
-    - Create a simply, static webpage using semantic HTML instead of the normal HTML tags.
-4. Remember that it is more important to work on your communication, collaboration, and team skills than it is to just solve a problem. These are skills you can use on the job and ones that can help set you apart from other job candidates.
-5. If there’s someone you’d like to be paired with add their name to the appropriate column in the [signup form](https://forms.gle/khf7yHUNCGodLoDg6).
+1. Create your own voice channel by joining the [Voice Hub Channel](https://discord.com/channels/330284646283608064/1130565532953882675). Use this to speak with your partner and share screen.
+2. We know that you really want to solve the problems, but remember that it is more important to work on your communication, collaboration, and team skills than it is to just solve the problem. These are skills you can use on the job and ones that can help set you apart from other job candidates.
