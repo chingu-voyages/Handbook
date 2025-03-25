@@ -118,7 +118,7 @@ When you've completed your Solo Project you will need to submit the **[Solo Pro
 
 Once you submit the Solo Project Completion Form our goal is to evaluate your
 project and provide feedback in a Discord direct message (DM) within
-***2 business*** days. However, this may take longer based on the number of
+***4 business*** days. However, this may take longer based on the number of
 Chingus submitting projects in the same timeframe.
 
 There is no need to resubmit the completion form once you've received
