@@ -5,12 +5,11 @@
 ## Overview
 
 The Solo Project helps you and the Chingu team verify that the Tier you have
-chosen matches your current skill level so you will be ready for your first
+chosen matches your current skill level, so you will be ready for your first
 Voyage.
 
-Once you have submitted your Solo Project our team will evaluate it and provide
-helpful feedback you can use to see what you did right and what needs
-improvement.
+Once you have submitted your Solo Project, our team will evaluate it and provide
+helpful feedback, highlighting what you did well and areas for improvement.
 
 ## Steps to Follow
 
@@ -50,7 +49,7 @@ Next, submit a project that matches the requirements of your role and tier.
 
 It **must** meet these criteria:
 
-- It must should match the requirements of the
+- It must match the requirements of the
 [tier you have chosen](#1-choose-your-tier-1%EF%B8%8F⃣-2%EF%B8%8F⃣-3%EF%B8%8F⃣)
 - It should be original work (not copied from someone else, including tutorials
 or AI-generated code)
@@ -88,7 +87,8 @@ You will need to provide the URLs for:
 
 1. a **public GitHub repo** containing the source code.
 2. the [deployed application](../../resources/techresources/techstack.md#deployment-options)
-accessible through the Internet.
+accessible through the Internet. Please include a test account and password if
+a signin is required.
 
 You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
 to submit your project.
