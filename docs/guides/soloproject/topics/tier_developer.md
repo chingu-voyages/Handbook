@@ -26,7 +26,7 @@
 
 <p>Your Solo Project <strong><em>must</em></strong> be defined using CSS and HTML, which also uses logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen.</p>
 
-Tier 1 Chingus will use a programming language in addition to a framework such as React, Vue, Svelte, etc. If you haven't yet learned a FE framework, you will need to learn that skill before submitting a Solo Project and joining a Voyage. We recommend [Scrimba](../../gettingstarted/partners.md)
+Tier 1 Chingus will use a programming language in addition to a framework such as React, Vue, Svelte, etc. If you haven't yet learned a FE framework, you will need to learn that skill before submitting a Solo Project and joining a Voyage. We recommend [Scrimba](../../../gettingstarted/partners.md)
 
 </td>
 </tr>
