@@ -13,15 +13,18 @@
 
 ## What are Voyages❓
 
-Voyages are 6-week long remote team projects where you'll level up your skills and experience to help you land your dream job by:
+Voyages are 6-week long remote team projects where you'll level up your skills and build experience to help you land your dream job. This is by:
 
 - Putting the technical knowledge you've gained into practice.
 - Improving "soft" skills like teamwork, collaboration, and project management.
 - Being accountable to your commitments to your team and yourself.
+- Adding new skills like Agile & Scrum.
 
 ## Before you Start
 
-Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member.
+Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member. 
+
+Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment on your part to be an active participant and to finish what you start.
 
 ### Voyage Schedule 🗓️
 
@@ -43,6 +46,8 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 | Voyage Showcase article published | May 4 | June 29 | August 31 |
 
 ### How to Prepare for your Voyage 📝
+
+We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
 
 [What Level of Commitment is Required for a Voyage](./topics/voyage_commitment.md)</br>
 [What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
@@ -215,11 +220,10 @@ config:
     style SPRINT6 color:#f0f6fc,fill:#b9770e
 ```
 
-When your Voyage starts, you will see that we have provided your team with your own team channel in Discord. You should use this to communicate and collaborate with one another on your project. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
+When your Voyage starts, A team channel is provided in Discord to every team. You should use this to communicate and collaborate with your teammates. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. **_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._**
 
-You will also be provided with a GitHub repo in the `chingu-voyages`
-organization for your project code. Everyone on your team will have `admin`
-access to this repo so you'll be able to adjust settings. But, **you must***:
+You will also be provided with a GitHub repo for your project. This is created for you in the `chingu-voyages` organization and everyone on your team is granted `admin`
+access to it. But, **you must***:
 
 - leave this as a public repo
 - not rename the repo we've provided
@@ -234,21 +238,29 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **Objective**
   
-  Teamwork is the foundation of any project and learning how to work effectively in a team is every bit as important as your technical knowledge. This is a skill that is valued by employers, so increasing your team skills is one way to set yourself above other job applicants.
+  The foundation of any project is teamwork and learning how to work as a team is
+  just as important as your technical knowledge. This is valued by employers, so increasing your team skills is one way to set you apart from other
+  job applicants.
   
-  Your project’s success depends on how effective your team is at working together. In fact, this is more important than how much code you create or how fast you deploy it.
+  Your project’s success depends on how effective your team is at working together.
+  In fact, this is more important than how much code you create or how fast you deploy it.
 
-  The first two sprints are devoted to setting a solid foundation for your project. In these sprints you'll meet and get to know your new teammates, do highlevel design of both your project and how you will work together, and build you Product Backlog to guide your efforts in the
-  remaining sprints.
+  The first two sprints are devoted to create a solid foundation for your team. In
+  these sprints you'll get to know your teammates, perform the highlevel design of 
+  both you project, establish a working agreement with your team, and build the Product 
+  Backlog to guide you in the remaining sprints.
   
   **How**
   
-  - Post an introduction in the team channel. Let your teammates know a bit about what you hope to achieve and more about you as a person as well as a Developer. Share your time commitments, available coding time per week, & goals with your teammates.
-  - Use the Team Channel we've set up to schedule a time to meet up on a teleconferencing site such as Discord, Zoom, or TeamViewer.
-  - Establish your shared goal for the Voyage as a team. Do you want to learn a new package like React? Do you want to learn a new feature like GraphQL for API’s?
-  - Discuss your expectations for how the team will operate. Specifically, what does success look like for your team, how will you make decisions, and how will you deal with conflict? Use
-  this discussion to build a _working agreement_ for how you'll go about building and maintaining
-  the project.
+  - [ ]  ***Start by introducing yourself*** to your team. Post an introduction in your 
+  team channel 
+  to let your teammates know about you as a professional and an individual. Share your 
+  time commitments, available time per week, goals, and expectations with your teammates.
+  - [ ]  ***Create a working agreement*** to define your shared goals for the Voyage and 
+  expections. How will your share status information, how often will you meet, what are 
+  your expectations, what does success look like for your team, how will you make 
+  decisions, and how will you deal with conflict? Use this discussion to build a 
+  _working agreement_ for how you'll go about building and maintaining the project.
   
   **Resources**
   
@@ -265,15 +277,24 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
     
   **Objective**
   
-  The Kickoff Meeting lets you meet your team, review the goals & steps for Sprints 1 & 2, and gets you started on creating a solid foundation for your Voyage Project.
+  The Kickoff Meeting is where you will meet your team, review the goals & steps
+  you and your teammates will follow in Sprints 1 & 2, and gets you started on 
+  creating a solid team for your Voyage Project.
   
   **How**
   
-  - The first person to arrive in the Team Channel on the first day of the Voyage should create a [Schej meeting availability](https://schej.it/home) event and post its URL in the channel. This will let everyone update it with their availability for the week so a Kickoff meeting can be scheduled.
-  - Try to find a time as early as possible in Sprint 1 for your Kickoff meeting. Six weeks sounds like a long time, but it’s quite short and every day you delay in getting started counts!
-  - Use the Voyage Kickoff meeting agenda template we’ve provided to guide you and as a place to record notes from the meeting. At the start of the Voyage, all document templates will be copied to the `docs` subdirectory in your team's repo.
-
-  - **Pro Tip!** You can use the audio/visual channel that’s been set up for your team for meetings. This channel supports not only audio & video in real time, but also screen sharing.
+  - [ ]  When the Voyage starts, the first person in the Team Channel should create a 
+  [Schej meeting availability event](https://schej.it/home) and post it in the channel. 
+  Everyone can update it with their availability so a Kickoff meeting can be scheduled.
+  - [ ]  Try to find a time as early as possible in Sprint 1 for your Kickoff meeting. Six 
+  weeks sounds like a long time, but it’s quite short and every day you delay in getting 
+  started counts!
+  - [ ]  Use the Voyage Kickoff meeting agenda template to guide you and as a place to 
+  record notes and decisions. This and other helpful document templates ar in the `docs` 
+  subdirectory in your team's repo.
+  
+  **Pro Tip!** Use the [audio/visual channel]() for your team for meetings. This 
+  supports not only audio & video in real time, but also screen sharing.
       
   **Resources**
   
@@ -286,23 +307,24 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   **Objective**
   
-  Your team repo is a public repo and any GitHub user has read-only access to
-  it. However, only members of your team have been granted update access to it.
+  Your team repo is a public GitHub repo where your team will maintain the source
+  code for your project. Anyone has read access to it, but only you and your teammates
+  have update access.
 
-  It's important that every member of the team verify they have update access
-  to their teams repo. This includes Product Owners, Scrum Masters, UI/UX 
-  Designers, Developers, and Data Scientists on the team.
+  Every member of the team should verify that they have update access
+  to this repo. This includes Product Owners, Scrum Masters, UI/UX 
+  Designers, and Developers.
 
   **How**
 
   ![Our Team topic in Team Repo](./assets/Team_Repo_Our_Team.png)
 
-  We populate your team repo with a template which includes a section titled
-  "Our Team". Before the end of Sprint 1 every team member should update this
-  section with their infomation.
+  - [ ] The `README.md` in your team repo has been pre-populated with a section titled
+  "Our Team". Before the end of Sprint 1 every team member should add their
+  infomation to it.
 
   This shows not only who is on the team, but it is also a quick and easy
-  way to verify everyone has update access.
+  way to verify that everyone has update access.
 
   **Resources**
 
@@ -311,7 +333,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   ---
   #### 4. Choose a project & create a Vision Statement 👓
 
-  **This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project and the link to its requirements and specification will be posted in your team channel.
+  **This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project along with a link to its requirements and specifications in the team channel.
   
   **Objective**
   
@@ -319,14 +341,19 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **How**
   
-  Exchange ideas and / or share screenshots and URLs of similar potential projects. Look at the references below to get ideas or create a project you and the team are passionate about.
+  - [ ]  Exchange ideas and share screenshots or URLs of projects you would like to build.
+  Look at the references below to get ideas or create a project you and the team are passionate about.
   
-  - Collect ideas from the team
-  - Brainstorm with your team
-  - Vote to select one idea
-  - Decide on the technical stack you’ll use to construct it in
+    - Collect ideas from the team
+    - Brainstorm with your team
+    - Vote to select one idea
+    - Decide on the technical stack you’ll use to construct it in
   
-  Once you’ve agreed on a Project, create a short vision statement to capture what it does and the benefit it will bring to its users.
+  - [ ]  Create a short vision statement to capture what it does and the benefit it will bring to its users.
+
+  This should be completed by the end of Sprint 1. Keep in mind that since the Voyage is
+  only 6-weeks long it's important to get started quickly. In addition, you'll learn and
+  build experience no matter what project you decide to create.
   
   **Resources**
   
@@ -334,19 +361,19 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   [Voyage Project Showcase articles (Dev.to)](https://dev.to/chingu)
 
-  The following read-only document templates will be copied to the `docs`
-  subdirectory in your team’s repo when the Voyage starts.
+  These read-only document templates will be placed in the `docs`
+  subdirectory of your team’s repo at the start of the Voyage.
 
-  [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  * [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   
-  [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  * [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
   ---
   #### 5. Define & prioritize MVP features 🔢
     
   **Objective**
   
-  Your [Minimum Viable Product (MVP)](../../resources/glossary/glossary.md) is the minimum number of features your users need to get a solid understanding of your project.
+  The [Minimum Viable Product (MVP)](../../resources/glossary/glossary.md) is the minimum number of features your users need to be able to use and get value from your app.
   
   **How**
   
@@ -372,11 +399,11 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   **Objective**
   
   The [Product Backlog](../../resources/glossary/glossary.md) is where you
-  track the work that needs to be completed to finish the project.
+  define what needs to be completed to finish the project and to track your progress.
 
   > If you are creating your Voyage project based on specifications provided by
   Chingu you don't need to wait until Sprint 2 to start this task. Instead,
-  get ahead of the game and start it during Sprint 1.
+  get ahead and start it during Sprint 1.
   
   **How**
   
@@ -386,7 +413,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages, teams have used tools like Jira, Miro, GitHub Projects, Trello, and others as well.
   - [ ]  Prioritize the user stories
   
-  During the Voyage you’ll refine the Product Backlog and in every Sprint you’ll move tasks from it to the Sprint Backlog. This is part of the Agile process which helps you and your team concentrate only on the tasks that must be completed in that Sprint.
+  In every Sprint you’ll refine the Product Backlog as you refine your requirements
+  and as you learn more about the technology stack you've chosen.
   
   **Resources**
   
@@ -401,7 +429,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   **Objective**
   
-  Establish a common understanding across the team of what information is on each screen and the actions that may be invoked from each screen.
+  Create a common understanding of the information and actions on each screen.
 
   > If you are creating your Voyage project based on specifications provided by
   Chingu you don't need to wait until Sprint 2 to start this task. Instead,
@@ -409,15 +437,14 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **How**
   
-  - [ ]  Using the features you added to the Feature Planning template in step 4 identify the screens you’ll need and the information on each one.
+  - [ ]  Using the features you identified in step 4 decide what screens you’ll need and the information on each one.
   - [ ]  Map the actions users will be able to perform from each screen and
   the navigation from screen-to-screen.
-  - [ ]  Create a low-fidelity wireframe using a tool like [Figma](https://www.figma.com/)
-  or even pencil and paper.
+  - [ ]  Create a low-fidelity wireframe using pencil and paper or a tool like [Figma](https://www.figma.com/).
   
   **Resources**
 
-  If you are in a Voyage team without a UI/UX Designer check out <a href="../../resources/techresources/uiux.md">this guide</a> your team can use to perform this roles duties.
+  If you are in a Voyage team without a UI/UX Designer <a href="../../resources/techresources/uiux.md">this guide</a> can help your team create a design.
   
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
       
@@ -460,16 +487,17 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   **Objective**
   
-  Incrementally create your app by using Scrum and Agile frameworks. At the
+  Incrementally create your app by using Agile and the Scrum framework. At the
   end of each sprint you should deploy your app to the `main` branch in your
   team repo and to your production webhost.
   
   **How**
     
-  - *Sprint Planning* - Meet at the start of each sprint to select the highest
+  - *Sprint Planning* - Meet as early as possible in each sprint to select the highest
   priority tasks the team can realistically complete in the sprint
   - *Post Daily Status* - Communicating & collaborating with your team is the
-  most important factor to success. Post answers to these questions every day:
+  most important factor to success. Post answers to these questions in your team channel 
+  every day:
       - What tasks have I completed?
       - What am I currently working on and what will I work on next?
       - What issues or blockers do I need help with and from who?
@@ -479,16 +507,17 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   `main` branch and [deploy it](../../resources/techresources/appdeployment.md)
   to the Internet web host you've chosen.
   - *Sprint Review & Retrospective* - Meet at the end of each sprint to review
-  how the team worked together & the processes you used. Make modifications as
+  how the team worked together and the processes you used. Make modifications as
   necessary to improve what didn’t work well and reinforce what did work well.
   
   Many teams have found the following meeting schedule helpful:
   
   - Schedule a meeting at the beginning of each sprint, ideally on Mondays or Tuesdays. This will be a combined session for the Sprint Review & Retrospective and the Sprint Planning meeting.
   - Schedule a second meeting on Wednesday or Thursday to address any changes to the Sprint plan. These changes could be the result of problems, bugs, differences of opinion, or the fact that you’ve completed all the tasks for this Sprint and need to select ones to work on next.
-  - ***Pro Tip!*** Schedule your meetings to repeat on the same day and time in each Sprint so you only have to spend time scheduling them once.
   - Post your status daily in your Team Channel and use the audio/video channel we’ve created for your team for team meetings, ad hoc discussions, and pair programming.
   
+  ***Pro Tip!*** Schedule meetings to repeat on the same day and time in each Sprint so you only have to schedule them once.
+
   **Resources**
   
   [Agile Methodology 101 (Chingu Handbook)](../../resources/projresources/agile101.md)
@@ -499,26 +528,25 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   [Plagarism caution & advice](../../resources/glossary/glossary.md#plagarism)
   
-  The following read-only document templates will be copied to the `docs` subdirectory in
-  your team’s repo when the Voyage starts.
+  The following read-only document templates will be placed in your repos `docs` subdirectory at the start of the Voyage.
 
-  [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  - [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   
-  [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  - [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   
-  [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  - [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
 ### 10. Sprint 6 - Project Closure 🏁
   
   **Objective**
   
-  The team’s goal in Sprint 6 is to wrap up the project & celebrate your success
+  The team’s goal in Sprint 6 is to wrap up the project & celebrate your success.
   
   **How**
   
   - [ ]  Complete MVP functionality following the same processes you used in Sprints 1-5
   - [ ]  Ensure the Readme is up to date
-  - [ ]  Do the final deployment of the application to a hosting site (note that this should be done at the end of each sprint)
+  - [ ]  Do the final deployment of your application to an Internet host (note this should be done at the end of each sprint)
   - [ ]  Optional: Create a Showcase video on YouTube!
       1. No more than 5 minutes long
       2. It should be available via a publicly accessible URL
