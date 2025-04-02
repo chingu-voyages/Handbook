@@ -586,10 +586,6 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
 Stay tuned for new content!
 
-### Tips for Web Developers ✏️
-
-Stay tuned for new content!
-
-### Tips for Data Scientists ✏️
+### Tips for Developers ✏️
 
 Stay tuned for new content!
