@@ -1,7 +1,9 @@
 # What "Soft Skills" are needed? 🖌️
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
-A big part of working in a team involves cultivating "soft skills" in addition to technical skills. In fact, soft skills like communication and collaboration have more of an impact on team success than do technical skills.
+A big part of working in a team involves cultivating "soft skills" to supplement your technical 
+skills. In fact, soft skills (like communication and collaboration) have more 
+impact on team success than technical skills.
 
 1. Read and practice the [**Scrum Values**](https://www.scrum.org/resources/scrum-values)
 as a team throughout your Voyage.
