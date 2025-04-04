@@ -220,13 +220,10 @@ config:
     style SPRINT6 color:#f0f6fc,fill:#b9770e
 ```
 
-A team channel is provided in Discord to every team at the start of the Voyage. You should
-use this to communicate and collaborate with your teammates. Access to this channel is restricted 
-to your team, so it's the best place for open, frank, and respectful communication with your 
-teammates. 
+A team channel is provided in Discord to every team at the start of the Voyage. You should use this to communicate and collaborate with your teammates. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. 
 
-**_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._** Doing this means we won't be able to monitor your project and
-provide help when you need it.
+**_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._** Doing this means we won't be able to provide assistance when you
+need it.
 
 You will also be provided with a GitHub repo for your project. This is created for you in the `chingu-voyages` organization and everyone on your team is granted `admin`
 access to it. But, **you must***:
