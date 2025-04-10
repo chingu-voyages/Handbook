@@ -1,12 +1,17 @@
 # What git & GitHub knowledge will I need?
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
-Developers and Data Scientists will be using git and GitHub to share the code they create with one another. Although many Chingu's are familiar with using these tools for individual projects, many of our members are unfamiliar with how to use them in a team.
+During your Voyage you will be using git and GitHub to maintain your code and to share it with your 
+team. While many Chingu's are already familiar with these tools for individual projects, many are 
+unfamiliar with how to use them in a team.
+
+Get started before your Voyage begins:
 
 * If you don’t already have a **[GitHub account](https://github.com/)** create one (5 minutes)
 * Set up **[Git on your computer & hook it up to GitHub authentication](https://help.github.com/articles/set-up-git/)** (10 minutes)
 
-The following resources should help you get a better understanding of git and GitHub, in addition to how they can be most effectively used by teams.
+You can also get a better understanding of git and GitHub and how they are used in a team with
+these resources:
 
 * **[What is Git](https://guides.github.com/introduction/git-handbook/)**
 * **[Interactive Git Tutorial](https://learngitbranching.js.org/)**
