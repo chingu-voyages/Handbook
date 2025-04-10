@@ -2,7 +2,7 @@
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
 **Voyages are free**, but you will need to successfully complete all Voyage requirements
-and have a current Chingu Subscription or a Completion Certificate to receive in order to 
+and have a current Chingu Subscription or a Completion Certificate to 
 receive a certificate when the Voyage finishes.
 
 1. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at $2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** as needed for $3.99.

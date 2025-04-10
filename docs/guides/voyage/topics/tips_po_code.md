@@ -14,7 +14,7 @@ When you get in a situation where you feel overwhelmed by complexity,
 technology, or terminology - reach out to your team for help. You may
 think this is a sign of weakness, but it's actually a sign of strength and
 maturity since it shows you trust your team. Doing this also helps to build
-their confidence and experience.
+their confidence, experience, and understanding.
 
 Remember that none of us knows everything and if we did learn
 it all it's just going to change 😊 Rely on your teammates (as they 
