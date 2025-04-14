@@ -2,12 +2,12 @@
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
 If you are in a **Tier 1 or Tier 2** team this is easy! In your team channel we
-have provided the requirements and specifications for the project you must
-build.
+have provided the requirements and specifications for the project you **must**
+build. In these tiers you are not allowed to choose your own project.
 
-If you are in a **Tier 3** team you have a choice to make as a team - build the
-project we have provided requirements and specifications for or build your
-own set of requirements and specifications for the project you wish to create.
+If you are in a **Tier 3** team you have a choice to make - build the
+project we have provided requirements and specifications for **or** build
+requirements and specifications for a project of your choice.
 
 If, as a Tier 3 team, you decide to build your own project here is a process
 for making that decision. Remember this is a team decision and not a decision
