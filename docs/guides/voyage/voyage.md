@@ -574,4 +574,4 @@ Stay tuned for new content!
 
 ### Tips for Developers ✏️
 
-Stay tuned for new content!
+[How can you integrate GitHub & Discord?](./topics/tips_dev_github_discord.md)</br>
