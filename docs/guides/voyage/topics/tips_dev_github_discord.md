@@ -11,9 +11,9 @@ Follow the following these steps if this is something your team would like to us
 ```mermaid
 flowchart TB
    A(["Enable GitHub/Discord Integration"]) --> B(Create a team channel thread - "GitHub Events");
-   B --> C(Open a request in <a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>#open-support-ticket</a> so the Admin team can create a Discord webhook for your team);
+   B --> C(Open a <a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Support Ticket</a> so the Admin team can create a Discord webhook for your team);
    C --> D(Use the webhook provided by the Admin team to update your GitHub repo settings);
-   D --> E(Test by creating a PR)
+   D --> E(Test by creating a PR);
    E --> Z([End]);
 ```
 
