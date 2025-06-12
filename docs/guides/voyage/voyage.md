@@ -501,10 +501,10 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   how the team worked together and the processes you used. Make modifications as
   necessary to improve what didn’t work well and reinforce what did work well.
   
-  Many teams have found the following meeting schedule helpful:
+  Many teams have found the following meeting advice helpful:
   
-  - Schedule a meeting at the beginning of each sprint, ideally on Mondays or Tuesdays. This will be a combined session for the Sprint Review & Retrospective and the Sprint Planning meeting.
-  - Schedule a second meeting on Wednesday or Thursday to address any changes to the Sprint plan. These changes could be the result of problems, bugs, differences of opinion, or the fact that you’ve completed all the tasks for this Sprint and need to select ones to work on next.
+  - Schedule a Sprint Planning meeting at the beginning of each sprint, ideally on Monday, which is the first day of every sprint. or Tuesdays.
+  - Schedule a second meeting later in the Sprint for a combined Sprint Review and Sprint Retrospective. Remember these are two separate meetings, so take a five minute break between them and have separate agenda for each.
   - Post your status ***daily*** in your Team Channel and use the audio/video channel we’ve created for your team for team meetings, ad hoc discussions, and pair programming.
   
   ***Pro Tip!*** Schedule meetings to repeat on the same day and time in each Sprint so you only have to schedule them once.
@@ -519,7 +519,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   The following read-only document templates will be placed in your repos `docs` subdirectory at the start of the Voyage.
 
   - [Team Decision Log template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)</br>
-  - [Meeting template - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)</br>
+  - [Meeting templates - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)</br>
   - [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
 ### 10. Sprint 6 - Project Closure 🏁
