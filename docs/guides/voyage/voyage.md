@@ -503,7 +503,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   
   Many teams have found the following meeting advice helpful:
   
-  - Schedule a Sprint Planning meeting at the beginning of each sprint, ideally on Monday, which is the first day of every sprint. or Tuesdays.
+  - Schedule a Sprint Planning meeting at the beginning of each sprint, ideally on Monday, which is the first day of every sprint.
   - Schedule a second meeting later in the Sprint for a combined Sprint Review and Sprint Retrospective. Remember these are two separate meetings, so take a five minute break between them and have separate agenda for each.
   - Post your status ***daily*** in your Team Channel and use the audio/video channel we’ve created for your team for team meetings, ad hoc discussions, and pair programming.
   

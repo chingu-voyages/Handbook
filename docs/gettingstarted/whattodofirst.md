@@ -94,7 +94,7 @@ as the running app so you'll get 360-degree feedback.
 
 Please check your `Message Requests` or spam folder on discord. If you have not received a DM in 5 days after submission, feel free to open a ticket to check the status.
 
-Once you've passed the Solo Project, you will receive a link to sign up for the next voyage, and a confirmation form closer to the start date, you'll be ready to participate in a Voyage!
+Once you've passed the Solo Project, you will receive a link to sign up for the next voyage, and then a confirmation form closer to the start date. After that, you'll be ready to participate in a Voyage!
 
 ## Sign up to Participate in a Voyage
 
