@@ -152,6 +152,13 @@ provide feedback in a Discord direct message (DM) within
 ***4 business*** days. This could take longer based on the number of
 Chingus submitting projects at the same time.
 
+Since we DM feedback to you in Discord it's important that you enable DM's so
+you will be able to see it. Make sure that in your Discord `Settings -> Content &
+Social -> Social Permissions` you've enabled DM's from other server members.
+
+![Discord DM Setting](./assets/Discord_DM_Settings.png)
+
+
 There is no need to resubmit the completion form once you've received
 feedback. The feedback we DM to you will contain information on what to do next.
 
