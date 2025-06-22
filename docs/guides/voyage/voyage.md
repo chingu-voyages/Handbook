@@ -30,20 +30,20 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 
 ```mermaid
   timeline
-    May 2025 : Voyage 55
     Jul 2025 : Voyage 56
     Sep 2025 : Voyage 57
+    Nov 2025 : Voyage 58
 ```
   
-| Milestone | Voyage 55 | Voyage 56 | Voyage 57 |
+| Milestone | Voyage 56 | Voyage 57 | Voyage 58 |
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
-| Solo Project Deadline | April 27, 2025 | June 29, 2025 | August 24, 2025 |
-| Voyage Launch | May 5 | July 7 | September 1 | 
+| Solo Project Deadline | June 29, 2025 | August 24, 2025 | October 26, 2025 |
+| Voyage Launch | July 7 | September 1 | November 3 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | June 15 | August 17 | October 12 |
-| Completion Certificates issued | June 22 | August 24 | October 22 |
-| Voyage Showcase article published | June 29 | August 31 | October 27 | 
+| Voyage ends & projects due | August 17 | October 12 | December 14 |
+| Completion Certificates issued | August 24 | October 22 | December 21 |
+| Voyage Showcase article published | August 31 | October 27 | December 31 |
 
 ### How to Prepare for your Voyage 📝
 
