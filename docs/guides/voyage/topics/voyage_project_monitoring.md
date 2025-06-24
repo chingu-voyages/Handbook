@@ -37,7 +37,7 @@ given the short lifespan of Voyage a good place would be in a spreadsheet mainta
 the team repo or as a simple Markdown table in the repo.
 
 Keep in mind that your metrics should be graphically rendered in a format that's easy for
-teammates to understand. But, it doesn't have to be highly polished. What matters is the
+teammates to understand. But, it doesn't have to be highly polished. What matters most is the
 content.
 
 ## One more thing...
