@@ -61,6 +61,7 @@ We know you have a lot of questions about our Voyages. Here are a few of those w
 [What if I need more skills?](./topics/voyage_skills.md)</br>
 [What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
 [How should my Team select a project?](./topics/voyage_project.md)</br>
+[How should PO's and Scrum Masters monitor the project?](./topics/voyage_project_monitoring.md)</br>
 
 ## The Voyage Process
 
