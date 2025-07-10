@@ -1,6 +1,9 @@
 # Developer Tiers ( Non Web Developer - Python )
 ![Solo Project topic image](../assets/horizontal-paint-splash-yellow.jpg)
 
+> [!IMPORTANT]
+> If you have a web project, or intended to do a web based Python project (e.g. Flask, Django, FastAPI, etc) , please submit a [web development solo project](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/topics/tier_developer.md) and pick Developer (web). You can pick Python as your programming language in the voyage signup form. The Python tiers are designed for Python programmers who do not wish to do a web development project.
+
 ## Tier Requirements
 
 ### Tier 1: Foundations (Getting Started)
