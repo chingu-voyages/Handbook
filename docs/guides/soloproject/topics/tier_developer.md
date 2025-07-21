@@ -62,7 +62,7 @@ This tier is for developers with intermediate or advanced competency in web deve
 * ***Database Management Tools***: Familiarity with database tools and ORMs for interacting with SQL (like PostgreSQL, MySQL) or NoSQL databases (like MongoDB).
 
 Your Solo Project ***must*** meet these criteria:
-* Must include distinct files which separate the FE and BE application logic in a way the follows the Separation of Responsibility Principle (SRP).
+* Must include distinct files which separate the FE and BE application logic in a way the follows the Single Responsibility Principle (SRP).
 * If the app accesses a database it must be accessed only from the BE logic. Applications that access databases from FE logic will not be accepted.
 * The BE logic must implement an app-specific API that is only implemented in the BE. The FE must access the BE API to deliver services to the end user.
 * Applications that use technology like Firebase only for authentication are not acceptable. Apps which couple this form of authentication with application specific API are acceptable.
