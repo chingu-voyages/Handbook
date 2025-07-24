@@ -93,6 +93,18 @@ larger projects with a complex state. The library itself also abstracts a lot of
 the concepts, so it may be difficult for a beginner to understand and
 troubleshoot in Redux.
 
+### SolidJS
+
+[SolidJS](https://www.solidjs.com/) was created to address some performance issues
+with React. Many of the innovations made in SolidJS (e.g. signals) have since been
+adopted by other frameworks. If you are familiar with React, you will have no
+trouble adapting to SolidJS. The most frequent question you will ask yourself is
+"Why didn't React do it this way to start with?" The answer is usually: "We learned
+from our mistakes." SolidJS is *fast*—almost as fast as vanilla JS—but benefits from
+the great developer tools (e.g. JSX) you are used to with React. You won't find as
+many pre-built components for SolidJS as you will for React, but the community is
+active and friendly.
+
 ### Angular
 
 [Angular](https://angular.io/) is a TypeScript (JavaScript + Enforced
