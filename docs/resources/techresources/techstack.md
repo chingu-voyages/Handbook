@@ -108,6 +108,20 @@ API, [Apollo Client](https://www.apollographql.com/) is an abstraction layer
 designed to help you make GraphQL API calls on the frontend and works with your
 main JavaScript library such as React.
 
+### Astro
+
+[Astro](https://astro.build/) is particularly well suited to content-heavy sites
+such as blogs and documentation. If your project is just HTML and CSS, Astro is
+a great platform to choose. By default, it does all rendering on the server, and
+does not send any JavaScript to the client. This produces a very fast site with
+a great user experience.
+
+Astro can also host client-side frameworks like React and Vue. You can create
+*islands* of reactive content and keep most of the site static. Astro can even
+support different frameworks on the same page, e.g. a React component as one
+island, and a SolidJS component as another. Astro takes care of bundling the
+right Javascript so everything works.
+
 ### Other popular technologies include Vue and Ember.
 
 ## Back-End Technologies
