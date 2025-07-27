@@ -130,7 +130,7 @@ config:
       end
       A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
       A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
-      A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-your-team-workflow-">Define team workflow</a>" --> SPRINT2
+      A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-your-teams-working-agreements-">Define team working agreements</a>" --> SPRINT2
     end
 
     block:B3:1
@@ -445,7 +445,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
       
   ---
-  #### 8. Setup your team workflow 🌊
+  #### 8. Setup your teams Working Agreements 🌊
       
   **Objective**
   
@@ -454,7 +454,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   **How**
   
   - [ ]  Decide on the coding standards the team must follow.
-  - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the workflow everyone must follow.
+  - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the working agreement everyone must follow.
   - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
   - [ ]  Decide on where you’ll [deploy your app](../../resources/techresources/appdeployment.md) and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is 
   similar to your production environment. You should also deploy your app 
