@@ -85,7 +85,7 @@ on your own or as a part of a team. It should meet these criteria:
 - It should be original work (not copied from someone else, including a tutorial)
 - If created as part of a team you should be a major contributor to the project
 
-When you are done, submit a [Solo Project Completion form](https://docs.google.com/forms/d/e/1FAIpQLSdN3dN7OjzppDCBNIsIf-bOJC_XAlQ9eiPcYQx_m6DfhaiRmA/viewform) so we can evaluate your project.
+When you are done, submit a [Solo Project Completion form](https://docs.google.com/forms/d/e/1FAIpQLSd0MPY4aLPIttSjErFGUFd_GP0vf7JHqW0QDLrZflBJQDnlqQ/viewform?usp=sf_link) so we can evaluate your project.
 (Note: please use the same email as your application form)
 
 One of our Evaluators will evaluate your Solo Project and will DM you in

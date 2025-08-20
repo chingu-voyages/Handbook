@@ -140,7 +140,7 @@
   <summary>Feature (App. Feature)</summary>
   <br/>
   
-  Features are the discrete capabilities an application provides to users which allow them to complete a particular business function. Groups of applications features support an [application function](https://docs.chingu.io/glossary#function-application-function).
+  Features are the discrete capabilities an application provides to users which allow them to complete a particular business function. Groups of applications features support an [application function](https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md).
   
   For example, an application function in a texting application is to send a message, but the functions it provides to the user are to select the recipients, create a message, and to send the message.
   <br/>
@@ -167,7 +167,7 @@
   <summary>Function (Application Function)</summary>
   <br/>
 
-  Application functions can be thought of as the commitments an application makes to its users. In this context, application functions are the contracts an application establishes with the user. Application functions are composed of [application features](https://docs.chingu.io/glossary#feature).
+  Application functions can be thought of as the commitments an application makes to its users. In this context, application functions are the contracts an application establishes with the user. Application functions are composed of [application features](https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md).
       
   Note that this is different from the function definition used in a programming language.
   
