@@ -16,7 +16,7 @@ these resources:
 * **[What is Git](https://guides.github.com/introduction/git-handbook/)**
 * **[Interactive Git Tutorial](https://learngitbranching.js.org/)**
 * **[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)**
-* **[Introduction to GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)**
+* **[Introduction to GitHub](https://github.com/skills/introduction-to-github**
 * **[Uploading Your Project to GitHub](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)**
 * **[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)**
 * **[Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**

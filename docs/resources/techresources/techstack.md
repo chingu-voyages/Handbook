@@ -6,10 +6,10 @@ Products and languages in the tech stack are divided into four basic
 categories - frontend, backend, database, and DevOps. The components that make
 up web applications are also divided between two categories:
 
-- *[Frontend](https://www.notion.so/Glossary-c0b10b9e0c9a4e80a0c3482433fb08a4?pvs=21)-only
+- *[Frontend](https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md)-only
   application* - Composed of only frontend products and languages and runs
   exclusively in the user's browser.
-- *[Full stack](https://www.notion.so/Glossary-c0b10b9e0c9a4e80a0c3482433fb08a4?pvs=21)* [](https://docs.chingu.io/glossary#fullstack)*application* -
+- *[Full stack](https://github.com/chingu-voyages/Handbook/blob/main/docs/resources/glossary/glossary.md)*application* -
   Composed of at least a frontend and backend, but may optionally include
   database and DevOps components.
 

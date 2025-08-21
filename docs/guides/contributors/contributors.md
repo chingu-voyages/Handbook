@@ -16,7 +16,7 @@ that would be helpful to all Chingu's simply follow these steps:
 2. Create a working branch and make the desired changes.
 3. Test your changes locally.
 4. Push your working branch to GitHub
-5. Open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+5. Open a [Pull Request](https://github.com/chingu-voyages/Handbook/pulls)
    in this repository
 
 There's no need to assign a specific reviewer. When you create your PR one of
