@@ -540,7 +540,7 @@ flowchart TB
    D -- No --> F(PO & SM: Complete your EdApp course);
    F --> E;
    E --> H(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>team project</a> for review);
-   H --> I(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>deck</a> for Demo Day);
+   H --> I(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>presentation</a> for Demo Day);
    I --> J(Share your success on LinkedIn and other social media);
    J --> Z([End]);
 ```
@@ -554,10 +554,10 @@ Two other optional activities you should consider to share your success with oth
       * No more than 5 minutes long
       * It should be available via a publicly accessible URL
       * Answer these simple questions:
-          a. What did we build?
-          b. Who participated in the team?
-          c. What technology stack did we use?
-          d. What did we create? Demo the app
+          1. What did we build?
+          2. Who participated in the team?
+          3. What technology stack did we use?
+          4. What did we create? Demo the app
   2. Write an article about your experience for the Chingu page on [Dev.to](http://Dev.to) or Hashnode (see Resources below)
   
   **Resources**
