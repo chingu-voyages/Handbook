@@ -530,23 +530,36 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   The team’s goal in Sprint 6 is to wrap up the project & celebrate your success.
   
   **How**
+
+  ```mermaid
+flowchart TB
+   A(["Complete your MVP"]) --> B(Join the Chingu</br>Discord Server);
+   B --> C(Make sure your readme.md is updated);
+   C --> D{Accepted?};
+   D -- Yes --> E(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
+   E -- No --> F(Make requested changes);
+   D --> G(Final deployment your Internet host);
+   F --> G;
+   G --> H(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>team project</a> for review);
+   H --> I(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>deck</a> for Demo Day);
+   I --> J(Share your success on LinkedIn and other social media);
+   J --> Z([End]);
+```
   
-  - [ ]  Complete MVP functionality following the same processes you used in Sprints 1-5
-  - [ ]  Ensure the Readme is up to date
-  - [ ]  Do the final deployment of your application to an Internet host (note this should be done at the end of each sprint)
-  - [ ]  Optional: Create a Showcase video on YouTube!
-      1. No more than 5 minutes long
-      2. It should be available via a publicly accessible URL
-      3. Answer these simple questions:
-          1. What did we build?
-          2. Who participated in the team?
-          3. What technology stack did we use?
-          4. What did we create? Demo the app
-  - [ ]  Optional: Write an article about your experience for the Chingu page on [Dev.to](http://Dev.to) or Hashnode (see Resources below)
-  - [ ]  Submit your completed project using the [Project Submission form](https://forms.gle/V8gfttw9VnoqumeaA)
-  - [ ]  Celebrate your success as a team!
-  - [ ]  Receive your Voyage Completion Certificate
-  - [ ]  Update your resume, LinkedIn profile, portfolio page, etc. to include your Voyage experience, Completion Certificate, and your Showcase video or article if you’ve written one.
+Only one Voyage Project form is required per team and any teammate may submit it.
+
+Chingu's Agile Leadership team will post information about our Demo Day event, including its schedule and location, in Discord during Sprint 6.
+
+Two other optional activities you should consider to share your success with others, including potential employers, are: 
+  1. Create a Showcase video on YouTube!
+      * No more than 5 minutes long
+      * It should be available via a publicly accessible URL
+      * Answer these simple questions:
+          a. What did we build?
+          b. Who participated in the team?
+          c. What technology stack did we use?
+          d. What did we create? Demo the app
+  2. Write an article about your experience for the Chingu page on [Dev.to](http://Dev.to) or Hashnode (see Resources below)
   
   **Resources**
   
