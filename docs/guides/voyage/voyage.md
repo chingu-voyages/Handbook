@@ -535,12 +535,11 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 flowchart TB
    A(["Complete your MVP"]) --> B(Join the Chingu</br>Discord Server);
    B --> C(Make sure your readme.md is updated);
-   C --> D{Accepted?};
-   D -- Yes --> E(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
-   E -- No --> F(Make requested changes);
-   D --> G(Final deployment your Internet host);
-   F --> G;
-   G --> H(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>team project</a> for review);
+   C --> D{PO & SM: EDApp completed?};
+   D -- Yes --> E(Final deployment your Internet host);
+   D -- No --> F(PO & SM: Complete your EdApp course);
+   F --> E;
+   E --> H(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>team project</a> for review);
    H --> I(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>deck</a> for Demo Day);
    I --> J(Share your success on LinkedIn and other social media);
    J --> Z([End]);
