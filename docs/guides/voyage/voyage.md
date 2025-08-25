@@ -43,7 +43,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
 | Voyage ends & projects due | October 12 | December 14 | February 15 |
 | Completion Certificates issued | October 22 | December 23 | February 25 |
-| Voyage Showcase article published | October 27 | February 25 |
+| Voyage Showcase article published | October 27 | December 23 | February 25 |
 
 ### How to Prepare for your Voyage 📝
 
