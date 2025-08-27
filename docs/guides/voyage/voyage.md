@@ -535,9 +535,9 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 flowchart TB
    A(["Complete your MVP"]) --> B(Join the Chingu</br>Discord Server);
    B --> C(Make sure your readme.md is updated);
-   C --> D{PO & SM: EDApp completed?};
+   C --> D{PO & SM: Agile Leadership mini Course on EdApp completed?};
    D -- Yes --> E(Final deployment your Internet host);
-   D -- No --> F(PO & SM: Complete your EdApp course);
+   D -- No --> F(PO & SM: Complete your the course);
    F --> E;
    E --> H(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>team project</a> for review);
    H --> I(Submit your</br><a href='https://forms.gle/zjc4F3fauDiwiz1H9' target='_blank'>presentation</a> for Demo Day);
@@ -545,7 +545,7 @@ flowchart TB
    J --> Z([End]);
 ```
   
-Only one Voyage Project form is required per team and any teammate may submit it.
+Only one Voyage Project form is required per team and any teammate may submit it. This is separate from Final Project Presentation, which is only applicable to Scrum Masters and Product Owners. More information is shared in the [Agile Leaders channel on Discord](https://discord.com/channels/330284646283608064/682217749967142991).
 
 Chingu's Agile Leadership team will post information about our Demo Day event, including its schedule and location, in Discord during Sprint 6.
 
