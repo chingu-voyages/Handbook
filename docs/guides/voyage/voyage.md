@@ -512,6 +512,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   **Resources**
   
+  [How can I share Daily Standup status in my Team Channel?](./topics/tips_standup_cmd.md)</br>
   [Agile Methodology 101 (Chingu Handbook)](../../resources/projresources/agile101.md)</br>
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)</br>
   [Schej meeting availability tool](https://schej.it/home)</br>

@@ -16,6 +16,7 @@ a common time for a realtime meeting every teammate should at least post their s
 in your Discord team channel. We recommend using the `/standup` command for this.
 
 This command creates an dialog you can use to enter your status,
+
 ![Standup Dialog](../assets/Standup_Dialog.png)
 
 Once you have entered your status in the dialog it will be displayed so your team can see it.
