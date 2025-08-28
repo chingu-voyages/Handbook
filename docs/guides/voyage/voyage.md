@@ -512,6 +512,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
   **Resources**
   
+  [How can I share Daily Standup status in my Team Channel?](./topics/tips_standup_cmd.md)</br>
   [Agile Methodology 101 (Chingu Handbook)](../../resources/projresources/agile101.md)</br>
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)</br>
   [Schej meeting availability tool](https://schej.it/home)</br>
@@ -570,6 +571,7 @@ Two other optional activities you should consider to share your success with oth
 
 [How do I make a voice channel for my team?](./topics/tips_voice_channel.md)</br>
 [What should I do if I don't have access to my team repo?](./topics/tips_repo_access.md)</br>
+[How can I share Daily Standup status in my Team Channel?](./topics/tips_standup_cmd.md)</br>
 [How can I “pin” messages to my Team Channel?](./topics/tips_pin_messages.md)</br>
 [Which team role is the most important one?](./topics/tips_voyage_role.md)</br>
 [My team doesn't have a Product Owner. What should we do?](./topics/tips_no_po.md)</br>
