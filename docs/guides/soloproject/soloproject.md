@@ -127,12 +127,18 @@ You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VC
 
 ### If you are a UI/UX Designer
 
-As a UI/UX Designer you need to provide the URL of a **public website**
-containing a design you have created.
+UI/UX Designers must submit a case study matching the requirements of their chosen tier. This 
+should be a URL to a publicly available webside or design document detailing the research, 
+problems encountered, and solutions for your Solo Project.
 
-This may be hosted on Figma, AdobeXD, or in any other prototyping tool. It may
-include a more formal study including things like personas and stakeholder
-goals, in addition to wireframes.
+This should be a link to the Figma or equivalent file showing:
+* Wireframe for each screen
+* Documentation of the user flow from screen to screen
+* It may include a more formal study including things like personas and stakeholder goals
+* Any notes you think members of a development team would find helpful during implementation
+
+You should also keep in mind the importance of 
+[CRAP design fundamentals](https://attentioninsight.com/crap-design-principles/) - Contrast, Repetition, Alignment, and Proximity.
 
 You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
 to submit your project.
