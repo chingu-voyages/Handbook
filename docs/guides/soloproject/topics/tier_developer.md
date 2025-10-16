@@ -19,9 +19,10 @@ This tier is for developers who are just starting out in web development.
 * ***Web Development Tools***: Basic use of browser developer tools for debugging HTML and CSS.
 * ***Deployment Tools***: Hosting services to deploy static web pages such as GitHub Pages, Netlify, Vercel, Render, Railway, etc.
 
-Your Solo Project ***must*** be defined using CSS and HTML, which also uses logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen.
+Your Solo Project ***must implement*** a front-end app as follows:
 
-Tier 1 Chingus will use a programming language in addition to a framework such as React, Vue, Svelte, etc. If you haven't yet learned a FE framework, you will need to learn that skill before submitting a Solo Project and joining a Voyage. We recommend [Scrimba](../../../gettingstarted/partners.md)
+* Tier 1 Chingus will use a programming language in addition to a framework such as React, Vue, Svelte, etc. If you haven't yet learned a FE framework, you will need to learn that skill before submitting a Solo Project and joining a Voyage. We recommend [Scrimba](../../../gettingstarted/partners.md)
+* uses logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen
 
 ### Tier 2: Advanced Frontend
 
@@ -44,6 +45,7 @@ This tier is for developers who have a solid foundation in web development.
 Your Solo Project ***must implement*** a front-end app as follows:
 * Written using either Web Components or a framework such as React, Svelte, VueJS, etc.
 * Implement logic (designed and written by you) which dynamically processes events and inputs to display or modify information on the screen.
+* Advanced js/framework features/techniques, such as proper error handling, advanced rendering patterns, performance optimisation, advanced state management, advanced API techniques, testing
 
 ### Tier 3: Fullstack
 
