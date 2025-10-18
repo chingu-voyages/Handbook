@@ -56,6 +56,7 @@ We know you have a lot of questions about our Voyages. Here are a few of those w
 [How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
 [What the roles in a Voyage team?](./topics/voyage_roles.md)</br>
 [What the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
+[How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
 [How are Voyage teams formed?](./topics/voyage_teams.md)</br>
 [What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
 [What if I need more skills?](./topics/voyage_skills.md)</br>
