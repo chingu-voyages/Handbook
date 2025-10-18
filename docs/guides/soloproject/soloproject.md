@@ -17,7 +17,7 @@ helpful feedback, highlighting what you did well and areas for improvement.
 graph TB
     A((<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3'>Choose your Tier</a>)) --> B{What is your role?}
     B -- Scrum Master --> G
-    B -- Product Owner, Developer,</br>UI/UX Designer,</br>Data Scientist --> F{Do you have a project?}
+    B -- Product Owner, Developer,</br>UI/UX Designer --> F{Do you have a project?}
     F -- Yes --> G(Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'></br>Solo Project form</a>)
     F -- No --> H(Create new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-'></br>matching your tier</a>)
     H --> G

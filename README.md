@@ -29,8 +29,7 @@ Chingu is intended to help a variety of different Web Development professionals
 further their careers by building near real-world experience. The kind of
 experience to help you stand above other job applicants to get noticed.
 
-Our programs and services are geared to help Web Developers, UI/UX Designers,
-Data Scientists, and Agile Product Owners & Scrum Masters.
+Our programs and services are geared to help Web Developers, UI/UX Designers, and Agile Product Owners & Scrum Masters.
 
 ## Directory of Information ℹ️
 
