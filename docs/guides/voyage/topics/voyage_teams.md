@@ -20,7 +20,7 @@ You will be assigned to a Voyage team based on the following criteria, from high
 
     We use the primary and alternate time block request you made when you signed up for a Voyage
     to match you with teammates who are available during the same blocks of time. This makes 
-    communicating and collaborating simpler, makes it easier to find meeting times where everyone
+    communicating and collaborating simpler, makes it easier to find meeting times when everyone
     is available, and helps to build not just cross-functional teams, but also cross-cultural
     teams.
 
