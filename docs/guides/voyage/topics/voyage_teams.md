@@ -16,9 +16,15 @@ You will be assigned to a Voyage team based on the following criteria, from high
     Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and
     Voyage Guides are added to teams if they are available.
 
-2. Timezone
+2. Time Blocks
 
-    We try to match teams so no two teammates will be more than 2 timezones away from one another. This makes it easier to find times for meetings and pair programming sessions.
+    We use the primary and alternate time block request you made when you signed up for a Voyage
+    to match you with teammates who are available during the same blocks of time. This makes 
+    communicating and collaborating simpler, makes it easier to find meeting times where everyone
+    is available, and helps to build not just cross-functional teams, but also cross-cultural
+    teams.
+
+    You can learn more details about time blocks and how they work [here](./voyage_timeblocks.md).
 
 3. Chingu Superstars
 
