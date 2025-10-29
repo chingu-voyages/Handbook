@@ -41,6 +41,20 @@ To make collaboration across time zones simpler and more flexible, team members 
 Each block is 6 hours long, based on UTC.  
 Use this table to find your **local times** for each block.
 
+To identify the Time Block name ("Dawn", "Daylight", "Twilight", or "Dusk") that correspond to your preferred working time you should follow these steps:
+
+1. Use the Time Blocks table located at: Handbook/docs/guides/voyage/topics/voyage_timeblocks.md
+   * The leftmost column represents the local timezone a Voyager is located in
+   * The remaining columns map the time in the Voyagers timezone to a UTC-0 time
+
+2. Locate your local timezone in the leftmost column of this table.
+
+3. Next, in that row locate the time for your primary availability - the time of day you will be available to work with your Voyage teammates.
+
+4. Now find the time block name in the heading of the column containing your preferred working time.
+
+Finally, repeat this process to identify your alternate working time.
+
 | UTC Offset | Example Regions | 🌅 Dawn (22:00–04:00 UTC) | 🌞 Daylight (04:00–10:00 UTC) | 🌇 Twilight (10:00–16:00 UTC) | 🌙 Dusk (16:00–22:00 UTC) |
 |-------------|----------------|----------------------------|--------------------------------|-------------------------------|---------------------------|
 | **UTC−12** | Baker Island | 10 AM – 4 PM | 4 PM – 10 PM | 10 PM – 4 AM | 4 AM – 10 AM |
