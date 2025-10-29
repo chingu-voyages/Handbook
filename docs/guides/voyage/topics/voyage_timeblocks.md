@@ -39,7 +39,6 @@ To make collaboration across time zones simpler and more flexible, team members 
 ## 🌎 Global Time Zone Conversion Table (Based on UTC Blocks)
 
 Each block is 6 hours long, based on UTC.  
-Use this table to find your **local times** for each block.
 
 To identify the Time Block name ("Dawn", "Daylight", "Twilight", or "Dusk") that correspond to your preferred working time you should follow these steps:
 
@@ -86,12 +85,3 @@ Finally, repeat this process to identify your alternate working time.
 | **UTC+12** | New Zealand, Fiji | 10 AM – 4 PM | 4 PM – 10 PM | 10 PM – 4 AM | 4 AM – 10 AM |
 | **UTC+13** | Tonga, Samoa | 11 AM – 5 PM | 5 PM – 11 PM | 11 PM – 5 AM | 5 AM – 11 AM |
 | **UTC+14** | Kiribati (Line Islands) | 12 PM – 6 PM | 6 PM – 12 AM | 12 AM – 6 AM | 6 AM – 12 PM |
-
----
-
-### 🧭 How to Use
-
-1. Find your timezone in the table.
-2. Each cell shows what time (in your local zone) each **UTC block** happens.
-3. Choose a **primary block** and an **alternate block** where you can be available at least **half of the time** (≈3 hours).
-4. Teams meet **1–2 times per week**, and work asynchronously outside those blocks.
