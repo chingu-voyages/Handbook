@@ -39,7 +39,20 @@ To make collaboration across time zones simpler and more flexible, team members 
 ## 🌎 Global Time Zone Conversion Table (Based on UTC Blocks)
 
 Each block is 6 hours long, based on UTC.  
-Use this table to find your **local times** for each block.
+
+To identify the Time Block name ("Dawn", "Daylight", "Twilight", or "Dusk") that correspond to your preferred working time you should follow these steps:
+
+1. Use the Time Blocks table located at: Handbook/docs/guides/voyage/topics/voyage_timeblocks.md
+   * The leftmost column represents the local timezone a Voyager is located in
+   * The remaining columns map the time in the Voyagers timezone to a UTC-0 time
+
+2. Locate your local timezone in the leftmost column of this table.
+
+3. Next, in that row locate the time for your primary availability - the time of day you will be available to work with your Voyage teammates.
+
+4. Now, if you have another block of time when you are available find the time block name in the heading of the column containing this alternate working time. Otherwise, you won't need an alternate availability (see [Pick Your Blocks](#pick-your-blocks) above).
+
+Finally, repeat this process to identify your alternate working time.
 
 | UTC Offset | Example Regions | 🌅 Dawn (22:00–04:00 UTC) | 🌞 Daylight (04:00–10:00 UTC) | 🌇 Twilight (10:00–16:00 UTC) | 🌙 Dusk (16:00–22:00 UTC) |
 |-------------|----------------|----------------------------|--------------------------------|-------------------------------|---------------------------|
@@ -72,12 +85,3 @@ Use this table to find your **local times** for each block.
 | **UTC+12** | New Zealand, Fiji | 10 AM – 4 PM | 4 PM – 10 PM | 10 PM – 4 AM | 4 AM – 10 AM |
 | **UTC+13** | Tonga, Samoa | 11 AM – 5 PM | 5 PM – 11 PM | 11 PM – 5 AM | 5 AM – 11 AM |
 | **UTC+14** | Kiribati (Line Islands) | 12 PM – 6 PM | 6 PM – 12 AM | 12 AM – 6 AM | 6 AM – 12 PM |
-
----
-
-### 🧭 How to Use
-
-1. Find your timezone in the table.
-2. Each cell shows what time (in your local zone) each **UTC block** happens.
-3. Choose a **primary block** and an **alternate block** where you can be available at least **half of the time** (≈3 hours).
-4. Teams meet **1–2 times per week**, and work asynchronously outside those blocks.
