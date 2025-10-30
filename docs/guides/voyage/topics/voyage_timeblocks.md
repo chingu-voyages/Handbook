@@ -50,7 +50,7 @@ To identify the Time Block name ("Dawn", "Daylight", "Twilight", or "Dusk") that
 
 3. Next, in that row locate the time for your primary availability - the time of day you will be available to work with your Voyage teammates.
 
-4. Now find the time block name in the heading of the column containing your preferred working time.
+4. Now, if you have another block of time when you are available find the time block name in the heading of the column containing this alternate working time. Otherwise, you won't need an alternate availability (see [Pick Your Blocks](#pick-your-blocks) above).
 
 Finally, repeat this process to identify your alternate working time.
 
