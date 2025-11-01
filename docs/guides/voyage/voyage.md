@@ -32,27 +32,27 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
   timeline
     section 2025
       Voyage 58: Create & submit Solo Project - <br>Prior to deadline
-               : Solo Project Deadline - <br/>October 22
-               : Launch - <br/>November 3
-               : Weekly Checkin due - <br/>Every Monday
-               : Ends & projects due - <br/>February 22
-               : Email Completion Certificates - <br/>December 23
-               : Publish Voyage Showcase article - <br/>December 23
+               : Solo Project Deadline - <br>October 22
+               : Launch - <br>November 3
+               : Weekly Checkin due - <br>Every Monday
+               : Ends & projects due - <br>February 22
+               : Email Completion Certificates - <br>December 23
+               : Publish Voyage Showcase article - <br>December 23
     section 2026
-      Voyage 59: Create & submit Solo Project - <br/>Prior to deadline
-               : Solo Project Deadline - <br/>December 31
-               : Launch - <br/>January 12
-               : Weekly Checkin due - <br/>Every Monday
-               : Ends & projects due - <br/>October 12
-               : Email Completion Certificates - <br/>March 4
-               : Publish Voyage Showcase article - <br/>March 4
-      Voyage 60: Create & submit Solo Project - <br/>Prior to deadline
-               : Solo Project Deadline - <br/>March 11
-               : Launch - <br/>March 23 
-               : Weekly Checkin due - <br/>Every Monday
-               : Ends & projects due - <br/>May 3
-               : Email Completion Certificates - <br/>May 13
-               : Publish Voyage Showcase article - <br/>May 13
+      Voyage 59: Create & submit Solo Project - <br>Prior to deadline
+               : Solo Project Deadline - <br>December 31
+               : Launch - <br>January 12
+               : Weekly Checkin due - <br>Every Monday
+               : Ends & projects due - <br>October 12
+               : Email Completion Certificates - <br>March 4
+               : Publish Voyage Showcase article - <br>March 4
+      Voyage 60: Create & submit Solo Project - <br>Prior to deadline
+               : Solo Project Deadline - <br>March 11
+               : Launch - <br>March 23 
+               : Weekly Checkin due - <br>Every Monday
+               : Ends & projects due - <br>May 3
+               : Email Completion Certificates - <br>May 13
+               : Publish Voyage Showcase article - <br>May 13
 ```
   
 | Milestone | Voyage 58 | Voyage 59 | Voyage 60 |
