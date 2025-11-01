@@ -30,7 +30,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 
 ```mermaid
   timeline
-    section Voyage 58
+    section 2025
       Voyage 58: Create & submit Solo Project: Prior to deadline
                : Solo Project Deadline: October 22, 2025
                : Launch: November 3
@@ -38,7 +38,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
                : Ends & projects due: February 22
                : Email Completion Certificates: December 23
                : Publish Voyage Showcase article: December 23
-    section Voyage 59
+    section 2026
       Voyage 59: Create & submit Solo Project: Prior to deadline
                : Solo Project Deadline: December 31, 2025
                : Launch: January 12
@@ -46,7 +46,6 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
                : Ends & projects due: October 12
                : Email Completion Certificates: March 4
                : Publish Voyage Showcase article: March 4
-    section Voyage 60
       Voyage 60: Create & submit Solo Project: Prior to deadline
                : Solo Project Deadline: March 11, 2026
                : Launch: March 23 
