@@ -35,7 +35,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
                : Solo Project Deadline - <br>October 22
                : Launch - <br>November 3
                : Weekly Checkin due - <br>Every Monday
-               : Ends & projects due - <br>February 22
+               : Ends & projects due - <br>October 12
                : Email Completion Certificates - <br>December 23
                : Publish Voyage Showcase article - <br>December 23
     section 2026
@@ -43,7 +43,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
                : Solo Project Deadline - <br>December 31
                : Launch - <br>January 12
                : Weekly Checkin due - <br>Every Monday
-               : Ends & projects due - <br>October 12
+               : Ends & projects due - <br>February 22
                : Email Completion Certificates - <br>March 4
                : Publish Voyage Showcase article - <br>March 4
       Voyage 60: Create & submit Solo Project - <br>Prior to deadline
