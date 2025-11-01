@@ -30,7 +30,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 
 ```mermaid
   timeline
-    section <b>2025</b>
+    section <stong>2025</strong>
       Voyage 58: Create & submit Solo Project - <br>Prior to deadline
                : Solo Project Deadline - <br>October 22
                : Launch - <br>November 3
