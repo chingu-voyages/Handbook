@@ -31,7 +31,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 ```mermaid
   timeline
     section 2025
-      Voyage 58: Create & submit Solo Project: Prior to deadline
+      Voyage 58: Create & submit Solo Project - Prior to deadline
                : Solo Project Deadline - October 22, 2025
                : Launch - November 3
                : Weekly Checkin due - Every Monday
