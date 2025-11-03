@@ -27,15 +27,7 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment on your part to be an active participant and to finish what you start.
 
 ### Voyage Schedule 🗓️
-
-```mermaid
-  timeline
-    Nov 2025 : Voyage 58
-    Jan 2026 : Voyage 59
-    Jan 2025 : Voyage 60
-```
-  
-| Milestone | Voyage 58 | Voyage 59 | Voyage 60 |
+| Milestone | 2025<br>Voyage 58 | 2026<br>Voyage 59 | 2026<br>Voyage 60 |
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
 | Solo Project Deadline | October 22, 2025 | December 31, 2025 | March 11, 2026 |
