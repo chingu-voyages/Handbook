@@ -33,7 +33,7 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 | Solo Project Deadline | October 22, 2025 | December 31, 2025 | March 11, 2026 |
 | Voyage Launch | November 3 | January 12 | March 23 | 
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | October 12 | February 22 | May 3 |
+| Voyage ends & projects due | December 14 | February 22 | May 3 |
 | Completion Certificates issued | December 23 | March 4 |  May 13 |
 | Voyage Showcase article published | December 23 | March 4 | May 13 |
 
