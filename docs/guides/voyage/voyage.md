@@ -34,6 +34,8 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 | Voyage Launch | November 3 | January 12 | March 23 | 
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
 | Voyage ends & projects due | December 14 | February 22 | May 3 |
+| Demo Day presentations due | December 15 | February 23 | May 4 |
+| Demo Day | December 17 | February 25 | May 6 |
 | Completion Certificates issued | December 23 | March 4 |  May 13 |
 | Voyage Showcase article published | December 23 | March 4 | May 13 |
 
@@ -46,8 +48,8 @@ We know you have a lot of questions about our Voyages. Here are a few of those w
 [How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
 [What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
 [How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
-[What the roles in a Voyage team?](./topics/voyage_roles.md)</br>
-[What the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
+[What are the roles in a Voyage team?](./topics/voyage_roles.md)</br>
+[What are the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
 [How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
 [How are Voyage teams formed?](./topics/voyage_teams.md)</br>
 [What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>

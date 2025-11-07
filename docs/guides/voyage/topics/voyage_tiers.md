@@ -1,4 +1,4 @@
-# What the tiers in a Voyage?
+# What are the tiers in a Voyage?
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
 Three _tiers_ are used to group people into teams based on their
