@@ -27,41 +27,15 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment on your part to be an active participant and to finish what you start.
 
 ### Voyage Schedule 🗓️
-
-```mermaid
-  timeline
-    section 2025
-      Voyage 58: Create & submit Solo Project - <br>Prior to deadline
-               : Solo Project Deadline - <br>October 22
-               : Launch - <br>November 3
-               : Weekly Checkin due - <br>Every Monday
-               : Ends & projects due - <br>October 12
-               : Email Completion Certificates - <br>December 23
-               : Publish Voyage Showcase article - <br>December 23
-    section 2026
-      Voyage 59: Create & submit Solo Project - <br>Prior to deadline
-               : Solo Project Deadline - <br>December 31
-               : Launch - <br>January 12
-               : Weekly Checkin due - <br>Every Monday
-               : Ends & projects due - <br>February 22
-               : Email Completion Certificates - <br>March 4
-               : Publish Voyage Showcase article - <br>March 4
-      Voyage 60: Create & submit Solo Project - <br>Prior to deadline
-               : Solo Project Deadline - <br>March 11
-               : Launch - <br>March 23 
-               : Weekly Checkin due - <br>Every Monday
-               : Ends & projects due - <br>May 3
-               : Email Completion Certificates - <br>May 13
-               : Publish Voyage Showcase article - <br>May 13
-```
-  
-| Milestone | Voyage 58 | Voyage 59 | Voyage 60 |
+| Milestone | 2025<br>Voyage 58 | 2026<br>Voyage 59 | 2026<br>Voyage 60 |
 | :--- | :--- | :--- | :--- |
 | Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
 | Solo Project Deadline | October 22, 2025 | December 31, 2025 | March 11, 2026 |
 | Voyage Launch | November 3 | January 12 | March 23 | 
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | February 22 | October 12 |  May 3 |
+| Voyage ends & projects due | December 14 | February 22 | May 3 |
+| Demo Day presentations due | December 15 | February 23 | May 4 |
+| Demo Day | December 17 | February 25 | May 6 |
 | Completion Certificates issued | December 23 | March 4 |  May 13 |
 | Voyage Showcase article published | December 23 | March 4 | May 13 |
 
@@ -74,8 +48,8 @@ We know you have a lot of questions about our Voyages. Here are a few of those w
 [How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
 [What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
 [How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
-[What the roles in a Voyage team?](./topics/voyage_roles.md)</br>
-[What the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
+[What are the roles in a Voyage team?](./topics/voyage_roles.md)</br>
+[What are the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
 [How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
 [How are Voyage teams formed?](./topics/voyage_teams.md)</br>
 [What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>

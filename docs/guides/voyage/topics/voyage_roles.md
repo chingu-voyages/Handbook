@@ -1,4 +1,4 @@
-# What the different roles in a Voyage team? 🧑🏾‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏽
+# What are the different roles in a Voyage team? 🧑🏾‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏽
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
 The goal of all team members is to work together in a professional manner to identify, design, develop, and deploy a Minimum Viable Product (MVP) for their project. Each one contributes to in different ways, using their own skills and meeting the responsibilities of their role.

@@ -5,7 +5,7 @@
 and have a current Chingu Subscription or a Completion Certificate to 
 receive a certificate when the Voyage finishes.
 
-1. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at $2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** as needed for $3.99.
+1. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at USD$2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** as needed for USD$4.99.
 2. You can sign up for Subscriptions or Products in our [Discord Server Shop](https://discord.com/channels/330284646283608064/shop)
 3. You can also sign up for [Subscriptions](https://buy.stripe.com/7sIaHh0Ev5oY3BecMN) and [Products](https://buy.stripe.com/bIY5mXevl5oYgo0fYY) in Stripe.
   
