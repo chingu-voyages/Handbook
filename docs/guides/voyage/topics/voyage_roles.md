@@ -79,15 +79,15 @@ built on it. This means actively participating in team meetings and discussions,
     <td>UI/UX Designers help guide the team to create a project that follows UI/UX "best practices" to create apps that are both functional and pleasing to use. They create & maintain app sketches, storyboards, & prototypes, define styles and user interaction flows, and assist with Developer tasks as necessary. If you are in a Voyage team without a UI/UX Designer check out <a href="../../resources/techresources/uiux.md">this guide</a> your team can use to perform this roles duties.</td>
 </tr>
 <tr>
-    <td><strong>Voyage Guide</strong></td>
-    <td>Voyage Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to provide help and advice to Voyage teams.
+    <td><strong>Technical Guide</strong></td>
+    <td>Technical Guides are experienced Chingus who have successfully completed 1 or more Voyages and have volunteered to provide help and advice to Voyage teams. They are either Developers or UI/UX Designers who have successfully completed at least 2 prior Voyages. Product Owners and Scrum Masters are not eligible to be Technical Guides.
     <ul>
-        <li>Voyage Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li>
-        <li>Voyage Guides are available 1-2 hours per week to help answer questions and provide advice.</li>
-        <li>Team members should research questions they have BEFORE asking their Voyage Guide.</li>
+        <li>Technical Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li>
+        <li>Technical Guides are available 1-2 hours per week to help answer questions and provide advice.</li>
+        <li>Team members should research questions they have BEFORE asking their Technical Guide.</li>
         <li>If your team has a Product Owner or Scrum Master direct questions about Agile/Scrum to them</li>
     </ul>
-    If a Voyage Guide has time available they may choose to more actively mentor and coach team members on technical topics.
+    If a Technical Guide has time available they may choose to more actively mentor and coach team members on technical topics.
     </td>
 </tr>
 </table>
