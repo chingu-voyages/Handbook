@@ -128,7 +128,7 @@ You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VC
 ### If you are a UI/UX Designer
 
 UI/UX Designers must submit a case study matching the requirements of their chosen tier. This 
-should be a URL to a publicly available webside or design document detailing the research, 
+should be a URL to a publicly available website or design document detailing the research, 
 problems encountered, and solutions for your Solo Project.
 
 This should be a link to the Figma or equivalent file showing:
