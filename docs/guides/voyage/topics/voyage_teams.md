@@ -9,12 +9,12 @@ You will be assigned to a Voyage team based on the following criteria, from high
 
     For Development (Web or Python) teams:
 
-    - Tier 1: Developers, plus Voyage Guides
-    - Tier 2: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
-    - Tier 3: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Voyage Guides
+    - Tier 1: Developers, plus Technical Guides
+    - Tier 2: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Technical Guides
+    - Tier 3: Developers, plus Product Owners, Scrum Masters, UI/UX Designers, & Technical Guides
 
     Keep in mind that Product Owners, Scrum Masters, UI/UX Designers, and
-    Voyage Guides are added to teams if they are available.
+    Technical Guides are added to teams if they are available.
 
 2. Time Blocks
 
