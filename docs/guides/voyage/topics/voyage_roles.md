@@ -80,7 +80,7 @@ built on it. This means actively participating in team meetings and discussions,
 </tr>
 <tr>
     <td><strong>Technical Guide</strong></td>
-    <td>Technical Guides are experienced Developers or UI/UX Designers who have successfully completed 2 or more Voyages and have volunteered to provide help and advice to Voyage teams. Product Owners and Scrum Masters are not eligible to be Technical Guides
+    <td>Technical Guides are experienced Developers who have successfully completed 2 or more Voyages and have volunteered to provide help and advice to Voyage teams. UI/UX Designers, Product Owners and Scrum Masters are not eligible to be Technical Guides
     <ul>
         <li>Technical Guides are NOT active participants. They don’t attend meetings and don’t contribute code to the project</li>
         <li>Technical Guides are available 1-2 hours per week to help answer questions and provide advice.</li>
