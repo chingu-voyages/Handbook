@@ -135,7 +135,7 @@ config:
       block:B3CENTER
         columns 3
         space
-        SPRINTS35("&nbsp;Sprint 3-7 ")
+        SPRINTS37("&nbsp;Sprint 3-7 ")
         space
       end
       space
@@ -161,7 +161,7 @@ config:
       block:B4CENTER
         columns 3
         space
-        SPRINT8("&nbsp;Sprint 6&nbsp;")
+        SPRINT8("&nbsp;Sprint 8&nbsp;")
         space
       end
       space
