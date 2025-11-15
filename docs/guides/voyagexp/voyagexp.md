@@ -21,7 +21,7 @@ TBD
 
 ### VoyageXP Schedule 🗓️
 | Milestone | 2026<br>VoyageXP 58 | 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- |
 | Create & submit Solo Project | Prior to deadline |
 | Solo Project Deadline | October 22, 2025 |
 | VoyageXP Launch | November 3 | 
