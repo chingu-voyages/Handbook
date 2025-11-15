@@ -135,7 +135,7 @@ config:
       block:B3CENTER
         columns 3
         space
-        SPRINTS35("&nbsp;Sprint 3-5 ")
+        SPRINTS35("&nbsp;Sprint 3-7 ")
         space
       end
       space
@@ -145,7 +145,7 @@ config:
         space
         space
       end
-      A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
+      A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-7---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS37
     end
 
     block:B4:1
@@ -161,7 +161,7 @@ config:
       block:B4CENTER
         columns 3
         space
-        SPRINT6("&nbsp;Sprint 6&nbsp;")
+        SPRINT8("&nbsp;Sprint 6&nbsp;")
         space
       end
       space
@@ -172,12 +172,12 @@ config:
         space
         space
       end
-      A10 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
+      A10 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-7---reaching-your-mvp-">Project Closure</a>" --> SPRINT8
     end
 
     SPRINT1 --> SPRINT2
-    SPRINT2 --> SPRINTS35
-    SPRINTS35 --> SPRINT6
+    SPRINT2 --> SPRINTS37
+    SPRINTS37 --> SPRINT8
 
     style B1TOP stroke:#292d30,fill:#292d30
     style B1CENTER stroke:#292d30,fill:#292d30
@@ -204,8 +204,8 @@ config:
     style A10 color:#f0f6fc,fill:#1d8348
     style SPRINT1 color:#f0f6fc,fill:#b9770e
     style SPRINT2 color:#f0f6fc,fill:#b9770e
-    style SPRINTS35 color:#f0f6fc,fill:#b9770e
-    style SPRINT6 color:#f0f6fc,fill:#b9770e
+    style SPRINTS37 color:#f0f6fc,fill:#b9770e
+    style SPRINT8 color:#f0f6fc,fill:#b9770e
 ```
 
 A team channel is provided in Discord to every team at the start of the Voyage. You should use this to communicate and collaborate with your teammates. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. 
@@ -458,7 +458,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)</br>
   [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)</br>
     
-### 9. Sprint 3-5 - Reaching your MVP 🪜
+### 9. Sprint 3-7 - Reaching your MVP 🪜
 
   ![VoyageXP Sprint Steps](./assets/Voyage_Sprint_Steps.png)
   
@@ -509,11 +509,11 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [Meeting templates - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)</br>
   - [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
-### 10. Sprint 6 - Project Closure 🏁
+### 10. Sprint 8 - Project Closure 🏁
   
   **Objective**
   
-  The team’s goal in Sprint 6 is to wrap up the project & celebrate your success.
+  The team’s goal in Sprint 8 is to wrap up the project & celebrate your success.
   
   **How**
 
@@ -533,7 +533,7 @@ flowchart TB
   
 Only one VoyageXP Project form is required per team and any teammate may submit it. This is separate from Final Project Presentation, which is only applicable to Scrum Masters and Product Owners. More information is shared in the [Agile Leaders channel on Discord](https://discord.com/channels/330284646283608064/682217749967142991).
 
-Chingu's Agile Leadership team will post information about our Demo Day event, including its schedule and location, in Discord during Sprint 6.
+Chingu's Agile Leadership team will post information about our Demo Day event, including its schedule and location, in Discord during Sprint 8.
 
 Two other optional activities you should consider to share your success with others, including potential employers, are: 
   1. Create a Showcase video on YouTube!
