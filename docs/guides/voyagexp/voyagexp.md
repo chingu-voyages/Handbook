@@ -13,7 +13,30 @@
 
 ## What is VoyageXP❓
 
-TBD
+Voyage XP is a paid tier — just $20 for the entire 8-week program.
+Why? Because research shows that when people pay even a small amount, they
+stay more committed, motivated, and accountable. We’ve priced this intentionally
+low to keep it accessible, but just enough to help you — and your teammates —
+show up fully.
+
+This isn’t a sprint. It’s an 8-week cohort (instead of 6) — giving you more time to:
+* Build strong relationships with your team
+* Gain real momentum
+* Deliver a more advanced, portfolio-worthy project
+
+Forget the chaos of scheduling around different time zones. In Voyage XP, we’ve
+pre-set dedicated collaboration hours so teams can actually work together.
+
+> All participants must be available 8:00 AM – 11:00 AM Pacific Time (which is 5:00 PM – 8:00 PM
+London Time) with a total commitment of ~15 hours/week.
+
+These hours will include:
+* Team meetings & pair programming
+* Work sessions
+* Weekly live courses, Lean Coffee discussions & speaker events
+
+You don’t need to be in any specific location — you just need to commit to being
+available during these hours.
 
 ## Before you Start
 
@@ -30,25 +53,6 @@ TBD
 | Demo Day | December 17 |
 | Completion Certificates issued | December 23 |
 | VoyageXP Showcase article published | December 23 |
-
-### How to Prepare for VoyageXP 📝
-
-We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
-
-[What Level of Commitment is Required for a VoyageXP session](./topics/voyagexp_commitment.md)</br>
-[What are the criteria for successfully completing a Voyage?](./topics/voyagexp_success_criteria.md)</br>
-[How do I check my VoyageXP Status?](./topics/check_voyagexp_status.md)</br>
-[What Does a VoyageXP Cost?](./topics/voyagexp_cost.md)</br>
-[How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
-[What are the roles in a VoyageXP team?](./topics/voyage_roles.md)</br>
-[What are the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
-[How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
-[How are VoyageXP teams formed?](./topics/voyage_teams.md)</br>
-[What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
-[What if I need more skills?](./topics/voyage_skills.md)</br>
-[What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
-[How should my Team select a project?](./topics/voyage_project.md)</br>
-[How should PO's and Scrum Masters monitor the project?](./topics/voyage_project_monitoring.md)</br>
 
 ## The VoyageXP Process
 
