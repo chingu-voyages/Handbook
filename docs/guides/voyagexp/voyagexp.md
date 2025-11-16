@@ -117,6 +117,18 @@ access to it. But, **you must***:
 
 If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to create it for you.
 
+### VoyageXP Team Formation
+
+Every VoyageXP team includes:
+
+* 1 x Scrum Product Owner
+* 1 x Scrum Master
+* 1 x UI/UX Designer
+* up to 4 Developers
+
+This is an advantage over Voyage teams where teams are only guaranteed to have Web Developers. 
+All other roles are present only when available.
+
 ### Scrum Agile Framework
 
 During a VoyageXP session you and your team will be using and adhering to Scrum just as you do
