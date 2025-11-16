@@ -63,6 +63,17 @@ a real tech company
 
 ## Requirements to participate in VoyageXP
 
+```mermaid
+flowchart TB
+   A{Did you complete a Tier 3 Voyage?};
+   A -- Yes --> B(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>VoyageXP Signup form</a>);
+   A -- No --> C(First complete a Tier 3 Voyage);
+
+   
+   B --> Z([End]);
+   C --> Z([End]);
+```
+
 This is an advanced track, and we want you to be set up for success. Here’s what
 you need to apply:
 
