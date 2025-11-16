@@ -38,9 +38,40 @@ These hours will include:
 You don’t need to be in any specific location — you just need to commit to being
 available during these hours.
 
-## Before you Start
+## Benefits of VoyageXP
 
-TBD
+✅ A cross-functional team: 3–4 Developers, 1 UX/UI Designer, 1 Scrum
+Master, 1 Product Owner
+
+✅ Two 40-minute 1:1 coaching sessions with an Agile Guide
+
+✅ Live industry speaker sessions and career talks
+
+✅ Access to Lean Coffee networking & strategy meetups
+
+✅ Resume review + interview practice
+
+✅ Feedback, mentorship, and support from your Agile Guide throughout the
+voyage
+
+✅ A structured, committed team experience designed to simulate working in
+a real tech company
+
+✅ You’ll receive a certification of completion
+
+✅ Referral/Recommendation letter and LinkedIn endorsements upon request
+
+## Requirements to participate in VoyageXP
+
+This is an advanced track, and we want you to be set up for success. Here’s what
+you need to apply:
+
+✅ You’ve successfully completed at least one Tier 3 Chingu Voyage
+
+✅ You can commit 15 hours/week for 8 weeks
+
+✅ You’ll attend a quick 15-minute interview so we can make sure it’s the right
+fit for your goals
 
 ### VoyageXP Schedule 🗓️
 | Milestone | 2026<br>VoyageXP 58 | 
