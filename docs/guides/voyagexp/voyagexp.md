@@ -80,9 +80,10 @@ flowchart TB
   A -- No --> C(First complete a Tier 3 Voyage);
   B --> D(Admin-led Assessment Interview);
   D --> E(Submit non-refundable payment);
-  E --> F(You are ready!);
+  E --> F(Complete Commitment form (emailed to you));
+  F --> G(You are ready!);
    
-  F --> Z([End]);
+  G --> Z([End]);
   C --> Z([End]);
 ```
 
