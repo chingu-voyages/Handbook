@@ -63,19 +63,6 @@ a real tech company
 
 ## Requirements to participate in VoyageXP
 
-```mermaid
-flowchart TB
-  A{Did you complete a Tier 3 Voyage?};
-  A -- Yes --> B(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>VoyageXP Signup form</a>);
-  A -- No --> C(First complete a Tier 3 Voyage);
-  B --> D(Admin-led Assessment Interview);
-  D --> E(Submit payment);
-  E --> F(You are ready!);
-   
-  F --> Z([End]);
-  C --> Z([End]);
-```
-
 This is an advanced track, and we want you to be set up for success. Here’s what
 you need to apply:
 
@@ -85,6 +72,19 @@ you need to apply:
 
 ✅ You’ll attend a quick 15-minute interview so we can make sure it’s the right
 fit for your goals
+
+```mermaid
+flowchart TB
+  A{Did you complete a Tier 3 Voyage?};
+  A -- Yes --> B(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>VoyageXP Signup form</a>);
+  A -- No --> C(First complete a Tier 3 Voyage);
+  B --> D(Admin-led Assessment Interview);
+  D --> E(Submit non-refundable payment);
+  E --> F(You are ready!);
+   
+  F --> Z([End]);
+  C --> Z([End]);
+```
 
 ### VoyageXP Schedule 🗓️
 | Milestone | 2026<br>VoyageXP 58 | 
