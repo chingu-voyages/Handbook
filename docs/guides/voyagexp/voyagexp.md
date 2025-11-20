@@ -2,7 +2,7 @@
 
 ![Team creating product backlog](./assets/Team_creating_agile_backlog_board.jpeg)
 
-## All About Your Voyage
+## All About VoyageXP
 
  1. [What is VoyageXP](#what-are-voyages)
  2. [Before you Start](#before-you-start)
