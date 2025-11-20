@@ -50,12 +50,12 @@ Our programs and services are geared to help Web Developers, UI/UX Designers, an
 ```mermaid
 flowchart TB
    A(Have you completed a Voyage?) -- No --> B(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3' target='_blank'>Choose your tier</a>);
-   A -- Yes --> C(Signup for <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>VoyageXP</a>);
+   A -- Yes --> C(Learn more about <a href='https://github.com/chingu-voyages/Handbook/blob/feature/add-voyagexp/docs/guides/voyagexp/voyagexp.md' target='_blank'>VoyageXP</a>);
    C --> Z([End]);
    B --> D(Submit an original</br><a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md' target='_blank'>Solo Project</a> for evaluation);
    D --> E(Evaluator DMs</br>feedback in Discord);
    E --> F{Accepted?};
-   F -- Yes --> G(Signup for <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage</a>);
+   F -- Yes --> G(Learn more about <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md' target='_blank'>Voyages</a>);
    G --> Z([End]);
    F -- No --> H(Make requested changes);
    H --> I(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a></br>to notify Evaluator);
