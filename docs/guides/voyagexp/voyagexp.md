@@ -166,7 +166,9 @@ the opportunity to ask questions and get their advice.
 
 ### Access to Lean Coffee networking & strategy meetups
 
-TBD
+In VoyageXP you will also have the opportunity to meet other professionals in networking
+and strategy meetups. In these sessions you discuss hot topics in the industry, share
+experiences and struggles, and building supportive relationships.
 
 ### Resume review + interview practice
 
