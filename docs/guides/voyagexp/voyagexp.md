@@ -150,7 +150,12 @@ what you have learned to help your team.
 
 #### Live industry speaker sessions and career talks
 
-TBD
+Chingus already have access to our Roundtables and Lean Coffee sessions. But, those
+in VoyageXP sessions will have access to live presentations and career talks with 
+industry leaders from outside Chingu. 
+
+In these you will get insights from thought leaders in our industry and you will have
+the opportunity to ask questions and get their advice.
 
 #### Access to Lean Coffee networking & strategy meetups
 
