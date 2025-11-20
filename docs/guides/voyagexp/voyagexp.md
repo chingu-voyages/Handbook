@@ -135,9 +135,7 @@ During a VoyageXP session you and your team will be using and adhering to Scrum 
 in a Voyage. The difference is VoyageXP sessions are 8 sprints long instead of the 6 sprints in
 a Voyage. You can review the [Voyage Process documentation](../voyage/voyage.md#the-voyage-process) if you need a refresher.
 
-### VoyageXP Extras
-
-#### Two 40-minute 1:1 coaching sessions with an Agile Guide
+### Two 40-minute 1:1 coaching sessions with an Agile Guide
 
 Twice in a VoyageXP session one of our Agile Guide's will schedule a 40-minute 
 meeting to listen to your questions and concerns, and provide advice and help
@@ -148,7 +146,7 @@ Agile Guides are certified Scrum Product Owners or Scrum Masters who have succes
 complete multiple Voyages. They will help you learn more about Agile/Scrum and use
 what you have learned to help your team.
 
-#### Feedback, mentorship, and support from an Agile Guide
+### Feedback, mentorship, and support from an Agile Guide
 
 In addition to the coaching sessions with an Agile Guide you'll have access to them 
 in Discord to get their timely feedback on problems and successes, answers to questions
@@ -157,7 +155,7 @@ you might have, and general support.
 Remember that in Chingu we stress working outside your comfort zone, but that doesn't
 mean you are alone or without support and assistance.
 
-#### Live industry speaker sessions and career talks
+### Live industry speaker sessions and career talks
 
 Chingus already have access to our Roundtables and Lean Coffee sessions. But, those
 in VoyageXP sessions will have access to live presentations and career talks with 
@@ -166,11 +164,11 @@ industry leaders from outside Chingu.
 In these you will get insights from thought leaders in our industry and you will have
 the opportunity to ask questions and get their advice.
 
-#### Access to Lean Coffee networking & strategy meetups
+### Access to Lean Coffee networking & strategy meetups
 
 TBD
 
-#### Resume review + interview practice
+### Resume review + interview practice
 
 TBD
 
