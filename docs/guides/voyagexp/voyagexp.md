@@ -170,7 +170,11 @@ TBD
 
 ### Resume review + interview practice
 
-TBD
+Something that makes building experience in a VoyageXP session even more valuable are
+the resume review and interview practice sessions that help you prepare for interviews.
+
+These sessions are facilitated by leaders in the Chingu team, as well as industry 
+experts and thought leaders. 
 
 
 ## VoyageXP Tips
