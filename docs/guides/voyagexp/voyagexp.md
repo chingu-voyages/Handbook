@@ -148,6 +148,15 @@ Agile Guides are certified Scrum Product Owners or Scrum Masters who have succes
 complete multiple Voyages. They will help you learn more about Agile/Scrum and use
 what you have learned to help your team.
 
+#### Feedback, mentorship, and support from an Agile Guide
+
+In addition to the coaching sessions with an Agile Guide you'll have access to them 
+in Discord to get their timely feedback on problems and successes, answers to questions
+you might have, and general support.
+
+Remember that in Chingu we stress working outside your comfort zone, but that doesn't
+mean you are alone or without support and assistance.
+
 #### Live industry speaker sessions and career talks
 
 Chingus already have access to our Roundtables and Lean Coffee sessions. But, those
@@ -165,9 +174,6 @@ TBD
 
 TBD
 
-#### Feedback, mentorship, and support from an Agile Guide
-
-TBD
 
 ## VoyageXP Tips
 
