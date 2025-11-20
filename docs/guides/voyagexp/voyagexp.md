@@ -139,7 +139,14 @@ a Voyage. You can review the [Voyage Process documentation](../voyage/voyage.md#
 
 #### Two 40-minute 1:1 coaching sessions with an Agile Guide
 
-TBD
+Twice in a VoyageXP session one of our Agile Guide's will schedule a 40-minute 
+meeting to listen to your questions and concerns, and provide advice and help
+you can use to improve your understanding of Agile, Scrum, and to get more from
+VoyageXP.
+
+Agile Guides are certified Scrum Product Owners or Scrum Masters who have successfully
+complete multiple Voyages. They will help you learn more about Agile/Scrum and use
+what you have learned to help your team.
 
 #### Live industry speaker sessions and career talks
 
