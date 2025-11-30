@@ -154,14 +154,12 @@ must be completed before your first Voyage.
 There is no need to wait until the submission deadline if you finish earlier.
 >
 
-After submitting the Solo Project Completion Form we will evaluate it and
-provide feedback in a Discord direct message (DM) within
-***4 business*** days. This could take longer based on the number of
-Chingus submitting projects at the same time.
+After submitting the Solo Project Completion Form your project will be evaluated
+within ***4 business*** days. We'll DM feedback to you in Discord.
 
-Since we DM feedback to you in Discord it's important that you enable DM's so
-you will be able to see it. Make sure that in your Discord `Settings -> Content &
-Social -> Social Permissions` you've enabled DM's from other server members.
+Enable Discord DM's to get your evaluation feedback. Set this in Discord 
+`Settings -> Content & Social -> Social Permissions` to allow DM's from other server 
+members.
 
 ![Discord DM Setting](./assets/Discord_DM_Settings.png)
 
