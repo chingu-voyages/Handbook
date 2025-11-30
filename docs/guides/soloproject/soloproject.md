@@ -49,13 +49,14 @@ Next, submit a project that matches the requirements of your role and tier.
 
 It **must** meet these criteria:
 
-- It must match the requirements of the
-[tier you have chosen](#1-choose-your-tier-1%EF%B8%8F⃣-2%EF%B8%8F⃣-3%EF%B8%8F⃣)
-- It should be original work (not copied from someone else, including tutorials
-or AI-generated code)
-- If created as part of a team you should be a major contributor to the project
-- It must have been created within the last 12 months, or be one you've
-significantly enhanced within the last year.
+🟢 It must match the requirements of the
+[tier you have chosen](#1-choose-your-tier-1%EF%B8%8F⃣-2%EF%B8%8F⃣-3%EF%B8%8F⃣)<br/>
+🟢 It should be original work <br/>
+🟢 It must be one created in the past year or be one you've
+significantly enhanced within the past year.<br/>
+🔴 Don't copy from someone else, including tutorials<br/>
+🔴 Don't use AI-generated code<br/>
+🔴 Don't use team projects unless you are a major contributor
 
 Remember it must be your original work! You should not copy and submit a
 project you did not personally author. For more information refer to our
@@ -170,23 +171,18 @@ feedback. The feedback we DM to you will contain information on what to do next.
 
 ## Solo Project Tips ✏️
 
-1. Completing a project that meets the requirements of your tier and role is
-more important than submitting a complex project.
-2. Choose tools you are comfortable and productive with. In the limited time
-available to complete the Solo Project it's not a good idea to try to use
-something you don't already know.
-3. The languages, tools, libraries, and frameworks you use are up to you. For
-example, all of the following approaches are acceptable paths to a successful
-project:
-    - Using any language for web development, not just Javascript
-    - Using a framework of your choice like React or Vue
-    - Using a boilerplate or generator like Vite
-    - Using a CSS library or creating your own CSS
-4. Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).
-5. Your app should run error-free. There should be no errors in
-the browser or server console logs.
-6. When you submit your project **you must provide URL's as defined above**
-7. You may **NOT** use a source code generator or AI tool (like GitHub Co-Pilot)
+🟢 Completing a project that meets the requirements of your tier and role is
+more important than submitting a complex project.<br/>
+🟢 The languages, tools, libraries, and frameworks you use are up to you. 
+    - Using any language for web development, not just Javascript<br/>
+    - Using a framework of your choice like React or Vue<br/>
+    - Using a boilerplate or generator like Vite<br/>
+    - Using a CSS library or creating your own CSS<br/>
+🟢 Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).<br/>
+🟢 When you submit your project **you must provide URL's as defined above**<br/>
+🟢  Chingu is all about collaborative learning and supporting each other as
+we level up! Use our Discord channels to get help and advice from other Chingu's.<br/>
+🔴 Don't use tools and libraries you aren't already familiar with.<br/>
+🔴 Your app shouldn't have errors in the browser or server console logs.<br/>
+🔴 **DO NOT** use a source code generator or AI tool (like GitHub Co-Pilot)
 for any part of your Solo Project.
-8. Chingu is all about collaborative learning and supporting each other as
-we level up! Use our Discord channels to get help and advice from other Chingu's.
