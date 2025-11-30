@@ -32,7 +32,7 @@ graph TB
 ```
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
-
+---
 You'll first need to choose a **tier** that matches your current skill level
 for your preferred role. There are three tiers - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
@@ -44,7 +44,7 @@ intermediate (Tier 2), or experienced (Tier 3).
 [Scrum Master tiers](./topics/tier_scrummaster.md)</br>
 
 ### 2. Submit a project 👍
-
+---
 Next, submit a project that matches the requirements of your role and tier.
 
 It **must** meet these criteria:
@@ -63,7 +63,7 @@ project you did not personally author. For more information refer to our
 [Community Standards](../../gettingstarted/communitystds.md).
 
 #### What you will need to submit
-
+---
 ```mermaid
 graph TB
     A{I am a Developer?};
@@ -83,7 +83,7 @@ graph TB
 ```
 
 ### If you are a Developer
-
+---
 You will need to provide the URLs for:
 
 1. a **public GitHub repo** containing the source code.
@@ -95,7 +95,7 @@ You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1
 to submit your project.
 
 ### If you are a Product Owner
-
+---
 Product Owner projects include:
 
 1. a short quiz in the submission form. The minimum passing score for the quiz
@@ -116,7 +116,7 @@ If you don't already have a project you can create a backlog using
 [this project specification](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po).
 
 ### If you are a Scrum Master
-
+---
 If you are a Scrum Master the Solo Project submission form includes
 a short quiz. This is a combination of multiple-choice and long-form
 questions.
@@ -127,7 +127,7 @@ able to update your answers for the questions you missed.
 You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
 
 ### If you are a UI/UX Designer
-
+---
 UI/UX Designers must submit a case study matching the requirements of their chosen tier. This 
 should be a URL to a publicly available website or design document detailing the research, 
 problems encountered, and solutions for your Solo Project.
@@ -145,7 +145,7 @@ You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1
 to submit your project.
 
 ### 3. Submit a Solo Project Completion Form ✅
-
+---
 You will need to submit your project using the
 **[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)**. This
 must be completed before your first Voyage.
