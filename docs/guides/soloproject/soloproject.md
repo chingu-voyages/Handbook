@@ -171,7 +171,7 @@ feedback. The feedback we DM to you will contain information on what to do next.
 
 ## Solo Project Checklist ✅
 
-🟢 Completing a project that meets the requirements of your tier and role is
+🟢 Complete a project that meets the requirements of your tier and role is
 more important than submitting a complex project.<br/>
 🟢 The languages, tools, libraries, and frameworks you use are up to you. 
     - Using any language for web development, not just Javascript<br/>
@@ -179,8 +179,8 @@ more important than submitting a complex project.<br/>
     - Using a boilerplate or generator like Vite<br/>
     - Using a CSS library or creating your own CSS<br/>
 🟢 Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).<br/>
-🟢 When you submit your project **you must provide URL's as defined above**<br/>
-🟢  Chingu is all about collaborative learning and supporting each other as
+🟢 Submit your project that includes **the URL's** to your work based on your tier<br/>
+🟢 Chingu is all about collaborative learning and supporting each other as
 we level up! Use our Discord channels to get help and advice from other Chingu's.<br/>
 🔴 Don't use tools and libraries you aren't already familiar with.<br/>
 🔴 Your app shouldn't have errors in the browser or server console logs.<br/>
