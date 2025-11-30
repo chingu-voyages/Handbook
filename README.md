@@ -82,10 +82,10 @@ Our programs and services are geared to help Web Developers, UI/UX Designers, an
 
 ## Tips 💁🏽
 
-1. Did you know you can open a table of contents on any page of the Handbook?
+1. You can open a table of contents on any page of the Handbook.
    ![open a table of contents](./assets/How_to_open_TOC.gif)
 
-2. Are you more comfortable using a language other than English? You can use the
+2. Are you more comfortable using a language other than English? Use the
    free Google Translate extension in Chrome-based browsers. You can learn more
    in the
    [Chrome Web Store](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
