@@ -161,11 +161,11 @@ DM feedback to you in Discord.
 
 🟢 Complete a project that meets the requirements of your tier and role is
 more important than submitting a complex project.<br/>
-🟢 The languages, tools, libraries, and frameworks you use are up to you. 
-    - Using any language for web development, not just Javascript<br/>
-    - Using a framework of your choice like React or Vue<br/>
-    - Using a boilerplate or generator like Vite<br/>
-    - Using a CSS library or creating your own CSS<br/>
+🟢 The languages, tools, libraries, and frameworks you use are up to you. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using any language for web development, not just Javascript<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using a framework of your choice like React or Vue<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using a boilerplate or generator like Vite<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using a CSS library or creating your own CSS<br/>
 🟢 Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).<br/>
 🟢 Submit your project that includes **the URL's** to your work based on your tier<br/>
 🟢 Enable Discord DM's to get your evaluation feedback. Set this in Discord 
