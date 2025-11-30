@@ -65,7 +65,6 @@ Our programs and services are geared to help Web Developers, UI/UX Designers, an
 - [Voyage](./docs/guides/voyage/voyage.md)
 - [Pair Challenge Guide](./docs/guides/pairprog/pairprog.md)
 - [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
-- [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md)
 
 ### Helpful Information 📒
 
