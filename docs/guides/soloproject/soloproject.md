@@ -154,18 +154,8 @@ must be completed before your first Voyage.
 There is no need to wait until the submission deadline if you finish earlier.
 >
 
-After submitting the Solo Project Completion Form your project will be evaluated
-within ***4 business*** days. We'll DM feedback to you in Discord.
-
-Enable Discord DM's to get your evaluation feedback. Set this in Discord 
-`Settings -> Content & Social -> Social Permissions` to allow DM's from other server 
-members.
-
-![Discord DM Setting](./assets/Discord_DM_Settings.png)
-
-
-There is no need to resubmit the completion form once you've received
-feedback. The feedback we DM to you will contain information on what to do next.
+Once submitted your project will be evaluated within ***4 business*** days. We'll 
+DM feedback to you in Discord.
 
 ## Solo Project Checklist ✅
 
@@ -178,9 +168,16 @@ more important than submitting a complex project.<br/>
     - Using a CSS library or creating your own CSS<br/>
 🟢 Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).<br/>
 🟢 Submit your project that includes **the URL's** to your work based on your tier<br/>
-🟢 Chingu is all about collaborative learning and supporting each other as
-we level up! Use our Discord channels to get help and advice from other Chingu's.<br/>
+🟢 Enable Discord DM's to get your evaluation feedback. Set this in Discord 
+`Settings -> Content & Social -> Social Permissions` to allow DM's from other server 
+members.<br/>
+
+![Discord DM Setting](./assets/Discord_DM_Settings.png) <br/>
+
+🟢 Get help and advice from other Chingu's in our Discord channels.<br/>
 🔴 Don't use tools and libraries you aren't already familiar with.<br/>
 🔴 Your app shouldn't have errors in the browser or server console logs.<br/>
 🔴 **DO NOT** use a source code generator or AI tool (like GitHub Co-Pilot)
 for any part of your Solo Project.
+🔴 Don't resubmit the Solo Project Completion form once you've received
+feedback. The feedback we DM to you will contain information on what to do next.
