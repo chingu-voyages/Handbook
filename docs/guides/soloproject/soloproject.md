@@ -169,7 +169,7 @@ Social -> Social Permissions` you've enabled DM's from other server members.
 There is no need to resubmit the completion form once you've received
 feedback. The feedback we DM to you will contain information on what to do next.
 
-## Solo Project Tips ✏️
+## Solo Project Checklist ✅
 
 🟢 Completing a project that meets the requirements of your tier and role is
 more important than submitting a complex project.<br/>
