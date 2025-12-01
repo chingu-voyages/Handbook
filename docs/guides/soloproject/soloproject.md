@@ -57,7 +57,7 @@ It **must** meet these criteria:
 significantly enhanced within the past year.<br/>
 🔴 Don't copy from someone else, including tutorials<br/>
 🔴 Don't use AI-generated code<br/>
-🔴 Don't use team projects unless you are a major contributor
+🔴 Don't use team projects unless you are a major contributor<br/>
 
 #### What you will need to submit
 ---
@@ -164,10 +164,10 @@ members.<br/>
 ![Discord DM Setting](./assets/Discord_DM_Settings.png) <br/>
 
 🟢 Get help and advice from other Chingu's in our Discord channels.<br/>
-🟢 Submit your Solo Project as soon as it's finished. Don't wait until the submission deadline if you finish sooner.
+🟢 Submit your Solo Project as soon as it's finished. Don't wait until the submission deadline if you finish sooner.<br/>
 🔴 Don't use tools and libraries you aren't already familiar with.<br/>
 🔴 Your app shouldn't have errors in the browser or server console logs.<br/>
 🔴 **DO NOT** use a source code generator or AI tool (like GitHub Co-Pilot)
-for any part of your Solo Project.
+for any part of your Solo Project.<br/>
 🔴 Don't resubmit the Solo Project Completion form once you've received
-feedback. The feedback we DM to you will contain information on what to do next.
+feedback. The feedback we DM to you will contain information on what to do next.<br/>
