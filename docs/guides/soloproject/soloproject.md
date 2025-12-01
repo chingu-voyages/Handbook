@@ -33,15 +33,15 @@ graph TB
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
 ---
-You'll first need to choose a **tier** that matches your current skill level
+Choose a **tier** that matches your current skill level
 for your preferred role. There are three tiers - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
 
-[Developer (Web) tiers](./topics/tier_developer.md)</br>
-[Developer (Python) tiers](./topics/tier_developer_python.md)</br>
-[UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
-[Product Owner tiers](./topics/tier_productowner.md)</br>
-[Scrum Master tiers](./topics/tier_scrummaster.md)</br>
+➡️ [Developer (Web) tiers](./topics/tier_developer.md)</br>
+➡️ [Developer (Python) tiers](./topics/tier_developer_python.md)</br>
+➡️ [UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
+➡️ [Product Owner tiers](./topics/tier_productowner.md)</br>
+➡️ [Scrum Master tiers](./topics/tier_scrummaster.md)</br>
 
 ### 2. Submit a project 👍
 ---
@@ -51,16 +51,13 @@ It **must** meet these criteria:
 
 🟢 It must match the requirements of the
 [tier you have chosen](#1-choose-your-tier-1%EF%B8%8F⃣-2%EF%B8%8F⃣-3%EF%B8%8F⃣)<br/>
-🟢 It should be original work <br/>
+🟢 It should be original work. For more information refer to our
+[Community Standards](../../gettingstarted/communitystds.md). <br/>
 🟢 It must be one created in the past year or be one you've
 significantly enhanced within the past year.<br/>
 🔴 Don't copy from someone else, including tutorials<br/>
 🔴 Don't use AI-generated code<br/>
 🔴 Don't use team projects unless you are a major contributor
-
-Remember it must be your original work! You should not copy and submit a
-project you did not personally author. For more information refer to our
-[Community Standards](../../gettingstarted/communitystds.md).
 
 #### What you will need to submit
 ---
@@ -96,10 +93,8 @@ to submit your project.
 
 ### If you are a Product Owner
 ---
-Product Owner projects include:
-
-1. a short quiz in the submission form. The minimum passing score for the quiz
-is 80%. If you don't pass you will be able to update your answers
+1. Complete the short quiz in the Solo Project submission form. The minimum 
+passing score for the quiz is 80%. If you don't pass you will be able to update your answers
 for the questions you missed.
 2. the URL of a **public website** containing a sample product backlog you have
 created. This may be in the service of your choice. For example, GitHub
@@ -117,9 +112,7 @@ If you don't already have a project you can create a backlog using
 
 ### If you are a Scrum Master
 ---
-If you are a Scrum Master the Solo Project submission form includes
-a short quiz. This is a combination of multiple-choice and long-form
-questions.
+If you are a Scrum Master complete the quiz in the Solo Project submission form.
 
 The minimum passing score for the quiz is 80%. If you don't pass you will be
 able to update your answers for the questions you missed.
@@ -128,7 +121,7 @@ You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VC
 
 ### If you are a UI/UX Designer
 ---
-UI/UX Designers must submit a case study matching the requirements of their chosen tier. This 
+UI/UX Designers must submit a case study matching the requirements of their tier. This 
 should be a URL to a publicly available website or design document detailing the research, 
 problems encountered, and solutions for your Solo Project.
 
@@ -138,10 +131,10 @@ This should be a link to the Figma or equivalent file showing:
 * It may include a more formal study including things like personas and stakeholder goals
 * Any notes you think members of a development team would find helpful during implementation
 
-You should also keep in mind the importance of 
+Also keep in mind the importance of 
 [CRAP design fundamentals](https://attentioninsight.com/crap-design-principles/) - Contrast, Repetition, Alignment, and Proximity.
 
-You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
+Use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
 to submit your project.
 
 ### 3. Submit a Solo Project Completion Form ✅
@@ -149,10 +142,6 @@ to submit your project.
 You will need to submit your project using the
 **[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)**. This
 must be completed before your first Voyage.
-
-> You are encouraged to submit this form as soon as your Solo Project is done.
-There is no need to wait until the submission deadline if you finish earlier.
->
 
 Once submitted your project will be evaluated within ***4 business*** days. We'll 
 DM feedback to you in Discord.
@@ -175,6 +164,7 @@ members.<br/>
 ![Discord DM Setting](./assets/Discord_DM_Settings.png) <br/>
 
 🟢 Get help and advice from other Chingu's in our Discord channels.<br/>
+🟢 Submit your Solo Project as soon as it's finished. Don't wait until the submission deadline if you finish sooner.
 🔴 Don't use tools and libraries you aren't already familiar with.<br/>
 🔴 Your app shouldn't have errors in the browser or server console logs.<br/>
 🔴 **DO NOT** use a source code generator or AI tool (like GitHub Co-Pilot)
