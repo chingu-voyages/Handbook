@@ -8,6 +8,24 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
+## How to get started 📒
+
+---
+```mermaid
+flowchart TB
+   A(["Signup & submit Application Form"]) --> B(Join the Chingu</br>Discord Server);
+   B --> C(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3' target='_blank'>Choose your tier</a>);
+   C --> D(Submit an original</br><a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md' target='_blank'>Solo Project</a> for evaluation);
+   D --> E(Evaluator DMs</br>feedback in Discord);
+   E --> F{Accepted?};
+   F -- Yes --> G(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
+   F -- No --> H(Make requested changes);
+   H --> I(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a></br>to notify Evaluator);
+   I --> E;
+   G --> Z([End]);
+```
+---
+
 ## What is Chingu❓
 
 We're excited that you've chosen to join us and we know you have lots of
@@ -25,9 +43,9 @@ supportive.
 
 ### Who is Chingu for? 🤔
 
-Chingu is intended to help a variety of different Web Development professionals
-further their careers by building near real-world experience. The kind of
-experience to help you stand above other job applicants to get noticed.
+Chingu helps you get a job by giving you real experience. You will join a team, build a 
+project, and add it to your portfolio. The kind of experience to help you stand above 
+other job applicants to get noticed.
 
 Our programs and services are geared to help Web Developers, UI/UX Designers, and Agile Product Owners & Scrum Masters.
 
@@ -35,31 +53,11 @@ Our programs and services are geared to help Web Developers, UI/UX Designers, an
 
 ### Getting Started 🏎️
 
----
-
 - [Community Standards](./docs/gettingstarted/communitystds.md)
 - [Programs & Services](./docs/gettingstarted/programs.md)
 - [Getting Help](./docs/gettingstarted/gettinghelp.md)
 - [What to Do First](./docs/gettingstarted/whattodofirst.md)
 - [Our Partners](./docs/gettingstarted/partners.md)
-
-### Onboarding 📒
-
----
-
-```mermaid
-flowchart TB
-   A(["Signup & submit Application Form"]) --> B(Join the Chingu</br>Discord Server);
-   B --> C(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3' target='_blank'>Choose your tier</a>);
-   C --> D(Submit an original</br><a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md' target='_blank'>Solo Project</a> for evaluation);
-   D --> E(Evaluator DMs</br>feedback in Discord);
-   E --> F{Accepted?};
-   F -- Yes --> G(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
-   F -- No --> H(Make requested changes);
-   H --> I(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a></br>to notify Evaluator);
-   I --> E;
-   G --> Z([End]);
-```
 
 ### Program Guides
 
@@ -67,7 +65,6 @@ flowchart TB
 - [Voyage](./docs/guides/voyage/voyage.md)
 - [Pair Challenge Guide](./docs/guides/pairprog/pairprog.md)
 - [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
-- [Content Creators Guide](./docs/guides/contentcreator/contentcreator.md)
 
 ### Helpful Information 📒
 
@@ -84,10 +81,10 @@ flowchart TB
 
 ## Tips 💁🏽
 
-1. Did you know you can open a table of contents on any page of the Handbook?
+1. You can open a table of contents on any page of the Handbook.
    ![open a table of contents](./assets/How_to_open_TOC.gif)
 
-2. Are you more comfortable using a language other than English? You can use the
+2. Are you more comfortable using a language other than English? Use the
    free Google Translate extension in Chrome-based browsers. You can learn more
    in the
    [Chrome Web Store](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).

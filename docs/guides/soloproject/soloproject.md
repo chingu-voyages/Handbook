@@ -32,37 +32,35 @@ graph TB
 ```
 
 ### 1. Choose your Tier 1️⃣-2️⃣-3️⃣
-
-You'll first need to choose a **tier** that matches your current skill level
+---
+Choose a **tier** that matches your current skill level
 for your preferred role. There are three tiers - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
 
-[Developer (Web) tiers](./topics/tier_developer.md)</br>
-[Developer (Python) tiers](./topics/tier_developer_python.md)</br>
-[UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
-[Product Owner tiers](./topics/tier_productowner.md)</br>
-[Scrum Master tiers](./topics/tier_scrummaster.md)</br>
+➡️ [Developer (Web) tiers](./topics/tier_developer.md)</br>
+➡️ [Developer (Python) tiers](./topics/tier_developer_python.md)</br>
+➡️ [UI/UX Designer tiers](./topics/tier_uiuxdesigner.md)</br>
+➡️ [Product Owner tiers](./topics/tier_productowner.md)</br>
+➡️ [Scrum Master tiers](./topics/tier_scrummaster.md)</br>
 
 ### 2. Submit a project 👍
-
+---
 Next, submit a project that matches the requirements of your role and tier.
 
 It **must** meet these criteria:
 
-- It must match the requirements of the
-[tier you have chosen](#1-choose-your-tier-1%EF%B8%8F⃣-2%EF%B8%8F⃣-3%EF%B8%8F⃣)
-- It should be original work (not copied from someone else, including tutorials
-or AI-generated code)
-- If created as part of a team you should be a major contributor to the project
-- It must have been created within the last 12 months, or be one you've
-significantly enhanced within the last year.
-
-Remember it must be your original work! You should not copy and submit a
-project you did not personally author. For more information refer to our
-[Community Standards](../../gettingstarted/communitystds.md).
+🟢 It must match the requirements of the
+[tier you have chosen](#1-choose-your-tier-1%EF%B8%8F⃣-2%EF%B8%8F⃣-3%EF%B8%8F⃣)<br/>
+🟢 It should be original work. For more information refer to our
+[Community Standards](../../gettingstarted/communitystds.md). <br/>
+🟢 It must be one created in the past year or be one you've
+significantly enhanced within the past year.<br/>
+🔴 Don't copy from someone else, including tutorials<br/>
+🔴 Don't use AI-generated code<br/>
+🔴 Don't use team projects unless you are a major contributor<br/>
 
 #### What you will need to submit
-
+---
 ```mermaid
 graph TB
     A{I am a Developer?};
@@ -82,7 +80,7 @@ graph TB
 ```
 
 ### If you are a Developer
-
+---
 You will need to provide the URLs for:
 
 1. a **public GitHub repo** containing the source code.
@@ -94,11 +92,9 @@ You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1
 to submit your project.
 
 ### If you are a Product Owner
-
-Product Owner projects include:
-
-1. a short quiz in the submission form. The minimum passing score for the quiz
-is 80%. If you don't pass you will be able to update your answers
+---
+1. Complete the short quiz in the Solo Project submission form. The minimum 
+passing score for the quiz is 80%. If you don't pass you will be able to update your answers
 for the questions you missed.
 2. the URL of a **public website** containing a sample product backlog you have
 created. This may be in the service of your choice. For example, GitHub
@@ -115,10 +111,8 @@ If you don't already have a project you can create a backlog using
 [this project specification](https://github.com/chingu-voyages/soloproject-tier3-chingu-trivia-po).
 
 ### If you are a Scrum Master
-
-If you are a Scrum Master the Solo Project submission form includes
-a short quiz. This is a combination of multiple-choice and long-form
-questions.
+---
+If you are a Scrum Master complete the quiz in the Solo Project submission form.
 
 The minimum passing score for the quiz is 80%. If you don't pass you will be
 able to update your answers for the questions you missed.
@@ -126,8 +120,8 @@ able to update your answers for the questions you missed.
 You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
 
 ### If you are a UI/UX Designer
-
-UI/UX Designers must submit a case study matching the requirements of their chosen tier. This 
+---
+UI/UX Designers must submit a case study matching the requirements of their tier. This 
 should be a URL to a publicly available website or design document detailing the research, 
 problems encountered, and solutions for your Solo Project.
 
@@ -137,56 +131,43 @@ This should be a link to the Figma or equivalent file showing:
 * It may include a more formal study including things like personas and stakeholder goals
 * Any notes you think members of a development team would find helpful during implementation
 
-You should also keep in mind the importance of 
+Also keep in mind the importance of 
 [CRAP design fundamentals](https://attentioninsight.com/crap-design-principles/) - Contrast, Repetition, Alignment, and Proximity.
 
-You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
+Use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
 to submit your project.
 
 ### 3. Submit a Solo Project Completion Form ✅
-
+---
 You will need to submit your project using the
 **[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)**. This
 must be completed before your first Voyage.
 
-> You are encouraged to submit this form as soon as your Solo Project is done.
-There is no need to wait until the submission deadline if you finish earlier.
->
+Once submitted your project will be evaluated within ***4 business*** days. We'll 
+DM feedback to you in Discord.
 
-After submitting the Solo Project Completion Form we will evaluate it and
-provide feedback in a Discord direct message (DM) within
-***4 business*** days. This could take longer based on the number of
-Chingus submitting projects at the same time.
+## Solo Project Checklist ✅
 
-Since we DM feedback to you in Discord it's important that you enable DM's so
-you will be able to see it. Make sure that in your Discord `Settings -> Content &
-Social -> Social Permissions` you've enabled DM's from other server members.
+🟢 Complete a project that meets the requirements of your tier and role is
+more important than submitting a complex project.<br/>
+🟢 The languages, tools, libraries, and frameworks you use are up to you. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using any language for web development, not just Javascript<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using a framework of your choice like React or Vue<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using a boilerplate or generator like Vite<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Using a CSS library or creating your own CSS<br/>
+🟢 Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).<br/>
+🟢 Submit your project that includes **the URL's** to your work based on your tier<br/>
+🟢 Enable Discord DM's to get your evaluation feedback. Set this in Discord 
+`Settings -> Content & Social -> Social Permissions` to allow DM's from other server 
+members.<br/>
 
-![Discord DM Setting](./assets/Discord_DM_Settings.png)
+![Discord DM Setting](./assets/Discord_DM_Settings.png) <br/>
 
-
-There is no need to resubmit the completion form once you've received
-feedback. The feedback we DM to you will contain information on what to do next.
-
-## Solo Project Tips ✏️
-
-1. Completing a project that meets the requirements of your tier and role is
-more important than submitting a complex project.
-2. Choose tools you are comfortable and productive with. In the limited time
-available to complete the Solo Project it's not a good idea to try to use
-something you don't already know.
-3. The languages, tools, libraries, and frameworks you use are up to you. For
-example, all of the following approaches are acceptable paths to a successful
-project:
-    - Using any language for web development, not just Javascript
-    - Using a framework of your choice like React or Vue
-    - Using a boilerplate or generator like Vite
-    - Using a CSS library or creating your own CSS
-4. Your repo should contain a well-written [readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d).
-5. Your app should run error-free. There should be no errors in
-the browser or server console logs.
-6. When you submit your project **you must provide URL's as defined above**
-7. You may **NOT** use a source code generator or AI tool (like GitHub Co-Pilot)
-for any part of your Solo Project.
-8. Chingu is all about collaborative learning and supporting each other as
-we level up! Use our Discord channels to get help and advice from other Chingu's.
+🟢 Get help and advice from other Chingu's in our Discord channels.<br/>
+🟢 Submit your Solo Project as soon as it's finished. Don't wait until the submission deadline if you finish sooner.<br/>
+🔴 Don't use tools and libraries you aren't already familiar with.<br/>
+🔴 Your app shouldn't have errors in the browser or server console logs.<br/>
+🔴 **DO NOT** use a source code generator or AI tool (like GitHub Co-Pilot)
+for any part of your Solo Project.<br/>
+🔴 Don't resubmit the Solo Project Completion form once you've received
+feedback. The feedback we DM to you will contain information on what to do next.<br/>
