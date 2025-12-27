@@ -27,18 +27,16 @@ Voyages have specific requirements, milestones, and ***require a commitment of 8
 Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment on your part to be an active participant and to finish what you start.
 
 ### Voyage Schedule 🗓️
-| Milestone | 2025<br>Voyage 58 | 2026<br>Voyage 59 | 2026<br>Voyage 60 |
+| Milestone | Voyage 59 | Voyage 60 | Voyage 61 |
 | :--- | :--- | :--- | :--- |
-| Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
-| Solo Project Deadline | October 22, 2025 | December 31, 2025 | March 11, 2026 |
-| Voyage Launch | November 3 | January 12 | March 23 | 
+| Solo Project Deadline | December 31, 2025 | March 11 | May 20 |
+| Voyage Launch | January 12 | March 23 | June 1 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | December 14 | February 22 | May 3 |
-| Demo Day presentations due | December 15 | February 23 | May 4 |
-| Demo Day | December 17 | February 25 | May 6 |
-| Completion Certificates issued | December 23 | March 4 |  May 13 |
-| Voyage Showcase article published | December 23 | March 4 | May 13 |
-
+| Voyage ends & projects due | February 22 | May 3 | July 1 |
+| Demo Day presentations due | February 23 | May 4 | July 12 |
+| Demo Day | February 25 | May 6 | July 13 |
+| Completion Certificates issued | March 4 |  May 13 | July 25 |
+| Showcase article available | March 4 | May 13 | July 25 |
 ### How to Prepare for your Voyage 📝
 
 We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
