@@ -29,7 +29,6 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 ### Voyage Schedule 🗓️
 | Milestone | Voyage 59 | Voyage 60 | Voyage 61 |
 | :--- | :--- | :--- | :--- |
-| Create & submit Solo Project | Prior to deadline | Prior to deadline | Prior to deadline |
 | Solo Project Deadline | December 31, 2025 | March 11 | May 20 |
 | Voyage Launch | January 12 | March 23 | June 1 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
