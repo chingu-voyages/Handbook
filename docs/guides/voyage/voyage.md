@@ -230,6 +230,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
 ### Sprint 1 - Getting off to a Solid Start
 
+[![Watch the video](./assets/Your_Guide_to_Sprint_1.mp4)](./assets/Your_Guide_to_Sprint_1.mp4)
+
 ---
   #### 1. Meet your team & schedule kickoff meeting 📅
   
