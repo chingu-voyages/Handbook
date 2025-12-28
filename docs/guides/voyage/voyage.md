@@ -472,7 +472,7 @@ https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
     
 ### 9. Sprint 3-5 - Reaching your MVP 🪜
 
-  ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
+https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
   
   **Objective**
   
@@ -481,6 +481,8 @@ https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
   webhost.
   
   **How**
+
+  ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
     
   - *Sprint Planning* - Select the highest priority tasks the team can realistically
   complete in the sprint
