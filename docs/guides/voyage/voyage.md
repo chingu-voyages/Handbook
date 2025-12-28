@@ -386,6 +386,8 @@ https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
 
 ### Sprint 2 - Getting off to a Solid Start
 
+https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
+
   ---
   
   #### 6. Setup Product Backlog 📋
