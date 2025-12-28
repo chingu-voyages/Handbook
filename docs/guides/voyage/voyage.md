@@ -230,7 +230,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
 ### Sprint 1 - Getting off to a Solid Start
 
-[![Sprint 1 Overview](https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4)](https://github.com/user-attachments/assets/080f371b-9de2-4619-914c-ed8750ad757c)
+https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
 
 ---
   #### 1. Meet your team & schedule kickoff meeting 📅
