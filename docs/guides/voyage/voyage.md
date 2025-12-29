@@ -524,6 +524,8 @@ https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
   - [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
 ### 10. Sprint 6 - Project Closure 🏁
+
+https://github.com/user-attachments/assets/739d36f6-eba6-41ed-b8b4-4cde608e3ea7
   
   **Objective**
   
