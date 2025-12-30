@@ -230,6 +230,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
 ### Sprint 1 - Getting off to a Solid Start
 
+https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
+
 ---
   #### 1. Meet your team & schedule kickoff meeting 📅
   
@@ -384,6 +386,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
 
 ### Sprint 2 - Getting off to a Solid Start
 
+https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
+
   ---
   
   #### 6. Setup Product Backlog 📋
@@ -468,7 +472,7 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
     
 ### 9. Sprint 3-5 - Reaching your MVP 🪜
 
-  ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
+https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
   
   **Objective**
   
@@ -477,6 +481,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   webhost.
   
   **How**
+
+  ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
     
   - *Sprint Planning* - Select the highest priority tasks the team can realistically
   complete in the sprint
@@ -518,6 +524,8 @@ If you need another repo, [open a ticket](https://discord.com/channels/330284646
   - [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
 ### 10. Sprint 6 - Project Closure 🏁
+
+https://github.com/user-attachments/assets/739d36f6-eba6-41ed-b8b4-4cde608e3ea7
   
   **Objective**
   
