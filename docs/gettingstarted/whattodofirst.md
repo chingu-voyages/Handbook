@@ -114,4 +114,4 @@ our weekly Pair Programming sessions. Pair Programming with another Chingu will
 help you learn with a like-minded professional and expand your network.
 
 You can learn more about what Pair Programming is and how to get started
-[here](../guides/pairprog.md).
+[here](../guides/pairprog/pairprog.md).
