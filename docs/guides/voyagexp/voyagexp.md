@@ -143,7 +143,7 @@ you can use to improve your understanding of Agile, Scrum, and to get more from
 VoyageXP.
 
 Agile Guides are certified Scrum Product Owners or Scrum Masters who have successfully
-complete multiple Voyages. They will help you learn more about Agile/Scrum and use
+completed multiple Voyages. They will help you learn more about Agile/Scrum and use
 what you have learned to help your team.
 
 ### Feedback, mentorship, and support from an Agile Guide
