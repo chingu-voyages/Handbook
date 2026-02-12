@@ -59,8 +59,6 @@ Our programs and services are geared to help Web Developers, UI/UX Designers, an
 - [What to Do First](./docs/gettingstarted/whattodofirst.md)
 - [Our Partners](./docs/gettingstarted/partners.md)
 
-<<<<<<< HEAD
-=======
 ### Onboarding 📒
 
 ---
@@ -80,7 +78,6 @@ flowchart TB
    I --> E;
 ```
 
->>>>>>> 989c96b6de40e0513592891136e09c16bdf1b24f
 ### Program Guides
 
 - [Solo Project](./docs/guides/soloproject/soloproject.md)
