@@ -4,10 +4,11 @@
 
 ## All About VoyageXP
 
- 1. [What is VoyageXP](#what-are-voyages)
- 2. [Before you Start](#before-you-start)
- 3. [The VoyageXP Process](#the-voyagexp-process)
- 4. [VoyageXP Tips](#voyage-tips)
+ 1. [What is VoyageXP](#what-is-voyagexp)
+ 2. [Benefits of VoyageXP](#benefits-of-voyagexp)
+ 3. [Requirements to participate in VoyageXP](#requirements-to-participate-in-voyagexp)
+ 4. [The VoyageXP Process](#the-voyagexp-process)
+ 5. [VoyageXP Tips](#voyagexp-tips)
 
 ---
 
