@@ -109,7 +109,7 @@ A team channel is provided in Discord to every team at the start of the Voyage. 
 need it.
 
 You will also be provided with a GitHub repo for your project. This is created for you in the `chingu-voyages` organization and everyone on your team is granted `admin`
-access to it. But, **you must***:
+access to it. But, **you must**:
 
 - leave this as a public repo
 - not rename the repo we've provided
