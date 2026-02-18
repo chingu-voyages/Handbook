@@ -102,7 +102,7 @@ config:
     block:B1:1
       columns 1
       block:B1TOP
-        columns 2
+        columns 3
         A6(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
       end
