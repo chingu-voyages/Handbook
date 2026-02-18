@@ -72,6 +72,7 @@ config:
       block:B0TOP
         columns 2
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
+        space
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       end
       space
@@ -87,6 +88,7 @@ config:
       block:B0BOTTOM
         columns 2
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        space
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         space
       end
