@@ -80,9 +80,7 @@ config:
       space
       block:B0CENTER
         columns 3
-        space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
-        space
       end
       space
       space
@@ -114,9 +112,7 @@ config:
       space
       block:B1CENTER
         columns 3
-        space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
-        space
       end
       space
       space
@@ -143,9 +139,7 @@ config:
       space
       block:B2CENTER
         columns 2
-        space
         SPRINT2("&nbsp;Sprint 2&nbsp;")
-        space
       end
       space
       space
@@ -160,7 +154,6 @@ config:
       columns 1
       block:B3TOP
         columns 2
-        space
         A10(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
       end
       space
@@ -169,9 +162,7 @@ config:
       space      
       block:B3CENTER
         columns 2
-        space
         SPRINTS35("&nbsp;Sprint 3-5 ")
-        space
       end
       space
       space
@@ -187,7 +178,6 @@ config:
       columns 1
       block:B4TOP
         columns 2
-        space
         A11(("&nbsp;&nbsp;&nbsp;10&nbsp;"))
       end
       space
@@ -196,9 +186,7 @@ config:
       space      
       block:B4CENTER
         columns 2
-        space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
-        space
       end
       space
       space
