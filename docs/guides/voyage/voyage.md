@@ -131,7 +131,7 @@ config:
     block:B2:1
       columns 1
       block:B2TOP
-        columns 2
+        columns 3
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end
       space
@@ -145,7 +145,7 @@ config:
       space
       space
       block:B2BOTTOM
-        columns 1
+        columns 3
         space
       end
       A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
