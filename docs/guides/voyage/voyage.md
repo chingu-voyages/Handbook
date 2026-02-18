@@ -77,6 +77,8 @@ config:
       end
       space
       space
+      space
+      space
       block:B0CENTER
         columns 3
         space
