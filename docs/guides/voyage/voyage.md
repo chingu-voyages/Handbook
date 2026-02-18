@@ -124,7 +124,7 @@ config:
     block:B2:1
       columns 1
       block:B2TOP
-        columns 3
+        columns 2
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         space
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
