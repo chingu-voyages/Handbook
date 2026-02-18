@@ -104,7 +104,7 @@ config:
     block:B1:1
       columns 1
       block:B1TOP
-        columns 3
+        columns 2
         A6(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         space
         A7(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
@@ -113,7 +113,7 @@ config:
       space
       space
       block:B1CENTER
-        columns 3
+        columns 2
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
@@ -121,7 +121,7 @@ config:
       space
       space
       block:B1BOTTOM
-        columns 3
+        columns 2
         space
         A8(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         space
@@ -134,13 +134,13 @@ config:
     block:B2:1
       columns 1
       block:B2TOP
-        columns 3
+        columns 1
         A9(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end
       space
       space
       block:B2CENTER
-        columns 3
+        columns 1
         space
         SPRINT2("&nbsp;Sprint 2&nbsp;")
         space
@@ -148,7 +148,7 @@ config:
       space
       space
       block:B2BOTTOM
-        columns 3
+        columns 1
         space
       end
       A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
@@ -157,7 +157,7 @@ config:
     block:B3:1
       columns 1
       block:B3TOP
-        columns 3
+        columns 1
         space
         A10(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
         space
@@ -170,7 +170,7 @@ config:
       space
       space
       block:B3CENTER
-        columns 3
+        columns 1
         space
         SPRINTS35("&nbsp;Sprint 3-5 ")
         space
@@ -179,7 +179,7 @@ config:
       space
       space
       block:B3BOTTOM
-        columns 3
+        columns 1
         space
         space
         space
@@ -190,7 +190,7 @@ config:
     block:B4:1
       columns 1
       block:B4TOP
-        columns 3
+        columns 1
         space
         A11(("&nbsp;&nbsp;&nbsp;10&nbsp;"))
         space
@@ -198,7 +198,7 @@ config:
       space
       space
       block:B4CENTER
-        columns 3
+        columns 1
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
         space
@@ -206,7 +206,7 @@ config:
       space
       space
       block:B4BOTTOM
-        columns 3
+        columns 1
         space
         space
         space
