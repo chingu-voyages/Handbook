@@ -105,6 +105,7 @@ config:
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+        space
       end
       space
       space
@@ -118,18 +119,18 @@ config:
       space
       block:B1BOTTOM
         columns 3
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         space
       end
       A3 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
       A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
+      A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT1
     end
 
     block:B2:1
       columns 1
       block:B2TOP
         columns 2
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-        space
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       space
@@ -146,7 +147,6 @@ config:
         columns 1
         space
       end
-      A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
       A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
     end
 
