@@ -104,7 +104,7 @@ config:
     block:B1:1
       columns 1
       block:B1TOP
-        columns 2
+        columns 3
         A6(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         space
         A7(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
@@ -113,7 +113,7 @@ config:
       space
       space
       block:B1CENTER
-        columns 2
+        columns 3
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
@@ -121,7 +121,7 @@ config:
       space
       space
       block:B1BOTTOM
-        columns 2
+        columns 3
         space
         A8(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         space
