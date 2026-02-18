@@ -70,7 +70,7 @@ config:
     block:B0:1
       columns 1
       block:B1TOP
-        columns 3
+        columns 2
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       end
@@ -99,7 +99,7 @@ config:
     block:B1:1
       columns 1
       block:B1TOP
-        columns 3
+        columns 1
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       space
@@ -113,7 +113,7 @@ config:
       space
       space
       block:B1BOTTOM
-        columns 3
+        columns 2
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
@@ -205,10 +205,14 @@ config:
       A10 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
     end
 
+    SPRINT0 --> SPRINT1
     SPRINT1 --> SPRINT2
     SPRINT2 --> SPRINTS35
     SPRINTS35 --> SPRINT6
 
+    style B0TOP stroke:#292d30,fill:#292d30
+    style B0CENTER stroke:#292d30,fill:#292d30
+    style B0BOTTOM stroke:#292d30,fill:#292d30
     style B1TOP stroke:#292d30,fill:#292d30
     style B1CENTER stroke:#292d30,fill:#292d30
     style B1BOTTOM stroke:#292d30,fill:#292d30
@@ -232,6 +236,7 @@ config:
     style A8 color:#f0f6fc,fill:#1d8348
     style A9 color:#f0f6fc,fill:#1d8348
     style A10 color:#f0f6fc,fill:#1d8348
+    style SPRINT0 color:#f0f6fc,fill:#b9770e
     style SPRINT1 color:#f0f6fc,fill:#b9770e
     style SPRINT2 color:#f0f6fc,fill:#b9770e
     style SPRINTS35 color:#f0f6fc,fill:#b9770e
