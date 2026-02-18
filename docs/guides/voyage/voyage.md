@@ -74,6 +74,9 @@ config:
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         space
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        space
+        space
+        space
       end
       block:B0CENTER
         columns 3
@@ -86,6 +89,7 @@ config:
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         space
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        space
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         space
