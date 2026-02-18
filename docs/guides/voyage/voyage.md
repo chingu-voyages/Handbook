@@ -70,7 +70,7 @@ config:
     block:B0:1
       columns 1
       block:B0TOP
-        columns 2
+        columns 3
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       end
@@ -79,7 +79,7 @@ config:
       space
       space
       block:B0CENTER
-        columns 1
+        columns 3
         SPRINT0("&nbsp;Sprint 0&nbsp;")
       end
       space
@@ -111,13 +111,13 @@ config:
       space
       space
       block:B1CENTER
-        columns 1
+        columns 3
         SPRINT1("&nbsp;Sprint 1&nbsp;")
       end
       space
       space
       block:B1BOTTOM
-        columns 1
+        columns 3
         A8(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       space
