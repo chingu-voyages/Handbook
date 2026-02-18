@@ -87,6 +87,8 @@ config:
       block:B0BOTTOM
         columns 3
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+        space
+        space
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
