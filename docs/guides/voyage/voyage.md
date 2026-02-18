@@ -69,14 +69,14 @@ config:
 
     block:B0:1
       columns 1
-      block:B1TOP
+      block:B0TOP
         columns 2
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       end
       space
       space
-      block:B1CENTER
+      block:B0CENTER
         columns 3
         space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
@@ -84,7 +84,7 @@ config:
       end
       space
       space
-      block:B1BOTTOM
+      block:B0BOTTOM
         columns 3
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         space
