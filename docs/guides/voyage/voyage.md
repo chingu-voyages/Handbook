@@ -72,7 +72,6 @@ config:
       block:B0TOP
         columns 3
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
-        space
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       end
       space
@@ -90,7 +89,6 @@ config:
       block:B0BOTTOM
         columns 3
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
-        space
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         space
         space
@@ -108,25 +106,24 @@ config:
       block:B1TOP
         columns 3
         A6(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-        space
         A7(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-        space
-        space
-        space
       end
+      space
+      space
+      space
+      space
       block:B1CENTER
         columns 3
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
       end
+      space
+      space
       block:B1BOTTOM
         columns 3
         space
         A8(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
-        space
-        space
-        space
       end
       A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
       A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
@@ -138,26 +135,21 @@ config:
       block:B2TOP
         columns 2
         A9(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
-        space
-        space
-        space
-        space
-        space
       end
+      space
+      space
+      space
+      space
       block:B2CENTER
         columns 2
         space
         SPRINT2("&nbsp;Sprint 2&nbsp;")
         space
       end
+      space
+      space
       block:B2BOTTOM
         columns 2
-        space
-        space
-        space
-        space
-        space
-        space
       end
       A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
     end
@@ -168,25 +160,21 @@ config:
         columns 2
         space
         A10(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
-        space
-        space
-        space
-        space
       end
+      space
+      space
+      space
+      space      
       block:B3CENTER
         columns 2
         space
         SPRINTS35("&nbsp;Sprint 3-5 ")
         space
       end
+      space
+      space
       block:B3BOTTOM
         columns 2
-        space
-        space
-        space
-        space
-        space
-        space
       end
       A10 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
     end
@@ -197,25 +185,21 @@ config:
         columns 2
         space
         A11(("&nbsp;&nbsp;&nbsp;10&nbsp;"))
-        space
-        space
-        space
-        space
       end
+      space
+      space
+      space
+      space      
       block:B4CENTER
         columns 2
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
         space
       end
+      space
+      space
       block:B4BOTTOM
         columns 2
-        space
-        space
-        space
-        space
-        space
-        space
       end
       A11 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
     end
