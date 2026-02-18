@@ -227,16 +227,16 @@ config:
     style B4CENTER stroke:#292d30,fill:#292d30
     style B4BOTTOM stroke:#292d30,fill:#292d30
         
-    style A1 color:#f0f6fc,fill:#8CAE9B
-    style A2 color:#f0f6fc,fill:#8CAE9B
-    style A3 color:#f0f6fc,fill:#8CAE9B
-    style A4 color:#f0f6fc,fill:#8CAE9B
-    style A5 color:#f0f6fc,fill:#8CAE9B
-    style A6 color:#f0f6fc,fill:#8CAE9B
-    style A7 color:#f0f6fc,fill:#8CAE9B
-    style A8 color:#f0f6fc,fill:#8CAE9B
-    style A9 color:#f0f6fc,fill:#8CAE9B
-    style A10 color:#f0f6fc,fill:#8CAE9B
+    style A1 color:#f0f6fc,fill:#1d8348
+    style A2 color:#f0f6fc,fill:#1d8348
+    style A3 color:#f0f6fc,fill:#1d8348
+    style A4 color:#f0f6fc,fill:#1d8348
+    style A5 color:#f0f6fc,fill:#1d8348
+    style A6 color:#f0f6fc,fill:#1d8348
+    style A7 color:#f0f6fc,fill:#1d8348
+    style A8 color:#f0f6fc,fill:#1d8348
+    style A9 color:#f0f6fc,fill:#1d8348
+    style A10 color:#f0f6fc,fill:#1d8348
     style SPRINT0 color:#f0f6fc,fill:#b9770e
     style SPRINT1 color:#f0f6fc,fill:#b9770e
     style SPRINT2 color:#f0f6fc,fill:#b9770e
