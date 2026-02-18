@@ -119,6 +119,7 @@ config:
       space
       block:B1BOTTOM
         columns 3
+        space
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         space
       end
