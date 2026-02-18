@@ -68,7 +68,7 @@ config:
     columns 5
 
     block:B0:1
-      columns 2
+      columns 1
       block:B0TOP
         columns 2
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
@@ -101,7 +101,7 @@ config:
     block:B1:1
       columns 1
       block:B1TOP
-        columns 3
+        columns 2
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
@@ -117,7 +117,7 @@ config:
       space
       space
       block:B1BOTTOM
-        columns 3
+        columns 2
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
