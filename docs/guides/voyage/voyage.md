@@ -102,7 +102,7 @@ config:
     block:B1:1
       columns 1
       block:B1TOP
-        columns 3
+        columns 2
         A6(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
       end
@@ -117,7 +117,7 @@ config:
       space
       space
       block:B1BOTTOM
-        columns 3
+        columns 1
         A8(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       space
@@ -130,7 +130,7 @@ config:
     block:B2:1
       columns 1
       block:B2TOP
-        columns 2
+        columns 1
         A9(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end
       space
@@ -144,7 +144,7 @@ config:
       space
       space
       block:B2BOTTOM
-        columns 2
+        columns 1
       end
       space
       A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
