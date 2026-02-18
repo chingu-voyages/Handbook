@@ -70,7 +70,7 @@ config:
     block:B0:1
       columns 1
       block:B0TOP
-        columns 3
+        columns 2
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       end
