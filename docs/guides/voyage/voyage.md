@@ -74,16 +74,17 @@ config:
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         space
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        space
-        space
-        space
       end
+      space
+      space
       block:B0CENTER
         columns 3
         space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
       end
+      space
+      space
       block:B0BOTTOM
         columns 3
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
@@ -92,7 +93,6 @@ config:
         space
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-        space
       end
       A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
       A2 -- "</br></br></br></br></br></br><a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</a>" --> SPRINT0
