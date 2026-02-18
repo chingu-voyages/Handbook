@@ -102,7 +102,7 @@ config:
     end
 
     block:B1:1
-      columns 2
+      columns 1
       block:B1TOP
         columns 3
         A6(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
