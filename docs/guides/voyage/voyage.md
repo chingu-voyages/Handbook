@@ -32,11 +32,11 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 | Solo Project Deadline | December 31, 2025 | March 11 | May 20 |
 | Voyage Launch | January 12 | March 23 | June 1 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | February 22 | May 3 | July 1 |
-| Demo Day presentations due | February 23 | May 4 | July 12 |
-| Demo Day | February 25 | May 6 | July 13 |
-| Completion Certificates issued | March 4 |  May 13 | July 25 |
-| Showcase article available | March 4 | May 13 | July 25 |
+| Voyage ends & projects due | February 22 | May 10 | July 19 |
+| Demo Day presentations due | February 23 | May 11 | July 20 |
+| Demo Day | February 25 | May 13 | July 22 |
+| Completion Certificates issued | March 4 |  May 20 | July 29 |
+| Showcase article available | March 4 | May 20 | July 29 |
 ### How to Prepare for your Voyage 📝
 
 We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
@@ -65,13 +65,41 @@ config:
   theme: dark
 ---
   block-beta
-    columns 4
-    block:B1:1
+    columns 5
+
+    block:B0:1
       columns 1
       block:B1TOP
         columns 3
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+      end
+      space
+      space
+      block:B1CENTER
+        columns 3
+        space
+        SPRINT0("&nbsp;Sprint 0&nbsp;")
+        space
+      end
+      space
+      space
+      block:B1BOTTOM
+        columns 3
+        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        space
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+      end
+      A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
+      A2 -- "</br></br></br></br></br></br><a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</a>" --> SPRINT0
+      A4 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>define</br>vision stmt.</a>" --> SPRINT0
+      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT0
+    end
+
+    block:B1:1
+      columns 1
+      block:B1TOP
+        columns 3
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       space
@@ -90,11 +118,7 @@ config:
         space
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
-      A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT1
-      A2 -- "</br></br></br></br></br></br><a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</a>" --> SPRINT1
       A3 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
-      A4 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>define</br>vision stmt.</a>" --> SPRINT1
-      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
     end
 
     block:B2:1
