@@ -85,15 +85,15 @@ config:
       space
       space
       block:B0BOTTOM
-        columns 3
+        columns 2
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         space
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
       A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
       A2 -- "</br></br></br></br></br></br><a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</a>" --> SPRINT0
       A4 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>define</br>vision stmt.</a>" --> SPRINT0
-      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT0
+      A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-your-teams-working-agreements-">Define team working agreements</a>" --> SPRINT0
     end
 
     block:B1:1
@@ -101,6 +101,8 @@ config:
       block:B1TOP
         columns 1
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+        space
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
       space
       space
@@ -119,6 +121,7 @@ config:
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
       A3 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
+      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
     end
 
     block:B2:1
@@ -140,14 +143,11 @@ config:
       space
       space
       block:B2BOTTOM
-        columns 3
-        space
-        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
+        columns 1
         space
       end
       A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
       A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
-      A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-your-teams-working-agreements-">Define team working agreements</a>" --> SPRINT2
     end
 
     block:B3:1
