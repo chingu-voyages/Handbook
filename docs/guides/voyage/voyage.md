@@ -141,6 +141,7 @@ config:
     style A9 color:#f0f6fc,fill:#1d8348
     style A10 color:#f0f6fc,fill:#1d8348
     style A11 color:#f0f6fc,fill:#1d8348
+    
     style SPRINT0 color:#f0f6fc,fill:#b9770e
     style SPRINT1 color:#f0f6fc,fill:#b9770e
     style SPRINT2 color:#f0f6fc,fill:#b9770e
