@@ -82,9 +82,6 @@ config:
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
       end
       space
-      space
-      space
-      space
       block:B0CENTER
         columns 11
         space
