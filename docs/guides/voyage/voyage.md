@@ -65,9 +65,9 @@ config:
   theme: dark
 ---
   block-beta
-    columns 11
+    columns 1
 
-    block:B0:11
+    block:B0:1
       columns 1
       block:B0TOP
         columns 11
