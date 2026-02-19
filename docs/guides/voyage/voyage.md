@@ -72,8 +72,6 @@ config:
       block:B0TOP
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
-        space
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         space
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
@@ -81,6 +79,7 @@ config:
         A10(("&nbsp;&nbsp;&nbsp; 10&nbsp;&nbsp;"))
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
       end
+      A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       space
       space
       space
