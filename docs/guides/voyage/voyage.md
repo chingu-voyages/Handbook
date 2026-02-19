@@ -86,6 +86,7 @@ config:
       block:B0CENTER
         columns 11
         space
+        space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
@@ -95,7 +96,6 @@ config:
         SPRINTS35("&nbsp;Sprint 3-5&nbsp;")
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
-        space
       end
       space
       space
