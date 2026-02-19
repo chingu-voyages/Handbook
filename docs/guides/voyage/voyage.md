@@ -92,7 +92,7 @@ config:
         space
         SPRINT2("&nbsp;Sprint 2&nbsp;")
         space
-        SPRINTS35("&nbsp;Sprint 3-5&nbsp;")
+        SPRINTS35("&nbsp;Sprints 3-5&nbsp;")
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
       end
