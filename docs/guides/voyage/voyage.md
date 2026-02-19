@@ -161,7 +161,11 @@ access to it. But, **you must***:
 
 If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to create it for you.
 
-### Sprint 1 - Getting off to a Solid Start
+### Sprint 0 - Getting to know your team
+
+TODO
+
+### Sprint 1 - Setting up your project
 
 https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
 
@@ -317,7 +321,7 @@ https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
   [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These read-only templates will be copied to the `docs` subdirectory in your
   team’s repo when the Voyage starts)
 
-### Sprint 2 - Getting off to a Solid Start
+### Sprint 2 - Creating your Backlog Tasks & UI/UX Design
 
 https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
 
