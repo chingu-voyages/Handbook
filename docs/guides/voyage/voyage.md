@@ -88,6 +88,7 @@ config:
         space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
+        space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
         SPRINT2("&nbsp;Sprint 2&nbsp;")
