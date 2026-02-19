@@ -112,7 +112,7 @@ config:
       A2 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT0
       A3 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-setup-your-teams-working-agreements-">Create</br>team</br>working</br>agreements</a>" --> SPRINT0
       A4 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create</br>vision</br>stmt.</a>" --> SPRINT0
-      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-select-a-tech-stack">Select a</br>tech</br>stack</a>" --> SPRINT0
+      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-select-a-tech-stack">Select a</br>tech</br>stack</a>" --> SPRINT1
       A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
       A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
       A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT1
