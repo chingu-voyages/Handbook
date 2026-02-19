@@ -87,6 +87,7 @@ config:
         columns 11
         space
         space
+        space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
