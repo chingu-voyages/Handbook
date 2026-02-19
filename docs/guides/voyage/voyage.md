@@ -73,6 +73,8 @@ config:
         columns 3
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A6(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
       end
       space
       space
@@ -81,6 +83,7 @@ config:
       block:B0CENTER
         columns 3
         SPRINT0("&nbsp;Sprint 0&nbsp;")
+        SPRINT1("&nbsp;Sprint 1&nbsp;")
       end
       space
       space
@@ -185,13 +188,13 @@ config:
       space
       space      
       block:B4CENTER
-        columns 3
+        columns 1
         SPRINT6("&nbsp;Sprint 6&nbsp;")
       end
       space
       space
       block:B4BOTTOM
-        columns 3
+        columns 2
       end
       space
 
