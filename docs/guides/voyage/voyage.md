@@ -65,12 +65,12 @@ config:
   theme: dark
 ---
   block-beta
-    columns 5
+    columns 7
 
     block:B0:1
       columns 1
       block:B0TOP
-        columns 7
+        columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
@@ -84,7 +84,7 @@ config:
       space
       space
       block:B0CENTER
-        columns 7
+        columns 11
         space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
@@ -100,7 +100,7 @@ config:
       space
       space
       block:B0BOTTOM
-        columns 7
+        columns 11
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
