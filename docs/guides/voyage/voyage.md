@@ -74,9 +74,8 @@ config:
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         space
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A5(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-        space
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
         A10(("&nbsp;&nbsp;&nbsp; 10&nbsp;&nbsp;"))
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
@@ -101,7 +100,7 @@ config:
         columns 5
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end
       space
