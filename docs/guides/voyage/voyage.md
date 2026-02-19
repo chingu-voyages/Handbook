@@ -82,9 +82,9 @@ config:
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
       end
       space
+      space
       block:B0CENTER
         columns 11
-        space
         SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
