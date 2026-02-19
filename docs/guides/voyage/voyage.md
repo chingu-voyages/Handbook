@@ -98,7 +98,6 @@ config:
         SPRINT6("&nbsp;Sprint 6&nbsp;")
       end
       space
-      space
       block:B0BOTTOM
         columns 5
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
