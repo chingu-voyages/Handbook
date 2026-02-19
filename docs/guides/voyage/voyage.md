@@ -75,6 +75,7 @@ config:
         space
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
+        space
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
         A10(("&nbsp;&nbsp;&nbsp; 10&nbsp;&nbsp;"))
