@@ -108,7 +108,7 @@ config:
       end
       space
 
-      A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
+      A1 -- "<a style="background-color: #646C71 color:white" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
       A2 -- "<a style="background-color: white" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT0
       A3 -- "<a style="background-color: white" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-setup-your-teams-working-agreements-">Create</br>team</br>working</br>agreements</a>" --> SPRINT0
       A4 -- "<a style="background-color: white" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create</br>vision</br>stmt.</a>" --> SPRINT0
@@ -130,7 +130,7 @@ config:
     style B0CENTER stroke:#292d30,fill:#292d30
     style B0BOTTOM stroke:#292d30,fill:#292d30
         
-    style A1 color:white,fill:#646C71
+    style A1 color:#f0f6fc,fill:#1d8348
     style A2 color:#f0f6fc,fill:#1d8348
     style A3 color:#f0f6fc,fill:#1d8348
     style A4 color:#f0f6fc,fill:#1d8348
