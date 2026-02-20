@@ -103,6 +103,10 @@ config:
       space
       block:B0BOTTOML2
         columns 11
+      end
+      space
+      block:B0BOTTOML3
+        columns 11
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))       
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
@@ -130,6 +134,7 @@ config:
     style B0CENTER stroke:#292d30,fill:#292d30
     style B0BOTTOML1 stroke:#292d30,fill:#292d30
     style B0BOTTOML2 stroke:#292d30,fill:#292d30
+    style B0BOTTOML3 stroke:#292d30,fill:#292d30
         
     style A1 color:#f0f6fc,fill:#1d8348
     style A2 color:#f0f6fc,fill:#1d8348
