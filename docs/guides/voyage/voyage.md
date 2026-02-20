@@ -84,6 +84,7 @@ config:
       block:B0CENTER
         columns 11
         SPRINT0("&nbsp;Sprint 0&nbsp;")
+        space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
         SPRINT2("&nbsp;Sprint 2&nbsp;")
@@ -95,14 +96,13 @@ config:
       block:B0BOTTOML1
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-        space
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))       
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;")) 
       end
       block:B0BOTTOML2
         columns 11
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))       
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end      
       space
 
