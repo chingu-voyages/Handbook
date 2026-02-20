@@ -69,7 +69,7 @@ config:
 
     block:B0:1
       columns 1
-      block:B0TOP
+      block:TOPL1
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
@@ -77,9 +77,10 @@ config:
         A10(("&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;"))
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
       end
-      block:B0tOPL2
+      block:TOPL2
         columns 11
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        space
       end      
       space
       space
@@ -96,17 +97,17 @@ config:
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
       end
-      block:B0BOTTOML1
+      block:BOTTOML1
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         space
         space
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;")) 
       end
-      block:B0BOTTOML2
+      block:BOTTOML2
         columns 11
       end      
-      block:B0BOTTOML3
+      block:BOTTOML3
         columns 11
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))       
@@ -131,11 +132,12 @@ config:
     SPRINT2 --> SPRINTS35
     SPRINTS35 --> SPRINT6
 
-    style B0TOP stroke:#292d30,fill:#292d30
-    style B0CENTER stroke:#292d30,fill:#292d30
-    style B0BOTTOML1 stroke:#292d30,fill:#292d30
-    style B0BOTTOML2 stroke:#292d30,fill:#292d30
-    style B0BOTTOML3 stroke:#292d30,fill:#292d30
+    style TOPL1 stroke:#292d30,fill:#292d30
+    style TOPL2 stroke:#292d30,fill:#292d30
+    style CENTER stroke:#292d30,fill:#292d30
+    style BOTTOML1 stroke:#292d30,fill:#292d30
+    style BOTTOML2 stroke:#292d30,fill:#292d30
+    style BOTTOML3 stroke:#292d30,fill:#292d30
         
     style A1 color:#f0f6fc,fill:#1d8348
     style A2 color:#f0f6fc,fill:#1d8348
