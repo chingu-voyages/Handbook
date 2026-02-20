@@ -107,7 +107,6 @@ config:
         space
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end      
-      space
 
       A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
       A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT0
