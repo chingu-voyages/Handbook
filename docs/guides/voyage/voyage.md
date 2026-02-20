@@ -78,9 +78,10 @@ config:
         A10(("&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;"))
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
       end
-      space
-      space
       block:TOPL2
+        columns 11
+      end 
+      block:TOPL3
         columns 11
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
       end      
@@ -135,6 +136,7 @@ config:
 
     style TOPL1 stroke:#292d30,fill:#292d30
     style TOPL2 stroke:#292d30,fill:#292d30
+    style TOPL3 stroke:#292d30,fill:#292d30
     style CENTER stroke:#292d30,fill:#292d30
     style BOTTOML1 stroke:#292d30,fill:#292d30
     style BOTTOML2 stroke:#292d30,fill:#292d30
