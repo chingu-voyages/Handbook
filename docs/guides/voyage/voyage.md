@@ -94,7 +94,7 @@ config:
         SPRINT6("&nbsp;Sprint 6&nbsp;")
       end
       space
-      block:B0BOTTOM
+      block:B0BOTTOML1
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
@@ -102,6 +102,11 @@ config:
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
       end
+      space
+      block:B0BOTTOML2
+        columns 11
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+      end      
       space
 
       A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
@@ -124,7 +129,8 @@ config:
 
     style B0TOP stroke:#292d30,fill:#292d30
     style B0CENTER stroke:#292d30,fill:#292d30
-    style B0BOTTOM stroke:#292d30,fill:#292d30
+    style B0BOTTOML1 stroke:#292d30,fill:#292d30
+    style B0BOTTOML2 stroke:#292d30,fill:#292d30
         
     style A1 color:#f0f6fc,fill:#1d8348
     style A2 color:#f0f6fc,fill:#1d8348
@@ -147,11 +153,11 @@ config:
 
 A team channel is provided in Discord to every team at the start of the Voyage. You should use this to communicate and collaborate with your teammates. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. 
 
-**_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._** Doing this means we won't be able to provide assistance when you
+**_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project.** Doing this means we won't be able to provide assistance when you
 need it.
 
 You will also be provided with a GitHub repo for your project. This is created for you in the `chingu-voyages` organization and everyone on your team is granted `admin`
-access to it. But, **you must***:
+access to it. But, **you must**:
 
 - leave this as a public repo
 - not rename the repo we've provided
