@@ -79,6 +79,7 @@ config:
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
       end
       space
+      space
       block:TOPL2
         columns 11
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
