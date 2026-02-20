@@ -96,7 +96,8 @@ config:
       block:B0BOTTOML1
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))       
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;")) 
+        space      
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;")) 
       end
       block:B0BOTTOML2
