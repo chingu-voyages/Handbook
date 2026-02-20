@@ -73,7 +73,6 @@ config:
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-        space
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         A10(("&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;"))
