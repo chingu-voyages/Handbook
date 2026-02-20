@@ -80,10 +80,8 @@ config:
       space
       block:TOPL2
         columns 11
-        space
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
       end      
-      space
       space
       space
       block:CENTER
