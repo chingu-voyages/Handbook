@@ -82,9 +82,9 @@ config:
       block:TOPL3
         columns 11
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+        space
         A10(("&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;"))
       end      
-      space
       space
       space
       space
