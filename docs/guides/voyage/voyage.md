@@ -97,7 +97,6 @@ config:
       block:B0BOTTOML1
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
