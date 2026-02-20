@@ -72,6 +72,7 @@ config:
       block:B0TOP
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
@@ -97,7 +98,6 @@ config:
       block:B0BOTTOM
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
