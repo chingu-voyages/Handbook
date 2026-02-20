@@ -100,7 +100,6 @@ config:
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;")) 
       end
-      space
       block:B0BOTTOML2
         columns 11
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))       
