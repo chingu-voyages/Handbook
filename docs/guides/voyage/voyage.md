@@ -101,10 +101,10 @@ config:
         space      
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;")) 
       end
+      space
       block:B0BOTTOML2
         columns 11
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-        space
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end      
 
