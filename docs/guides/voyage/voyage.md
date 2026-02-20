@@ -93,7 +93,6 @@ config:
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
       end
-      space
       block:B0BOTTOML1
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
