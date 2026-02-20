@@ -5,12 +5,12 @@ Communication and collaboration are the most important factors to a teams succes
 this we've created a way for Voyage Teams to create temporary voice channels in Discord, which
 support voice, video, and screen sharing.
   
-To create a temporary voice channel, navigate to the `Voyage Voice HUB` category (right above your 
-teams text Channel) and click on the channel named “#create-voice”. 
+To create a temporary voice channel, navigate to the `Voyage Voice HUB` category (right above your
+teams text Channel) and click on the channel named “#create-voice”.
 
-Next, select your 
+Next, select your
 tier and team from the list to create a voice channel for your team. The new voice channel will
-show up right below your teams text channel. It will be removed automatically 
+show up right below your teams text channel. It will be removed automatically
 after everyone leaves, or after 1 minute if nobody joins.  
 
 <img src="../assets/How_to_create_a_voice_channel.png" alt="" width="800"/>
@@ -29,8 +29,8 @@ When you create a voice channel, Titan will also supply you with a link to join 
 
 <img src="../assets/join_voice.png" alt="" width="500"/>
 
-If some of your teammates struggle to find the voice channel, you can right click on the voice 
-channel and click "Copy Link", and then paste that into your team channel. This will give your 
+If some of your teammates struggle to find the voice channel, you can right click on the voice
+channel and click "Copy Link", and then paste that into your team channel. This will give your
 teammates a link to the channel.
 
 <img src="../assets/copy_link.png" alt="" width="200"/>
