@@ -85,7 +85,7 @@ config:
       space
       space
       space
-      block:B0CENTER
+      block:CENTER
         columns 11
         SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
