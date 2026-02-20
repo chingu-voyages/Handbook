@@ -73,12 +73,14 @@ config:
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
-        space
-        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         A10(("&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;"))
         A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
       end
+      block:B0tOPL2
+        columns 11
+        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+      end      
       space
       space
       space
@@ -101,11 +103,9 @@ config:
         space
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;")) 
       end
-      
       block:B0BOTTOML2
         columns 11
-      end
-      
+      end      
       block:B0BOTTOML3
         columns 11
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
