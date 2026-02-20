@@ -224,44 +224,6 @@ will be happy to create it for you.
   (These read-only templates will be copied to the `docs` subdirectory in your
   team’s repo when the Voyage starts)
 
-### Sprint 1 - Setting up your project
-
-![Sprint 1 - Video Overiview](https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe)
-
-  #### 1. Meet your team & schedule kickoff meeting 📅
-  
-  **Objective**
-  
-  The foundation of any project is **teamwork** and learning how to work as a team is
-  just as important as your technical knowledge. This is valued by employers, so increasing your team skills is one way to set you apart from other job applicants.
-  
-  Your project’s success depends on how effective your team is at working together.
-  In fact, this is more important than how much code you create or how fast you deploy it.
-
-  The first two sprints are devoted to create a solid foundation for your team.
-  In these sprints you'll get to know your teammates, perform the high level
-  design of both you project, establish a working agreement with your team, and
-  build the Product Backlog to guide you in the remaining sprints.
-  
-  **How**
-  
-  - [ ]  ***Create a working agreement*** to define your shared goals for the
-  Voyage and expections. How will your share status information, how often will
-  you meet, what are your expectations, what does success look like for your
-  team, how will you make decisions, and how will you deal with conflict? Use
-  this discussion to build a _working agreement_ for how you'll go about
-  building and maintaining the project.
-  
-  **Resources**
-  
-  [What the different roles in a Voyage team?](./topics/voyage_roles.md)</br>
-  [Schej meeting availability tool](https://schej.it/home)</br>
-  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
-  (These read-only templates will be copied to the `docs` subdirectory in your
-  team’s repo when the Voyage starts)
-
-  ---
-
   #### 2. Conduct kickoff meeting 🫱🏼‍🫲🏽
 
   **Objective**
@@ -294,6 +256,10 @@ will be happy to create it for you.
   team’s repo when the Voyage starts)
 
   ---
+
+### Sprint 1 - Setting up your project
+
+![Sprint 1 - Video Overiview](https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe)
 
   #### 3. Add your info to the team list in your README.md ✏️
 
@@ -470,7 +436,7 @@ will be happy to create it for you.
   changes to your `main` branch and test them in the Web host it is deployed
   to **_in each and every sprint_** even before the MVP is complete.
   - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
-  - [ ]  [Develop the App](#sprint-3-5---reaching-your-mvp)
+  - [ ]  [Develop the App](#9-sprint-3-5---reaching-your-mvp-)
   
   **Resources**
   
