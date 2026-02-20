@@ -81,8 +81,6 @@ config:
       block:TOPL2
         columns 1
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-        space
-        space
       end      
       space
       space
