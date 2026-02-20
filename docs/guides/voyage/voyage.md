@@ -79,7 +79,7 @@ config:
       end
       space
       block:TOPL2
-        columns 1
+        columns 6
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
       end      
       space
