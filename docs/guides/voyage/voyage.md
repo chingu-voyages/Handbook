@@ -110,8 +110,6 @@ config:
       end
       block:BOTTOML1
         columns 11
-        space
-        space
         A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;")) 
       end
       block:BOTTOML2
