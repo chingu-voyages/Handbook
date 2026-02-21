@@ -119,7 +119,6 @@ config:
       end      
       block:BOTTOML3
         columns 11
-        space
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end      
