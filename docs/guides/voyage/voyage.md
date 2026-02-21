@@ -120,7 +120,7 @@ config:
       end      
       block:BOTTOML3
         columns 11
-        A2("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))       
         A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
