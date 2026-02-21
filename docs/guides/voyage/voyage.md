@@ -81,6 +81,7 @@ config:
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         space
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
         A12(("&nbsp;&nbsp;&nbsp;12 &nbsp;"))
@@ -110,7 +111,6 @@ config:
       end
       block:BOTTOML1
         columns 11
-        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         space
         space
         A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;")) 
@@ -164,6 +164,7 @@ config:
     style A9 color:#f0f6fc,fill:#1d8348
     style A10 color:#f0f6fc,fill:#1d8348
     style A11 color:#f0f6fc,fill:#1d8348
+    style A12 color:#f0f6fc,fill:#1d8348
 
     style SPRINT0 color:#f0f6fc,fill:#b9770e
     style SPRINT1 color:#f0f6fc,fill:#b9770e
