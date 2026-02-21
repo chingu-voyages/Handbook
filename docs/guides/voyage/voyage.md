@@ -110,12 +110,12 @@ config:
       end
       block:BOTTOML1
         columns 11
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;")) 
       end
       block:BOTTOML2
         columns 11
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end      
       block:BOTTOML3
         columns 11
