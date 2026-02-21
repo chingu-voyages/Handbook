@@ -173,8 +173,10 @@ config:
 
 A team channel is provided in Discord to every team at the start of the Voyage. You should use this to communicate and collaborate with your teammates. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates.
 
-**_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project.** Doing this means we won't be able to provide assistance when you
-need it.
+You and your team **must** use only the Team Channel we provide to communicate
+with each other about your project. We don't monitor the content in this
+channel, but we do count the number of messages posted to make sure teams are
+communicating.
 
 You will also be provided with a GitHub repo for your project. This is created
 for you in the `chingu-voyages` organization and everyone on your team is
@@ -191,7 +193,7 @@ will be happy to create it for you.
 
 ![Sprint 0 - Video Overiview](https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe)
 
-  #### 1. Meet your team & schedule kickoff meeting 📅
+  #### 1. Get to know your team 🤝🏻
   
   **Objective**
   
@@ -204,28 +206,65 @@ will be happy to create it for you.
   together. In fact, this is more important than how much code you create or
   how fast you deploy it.
 
-  The first three sprints are devoted to create a solid foundation for your team.
-  In these sprints you'll get to know your teammates, perform the high level
-  design of both you project, establish a working agreement with your team, and
-  build the Product Backlog to guide you in the remaining sprints.
+  Spend time in your team channel to introduce yourself, learn more about your
+  teammates, and determine what your common goals and dislikes. Voyages are hard work and building trust within
+  the team helps you reduce conflicts and work more productively together.
   
   **How**
   
   - [ ]  ***Start by introducing yourself*** to your team. Post an introduction
   in your team channel to let your teammates know about you as a professional
-  and an individual. Share your availability, goals, and expectations with your
-  teammates.
-  - [ ]  ***Create a working agreement***
+  and an individual. 
+  - [ ] ***Share information with your team** including your availability, goals,
+  expectations, likes and dislikes with your teammates. Identify what you have
+  in common and what differences exist so you can work to understand one
+  another better.
+  - [ ]  ***Have Fun!*** Work doesn't have to be stressful or painful. In fact,
+  the team environment you create has to be productive, but it should also one
+  that's focused on the goal, but also relaxed and supportive.
   
   **Resources**
   
   [What the different roles in a Voyage team?](./topics/voyage_roles.md)</br>
-  [Schej meeting availability tool](https://schej.it/home)</br>
-  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
-  (These read-only templates will be copied to the `docs` subdirectory in your
-  team’s repo when the Voyage starts)
 
-  #### 2. Conduct kickoff meeting 🫱🏼‍🫲🏽
+  #### 2. Conduct a realtime team meeting 🧑‍⚖️
+
+  **Objective**
+  
+  Once you have met your teammates and spent a few days getting to know one
+  another in your team channel, schedule a realtime meeting. Talking with your
+  teammates in realtime is a more personal way to communicate and one that
+  will reinforce the team bonding process.
+  
+  **How**
+  
+  - [ ]  When the Sprint 0 starts, the first person in the Team Channel should
+  create a [Schej meeting availability event](https://schej.it/home) and post it
+  in the channel. Everyone can update add their availability so the team
+  meeting can be scheduled.
+  - [ ]  Schedule this meeting for the latter half of Sprint 0 to give
+  yourselves time to get to know one another in your team channel.
+  - [ ]  Consider starting the meeting with an "icebreaker". You can find some
+  ideas for these in this article, [6 Of The Best Icebreakers For Your Next Workshop Or Meeting](https://facilitator.com/blog/icebreakers-for-meetings-and-workshops)
+  - [ ]  Not everyone will feel comfortable speaking in a group meeting. Make
+  sure to build an environment where everyone feels safe and comfortable in
+  finding their voice and sharing with their teammates.
+  
+  **Pro Tip!** Use the [audio/visual channel](../topics/tips_voice_channel.md)
+  for your team for meetings. This supports not only audio & video in real time,
+  but also screen sharing.
+
+  **Resources**
+
+  [Schej meeting availability tool](https://schej.it/home)</br>
+
+  ---
+
+### Sprint 1 - Setting up your project
+
+![Sprint 1 - Video Overiview](https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe)
+
+#### 3. Hold a kickoff meeting 🫱🏼‍🫲🏽
 
   **Objective**
   
@@ -252,16 +291,14 @@ will be happy to create it for you.
   but also screen sharing.
 
   **Resources**
-  
-  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These read-only templates will be copied to the `docs` subdirectory in your
+
+  [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  (These read-only templates will be copied to the `docs` subdirectory in your
   team’s repo when the Voyage starts)
+  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
   ---
-
-### Sprint 1 - Setting up your project
-
-![Sprint 1 - Video Overiview](https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe)
-
+  
   #### 3. Add your info to the team list in your README.md ✏️
 
   **Objective**
