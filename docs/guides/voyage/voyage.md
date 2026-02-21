@@ -81,17 +81,17 @@ config:
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         space
-        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
-        A11(("&nbsp;&nbsp;&nbsp;11&nbsp;"))
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
+        A12(("&nbsp;&nbsp;&nbsp;12 &nbsp;"))
       end
       block:TOPL2
         columns 11
       end 
       block:TOPL3
         columns 11
-        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
-        A10(("&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;"))
+        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        A11(("&nbsp;&nbsp;&nbsp; 11 &nbsp;&nbsp;"))
       end      
       space
       space
@@ -110,32 +110,34 @@ config:
       end
       block:BOTTOML1
         columns 11
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
         space
         space
-        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;")) 
+        A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;")) 
       end
       block:BOTTOML2
         columns 11
       end      
       block:BOTTOML3
         columns 11
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))       
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
+        A2("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))       
+        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end      
 
       A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
-      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT0
-      A3 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-setup-your-teams-working-agreements-">Create</br>team</br>agreements" --> SPRINT1
-      A4 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create vision</a>" --> SPRINT1
-      A5 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
-      A6 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
-      A7 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-select-a-tech-stack">Select a</br>tech</br>stack</a>" --> SPRINT1
-      A8 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
-      A9 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>UI/UX design</a>" --> SPRINT2
-      A10 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
-      A11 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#11-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
+      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-team-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT0
+      A3 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-conduct-kickoff-meeting-">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT1
+      A4 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-setup-your-teams-working-agreements-">Create</br>team</br>agreements" --> SPRINT1
+      A5 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create vision</a>" --> SPRINT1
+      A6 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
+      A7 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
+      A8 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-tech-stack">Select a</br>tech</br>stack</a>" --> SPRINT1
+      A9 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
+      A10 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>UI/UX design</a>" --> SPRINT2
+      A11 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#11-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
+      A12 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#12-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
     end
 
     SPRINT0 --> SPRINT1
