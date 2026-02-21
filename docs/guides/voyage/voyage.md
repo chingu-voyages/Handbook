@@ -112,6 +112,7 @@ config:
         columns 11
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
+        space
         A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;")) 
       end
       block:BOTTOML2
