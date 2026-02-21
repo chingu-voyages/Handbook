@@ -81,7 +81,6 @@ config:
         columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
         A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
         A12(("&nbsp;&nbsp;&nbsp;12 &nbsp;"))
       end
@@ -91,6 +90,7 @@ config:
       block:TOPL3
         columns 11
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
         A11(("&nbsp;&nbsp;&nbsp; 11 &nbsp;&nbsp;"))
       end      
       space
