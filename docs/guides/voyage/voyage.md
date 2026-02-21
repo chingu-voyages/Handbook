@@ -114,13 +114,13 @@ config:
       end
       block:BOTTOML2
         columns 11
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end      
       block:BOTTOML3
         columns 11
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))       
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
+        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end      
 
       A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Teammate</br>intros in</br>channel</a>" --> SPRINT0
