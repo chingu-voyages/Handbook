@@ -191,7 +191,7 @@ will be happy to create it for you.
 
 ### Sprint 0 - Getting to know your team
 
-![Sprint 0 - Video Overiview](https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe)
+![Sprint 0 - Video Overiview](Handbook/docs/guides/voyage/assets/Chingu_Voyage__Sprint_0.mp4)
 
   #### 1. Get to know your team 🤝🏻
   
