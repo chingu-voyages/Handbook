@@ -264,7 +264,9 @@ https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
 
 ### Sprint 1 - Setting up your project
 
-![Sprint 1 - Video Overview](https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07)
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
+<!-- markdownlint-enable MD034 -->
 
 #### 3. Hold a kickoff meeting 🫱🏼‍🫲🏽
 
