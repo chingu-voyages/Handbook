@@ -131,7 +131,7 @@ config:
       A5 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create vision</a>" --> SPRINT1
       A6 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
       A7 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
-      A8 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-tech-stack">Select a</br>technical</br>stack</a>" --> SPRINT1
+      A8 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-technical-stack-%EF%B8%8F">Select a</br>technical</br>stack</a>" --> SPRINT1
       A9 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
       A10 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>UI/UX design</a>" --> SPRINT2
       A11 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#11-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
@@ -430,15 +430,22 @@ will be happy to create it for you.
 
   **Objective**
   
-  tbd
+  Every project is created using a specific combination of programming language(s),
+  libraries, and tools. As a team, agreeing on these is one step in making sure the
+  application you create will be consistent, supportable, and maintainable.
 
   **How**
 
-  tbd
+  Developers are the primary decision makers for the choice of a Technical Stack, but
+  teammates in other roles are contributors by asking questions to help them make
+  sure they've made the best decision for the team.
+
+  - [ ]  As a team meet and discuss the various options available to you in either your
+  team channel, a realtime meeting, or both.
 
   **Resources**
 
-  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
+  [Choosing your Techstack](../../resources/techresources/techstack.md)
 
 ### Sprint 2 - Creating your Backlog Tasks & UI/UX Design
 
