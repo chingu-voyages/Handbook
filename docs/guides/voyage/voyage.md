@@ -428,6 +428,8 @@ https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
 
   [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
 
+  ---
+
   #### 8. Select a Technical Stack ⚙️
 
   **Objective**
