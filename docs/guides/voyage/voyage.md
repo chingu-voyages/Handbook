@@ -298,36 +298,38 @@ will be happy to create it for you.
   [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
   ---
-  
-  #### 3. Add your info to the team list in your README.md ✏️
+
+  #### 4. Setup your teams Working Agreements 🌊
 
   **Objective**
   
-  Your team repo is a public GitHub repo where your team will maintain the source
-  code for your project. Only you and your teammates have update access to it.
-
-  Every member of the team should verify that they have update access
-  to this repo. This includes Product Owners, Scrum Masters, UI/UX
-  Designers, and Developers.
-
+  Define how you plan to work together as a team. This includes how often you’ll share status, coding standards, git/GitHub processes, and deciding how many meetings you need each week.
+  
   **How**
-
-  ![Our Team topic in Team Repo](./assets/Team_Repo_Our_Team.png)
-
-  - [ ] The `README.md` in your team repo has been pre-populated with a section
-  titled "Our Team". Before the end of Sprint 1 every team member should add
-  their infomation to it.
-
-  This shows not only who is on the team, but it is also a quick and easy
-  way to verify that everyone has update access.
-
+  
+  - [ ]  Decide on the coding standards the team must follow.
+  - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the working agreement everyone must follow.
+  - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
+  - [ ]  Decide on where you’ll [deploy your app](../../resources/techresources/appdeployment.md) and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is
+  similar to your production environment. You should also deploy your app
+  changes to your `main` branch and test them in the Web host it is deployed
+  to **_in each and every sprint_** even before the MVP is complete.
+  - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
+  - [ ]  [Develop the App](#9-sprint-3-5---reaching-your-mvp-)
+  
   **Resources**
-
-  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
+  
+  [Javascript Style Guides](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)</br>
+  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)</br>
+  [Git Branches (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-branches)</br>
+  [Git Commits (Chingu Handbook)](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages)</br>
+  [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)</br>
+  [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)</br>
+  [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)</br>
 
   ---
 
-  #### 4. Choose a project & create a Vision Statement 👓
+  #### 5. Choose a project & create a Vision Statement 👓
 
   **This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been
   assigned a project along with a link to its requirements and specifications in
@@ -370,7 +372,7 @@ will be happy to create it for you.
 
   ---
 
-  #### 5. Define & prioritize MVP features 🔢
+  #### 6. Define & prioritize MVP features 🔢
 
   **Objective**
   
@@ -396,13 +398,41 @@ will be happy to create it for you.
   be copied to the `docs` subdirectory in your team’s repo when the Voyage
   starts)
 
+  ---
+
+  #### 7. Add your info to the team list in your README.md ✏️
+
+  **Objective**
+  
+  Your team repo is a public GitHub repo where your team will maintain the source
+  code for your project. Only you and your teammates have update access to it.
+
+  Every member of the team should verify that they have update access
+  to this repo. This includes Product Owners, Scrum Masters, UI/UX
+  Designers, and Developers.
+
+  **How**
+
+  ![Our Team topic in Team Repo](./assets/Team_Repo_Our_Team.png)
+
+  - [ ] The `README.md` in your team repo has been pre-populated with a section
+  titled "Our Team". Before the end of Sprint 1 every team member should add
+  their infomation to it.
+
+  This shows not only who is on the team, but it is also a quick and easy
+  way to verify that everyone has update access.
+
+  **Resources**
+
+  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
+
 ### Sprint 2 - Creating your Backlog Tasks & UI/UX Design
 
 ![Sprint 2 - Video Overview](https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6)
 
   ---
   
-  #### 6. Setup Product Backlog 📋
+  #### 9. Setup Product Backlog 📋
 
   **Objective**
   
@@ -434,7 +464,7 @@ will be happy to create it for you.
 
   ---
 
-  #### 7. Create a low-fidelity wireframe 🖼️
+  #### 10. Create a low-fidelity wireframe 🖼️
 
   **Objective**
   
@@ -456,37 +486,7 @@ will be happy to create it for you.
   
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
 
-  ---
-
-  #### 8. Setup your teams Working Agreements 🌊
-
-  **Objective**
-  
-  Define how you plan to work together as a team. This includes how often you’ll share status, coding standards, git/GitHub processes, and deciding how many meetings you need each week.
-  
-  **How**
-  
-  - [ ]  Decide on the coding standards the team must follow.
-  - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the working agreement everyone must follow.
-  - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
-  - [ ]  Decide on where you’ll [deploy your app](../../resources/techresources/appdeployment.md) and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is
-  similar to your production environment. You should also deploy your app
-  changes to your `main` branch and test them in the Web host it is deployed
-  to **_in each and every sprint_** even before the MVP is complete.
-  - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
-  - [ ]  [Develop the App](#9-sprint-3-5---reaching-your-mvp-)
-  
-  **Resources**
-  
-  [Javascript Style Guides](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)</br>
-  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)</br>
-  [Git Branches (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-branches)</br>
-  [Git Commits (Chingu Handbook)](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages)</br>
-  [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)</br>
-  [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)</br>
-  [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)</br>
-
-### 9. Sprint 3-5 - Reaching your MVP 🪜
+### 11. Sprint 3-5 - Reaching your MVP 🪜
 
 ![Sprint 3-5 - Video Overview](https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562)
   
@@ -539,7 +539,7 @@ will be happy to create it for you.
   - [Meeting templates - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)</br>
   - [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
-### 10. Sprint 6 - Project Closure 🏁
+### 12. Sprint 6 - Project Closure 🏁
 
 ![Sprint 6 - Video Overview)[https://github.com/user-attachments/assets/739d36f6-eba6-41ed-b8b4-4cde608e3ea7]
   
