@@ -191,7 +191,9 @@ will be happy to create it for you.
 
 ### Sprint 0 - Getting to know your team
 
+<!-- markdownlint-disable MD034 -->
 https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
+<!-- markdownlint-enable MD034 -->
 
   #### 1. Get to know your team 🤝🏻
   
