@@ -191,7 +191,7 @@ will be happy to create it for you.
 
 ### Sprint 0 - Getting to know your team
 
-![Sprint 0 - Video Overiview](./assets/Your_Guide_to_Sprint_0.mp4)
+https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
 
   #### 1. Get to know your team 🤝🏻
   
