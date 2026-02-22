@@ -125,9 +125,9 @@ config:
       end      
 
       A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-get-to-know-your-team-">Get to know</br>your</br> team</a>" --> SPRINT0
-      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-a-realtime-team-meeting-%E2%80%8D%EF%B8%8F">Conduct a</br>realtime</br>team mtg.</a>" --> SPRINT0
-      A3 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-conduct-a-kickoff-meeting-">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT1
-      A4 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-setup-your-teams-working-agreements-">Create</br>team</br>agreements" --> SPRINT1
+      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-hold-a-realtime-team-meeting-%E2%80%8D%EF%B8%8F">Conduct a</br>realtime</br>team mtg.</a>" --> SPRINT0
+      A3 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT1
+      A4 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create</br>team</br>agreements" --> SPRINT1
       A5 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create vision</a>" --> SPRINT1
       A6 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
       A7 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
@@ -214,7 +214,7 @@ will be happy to create it for you.
   
   - [ ]  ***Start by introducing yourself*** to your team. Post an introduction
   in your team channel to let your teammates know about you as a professional
-  and an individual. 
+  and an individual.
   - [ ] ***Share information with your team** including your availability, goals,
   expectations, likes and dislikes with your teammates. Identify what you have
   in common and what differences exist so you can work to understand one
@@ -227,7 +227,7 @@ will be happy to create it for you.
   
   [What the different roles in a Voyage team?](./topics/voyage_roles.md)</br>
 
-  #### 2. Conduct a realtime team meeting 🧑‍⚖️
+  #### 2. Hold a realtime team meeting 🧑‍⚖️
 
   **Objective**
   
@@ -299,7 +299,7 @@ will be happy to create it for you.
 
   ---
 
-  #### 4. Setup your teams Working Agreements 🌊
+  #### 4. Create your teams Working Agreements 🌊
 
   **Objective**
   
@@ -315,7 +315,7 @@ will be happy to create it for you.
   changes to your `main` branch and test them in the Web host it is deployed
   to **_in each and every sprint_** even before the MVP is complete.
   - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
-  - [ ]  [Develop the App](#9-sprint-3-5---reaching-your-mvp-)
+  - [ ]  [Develop the App](#11-sprint-3-5---reaching-your-mvp-)
   
   **Resources**
   
