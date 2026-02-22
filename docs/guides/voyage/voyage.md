@@ -125,7 +125,7 @@ config:
       end      
 
       A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-get-to-know-your-team-">Get to know</br>your</br> team</a>" --> SPRINT0
-      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-hold-a-realtime-team-meeting-%E2%80%8D%EF%B8%8F">Conduct a</br>realtime</br>team mtg.</a>" --> SPRINT0
+      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-hold-a-realtime-team-meeting-%E2%80%8D%EF%B8%8F">Hold a</br>realtime</br>team mtg.</a>" --> SPRINT0
       A3 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT1
       A4 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create</br>team</br>agreements" --> SPRINT1
       A5 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create vision</a>" --> SPRINT1
