@@ -192,6 +192,7 @@ will be happy to create it for you.
 ### Sprint 0 - Getting to know your team
 
 ![Sprint 0 - Video Overiview](./assets/Your_Guide_to_Sprint_0.mp4)
+
   #### 1. Get to know your team 🤝🏻
   
   **Objective**
