@@ -437,7 +437,7 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
 ### Sprint 2 - Creating your Backlog Tasks & UI/UX Design
 
 <!-- markdownlint-disable MD034 -->
-https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
+https://github.com/user-attachments/assets/4e37870d-4ab0-43e7-861c-52ab829a26bc
 <!-- markdownlint-enable MD034 -->
 
   ---
@@ -499,7 +499,7 @@ https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
 ### 11. Sprint 3-5 - Reaching your MVP 🪜
 
 <!-- markdownlint-disable MD034 -->
-https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
+https://github.com/user-attachments/assets/d2a08aa3-dc21-45f2-80ea-6c3be6f59116
 <!-- markdownlint-enable MD034 -->
   
   **Objective**
