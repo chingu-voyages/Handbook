@@ -455,7 +455,9 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
 
 ### Sprint 2 - Creating your Backlog Tasks & UI/UX Design
 
-![Sprint 2 - Video Overview](https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6)
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
+<!-- markdownlint-enable MD034 -->
 
   ---
   
@@ -515,7 +517,9 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
 
 ### 11. Sprint 3-5 - Reaching your MVP 🪜
 
-![Sprint 3-5 - Video Overview](https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562)
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
+<!-- markdownlint-enable MD034 -->
   
   **Objective**
   
@@ -568,7 +572,9 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
 
 ### 12. Sprint 6 - Project Closure 🏁
 
-![Sprint 6 - Video Overview)[https://github.com/user-attachments/assets/739d36f6-eba6-41ed-b8b4-4cde608e3ea7]
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/739d36f6-eba6-41ed-b8b4-4cde608e3ea7
+<!-- markdownlint-enable MD034 -->
   
   **Objective**
   
