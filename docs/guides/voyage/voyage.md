@@ -437,8 +437,12 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
 ### Sprint 2 - Creating your Backlog Tasks & UI/UX Design
 
 <!-- markdownlint-disable MD034 -->
-https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
+https://github.com/user-attachments/assets/4e37870d-4ab0-43e7-861c-52ab829a26bc
 <!-- markdownlint-enable MD034 -->
+
+
+https://github.com/user-attachments/assets/c6199015-6139-4afa-83e5-cb3728293c57
+
 
   ---
   
