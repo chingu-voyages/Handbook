@@ -45,25 +45,6 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 | Completion Certificates issued | March 4 | May 20 | July 29 |
 | Showcase article available | March 4 | May 20 | July 29 |
 
-### How to Prepare for your Voyage 📝
-
-We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
-
-[What Level of Commitment is Required for a Voyage](./topics/voyage_commitment.md)</br>
-[What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
-[How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
-[What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
-[How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
-[What are the roles in a Voyage team?](./topics/voyage_roles.md)</br>
-[What are the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
-[How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
-[How are Voyage teams formed?](./topics/voyage_teams.md)</br>
-[What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
-[What if I need more skills?](./topics/voyage_skills.md)</br>
-[What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
-[How should my Team select a project?](./topics/voyage_project.md)</br>
-[How should PO's and Scrum Masters monitor the project?](./topics/voyage_project_monitoring.md)</br>
-
 ## The Voyage Process
 
 ```mermaid
@@ -617,6 +598,25 @@ Two other optional activities you should consider to share your success with oth
   [Chingu Content Creators Guide](https://dev.to/chingu/chingu-content-creators-guide-3k6h)
 
 ## Voyage Tips
+
+### How to Prepare for your Voyage 📝
+
+We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
+
+[What Level of Commitment is Required for a Voyage](./topics/voyage_commitment.md)</br>
+[What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
+[How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
+[What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
+[How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
+[What are the roles in a Voyage team?](./topics/voyage_roles.md)</br>
+[What are the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
+[How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
+[How are Voyage teams formed?](./topics/voyage_teams.md)</br>
+[What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
+[What if I need more skills?](./topics/voyage_skills.md)</br>
+[What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
+[How should my Team select a project?](./topics/voyage_project.md)</br>
+[How should PO's and Scrum Masters monitor the project?](./topics/voyage_project_monitoring.md)</br>
 
 ### Tips for all teammates ✏️
 
