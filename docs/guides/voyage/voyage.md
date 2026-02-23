@@ -499,7 +499,7 @@ https://github.com/user-attachments/assets/4e37870d-4ab0-43e7-861c-52ab829a26bc
 ### 11. Sprint 3-5 - Reaching your MVP 🪜
 
 <!-- markdownlint-disable MD034 -->
-https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
+https://github.com/user-attachments/assets/d2a08aa3-dc21-45f2-80ea-6c3be6f59116
 <!-- markdownlint-enable MD034 -->
   
   **Objective**
