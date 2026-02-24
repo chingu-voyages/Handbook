@@ -14,13 +14,13 @@
 
 ## What is VoyageXP❓
 
-Voyage XP is a paid tier — just $20 for the entire 8-week program.
+Voyage XP is a paid tier — just $20 for the entire 10-week program.
 Why? Because research shows that when people pay even a small amount, they
 stay more committed, motivated, and accountable. We’ve priced this
 intentionally low to keep it accessible, but just enough to help you — and
 your teammates — show up fully.
 
-This isn’t a sprint. It’s an 8-week cohort (instead of 6) — giving you more time to:
+This isn’t a sprint. It’s an 10-week cohort (instead of 7) — giving you more time to:
 
 * Build strong relationships with your team
 * Gain real momentum
@@ -69,7 +69,7 @@ a real tech company
 This is an advanced track, and we want you to be set up for success. Here’s what
 you need to apply:
 
-✅ You’ve successfully completed at least one Tier 3 Chingu Voyage
+✅ You’ve successfully completed at least one Tier 2 or Tier 3 Chingu Voyage
 
 ✅ You can commit 15 hours/week for 8 weeks
 
@@ -94,14 +94,14 @@ flowchart TB
 
 | Milestone | 2026<br>VoyageXP 58 |
 | :--- | :--- |
-| Signup Deadline | TBD |
-| Assessment Interviews | TBD - TBD |
-| Session starts | TBD |
-| Session ends & projects due | TBD |
-| Demo Day presentations due | TBD |
-| Demo Day | TBD |
-| Completion Certificates issued | TBD |
-| Showcase article published | TBD |
+| Signup Deadline | March 11 |
+| Assessment Interviews | March 15 - 21 |
+| Session starts | March 30 |
+| Session ends & projects due | June 7 |
+| Demo Day presentations due | June 8 |
+| Demo Day | June 10 |
+| Completion Certificates issued | June 17 |
+| Showcase article published | June 17 |
 
 ## The VoyageXP Process
 
