@@ -19,12 +19,15 @@
 
 ## What are Voyages❓
 
-Voyages are 6-week long remote team projects where you'll level up your skills and build experience to help you land your dream job. This is by:
+Voyages are 6-week long remote team projects where you'll level up
+your skills and build experience to help you land your dream job.
+This is by:
 
 - Putting the technical knowledge you've gained into practice in
-one of three [tiers](./topics/voyage_tiers.md) which match your 
+one of three [tiers](./topics/voyage_tiers.md) which match your
 technical skills to thoseof your teammates.
-- Improving "soft" skills like teamwork, collaboration, and project management.
+- Improving "soft" skills like teamwork, collaboration, and project
+management.
 - Being accountable to your commitments to your team and yourself.
 - Adding new skills like Agile & Scrum.
 
@@ -57,19 +60,19 @@ so it's the best place for open, frank, and respectful
 communication with your teammates.
 
 You and your team **must** use only the Team Channel we provide to
-communicate with each other about your project. We don't monitor 
-the content in this channel, but we do count the number of messages 
+communicate with each other about your project. We don't monitor
+the content in this channel, but we do count the number of messages
 posted to make sure teams are communicating.
 
-You will also be provided with a GitHub repo for your project. This 
-is createdfor you in the `chingu-voyages` organization and everyone 
+You will also be provided with a GitHub repo for your project. This
+is created for you in the `chingu-voyages` organization and everyone
 on your team is granted `admin`access to it. But, **you must**:
 
 - leave this as a public repo
 - not rename the repo we've provided
 - not create any additional repos on your own
 
-If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of 
+If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of
 the Chingu Admin team will be happy to create it for you.
 
 ## The Voyage Process
@@ -262,10 +265,10 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
 
   **Objective**
   
-  In the Kickoff Meeting you will meet your teammates, review the goals & steps
-  to follow in Sprints 1 & 2, discuss the project you will be building, agree on
-  a working agreementand, plus anything else to create a solid foundation for
-  teamwork.
+  In the Kickoff Meeting you will meet your teammates, review the
+  goals & steps to follow in Sprints 1 & 2, discuss the project you
+  will be building, agree on a working agreement, plus anything
+  else to create a solid foundation for teamwork.
   
   **How**
   
@@ -409,12 +412,12 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
 
   ![Our Team topic in Team Repo](./assets/Team_Repo_Our_Team.png)
 
-  - [ ] The `README.md` in your team repo has been pre-populated with a section
-  titled "Our Team". Before the end of Sprint 1 every team member should add
-  their infomation to it.
+  - [ ] The `README.md` in your team repo has been pre-populated
+  with a section titled "Our Team". Before the end of Sprint 1
+  every team member should add their information to it.
 
-  This shows not only who is on the team, but it is also a quick and easy
-  way to verify that everyone has update access.
+  This shows not only who is on the team, but it is also a quick
+  and easy way to verify that everyone has update access.
 
   **Resources**
 
@@ -477,7 +480,7 @@ https://github.com/user-attachments/assets/4e37870d-4ab0-43e7-861c-52ab829a26bc
   
   **Resources**
   
-  [Define Your MVP]((../../resources/glossary/glossary.md))</br>
+  [Define Your MVP](../../resources/glossary/glossary.md)</br>
   [How to Create a Product Backlog (video)](https://youtu.be/FaoT-DTtXyA)</br>
   [Agile Methodology 101 (article)](../../resources/projresources/agile101.md)</br>
 
