@@ -21,22 +21,18 @@
 
 Voyages are 6-week long remote team projects where you'll level up your skills and build experience to help you land your dream job. This is by:
 
-- Putting the technical knowledge you've gained into practice.
+- Putting the technical knowledge you've gained into practice in
+one of three [tiers](./topics/voyage_tiers.md) which match your 
+technical skills to thoseof your teammates.
 - Improving "soft" skills like teamwork, collaboration, and project management.
 - Being accountable to your commitments to your team and yourself.
 - Adding new skills like Agile & Scrum.
-
-## Before you Start
-
-Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member.
-
-Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment on your part to be an active participant and to finish what you start.
 
 ### Voyage Schedule 🗓️
 
 | Milestone | Voyage 59 | Voyage 60 | Voyage 61 |
 | :--- | :--- | :--- | :--- |
-| Solo Project Deadline | December 31, 2025 | March 11 | May 20 |
+| Solo Project Deadline | December 31 | March 11 | May 20 |
 | Voyage Launch | January 12 | March 23 | June 1 |
 | Weekly Checkin due | Every Monday | Every Monday | Every Monday |
 | Voyage ends & projects due | February 22 | May 10 | July 19 |
@@ -44,6 +40,37 @@ Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean t
 | Demo Day | February 25 | May 13 | July 22 |
 | Completion Certificates issued | March 4 | May 20 | July 29 |
 | Showcase article available | March 4 | May 20 | July 29 |
+
+## Before you Start
+
+Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member.
+
+Chingu doesn't charge for organizing & managing Voyages, but that
+doesn't mean they are "free". Getting the most out of your Voyage
+requires dedication and commitment on your part to be an active
+participant and to finish what you start.
+
+A team channel is provided in Discord to every team at the start of
+the Voyage. You should use this to communicate and collaborate with
+your teammates. Access to this channel is restricted to your team,
+so it's the best place for open, frank, and respectful
+communication with your teammates.
+
+You and your team **must** use only the Team Channel we provide to
+communicate with each other about your project. We don't monitor 
+the content in this channel, but we do count the number of messages 
+posted to make sure teams are communicating.
+
+You will also be provided with a GitHub repo for your project. This 
+is createdfor you in the `chingu-voyages` organization and everyone 
+on your team is granted `admin`access to it. But, **you must**:
+
+- leave this as a public repo
+- not rename the repo we've provided
+- not create any additional repos on your own
+
+If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of 
+the Chingu Admin team will be happy to create it for you.
 
 ## The Voyage Process
 
@@ -151,24 +178,6 @@ config:
     style SPRINTS35 color:#f0f6fc,fill:#b9770e
     style SPRINT6 color:#f0f6fc,fill:#b9770e
 ```
-
-A team channel is provided in Discord to every team at the start of the Voyage. You should use this to communicate and collaborate with your teammates. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates.
-
-You and your team **must** use only the Team Channel we provide to communicate
-with each other about your project. We don't monitor the content in this
-channel, but we do count the number of messages posted to make sure teams are
-communicating.
-
-You will also be provided with a GitHub repo for your project. This is created
-for you in the `chingu-voyages` organization and everyone on your team is
-granted `admin`access to it. But, **you must**:
-
-- leave this as a public repo
-- not rename the repo we've provided
-- not create any additional repos on your own
-
-If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team
-will be happy to create it for you.
 
 ### Sprint 0 - Getting to know your team
 
