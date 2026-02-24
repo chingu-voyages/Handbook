@@ -14,7 +14,7 @@
 
 ## What is VoyageXP❓
 
-Voyage XP is a paid tier — just $20 for the entire 10-week program.
+Voyage XP is a paid tier — just $30 for the entire 10-week program.
 Why? Because research shows that when people pay even a small amount, they
 stay more committed, motivated, and accountable. We’ve priced this
 intentionally low to keep it accessible, but just enough to help you — and
@@ -29,8 +29,7 @@ This isn’t a sprint. It’s an 10-week cohort (instead of 7) — giving you mo
 Forget the chaos of scheduling around different time zones. In Voyage XP, we’ve
 pre-set dedicated collaboration hours so teams can actually work together.
 
-> All participants must be available 8:00 AM – 11:00 AM Pacific Time (which is 5:00 PM – 8:00 PM
-London Time) with a total commitment of ~15 hours/week.
+> All participants must be available 8:00 – 11:00  Pacific Time (which is 17:00 – 20:00 GMT) with a total commitment of ~15 hours/week.
 
 These hours will include:
 
@@ -54,7 +53,7 @@ Master, 1 Product Owner
 
 ✅ Resume review + interview practice
 
-✅ Feedback, mentorship, and support from your Agile Guide throughout the
+✅ Feedback, mentorship, and support from your Agile & Technical Guide throughout the
 voyage
 
 ✅ A structured, committed team experience designed to simulate working in
@@ -71,7 +70,7 @@ you need to apply:
 
 ✅ You’ve successfully completed at least one Tier 2 or Tier 3 Chingu Voyage
 
-✅ You can commit 15 hours/week for 8 weeks
+✅ You can commit 15 hours/week for 10 weeks
 
 ✅ You’ll attend a quick 15-minute interview so we can make sure it’s the right
 fit for your goals
@@ -92,7 +91,7 @@ flowchart TB
 
 ### VoyageXP Schedule 🗓️
 
-| Milestone | 2026<br>VoyageXP 58 |
+| Milestone | 2026</br>VoyageXP 58 |
 | :--- | :--- |
 | Signup Deadline | March 11 |
 | Assessment Interviews | March 15 - 21 |
