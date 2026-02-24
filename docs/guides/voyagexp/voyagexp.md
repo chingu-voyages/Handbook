@@ -91,7 +91,7 @@ flowchart TB
 
 ### VoyageXP Schedule 🗓️
 
-| Milestone | 2026</br>VoyageXP 58 |
+| Milestone | VoyageXP Schedule |
 | :--- | :--- |
 | Signup Deadline | March 11 |
 | Assessment Interviews | March 15 - 21 |
