@@ -139,8 +139,8 @@ Web Developers. All other roles are present only when available.
 ### Scrum Agile Framework
 
 During a VoyageXP session you and your team will be using and adhering to
-Scrum just as you do in a Voyage. The difference is VoyageXP sessions are 8
-sprints long instead of the 6 sprints in a Voyage. You can review the
+Scrum just as you do in a Voyage. The difference is VoyageXP sessions are 10
+sprints long instead of the 7 sprints in a Voyage. You can review the
 [Voyage Process documentation](../voyage/voyage.md#the-voyage-process) if you
 need a refresher.
 
