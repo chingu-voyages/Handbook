@@ -77,9 +77,9 @@ fit for your goals
 
 ```mermaid
 flowchart TB
-  A{Did you complete a Tier 3 Voyage?};
-  A -- Yes --> B(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>VoyageXP Signup form</a>);
-  A -- No --> C(First complete a Tier 3 Voyage);
+  A{Did you complete a Tier 2 or 3 Voyage?};
+  A -- Yes --> B(Submit <a href='https://forms.gle/19ZDuRVXEfX1JQvv9' target='_blank'>VoyageXP Signup form</a>);
+  A -- No --> C(First complete a Tier 2 or 3 Voyage);
   B --> D(Admin-led Assessment Interview);
   D --> E(Submit non-refundable payment);
   E --> F(Complete Commitment form we email);
