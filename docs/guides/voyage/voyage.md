@@ -1,3 +1,9 @@
+<!-- markdownlint-disable MD007 -->
+<!-- markdownlint-disable MD023 -->
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD036 -->
+<!-- markdownlint-disable MD049 -->
+
 # Voyage
 
 ![Team creating product backlog](./assets/Team_creating_agile_backlog_board.jpeg)
@@ -13,48 +19,61 @@
 
 ## What are Voyages❓
 
-Voyages are 6-week long remote team projects where you'll level up your skills and build experience to help you land your dream job. This is by:
+Voyages are 6-week long remote team projects where you'll level up
+your skills and build experience to help you land your dream job.
+This is by:
 
-- Putting the technical knowledge you've gained into practice.
-- Improving "soft" skills like teamwork, collaboration, and project management.
+- Putting the technical knowledge you've gained into practice in
+one of three [tiers](./topics/voyage_tiers.md) which match your
+technical skills to thoseof your teammates.
+- Improving "soft" skills like teamwork, collaboration, and project
+management.
 - Being accountable to your commitments to your team and yourself.
 - Adding new skills like Agile & Scrum.
 
+### Voyage Schedule 🗓️
+
+| Milestone | Voyage 59 | Voyage 60 | Voyage 61 | Voyage 62 | Voyage 63 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Solo Project Deadline | December 31 | March 11 | May 20 | August 19 | October 21 |
+| Voyage Launch | January 12 | March 23 | June 1 | August 31 | November 2 |
+| Weekly Checkin due every... | Monday | Monday | Monday | Monday | Monday |
+| Voyage ends & projects due | February 22 | May 10 | July 19 | October 18 | December 20 |
+| Demo Day presentations due | February 23 | May 11 | July 20 | October 19 | December 21 |
+| Demo Day | February 25 | May 13 | July 22 | October 21 | December 23 |
+| Completion Certificates issued | March 4 | May 20 | July 29 | October 28 | December 30 |
+| Showcase article available | March 4 | May 20 | July 29 | October 28 | December 30 |
+
 ## Before you Start
 
-Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member. 
+Voyages have specific requirements, milestones, and ***require a commitment of 8-12 hours per week*** from each team member.
 
-Chingu doesn't charge for organizing & managing Voyages, but that doesn't mean they are "free". Getting the most out of your Voyage requires dedication and commitment on your part to be an active participant and to finish what you start.
+Chingu doesn't charge for organizing & managing Voyages, but that
+doesn't mean they are "free". Getting the most out of your Voyage
+requires dedication and commitment on your part to be an active
+participant and to finish what you start.
 
-### Voyage Schedule 🗓️
-| Milestone | Voyage 59 | Voyage 60 | Voyage 61 |
-| :--- | :--- | :--- | :--- |
-| Solo Project Deadline | December 31, 2025 | March 11 | May 20 |
-| Voyage Launch | January 12 | March 23 | June 1 |
-| Weekly Checkin due | Every Monday | Every Monday | Every Monday |
-| Voyage ends & projects due | February 22 | May 3 | July 1 |
-| Demo Day presentations due | February 23 | May 4 | July 12 |
-| Demo Day | February 25 | May 6 | July 13 |
-| Completion Certificates issued | March 4 |  May 13 | July 25 |
-| Showcase article available | March 4 | May 13 | July 25 |
-### How to Prepare for your Voyage 📝
+A team channel is provided in Discord to every team at the start of
+the Voyage. You should use this to communicate and collaborate with
+your teammates. Access to this channel is restricted to your team,
+so it's the best place for open, frank, and respectful
+communication with your teammates.
 
-We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
+You and your team **must** use only the Team Channel we provide to
+communicate with each other about your project. We don't monitor
+the content in this channel, but we do count the number of messages
+posted to make sure teams are communicating.
 
-[What Level of Commitment is Required for a Voyage](./topics/voyage_commitment.md)</br>
-[What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
-[How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
-[What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
-[How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
-[What are the roles in a Voyage team?](./topics/voyage_roles.md)</br>
-[What are the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
-[How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
-[How are Voyage teams formed?](./topics/voyage_teams.md)</br>
-[What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
-[What if I need more skills?](./topics/voyage_skills.md)</br>
-[What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
-[How should my Team select a project?](./topics/voyage_project.md)</br>
-[How should PO's and Scrum Masters monitor the project?](./topics/voyage_project_monitoring.md)</br>
+You will also be provided with a GitHub repo for your project. This
+is created for you in the `chingu-voyages` organization and everyone
+on your team is granted `admin`access to it. But, **you must**:
+
+- leave this as a public repo
+- not rename the repo we've provided
+- not create any additional repos on your own
+
+If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of
+the Chingu Admin team will be happy to create it for you.
 
 ## The Voyage Process
 
@@ -65,138 +84,83 @@ config:
   theme: dark
 ---
   block-beta
-    columns 4
-    block:B1:1
+    columns 1
+
+    block:B0:1
       columns 1
-      block:B1TOP
-        columns 3
+      block:TOPL1
+        columns 11
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
+        A12(("&nbsp;&nbsp;&nbsp;12 &nbsp;"))
       end
+      block:TOPL2
+        columns 11
+      end 
+      block:TOPL3
+        columns 11
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+        A11(("&nbsp;&nbsp;&nbsp; 11 &nbsp;&nbsp;"))
+      end      
       space
       space
-      block:B1CENTER
-        columns 3
+      space
+      block:CENTER
+        columns 11
+        SPRINT0("&nbsp;Sprint 0&nbsp;")
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
-      end
-      space
-      space
-      block:B1BOTTOM
-        columns 3
-        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-        space
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-      end
-      A1 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-meet-your-team--schedule-kickoff-meeting-">Meet team &</br>schedule</br>Kickoff</a>" --> SPRINT1
-      A2 -- "</br></br></br></br></br></br><a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-conduct-kickoff-meeting-">Hold</br>Kickoff</a>" --> SPRINT1
-      A3 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list<a/>" --> SPRINT1
-      A4 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>define</br>vision stmt.</a>" --> SPRINT1
-      A5 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
-    end
-
-    block:B2:1
-      columns 1
-      block:B2TOP
-        columns 3
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-        space
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
-      end
-      space
-      space
-      block:B2CENTER
-        columns 3
-        space
         SPRINT2("&nbsp;Sprint 2&nbsp;")
         space
-      end
-      space
-      space
-      block:B2BOTTOM
-        columns 3
-        space
-        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
-        space
-      end
-      A6 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
-      A7 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-create-a-low-fidelity-wireframe-%EF%B8%8F">Create</br>Wireframe</a>" --> SPRINT2
-      A8 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-setup-your-teams-working-agreements-">Define team working agreements</a>" --> SPRINT2
-    end
-
-    block:B3:1
-      columns 1
-      block:B3TOP
-        columns 3
-        space
-        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
-        space
-      end
-      space
-      space
-      space
-      space
-      block:B3CENTER
-        columns 3
-        space
-        SPRINTS35("&nbsp;Sprint 3-5 ")
-        space
-      end
-      space
-      block:B3BOTTOM
-        columns 3
-        space
-        space
-        space
-      end
-      A9 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
-    end
-
-    block:B4:1
-      columns 1
-      block:B4TOP
-        columns 3
-        space
-        A10(("&nbsp;&nbsp;&nbsp;10&nbsp;"))
-        space
-      end
-      space
-      space
-      block:B4CENTER
-        columns 3
+        SPRINTS35("&nbsp;Sprints 3-5&nbsp;")
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
-        space
       end
-      space
-      space
-      block:B4BOTTOM
-        columns 3
+      block:BOTTOML1
+        columns 11
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
         space
-        space
-        space
+        A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;")) 
       end
-      A10 -- "<a href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
+      block:BOTTOML2
+        columns 11
+      end      
+      block:BOTTOML3
+        columns 11
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
+        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
+      end      
+
+      A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-get-to-know-your-team-">Get to know</br>your</br> team</a>" --> SPRINT0
+      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-hold-a-realtime-team-meeting-%E2%80%8D%EF%B8%8F">Hold a</br>realtime</br>team mtg.</a>" --> SPRINT0
+      A3 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT1
+      A4 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create</br>team</br>agreements</a>" --> SPRINT1
+      A5 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create vision</a>" --> SPRINT1
+      A6 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
+      A7 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list</a>" --> SPRINT1
+      A8 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-technical-stack-%EF%B8%8F">Select a</br>technical</br>stack</a>" --> SPRINT1
+      A9 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
+      A10 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-create-a-uiux-design-%EF%B8%8F">Create</br>UI/UX design</a>" --> SPRINT2
+      A11 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#11-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
+      A12 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#12-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
     end
 
+    SPRINT0 --> SPRINT1
     SPRINT1 --> SPRINT2
     SPRINT2 --> SPRINTS35
     SPRINTS35 --> SPRINT6
 
-    style B1TOP stroke:#292d30,fill:#292d30
-    style B1CENTER stroke:#292d30,fill:#292d30
-    style B1BOTTOM stroke:#292d30,fill:#292d30
-    style B2TOP stroke:#292d30,fill:#292d30
-    style B2CENTER stroke:#292d30,fill:#292d30
-    style B2BOTTOM stroke:#292d30,fill:#292d30
-    style B3TOP stroke:#292d30,fill:#292d30
-    style B3CENTER stroke:#292d30,fill:#292d30
-    style B3BOTTOM stroke:#292d30,fill:#292d30
-    style B4TOP stroke:#292d30,fill:#292d30
-    style B4CENTER stroke:#292d30,fill:#292d30
-    style B4BOTTOM stroke:#292d30,fill:#292d30
+    style TOPL1 stroke:#292d30,fill:#292d30
+    style TOPL2 stroke:#292d30,fill:#292d30
+    style TOPL3 stroke:#292d30,fill:#292d30
+    style CENTER stroke:#292d30,fill:#292d30
+    style BOTTOML1 stroke:#292d30,fill:#292d30
+    style BOTTOML2 stroke:#292d30,fill:#292d30
+    style BOTTOML3 stroke:#292d30,fill:#292d30
         
     style A1 color:#f0f6fc,fill:#1d8348
     style A2 color:#f0f6fc,fill:#1d8348
@@ -208,134 +172,177 @@ config:
     style A8 color:#f0f6fc,fill:#1d8348
     style A9 color:#f0f6fc,fill:#1d8348
     style A10 color:#f0f6fc,fill:#1d8348
+    style A11 color:#f0f6fc,fill:#1d8348
+    style A12 color:#f0f6fc,fill:#1d8348
+
+    style SPRINT0 color:#f0f6fc,fill:#b9770e
     style SPRINT1 color:#f0f6fc,fill:#b9770e
     style SPRINT2 color:#f0f6fc,fill:#b9770e
     style SPRINTS35 color:#f0f6fc,fill:#b9770e
     style SPRINT6 color:#f0f6fc,fill:#b9770e
 ```
 
-A team channel is provided in Discord to every team at the start of the Voyage. You should use this to communicate and collaborate with your teammates. Access to this channel is restricted to your team, so it's the best place for open, frank, and respectful communication with your teammates. 
+### Sprint 0 - Getting to know your team
 
-**_Your team must not create your own Discord server, Slack channel, etc. to communicate with each other about your project._** Doing this means we won't be able to provide assistance when you
-need it.
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
+<!-- markdownlint-enable MD034 -->
 
-You will also be provided with a GitHub repo for your project. This is created for you in the `chingu-voyages` organization and everyone on your team is granted `admin`
-access to it. But, **you must***:
-
-- leave this as a public repo
-- not rename the repo we've provided
-- not create any additional repos on your own
-
-If you need another repo, [open a ticket](https://discord.com/channels/330284646283608064/1105911757177888908) and a member of the Chingu Admin team will be happy to create it for you.
-
-### Sprint 1 - Getting off to a Solid Start
-
-https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
-
----
-  #### 1. Meet your team & schedule kickoff meeting 📅
+  #### 1. Get to know your team 🤝🏻
   
   **Objective**
   
-  The foundation of any project is **teamwork** and learning how to work as a team is
-  just as important as your technical knowledge. This is valued by employers, so increasing your team skills is one way to set you apart from other job applicants.
+  The foundation of any project is **teamwork** and learning how to work as a
+  team is just as important as your technical knowledge. This is valued by
+  employers, so increasing your team skills is one way to set you apart from
+  other job applicants.
   
-  Your project’s success depends on how effective your team is at working together.
-  In fact, this is more important than how much code you create or how fast you deploy it.
+  Your project’s success depends on how effective your team is at working
+  together. In fact, this is more important than how much code you create or
+  how fast you deploy it.
 
-  The first two sprints are devoted to create a solid foundation for your team. In
-  these sprints you'll get to know your teammates, perform the highlevel design of 
-  both you project, establish a working agreement with your team, and build the Product 
-  Backlog to guide you in the remaining sprints.
+  Spend time in your team channel to introduce yourself, learn more about your
+  teammates, and determine what your common goals and dislikes. Voyages are hard work and building trust within
+  the team helps you reduce conflicts and work more productively together.
   
   **How**
   
-  - [ ]  ***Start by introducing yourself*** to your team. Post an introduction in your 
-  team channel to let your teammates know about you as a professional and an individual.
-  Share your availability, goals, and expectations with your teammates.
-  - [ ]  ***Create a working agreement*** to define your shared goals for the Voyage and 
-  expections. How will your share status information, how often will you meet, what are 
-  your expectations, what does success look like for your team, how will you make 
-  decisions, and how will you deal with conflict? Use this discussion to build a 
-  _working agreement_ for how you'll go about building and maintaining the project.
+  - [ ]  ***Start by introducing yourself*** to your team. Post an introduction
+  in your team channel to let your teammates know about you as a professional
+  and an individual.
+  - [ ] ***Share information with your team** including your availability, goals,
+  expectations, likes and dislikes with your teammates. Identify what you have
+  in common and what differences exist so you can work to understand one
+  another better.
+  - [ ]  ***Have Fun!*** Work doesn't have to be stressful or painful. In fact,
+  the team environment you create has to be productive, but it should also one
+  that's focused on the goal, but also relaxed and supportive.
   
   **Resources**
   
   [What the different roles in a Voyage team?](./topics/voyage_roles.md)</br>
+
+  #### 2. Hold a realtime team meeting 🧑‍⚖️
+
+  **Objective**
+  
+  Once you have met your teammates and spent a few days getting to know one
+  another in your team channel, schedule a realtime meeting. Talking with your
+  teammates in realtime is a more personal way to communicate and one that
+  will reinforce the team bonding process.
+  
+  **How**
+  
+  - [ ]  When the Sprint 0 starts, the first person in the Team Channel should
+  create a [Schej meeting availability event](https://schej.it/home) and post it
+  in the channel. Everyone can update add their availability so the team
+  meeting can be scheduled.
+  - [ ]  Schedule this meeting for the latter half of Sprint 0 to give
+  yourselves time to get to know one another in your team channel.
+  - [ ]  Consider starting the meeting with an "icebreaker". You can find some
+  ideas for these in this article, [6 Of The Best Icebreakers For Your Next Workshop Or Meeting](https://facilitator.com/blog/icebreakers-for-meetings-and-workshops)
+  - [ ]  Not everyone will feel comfortable speaking in a group meeting. Make
+  sure to build an environment where everyone feels safe and comfortable in
+  finding their voice and sharing with their teammates.
+  
+  **Pro Tip!** Use the [audio/visual channel](../topics/tips_voice_channel.md)
+  for your team for meetings. This supports not only audio & video in real time,
+  but also screen sharing.
+
+  **Resources**
+
   [Schej meeting availability tool](https://schej.it/home)</br>
+
+  ---
+
+### Sprint 1 - Setting up your project
+
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
+<!-- markdownlint-enable MD034 -->
+
+#### 3. Hold a kickoff meeting 🫱🏼‍🫲🏽
+
+  **Objective**
+  
+  In the Kickoff Meeting you will meet your teammates, review the
+  goals & steps to follow in Sprints 1 & 2, discuss the project you
+  will be building, agree on a working agreement, plus anything
+  else to create a solid foundation for teamwork.
+  
+  **How**
+  
+  - [ ]  When the Voyage starts, the first person in the Team Channel should
+  create a [Schej meeting availability event](https://schej.it/home) and post it
+  in the channel. Everyone can update add their availability so a Kickoff
+  meeting can be scheduled.
+  - [ ]  Find a time as early as possible in Sprint 1 for your Kickoff meeting.
+  Six weeks sounds like a long time, but it’s quite short and every day you
+  delay in getting started counts!
+  - [ ]  Use the Voyage Kickoff meeting agenda template to guide you and as a
+  place to record notes and decisions. This and other helpful document templates
+  are in the `docs` subdirectory in your team's repo.
+  
+  **Pro Tip!** Use the [audio/visual channel](../topics/tips_voice_channel.md)
+  for your team for meetings. This supports not only audio & video in real time,
+  but also screen sharing.
+
+  **Resources**
+
   [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   (These read-only templates will be copied to the `docs` subdirectory in your
   team’s repo when the Voyage starts)
+  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
   ---
-  #### 2. Conduct kickoff meeting 🫱🏼‍🫲🏽
-    
+
+  #### 4. Create your teams Working Agreements 🌊
+
   **Objective**
   
-  In the Kickoff Meeting you will meet your teammates, review the goals & steps
-  to follow in Sprints 1 & 2, discuss the project you will be building, agree on a
-  working agreementand, plus anything else to create a solid foundation for teamwork.
+  Define how you plan to work together as a team. This includes how often you’ll share status, coding standards, git/GitHub processes, and deciding how many meetings you need each week.
   
   **How**
   
-  - [ ]  When the Voyage starts, the first person in the Team Channel should create a 
-  [Schej meeting availability event](https://schej.it/home) and post it in the channel. 
-  Everyone can update add their availability so a Kickoff meeting can be scheduled.
-  - [ ]  Find a time as early as possible in Sprint 1 for your Kickoff meeting. Six 
-  weeks sounds like a long time, but it’s quite short and every day you delay in getting 
-  started counts!
-  - [ ]  Use the Voyage Kickoff meeting agenda template to guide you and as a place to 
-  record notes and decisions. This and other helpful document templates ar in the `docs` 
-  subdirectory in your team's repo.
+  - [ ]  Decide on the coding standards the team must follow.
+  - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the working agreement everyone must follow.
+  - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
+  - [ ]  Decide on where you’ll [deploy your app](../../resources/techresources/appdeployment.md) and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is
+  similar to your production environment. You should also deploy your app
+  changes to your `main` branch and test them in the Web host it is deployed
+  to **_in each and every sprint_** even before the MVP is complete.
+  - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
+  - [ ]  [Develop the App](#11-sprint-3-5---reaching-your-mvp-)
   
-  **Pro Tip!** Use the [audio/visual channel]() for your team for meetings. This 
-  supports not only audio & video in real time, but also screen sharing.
-      
   **Resources**
   
-  [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These read-only templates will be copied to the `docs` subdirectory in your
-  team’s repo when the Voyage starts)
+  [Javascript Style Guides](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)</br>
+  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)</br>
+  [Git Branches (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-branches)</br>
+  [Git Commits (Chingu Handbook)](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages)</br>
+  [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)</br>
+  [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)</br>
+  [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)</br>
 
   ---
-  #### 3. Add your info to the team list in your README.md ✏️
 
-  **Objective**
-  
-  Your team repo is a public GitHub repo where your team will maintain the source
-  code for your project. Only you and your teammates have update access to it.
+  #### 5. Choose a project & create a Vision Statement 👓
 
-  Every member of the team should verify that they have update access
-  to this repo. This includes Product Owners, Scrum Masters, UI/UX 
-  Designers, and Developers.
-
-  **How**
-
-  ![Our Team topic in Team Repo](./assets/Team_Repo_Our_Team.png)
-
-  - [ ] The `README.md` in your team repo has been pre-populated with a section titled
-  "Our Team". Before the end of Sprint 1 every team member should add their
-  infomation to it.
-
-  This shows not only who is on the team, but it is also a quick and easy
-  way to verify that everyone has update access.
-
-  **Resources**
-
-  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
-
-  ---
-  #### 4. Choose a project & create a Vision Statement 👓
-
-  **This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been assigned a project along with a link to its requirements and specifications in the team channel.
+  **This is for Tier 3 teams only.** All Tier 1 & Tier 2 teams have been
+  assigned a project along with a link to its requirements and specifications in
+  the team channel.
   
   **Objective**
   
-  Choose a project your team will build during the Voyage. In addition to refining your technical skills you’ll also be learning new “soft” skills to help you advance your career. These include collaboration, communication, planning, & working in an Agile environment.
+  Choose a project your team will build during the Voyage. In addition to
+  refining your technical skills you’ll also be learning new “soft” skills to
+  help you advance your career. These include collaboration, communication,planning, & working in an Agile environment.
   
   **How**
   
-  - [ ]  **Exchange ideas** and share screenshots or URLs of projects you would like to build.
-  Look at the references below to get ideas or create a project you and the team are passionate about.
+  - [ ]  **Exchange ideas** and share screenshots or URLs of projects you would
+  like to build. Look at the references below to get ideas or create a project
+  you and the team are passionate about.
   
     - Collect ideas from the team
     - Brainstorm with your team
@@ -344,9 +351,9 @@ https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
   
   - [ ]  **Create a short vision statement** to capture what it does and the benefit it will bring to its users.
 
-  This should be completed by the end of Sprint 1. Keep in mind that since the Voyage is
-  only 6-weeks long it's important to get started quickly. In addition, you'll learn and
-  build experience no matter what project you decide to create.
+  This should be completed by the end of Sprint 1. Keep in mind that since the
+  Voyage is only 6-weeks long it's important to get started quickly. In
+  addition, you'll learn and build experience no matter what project you decide to create.
   
   **Resources**
   
@@ -356,46 +363,103 @@ https://github.com/user-attachments/assets/8e6d2c0f-02f2-484f-9a75-ff4b4c82ebfe
   These read-only document templates will be placed in the `docs`
   subdirectory of your team’s repo at the start of the Voyage.
 
-  * [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  - [Project Ideas template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   
-  * [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
+  - [Project Vision and Feature Planning template](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
   ---
-  #### 5. Define & prioritize MVP features 🔢
-    
+
+  #### 6. Define & prioritize MVP features 🔢
+
   **Objective**
   
-  The [Minimum Viable Product (MVP)](../../resources/glossary/glossary.md) is the minimum number of features your users need to be able to use and get value from through your app.
+  The [Minimum Viable Product (MVP)](../../resources/glossary/glossary.md) is
+  the minimum number of features your users need to be able to use and get value
+  from through your app.
   
   **How**
   
-  - [ ]  Everyone should **add ideas** to the Project Vision & Feature Planning template
-  **before** the team meeting
+  - [ ]  Everyone should **add ideas** to the Project Vision & Feature Planning
+  template **before** the team meeting
   - [ ]  **Prioritize each feature** - *Must Have*, *Should Have*, *Nice to Have*
   - [ ]  Meet with the team to **review** each feature & refine priorities
   
-  Once you’ve agreed on the features and their priorities you will be ready to add them to the 
-  Product Backlog.
+  Once you’ve agreed on the features and their priorities you will be ready to
+  add them to the Product Backlog.
   
   *Must Have* features define your MVP, while features in the other two priorities are “stretch goals'' to be worked on when you’ve implemented all the *Must Have*s.
   
   **Resources**
 
-  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These read-only templates will be copied to the `docs` subdirectory in your
-  team’s repo when the Voyage starts)
+  [Project Vision and Feature Planning Template](https://github.com/chingu-voyages/voyage-template/tree/main/docs) (These read-only templates will
+  be copied to the `docs` subdirectory in your team’s repo when the Voyage
+  starts)
 
-### Sprint 2 - Getting off to a Solid Start
+  ---
 
-https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
+  #### 7. Add your info to the team list in your README.md ✏️
+
+  **Objective**
+  
+  Your team repo is a public GitHub repo where your team will maintain the source
+  code for your project. Only you and your teammates have update access to it.
+
+  Every member of the team should verify that they have update access
+  to this repo. This includes Product Owners, Scrum Masters, UI/UX
+  Designers, and Developers.
+
+  **How**
+
+  ![Our Team topic in Team Repo](./assets/Team_Repo_Our_Team.png)
+
+  - [ ] The `README.md` in your team repo has been pre-populated
+  with a section titled "Our Team". Before the end of Sprint 1
+  every team member should add their information to it.
+
+  This shows not only who is on the team, but it is also a quick
+  and easy way to verify that everyone has update access.
+
+  **Resources**
+
+  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)
+
+  ---
+
+  #### 8. Select a Technical Stack ⚙️
+
+  **Objective**
+  
+  Every project is created using a specific combination of programming language(s),
+  libraries, and tools. As a team, agreeing on these is one step in making sure the
+  application you create will be consistent, supportable, and maintainable.
+
+  **How**
+
+  Developers are the primary decision makers for the choice of a Technical Stack, but
+  teammates in other roles are contributors by asking questions to help them make
+  sure they've made the best decision for the team.
+
+  - [ ]  As a team meet and discuss the various options available to you in either your
+  team channel, a realtime meeting, or both.
+
+  **Resources**
+
+  [Choosing your Techstack](../../resources/techresources/techstack.md)
+
+### Sprint 2 - Creating your Backlog Tasks & UI/UX Design
+
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/4e37870d-4ab0-43e7-861c-52ab829a26bc
+<!-- markdownlint-enable MD034 -->
 
   ---
   
-  #### 6. Setup Product Backlog 📋
-      
+  #### 9. Setup Product Backlog 📋
+
   **Objective**
   
-  The [Product Backlog](../../resources/glossary/glossary.md) defines what needs to be
-  completed to finish the project and to track your progress.
+  The [Product Backlog](../../resources/glossary/glossary.md) defines what needs
+  to be completed to finish the project and to track your progress.
 
   > If you are creating your Voyage project based on specifications provided by
   Chingu you don't need to wait until Sprint 2 to start this task. Instead,
@@ -406,20 +470,23 @@ https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
   - [ ]  Identify & prioritize features
   - [ ]  Create an epic for each feature
   - [ ]  Choose the highest priority epics & divide them into user stories
-  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages, teams have used tools like Jira, Miro, GitHub Projects, Trello, and others as well.
+  - [ ]  Add your epics & user stories to a backlog tool. In prior Voyages,
+  teams have used tools like Jira, Miro, GitHub Projects, Trello, and others as
+  well.
   - [ ]  Prioritize the user stories
   
-  In every Sprint you’ll refine the Product Backlog as you refine your requirements
-  and as you discover more about your technology stack.
+  In every Sprint you’ll refine the Product Backlog as you refine your
+  requirements and as you discover more about your technology stack.
   
   **Resources**
   
-  [Define Your MVP]((../../resources/glossary/glossary.md))</br>
+  [Define Your MVP](../../resources/glossary/glossary.md)</br>
   [How to Create a Product Backlog (video)](https://youtu.be/FaoT-DTtXyA)</br>
   [Agile Methodology 101 (article)](../../resources/projresources/agile101.md)</br>
-  
+
   ---
-  #### 7. Create a low-fidelity wireframe 🖼️
+
+  #### 10. Create a UI/UX design 🖼️
 
   **Objective**
   
@@ -440,55 +507,28 @@ https://github.com/user-attachments/assets/294995d7-2a55-4e29-8829-c5315b87ded6
   If you are in a Voyage team without a UI/UX Designer <a href="../../resources/techresources/uiux.md">this guide</a> can help your team create a design.
   
   [How To Wireframe A Website in 3 Easy Steps](https://elementor.com/blog/wireframe-website/)
-      
-  ---
-  #### 8. Setup your teams Working Agreements 🌊
-      
-  **Objective**
-  
-  Define how you plan to work together as a team. This includes how often you’ll share status, coding standards, git/GitHub processes, and deciding how many meetings you need each week.
-  
-  **How**
-  
-  - [ ]  Decide on the coding standards the team must follow.
-  - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the working agreement everyone must follow.
-  - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
-  - [ ]  Decide on where you’ll [deploy your app](../../resources/techresources/appdeployment.md) and the branch to be considered as ‘production’ you’ll be deploying from. We strongly recommend you deploy your `development` branch to the same Web host as your `main` branch, so you have a place to perform integration testing that's in an environment that is 
-  similar to your production environment. You should also deploy your app 
-  changes to your `main` branch and test them in the Web host it is deployed 
-  to **_in each and every sprint_** even before the MVP is complete. 
-  - [ ]  Decide on what meetings you’ll need each week and to save time, schedule them as recurring meetings. You might want to look ahead to learn more about the types of meetings you’ll need.
-  - [ ]  [Develop the App](#sprint-3-5---reaching-your-mvp)
-  
-  **Resources**
-  
-  [Javascript Style Guides](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)</br>
-  [Defining a Git Workflow (Chingu Handbook)](../../resources/techresources/gitgithub.md#the-workflow)</br>
-  [Git Branches (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-branches)</br>
-  [Git Commits (Chingu Handbook)](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages)</br>
-  [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)</br>
-  [Git Pull Requests (Chingu Handbook)](../../resources/techresources/gitgithub.md#git-pull-requests)</br>
-  [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)</br>
-    
-### 9. Sprint 3-5 - Reaching your MVP 🪜
 
-https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
+### 11. Sprint 3-5 - Reaching your MVP 🪜
+
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/d2a08aa3-dc21-45f2-80ea-6c3be6f59116
+<!-- markdownlint-enable MD034 -->
   
   **Objective**
   
-  Create your app by using Agile and the Scrum framework. At the end of each sprint you
-  should deploy your app to the `main` branch in your team repo and to your production
-  webhost.
+  Create your app by using Agile and the Scrum framework. At the end of each
+  sprint you should deploy your app to the `main` branch in your team repo and
+  to your production webhost.
   
   **How**
 
   ![Voyage Sprint Steps](./assets/Voyage_Sprint_Steps.png)
-    
-  - *Sprint Planning* - Select the highest priority tasks the team can realistically
-  complete in the sprint
+
+  - *Sprint Planning* - Select the highest priority tasks the team can
+  realistically complete in the sprint
   - *Post Daily Status* - Communicating & collaborating with your team is the
-  most important factor to success. Post answers to these questions in your team channel 
-  every day:
+  most important factor to success. Post answers to these questions in your team
+  channel every day:
       - What tasks have I completed?
       - What am I currently working on and what will I work on next?
       - What issues or blockers do I need help with and from who?
@@ -523,9 +563,11 @@ https://github.com/user-attachments/assets/d40866ff-101b-49f9-8a39-aea747962562
   - [Meeting templates - Sprint Review, Retrospective, & Planning](https://github.com/chingu-voyages/voyage-template/tree/main/docs)</br>
   - [Meeting template - Open Topic](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
-### 10. Sprint 6 - Project Closure 🏁
+### 12. Sprint 6 - Project Closure 🏁
 
+<!-- markdownlint-disable MD034 -->
 https://github.com/user-attachments/assets/739d36f6-eba6-41ed-b8b4-4cde608e3ea7
+<!-- markdownlint-enable MD034 -->
   
   **Objective**
   
@@ -551,11 +593,12 @@ Only one Voyage Project form is required per team and any teammate may submit it
 
 Chingu's Agile Leadership team will post information about our Demo Day event, including its schedule and location, in Discord during Sprint 6.
 
-Two other optional activities you should consider to share your success with others, including potential employers, are: 
+Two other optional activities you should consider to share your success with others, including potential employers, are:
+
   1. Create a Showcase video on YouTube!
-      * No more than 5 minutes long
-      * It should be available via a publicly accessible URL
-      * Answer these simple questions:
+      - No more than 5 minutes long
+      - It should be available via a publicly accessible URL
+      - Answer these simple questions:
           1. What did we build?
           2. Who participated in the team?
           3. What technology stack did we use?
@@ -567,6 +610,25 @@ Two other optional activities you should consider to share your success with oth
   [Chingu Content Creators Guide](https://dev.to/chingu/chingu-content-creators-guide-3k6h)
 
 ## Voyage Tips
+
+### How to Prepare for your Voyage 📝
+
+We know you have a lot of questions about our Voyages. Here are a few of those we hear most frequently.
+
+[What Level of Commitment is Required for a Voyage](./topics/voyage_commitment.md)</br>
+[What are the criteria for successfully completing a Voyage?](./topics/voyage_success_criteria.md)</br>
+[How do I check my Voyage Status?](./topics/check_voyage_status.md)</br>
+[What Does a Voyage Cost?](./topics/voyage_cost.md)</br>
+[How should PO's and Scrum Masters work together?](./topics/voyage_posm_teamwork.md)</br>
+[What are the roles in a Voyage team?](./topics/voyage_roles.md)</br>
+[What are the tiers in a Voyage?](./topics/voyage_tiers.md)</br>
+[How can I choose my Timeblock?](./topics/voyage_timeblocks.md)</br>
+[How are Voyage teams formed?](./topics/voyage_teams.md)</br>
+[What "Soft Skills" are needed?](./topics/voyage_soft_skills.md)</br>
+[What if I need more skills?](./topics/voyage_skills.md)</br>
+[What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
+[How should my Team select a project?](./topics/voyage_project.md)</br>
+[How should PO's and Scrum Masters monitor the project?](./topics/voyage_project_monitoring.md)</br>
 
 ### Tips for all teammates ✏️
 
