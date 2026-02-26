@@ -14,22 +14,11 @@
 
 ## What is VoyageXP❓
 
-Voyage XP is a paid tier — just $30 for the entire 10-week program. 
-Why? Because research shows that when people pay even a small amount, they
-stay more committed, motivated, and accountable. We’ve priced this
-intentionally low to keep it accessible, but just enough to help you — and
-your teammates — show up fully.
-(the current message unintentionally frames the price as a behavioral trick instead of communicating value.It makes it sound like people are paying to “force themselves to care,” instead of paying for something genuinely valuable.)
-My suggestion: 
-
 Voyage XP is a premium 10-week experience designed to help you build advanced projects, gain real-world collaboration experience, and elevate your technical and leadership skills.
 
 For this pilot cohort, we’re offering it at an introductory rate of just $30 for the full 10 weeks.
 
 We’ve intentionally priced this pilot accessibly so early members can shape the experience while receiving high-impact mentorship, accountability, and advanced project work.
-
-
-
 This isn’t a sprint. It’s an 10-week cohort (instead of 7) — giving you more time to:
 
 * Build strong relationships with your team
