@@ -14,12 +14,11 @@
 
 ## What is VoyageXP❓
 
-Voyage XP is a paid tier — just $30 for the entire 10-week program.
-Why? Because research shows that when people pay even a small amount, they
-stay more committed, motivated, and accountable. We’ve priced this
-intentionally low to keep it accessible, but just enough to help you — and
-your teammates — show up fully.
+Voyage XP is a premium 10-week experience designed to help you build advanced projects, gain real-world collaboration experience, and elevate your technical and leadership skills.
 
+For this pilot cohort, we’re offering it at an introductory rate of just $30 for the full 10 weeks.
+
+We’ve intentionally priced this pilot accessibly so early members can shape the experience while receiving high-impact mentorship, accountability, and advanced project work.
 This isn’t a sprint. It’s an 10-week cohort (instead of 7) — giving you more time to:
 
 * Build strong relationships with your team
@@ -36,6 +35,7 @@ These hours will include:
 * Team meetings & pair programming
 * Work sessions
 * Weekly live courses, Lean Coffee discussions & speaker events
+* Resume review, Interview practice & LinkedIn optimization 
 
 You don’t need to be in any specific location — you just need to commit to being
 available during these hours.
@@ -51,7 +51,7 @@ Master, 1 Product Owner
 
 ✅ Access to Lean Coffee networking & strategy meetups
 
-✅ Resume review + interview practice
+✅ Resume review + interview practice 
 
 ✅ Feedback, mentorship, and support from your Agile & Technical Guide throughout the
 voyage
@@ -72,7 +72,7 @@ you need to apply:
 
 ✅ You can commit 15 hours/week for 10 weeks
 
-✅ You’ll attend a quick 15-minute interview so we can make sure it’s the right
+✅ You’ll attend a quick 25-minute interview so we can make sure it’s the right
 fit for your goals
 
 ```mermaid
