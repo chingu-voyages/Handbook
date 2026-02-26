@@ -35,7 +35,7 @@ These hours will include:
 * Team meetings & pair programming
 * Work sessions
 * Weekly live courses, Lean Coffee discussions & speaker events
-* Resume review, Interview practice & LinkedIn optimization 
+* Resume review, Interview practice & LinkedIn optimization
 
 You don’t need to be in any specific location — you just need to commit to being
 available during these hours.
@@ -51,7 +51,7 @@ Master, 1 Product Owner
 
 ✅ Access to Lean Coffee networking & strategy meetups
 
-✅ Resume review + interview practice 
+✅ Resume review + interview practice
 
 ✅ Feedback, mentorship, and support from your Agile & Technical Guide throughout the
 voyage
