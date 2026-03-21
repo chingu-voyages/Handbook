@@ -17,7 +17,7 @@ jobs, and how to get the most from your membership.
 ```mermaid
 flowchart TB
    A(["Signup & submit Application Form"]) --> B(Join the Chingu</br>Discord Server);
-   B --> C(<a href='./docs/guides/soloproject/soloproject.md/#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3' target='_blank'>Choose your tier</a>);
+   B --> C(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3' target='_blank'>Choose your tier</a>);
    C --> D(Submit an original</br><a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md' target='_blank'>Solo Project</a> for evaluation);
    D --> E(Evaluator DMs</br>feedback in Discord);
    E --> F{Accepted?};
