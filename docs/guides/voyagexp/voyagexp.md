@@ -97,8 +97,8 @@ flowchart TB
 | Assessment Interviews | March 15 - 21 |
 | Session starts | March 30 |
 | Session ends & projects due | June 7 |
-| Demo Day presentations due | June 8 |
-| Demo Day | June 10 |
+| Demo Day presentations due | May 31 |
+| Demo Day | June 3 |
 | Completion Certificates issued | June 17 |
 | Showcase article published | June 17 |
 
