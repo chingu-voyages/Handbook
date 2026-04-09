@@ -48,15 +48,7 @@ git & GitHub in a team, and use Agile frameworks like Scrum.
 
 Despite having done well at this bootcamp and having invested considerable time and 
 money into it his employment prospects were dim. This raised the question that 
-started Chingu - “How can I gain the experience to become employable?”
-
-It's important to know that "Chingu" means "friend" in Korean. This isn't just a
-catchy name; it perfectly describes what we want this organization to be for our
-members.
-
-We want to be that friend that supports your goal to advance in your Web
-Development career. But, we also want every Chingu here to be just as
-supportive.
+started Chingu - “How can I gain the experience to become employable?”. As a result of this Chingu was started in 2016.
 
 ## Who is Chingu for? 🤔
 

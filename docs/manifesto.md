@@ -19,6 +19,9 @@ Building experience and growing your career through Chingu isn’t a zero-sum ga
 You don’t have to lose for me to win. This means we can win together and we can 
 lose together too.
 
+Building experience and growing your career through Chingu isn’t a zero-sum game. You don’t have to lose for me to win. This means we can win together and we can lose together too.
+
+
 ## Trust is the cornerstone of teamwork
 
 Teamwork is hard and it doesn’t just happen. Teamwork is built on trust and high 
@@ -29,6 +32,8 @@ Building trust requires that we treat each other with respect and when
 disagreements arise  we don’t retreat from them. Instead, we deal with them 
 respectfully and with a goal of continuous improvement rather than from a win-lose 
 position.
+
+The environment we’ve created helps our members to speak up, ask questions, learn from one another, and give and get help and advice.
 
 ## Mistakes are to be celebrated
 
