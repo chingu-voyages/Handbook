@@ -70,7 +70,7 @@ Agile Product Owners & Scrum Masters.
 ## What are our core principles?
 
 Given our mission, what are some of the high-level principles that govern what we 
-do and how we do it? Click [here]() to read more about what is important to us in
+do and how we do it? Click [here](./docs/manifesto.md) to read more about what is important to us in
 the governance of Chingu.
 
 ## Directory of Information ℹ️
