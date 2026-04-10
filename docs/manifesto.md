@@ -63,7 +63,7 @@ the coping techniques that work best for them. One important way we do this is t
 help them build confidence in themselves and to understand that building a career 
 is a process that occurs in stages and takes time. 
 
-# Everyone has their own pace
+## Everyone has their own pace
 
 Everyone advances at their own pace and we acknowledge this and work to build our 
 programs to accommodate our members' individual needs. There’s no set schedule that 
