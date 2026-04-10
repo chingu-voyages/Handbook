@@ -7,7 +7,7 @@ do and how we do it?
 
 ## “Chingu” means “friend”
 Chingu is Korean for “friend”. We intentionally chose this as our company name 
-because we believe that an environment that maximizes learning and growth cannot a
+because we believe that an environment that maximizes learning and growth cannot and
 and must not be toxically competitive. 
 
 We are all dedicated and motivated professionals focused on expanding our careers. 
