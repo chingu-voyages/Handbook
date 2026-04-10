@@ -29,7 +29,7 @@ performing teams recognize this and work to create an environment that builds an
 grows trust.
 
 Building trust requires that we treat each other with respect and when 
-disagreements arise  we don’t retreat from them. Instead, we deal with them 
+disagreements arise, we don’t retreat from them. Instead, we deal with them
 respectfully and with a goal of continuous improvement rather than from a win-lose 
 position.
 
