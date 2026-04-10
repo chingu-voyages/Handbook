@@ -32,7 +32,8 @@ flowchart TB
 
 ## What is Chingu❓
 
-Chingu is an organization whose mission is to help Web Development professionals 
+Chingu is an organization whose mission is to help Web Development professionals
+(Developers, UI/UX Designers, Scrum Product Owners, and Scrum Masters)  
 transform what they’ve learned in university studies, private courses, videos, and 
 individual studies into the experience needed to get jobs. 🎬
 
