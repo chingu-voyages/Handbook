@@ -35,21 +35,21 @@ flowchart TB
 Chingu is an organization whose mission is to help Web Development professionals
 (Developers, UI/UX Designers, Scrum Product Owners, and Scrum Masters)  
 transform what they’ve learned in university studies, private courses, videos, and 
-individual studies into the experience needed to get jobs. 🎬
+individual studies into the experience needed to advance their careers. 🎬
 
 ## How did Chingu get started?
 
 The idea for Chingu came from one of our original co-founders who had spent 
 thousands on a top-flight bootcamp and excelled in the program of study. 
 
-But, upon completing the course of study he found he knew the technology parts of 
+But, upon completing the course of study, he found he knew the technology parts of 
 Web Development, but didn’t have the skills expected from a Junior Developer 
 including how to design applications, work in a team, use distributed tools like 
 git & GitHub in a team, and use Agile frameworks like Scrum.
 
 Despite having done well at this bootcamp and having invested considerable time and 
-money into it his employment prospects were dim. This raised the question that 
-started Chingu - “How can I gain the experience to become employable?”. As a result of this Chingu was started in 2016.
+money into it, his employment prospects were dim. This raised the question that 
+started Chingu - “How can I gain the experience to become employable?” As a result of this Chingu was started in 2016.
 
 ## Who is Chingu for? 🤔
 
