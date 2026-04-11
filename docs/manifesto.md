@@ -7,7 +7,7 @@ do and how we do it?
 
 ## “Chingu” means “friend”
 Chingu is Korean for “friend”. We intentionally chose this as our company name 
-because we believe that an environment that maximizes learning and growth cannot and
+because we believe that an environment that maximizes learning and growth cannot
 and must not be toxically competitive. 
 
 We are all dedicated and motivated professionals focused on expanding our careers. 
@@ -18,9 +18,6 @@ Impostor Syndrome.
 Building experience and growing your career through Chingu isn’t a zero-sum game. 
 You don’t have to lose for me to win. This means we can win together and we can 
 lose together too.
-
-Building experience and growing your career through Chingu isn’t a zero-sum game. You don’t have to lose for me to win. This means we can win together and we can lose together too.
-
 
 ## Trust is the cornerstone of teamwork
 
@@ -53,12 +50,12 @@ what you can learn from a mistake while lowering the probability of repeating it
 
 Anyone who claims they don’t experience the Impostor Syndrome is either delusional 
 or in denial. The Impostor Syndrome affects everyone in all walks of life 
-regardless of their level of experience
+regardless of their level of experience.
 
 However, as you build experience and confidence you will also learn techniques for 
 coping with the Impostor Syndrome to minimize its negative effects.
 
-At Chingu our responsibility is to help our members and teammates learn and refine 
+At Chingu, our responsibility is to help our members and teammates learn and refine 
 the coping techniques that work best for them. One important way we do this is to 
 help them build confidence in themselves and to understand that building a career 
 is a process that occurs in stages and takes time. 
