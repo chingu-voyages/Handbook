@@ -88,7 +88,7 @@ is to the user, not a specific technology.
 ## We aren't motivated by profit alone
 
 We don’t want to be the next mega company that rewards senior management and 
-investor with massive amounts of money. Our primary reward is the satisfaction we 
+investors with massive amounts of money. Our primary reward is the satisfaction we 
 get from seeing our members grow their careers.
 
 This is why we have intentionally shunned venture capital where the goal is to grow 
