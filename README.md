@@ -10,8 +10,6 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
----
-
 ## What is Chingu❓
 
 Chingu is an organization whose mission is to help Web Development professionals
