@@ -32,20 +32,26 @@ flowchart TB
 
 ## What is Chingu❓
 
-We're excited that you've chosen to join us and we know you have lots of
-questions. So let's get started! 🎬
+Chingu is an organization whose mission is to help Web Development professionals
+(Developers, UI/UX Designers, Scrum Product Owners, and Scrum Masters)  
+transform what they’ve learned in university studies, private courses, videos, and 
+individual studies into the experience needed to advance their careers. 🎬
 
-### Chingu Means Friend 🫱🏻‍🫲🏼
+## How did Chingu get started?
 
-It's important to know that "Chingu" means "friend" in Korean. This isn't just a
-catchy name; it perfectly describes what we want this organization to be for our
-members.
+The idea for Chingu came from one of our original co-founders who had spent 
+thousands on a top-flight bootcamp and excelled in the program of study. 
 
-We want to be that friend that supports your goal to advance in your Web
-Development career. But, we also want every Chingu here to be just as
-supportive.
+But, upon completing the course of study, he found he knew the technology parts of 
+Web Development, but didn’t have the skills expected from a Junior Developer 
+including how to design applications, work in a team, use distributed tools like 
+git & GitHub in a team, and use Agile frameworks like Scrum.
 
-### Who is Chingu for? 🤔
+Despite having done well at this bootcamp and having invested considerable time and 
+money into it, his employment prospects were dim. This raised the question that 
+started Chingu - “How can I gain the experience to become employable?” As a result of this, Chingu was started in 2016.
+
+## Who is Chingu for? 🤔
 
 Chingu helps you get a job by giving you real experience. You will join a team,
 build a project, and add it to your portfolio. The kind of experience to help you
@@ -53,6 +59,12 @@ stand above other job applicants to get noticed.
 
 Our programs and services are geared to help Web Developers, UI/UX Designers, and
 Agile Product Owners & Scrum Masters.
+
+## What are our core principles?
+
+Given our mission, what are some of the high-level principles that govern what we 
+do and how we do it? Click [here](./docs/manifesto.md) to read more about what is important to us in
+the governance of Chingu.
 
 ## Directory of Information ℹ️
 
