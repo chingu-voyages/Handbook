@@ -10,26 +10,6 @@ Welcome to the Chingu Handbook. This is the place where you can find all the
 information you need about Chingu, how we can help you build experience to get
 jobs, and how to get the most from your membership.
 
-## How to get started 📒
-
----
-
-```mermaid
-flowchart TB
-   A(["Signup & submit Application Form"]) --> B(Join the Chingu</br>Discord Server);
-   B --> C(<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3' target='_blank'>Choose your tier</a>);
-   C --> D(Submit an original</br><a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md' target='_blank'>Solo Project</a> for evaluation);
-   D --> E(Evaluator DMs</br>feedback in Discord);
-   E --> F{Accepted?};
-   F -- Yes --> G(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
-   F -- No --> H(Make requested changes);
-   H --> I(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a></br>to notify Evaluator);
-   I --> E;
-   G --> Z([End]);
-```
-
----
-
 ## What is Chingu❓
 
 Chingu is an organization whose mission is to help Web Development professionals
