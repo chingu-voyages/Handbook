@@ -49,7 +49,7 @@ git & GitHub in a team, and use Agile frameworks like Scrum.
 
 Despite having done well at this bootcamp and having invested considerable time and 
 money into it, his employment prospects were dim. This raised the question that 
-started Chingu - “How can I gain the experience to become employable?” As a result of this Chingu was started in 2016.
+started Chingu - “How can I gain the experience to become employable?” As a result of this, Chingu was started in 2016.
 
 ## Who is Chingu for? 🤔
 
