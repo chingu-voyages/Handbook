@@ -6,49 +6,39 @@
   <img alt="Chingu logo" src="./assets/chingu_logo.png">
 </p>
 
-Welcome to the Chingu Handbook. This is the place where you can find all the
-information you need about Chingu, how we can help you build experience to get
-jobs, and how to get the most from your membership.
+Welcome to the Chingu Handbook. This is your guide to everything Chingu — what it is, how it works, and how to get the most from your membership.
 
-## What is Chingu❓
+## What is Chingu?
 
-Chingu is an organization whose mission is to help Web Development professionals
-(Developers, UI/UX Designers, Scrum Product Owners, and Scrum Masters)  
-transform what they’ve learned in university studies, private courses, videos, and 
-individual studies into the experience needed to advance their careers. 🎬
+Chingu helps Web Developers, UI/UX Designers (people who design how apps look and feel), and Scrum Practitioners (people who manage the process of building software) turn what they've learned into real work experience.
+
+Many people finish courses, bootcamps, or self-study programs knowing the material — but without the hands-on experience employers expect. Chingu fills that gap.
 
 ## How did Chingu get started?
 
-The idea for Chingu came from one of our original co-founders who had spent 
-thousands on a top-flight bootcamp and excelled in the program of study. 
+One of our co-founders spent a lot of money on a top coding bootcamp and did well. But after finishing, he realized something important: he understood the technology, but didn't have the skills a Junior Developer actually needs — things like working on a team, designing apps, using tools like Git and GitHub with others, and following a structured workflow called Agile/Scrum.
 
-But, upon completing the course of study, he found he knew the technology parts of 
-Web Development, but didn’t have the skills expected from a Junior Developer 
-including how to design applications, work in a team, use distributed tools like 
-git & GitHub in a team, and use Agile frameworks like Scrum.
+Despite all the time and money he invested, getting hired was still hard. That question — *"How can I gain the experience to become employable?"* — led to the creation of Chingu in 2016.
 
-Despite having done well at this bootcamp and having invested considerable time and 
-money into it, his employment prospects were dim. This raised the question that 
-started Chingu - “How can I gain the experience to become employable?” As a result of this, Chingu was started in 2016.
+## Who is Chingu for?
 
-## Who is Chingu for? 🤔
+Chingu is for anyone who wants a job in tech but needs real-world experience to get there.
 
-Chingu helps you get a job by giving you real experience. You will join a team,
-build a project, and add it to your portfolio. The kind of experience to help you
-stand above other job applicants to get noticed.
+You'll join a team, build a project together, and add it to your portfolio. That kind of experience helps you stand out from other job applicants and get noticed by employers.
 
-Our programs and services are geared to help Web Developers, UI/UX Designers, and
-Agile Product Owners & Scrum Masters.
+Chingu serves:
 
-## What are our core principles?
+- Web Developers
+- UI/UX Designers
+- Agile Product Owners and Scrum Masters
 
-Given our mission, what are some of the high-level principles that govern what we 
-do and how we do it? Click [here](./docs/manifesto.md) to read more about what is important to us in
-the governance of Chingu.
+## What do we believe in?
 
-## Directory of Information ℹ️
+Our mission shapes everything we do. Read our [Manifesto](./docs/manifesto.md) to learn about the values and principles that guide Chingu.
 
-### Getting Started 🏎️
+## Getting Around the Handbook
+
+### Getting Started
 
 - [Community Standards](./docs/gettingstarted/communitystds.md)
 - [Programs & Services](./docs/gettingstarted/programs.md)
@@ -56,7 +46,9 @@ the governance of Chingu.
 - [What to Do First](./docs/gettingstarted/whattodofirst.md)
 - [Our Partners](./docs/gettingstarted/partners.md)
 
-### Onboarding 📒
+### How to Onboard
+
+New to Chingu? Use this chart to find your next step. Follow the arrows from the top to see what applies to you.
 
 ---
 
@@ -75,6 +67,8 @@ flowchart TB
    I --> E;
 ```
 
+---
+
 ### Program Guides
 
 - [Solo Project](./docs/guides/soloproject/soloproject.md)
@@ -83,25 +77,21 @@ flowchart TB
 - [Pair Challenge Guide](./docs/guides/pairprog/pairprog.md)
 - [Handbook Contributors Guide](./docs/guides/contributors/contributors.md)
 
-### Helpful Information 📒
+### Helpful Resources
 
----
-
-| Teamwork Resources | Project Resources | Technical Resources |
-| ------------------ | ----------------- | ------------------- |
-| [Soft Skills 101](./docs/resources/projresources/softskills101.md) | [Agile Methodology 101](./docs/resources/projresources/agile101.md) | [Git & GitHub](./docs/resources/techresources/gitgithub.md)  |
-| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md) | [Agile Tools](./docs/resources/projresources/agiletools.md) | [Choosing your Techstack](./docs/resources/techresources/techstack.md)  |
+| Teamwork | Projects | Technology |
+| -------- | -------- | ---------- |
+| [Soft Skills 101](./docs/resources/projresources/softskills101.md) | [Agile Methodology 101](./docs/resources/projresources/agile101.md) | [Git & GitHub](./docs/resources/techresources/gitgithub.md) |
+| [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md) | [Agile Tools](./docs/resources/projresources/agiletools.md) | [Choosing your Tech Stack](./docs/resources/techresources/techstack.md) |
 | [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | | [Deploying your App](./docs/resources/techresources/appdeployment.md) |
 | [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md) | | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
 | | | [UI/UX Workflow](./docs/resources/techresources/uiux.md) |
 | | | [Glossary](./docs/resources/glossary/glossary.md) |
 
-## Tips 💁🏽
+## Tips
 
-1. You can open a table of contents on any page of the Handbook.
-   ![open a table of contents](./assets/How_to_open_TOC.gif)
+**View the table of contents:** Every page in the Handbook has a built-in table of contents. Here's how to open it:
 
-2. Are you more comfortable using a language other than English? Use the
-   free Google Translate extension in Chrome-based browsers. You can learn more
-   in the
-   [Chrome Web Store](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
+![open a table of contents](./assets/How_to_open_TOC.gif)
+
+**Read in your language:** If English is not your first language, use the free Google Translate extension for Chrome-based browsers to read the Handbook in your own language. [Get it from the Chrome Web Store](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb).
