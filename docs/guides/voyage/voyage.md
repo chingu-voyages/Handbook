@@ -25,7 +25,7 @@ This is by:
 
 - Putting the technical knowledge you've gained into practice in
 one of three [tiers](./topics/voyage_tiers.md) which match your
-technical skills to thoseof your teammates.
+technical skills to those of your teammates.
 - Improving "soft" skills like teamwork, collaboration, and project
 management.
 - Being accountable to your commitments to your team and yourself.
@@ -66,7 +66,7 @@ posted to make sure teams are communicating.
 
 You will also be provided with a GitHub repo for your project. This
 is created for you in the `chingu-voyages` organization and everyone
-on your team is granted `admin`access to it. But, **you must**:
+on your team is granted `admin` access to it. But, **you must**:
 
 - leave this as a public repo
 - not rename the repo we've provided

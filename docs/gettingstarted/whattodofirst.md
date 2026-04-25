@@ -2,7 +2,7 @@
 
 ![Web Developer getting started](./assets/WebDev_getting_started.jpeg)
 
-You've joined Chingu and have access to Discord. So what's should you do next?
+You've joined Chingu and have access to Discord. So what should you do next?
 
 ```mermaid
 graph LR
@@ -73,15 +73,15 @@ graph LR
 ```
 
 You'll first need to choose the [tier](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3) that matches your
-current skill level. There are three tiers and ou should select the one that
-best matches your curren skill level - beginner (Tier 1),
+current skill level. There are three tiers and you should select the one that
+best matches your current skill level - beginner (Tier 1),
 intermediate (Tier 2), or experienced (Tier 3).
 
 If you already have a project that matches your tier
 go ahead and submit it for evaluation. Your project can be one you've completed
 on your own or as a part of a team. It should meet these criteria:
 
-- It must coorespond to the requirements of the tier you've selected
+- It must correspond to the requirements of the tier you've selected
 - It should be original work (not copied from someone else, including a tutorial)
 - If created as part of a team you should be a major contributor to the project
 
@@ -113,5 +113,5 @@ While you are waiting for your Voyage to start you might wish to join in one of
 our weekly Pair Programming sessions. Pair Programming with another Chingu will
 help you learn with a like-minded professional and expand your network.
 
-You can learn more about what Pair Programming is and how to get started
-[here](../guides/pairprog/pairprog.md).
+You can learn more about what Pair Programming is and how to get started in the
+[Pair Challenge Guide](../guides/pairprog/pairprog.md).

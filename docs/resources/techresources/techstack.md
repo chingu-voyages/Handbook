@@ -17,19 +17,19 @@ The following lists some of the more popular products and languages to provide a
 view of how they are categorized. Remember that there are literally thousands of
 products Web Developers may choose from in the JavaScript ecosystem.
 
-Chingu's are not limited to any particular programming language, library,
+Chingus are not limited to any particular programming language, library,
 framework, or DBMS. However, in any team project, like a Voyage, the choice of
-components in a technical stack is a _team decision_. In addition, we strongly
+components in a technical stack is a *team decision*. In addition, we strongly
 recommend that no more than 15% of the technical stack be new to more than
 half of the team in a Voyage due to its short duration.
 
 | Technology              | Frontend | Backend | Database |
 | ----------------------- | -------- | ------- | -------- |
-| **__BASIC TECH__**      |          |         |          |
+| **BASIC TECH**          |          |         |          |
 | HTML                    | ✓        |         |          |
 | CSS                     | ✓        |         |          |
 | JavaScript              | ✓        |         |          |
-| **__INTERMEDIATE TECH__** |          |         |          |
+| **INTERMEDIATE TECH**   |          |         |          |
 | Sass                    | ✓        |         |          |
 | TailwindCSS             | ✓        |         |          |
 | Apollo Client (GraphQL) | ✓        |         |          |
@@ -38,7 +38,7 @@ half of the team in a Voyage due to its short duration.
 | Firebase, MongoDB       |          |         | ✓        |
 | React, Vue, Svelte, etc.| ✓        |         |          |
 | NextJS                  | ✓        | ✓       |          |
-| **__ADVANCED TECH__**   |          |         |          |
+| **ADVANCED TECH**       |          |         |          |
 | Docker                  | ✓        | ✓       | ✓        |
 | Redux                   | ✓        |         |          |
 | Apollo Server (GraphQL) |          | ✓       |          |
@@ -49,7 +49,7 @@ half of the team in a Voyage due to its short duration.
 Well before you've reached the MVP milestone for your application you'll want
 to deploy it to the Internet so your team can perform integration testing and
 get everything set up to incrementally deploy what you've completed at the end
-of **_every_** sprint.
+of ***every*** sprint.
 
 You can learn more about the options for web hosting in the
 [App Deployment](./appdeployment.md) topic of this Guide.

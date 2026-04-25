@@ -2,73 +2,57 @@
 
 ![Web Developers helping each other](./assets/WebDevs_helping_each_other.jpeg)
 
-At some point everyone needs help. Whether it's a technical issue or question, advice that you need, or unfamiliarity with a particular process or procedure the time will come when you'll need  assistance from another Chingu.
+Everyone needs help at some point — whether it's a technical question, advice, or just not knowing how a process works. At Chingu, we take pride in helping one another be the best developers we can be.
 
-We take great pride in helping one another be the best developers we can be.
-
-There's no shame in asking for help and at Chingu we believe:
+There's no shame in asking for help. We believe:
 
 - There's no such thing as a "stupid" question
-- Mistakes are great learning tools and as such, they are to be celebrated
-- No one should be judged for a question they ask
+- Mistakes are great learning tools and should be celebrated
+- No one should be judged for asking a question
 
-## Where to get Information & Help
+## Where to Get Help
 
 ### Discord Channels
 
-One benefit of our Discord community is it provides Chingus with
-topic-specific channels to ask questions, get help, and seek advice. Take a
-look at the [#read-me-first](https://discord.com/channels/330284646283608064/768860298965942323) channel for a list of some of our most popular channels.
+Our Discord community has topic-specific channels where you can ask questions, get help, and find advice. Check out the [#read-me-first](https://discord.com/channels/330284646283608064/768860298965942323) channel for a list of our most popular channels.
 
-If you are getting started in your journey to become a Web Developer you will
-find our [**_Getting Started Corner_**](https://discord.com/channels/330284646283608064/1201180186717196368) in the [#coding-help channel](https://discord.com/channels/330284646283608064/1047615334703714394) to be a valuable resource. This is a
-safe place to ask basic questions about vanilla CSS, HTML, and programming
-languages (like Javascript & Python). **Plus**, it's moderated by Chingus who
-experienced Web Developers to answer your questions and provide advice.
+If you're just starting out on your path to becoming a Web Developer, visit the [**Getting Started Corner**](https://discord.com/channels/330284646283608064/1201180186717196368) inside the [#coding-help channel](https://discord.com/channels/330284646283608064/1047615334703714394). It's a safe place to ask basic questions about HTML, CSS, and languages like JavaScript and Python. It's moderated by experienced Chingus who are happy to help.
 
 ### Upcoming Events
 
-Checkout the `Event` channel in Discord for events such as the weekly Chingu Roundtable.
+Check out the `Event` channel in Discord for events like the weekly Chingu Roundtable.
 
-For questions about upcoming Voyage dates and deadlines refer to the
-[#voyage-schedule](https://discord.com/channels/330284646283608064/913775964138393611)
-channel.
+For questions about Voyage dates and deadlines, visit the [#voyage-schedule](https://discord.com/channels/330284646283608064/913775964138393611) channel.
 
 ### Chingu Questions & Issues
-  
-If you need assistance from our Admin Team you can open up a support ticket
-by clicking on the [#open-support-ticket](https://discord.com/channels/330284646283608064/1105911757177888908) channel. Make sure that you follow these [guidelines](#how-to-ask-a-good-question) to help us understand and quickly resolve your question.
 
-Another good resource is the [#community-chat](https://discord.com/channels/330284646283608064/578606247448936448) is the best place to ask questions
-like "How do I submit a Solo Project?".
-  
-### Technical questions & issues
-  
-Chingu's are famous for helping each other with technical problems and you
-can tap into this generosity by posting your technical questions and issues
-in the [#coding-help](https://discord.com/channels/330284646283608064/1047615334703714394) channel.
+If you need help from our Admin Team, open a support ticket in the [#open-support-ticket](https://discord.com/channels/330284646283608064/1105911757177888908) channel. Review the [guidelines below](#how-to-ask-a-good-question) before submitting so we can help you quickly.
 
-### Getting help for a confidential situation
-  
-If you need to ask something confidential you can
-[open a support ticket](https://discord.com/channels/330284646283608064/1193342042080817323)
-to bring it to the attention of the Admin team.
+For general questions like "How do I submit a Solo Project?", the [#community-chat](https://discord.com/channels/330284646283608064/578606247448936448) channel is a great place to start.
+
+### Technical Questions & Issues
+
+Chingus are known for helping each other with technical problems. Post your questions and issues in the [#coding-help](https://discord.com/channels/330284646283608064/1047615334703714394) channel.
+
+### Confidential Questions
+
+If you need to ask something privately, [open a support ticket](https://discord.com/channels/330284646283608064/1193342042080817323) to reach the Admin team directly.
 
 ## How to Ask a Good Question
 
-Before you post you question remember that getting help starts with asking a good question.
+Getting useful help starts with asking a clear question. Before you post, take a moment to think about what you're asking.
 
-Consider these two questions…
+Compare these two questions:
 
-1. My React component isn’t returning what I want. What gives?
-2. I have a React component `Locations.jsx` that should be returning a list of location names based on the text entered through a search component `Search.jsx`, but is instead returning undefined. These are located in [the repo](https://github.com/jdmedlock/meteorite). Would someone have time to look at this to see if I’ve missed something obvious?
+1. My React component isn't returning what I want. What gives?
+2. I have a React component `Locations.jsx` that should return a list of location names based on text entered through a search component `Search.jsx`, but it's returning `undefined` instead. Here's [the repo](https://github.com/jdmedlock/meteorite). Would someone have time to take a look?
 
-Do you see the difference? The first is just a complaint while the second provides the reader with information and captures their interest.
+See the difference? The first is just a complaint. The second gives the reader everything they need to help.
 
-Good questions have these 5 parts:
+A good question has these 5 parts:
 
-1. Its **actionable** and contains contextual information the reader needs.
-2. It **states what is wrong** and what the desired result should be.
-3. **Key elements should be easy to identify**. Like the component names in the example above.
-4. It contains a **link to supporting documentation**. In this case the project repo.
-5. It **ends with the ask**. In other words, what do you need? This information you put into asking a good question is the same detail you should put into issues reports as well!
+1. It's **actionable** — it includes the context the reader needs to help you.
+2. It **states what is wrong** and what you expected to happen instead.
+3. **Key details stand out** — like component names, file names, or error messages.
+4. It includes a **link to supporting material** — like your repo or a code snippet.
+5. It **ends with a clear ask** — what specifically do you need? Use this same level of detail when filing issue reports too.

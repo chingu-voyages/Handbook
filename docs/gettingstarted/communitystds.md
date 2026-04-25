@@ -1,23 +1,21 @@
 # Community Standards
 
-We view this as an obligation to all of our Members. Any Members violating
-the Community Standards will be removed from the community. Violations should
-be reported by [opening a support ticket](https://discord.com/channels/330284646283608064/1193342042080817323),
-which will be kept confidential.
+These rules keep the Chingu community a safe, supportive place to learn. All members are expected to follow them.
 
-Learning requires an open environment where information and ideas can be
-freely exchanged. Our Community Standards maintain a focus on learning by:
+Any member who violates these standards will be removed from the community. Violations can be reported by [opening a support ticket](https://discord.com/channels/330284646283608064/1193342042080817323). All reports are kept confidential.
+
+Good learning depends on being able to share ideas and ask questions freely. Our Community Standards protect that environment.
 
 ## Creating a Friendly and Open Community
 
-Members are expected to be tolerant of other cultures and opinions, and to conduct themselves in a professional manner. Disagreeing is acceptable, but being disrespectful is not. You should treat others how you want to be treated.
+Members are expected to respect other cultures and opinions, and to act professionally. Disagreements are fine — being disrespectful is not. Treat others the way you want to be treated.
 
 ## Cultivating a Supportive Community
 
-Chingus respect their peers by not plagiarizing. This includes any original work created by someone else including articles, code, and ideas.
+Chingus (Chingu members) show respect by not copying or stealing other people's work. This includes articles, code, and ideas created by someone else.
 
-Chingus also have the responsibility to actively participate in our forums to help fellow Chingus on their learning path by answering questions, helping to motivate others, sharing what they’ve learned, and providing honest and respectful critiques.
+Chingus also have a responsibility to actively participate in our forums. This means answering questions, helping to motivate others, sharing what you've learned, and giving honest and respectful feedback.
 
-## This is a Spam-free community
+## This is a Spam-free Community
 
-The focus of this community is to help one another become better Software Developers. To maintain this focus we don't allow spammy posts, including self-promotion. This includes DM'ing others in the community or asking for personal information for the purposes of marketing.
+This community exists to help people become better developers. To keep it focused, we don't allow spam or self-promotion — including unsolicited DMs to other members or requests for personal information for marketing purposes.

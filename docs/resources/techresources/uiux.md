@@ -3,7 +3,7 @@
 ![UI/UX Designer at work](./assets/UI_UX_designer_at_work.jpeg)
 
 In any application team the UI/UX Designer is an important role which helps
-teams design and implement a UI/UX thats easy to use, pleasent to view,
+teams design and implement a UI/UX that's easy to use, pleasant to view,
 responsive, and accessible. But, sometimes UI/UX Designers aren't available to
 join a Development team.
 
@@ -57,6 +57,7 @@ columns 1
   style STRUCTURE color:#f0f6fc, fill:#b3b6b7
   style STYLE color:#f0f6fc, fill:#b3b6b7
 ```
+
 ### 1. Product Strategy
 
 #### 1.1 Cast your App Vision
@@ -65,7 +66,7 @@ columns 1
 
 **_How?_**
 * What problem will your app solve for its users?
-* You should create this as a team as defined in the Voyage Sprint 1 process we've provided [here](../../guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-)
+* You should create this as a team as defined in the [Voyage Sprint 1 process](../../guides/voyage/voyage.md#4-choose-a-project--create-a-vision-statement-)
 
 **_Resources:_**
 

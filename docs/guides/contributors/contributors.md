@@ -8,9 +8,9 @@ We wholeheartedly encourage contributions and corrections to this Handbook. Your
 
 ## How to Contribute
 
-When you see a correction that needs to be made, how to make part of the
+When you see a correction that needs to be made, a way to make part of the
 Handbook clearer or more concise, or you have an idea for new information
-that would be helpful to all Chingu's simply follow these steps:
+that would be helpful to all Chingus, simply follow these steps:
 
 1. Fork this repo
 2. Create a working branch and make the desired changes.
@@ -36,7 +36,7 @@ When this is complete we'll merge your PR into the Handbook!
    a new PR to merge it into the `main branch`.
 
 2. Use simple phrasing and terminology whenever possible. Remember that there
-   Chingu's from 150+ countries and English is not everyone's first language so
+   Chingus from 150+ countries and English is not everyone's first language so
    it's important that the Handbook be both clear and concise.
 
 3. The best improvements to the Handbook address confusion and questions you

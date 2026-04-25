@@ -2,106 +2,64 @@
 
 ![The Chingu Manifesto](../assets/The_Chingu_Manifesto.png)
 
-Given our mission, what are some of the high-level principles that govern what we 
-do and how we do it?
+Our mission shapes everything we do. These are the principles that guide how we run Chingu and how we treat our members.
 
-## “Chingu” means “friend”
-Chingu is Korean for “friend”. We intentionally chose this as our company name 
-because we believe that an environment that maximizes learning and growth cannot
-and must not be toxically competitive. 
+## "Chingu" means "friend"
 
-We are all dedicated and motivated professionals focused on expanding our careers. 
-But, this doesn’t mean that we fail if someone else succeeds. This is the 
-antithesis of teamwork and it erodes trust in teams and it increases the dreaded 
-Impostor Syndrome.
+Chingu is the Korean word for "friend". We chose this name on purpose — because we believe you can't truly learn and grow in a cutthroat, every-person-for-themselves environment.
 
-Building experience and growing your career through Chingu isn’t a zero-sum game. 
-You don’t have to lose for me to win. This means we can win together and we can 
-lose together too.
+We are all motivated professionals who want to build our careers. But one person's success doesn't mean another has to fail. That kind of thinking is the opposite of teamwork. It breaks down trust and feeds the Impostor Syndrome — that persistent feeling of self-doubt even when you're doing well.
+
+Building experience through Chingu is not a competition. You don't have to lose for me to win. We can succeed together, and we can learn from setbacks together.
 
 ## Trust is the cornerstone of teamwork
 
-Teamwork is hard and it doesn’t just happen. Teamwork is built on trust and high 
-performing teams recognize this and work to create an environment that builds and 
-grows trust.
+Teamwork doesn't just happen on its own. It's built on trust, and high-performing teams know this and work hard to create an environment where trust can grow.
 
-Building trust requires that we treat each other with respect and when 
-disagreements arise, we don’t retreat from them. Instead, we deal with them
-respectfully and with a goal of continuous improvement rather than from a win-lose 
-position.
+Building trust means treating each other with respect. When disagreements come up, we don't avoid them — we work through them respectfully, with the goal of getting better rather than "winning."
 
-The environment we’ve created helps our members to speak up, ask questions, learn from one another, and give and get help and advice.
+The environment we've created helps members speak up, ask questions, learn from one another, and both give and receive help.
 
 ## Mistakes are to be celebrated
 
-Unfortunately, many professionals at all levels think that mistakes are bad and 
-that they are failing if they make mistakes. Nothing could be further from the 
-truth. 
+Many people at all levels of experience think mistakes are bad and mean they're failing. That couldn't be more wrong.
 
-The repercussions of mistakes can most definitely be serious. But, the mistakes 
-themselves are powerful learning tools. The lessons we learn from them are more 
-insightful than those we learn from successes and we remember these lessons longer.
+Mistakes can have real consequences. But they are also powerful learning tools. The lessons we learn from mistakes are often deeper than those we learn from success — and we remember them longer.
 
-The key is using personal retrospection to inspect the cause of the mistake, the 
-impact resulting from it, and how it could have been avoided. Doing this maximizes 
-what you can learn from a mistake while lowering the probability of repeating it.
+The key is to look back honestly: What went wrong? Why did it happen? What could you do differently next time? This approach gets the most out of every mistake and makes it less likely to happen again.
 
 ## The Impostor Syndrome affects everyone
 
-Anyone who claims they don’t experience the Impostor Syndrome is either delusional 
-or in denial. The Impostor Syndrome affects everyone in all walks of life 
-regardless of their level of experience.
+Anyone who says they never feel the Impostor Syndrome is either fooling themselves or not being honest. It affects people at every level of experience, in every field.
 
-However, as you build experience and confidence you will also learn techniques for 
-coping with the Impostor Syndrome to minimize its negative effects.
+But as you build experience and confidence, you'll also develop ways to manage it and reduce its effects.
 
-At Chingu, our responsibility is to help our members and teammates learn and refine 
-the coping techniques that work best for them. One important way we do this is to 
-help them build confidence in themselves and to understand that building a career 
-is a process that occurs in stages and takes time. 
+At Chingu, our job is to help members build those coping skills. One key way we do this is by helping members build confidence and understand that a career is built in stages — it takes time, and that's okay.
 
 ## Everyone has their own pace
 
-Everyone advances at their own pace and we acknowledge this and work to build our 
-programs to accommodate our members' individual needs. There’s no set schedule that 
-says “you have to accomplish this milestone to be successful”. 
+Everyone moves forward at their own speed, and we respect that. Our programs are designed around each member's individual needs. There's no fixed schedule that says "you must reach this milestone by this date."
 
-A person’s measure of success is whether or not they achieve their goals rather 
-than how fast it took them to reach them.
+Success means reaching your goals — not reaching them faster than someone else.
 
-We embrace this and don’t judge our members based on speed - only on whether they 
-reached their goal.
+We don't judge members on speed. We celebrate the fact that they got there.
 
-## No single technology or techstack is the “best”
+## No single technology or tech stack is the "best"
 
-The only definition of “best” technology is whether or not it is used to build 
-applications that meet the needs of the user. In other words, “best” is a relative 
-measure, not an absolute measure.
+The only measure of "best" technology is whether it helps build something that truly meets the user's needs. In that sense, "best" is always relative — it depends on the situation.
 
-In our industry new technologies and tools come at a sometimes frightening pace. 
-The old adage that “the only constant is change” is very true.
+Our industry changes fast. New tools, languages, and frameworks arrive at a pace that can feel overwhelming at times. But the saying holds true: the only constant is change.
 
-Recognizing this, Chingu is open to all programming languages, tools, libraries, 
-frameworks, and technologies that support the Web Development process. Our loyalty 
-is to the user, not a specific technology.
+This is why Chingu supports all programming languages, tools, libraries, frameworks, and technologies used in Web Development. Our loyalty is to the user, not to any specific technology.
 
 ## We aren't motivated by profit alone
 
-We don’t want to be the next mega company that rewards senior management and 
-investors with massive amounts of money. Our primary reward is the satisfaction we 
-get from seeing our members grow their careers.
+We don't want to become a large company that exists mainly to reward its senior management and investors. Our greatest reward is seeing members grow their careers.
 
-This is why we have intentionally shunned venture capital where the goal is to grow 
-at any cost so you can sell the company and “cash out”.
+This is why we've stayed away from venture capital, where the goal is to grow at any cost, sell the company, and cash out.
 
-Having said this, we do have financial obligations. Running Chingu requires the use 
-of online services with monthly fees. Our first financial goal is to meet these 
-expenses. 
+That said, we do have real financial obligations. Running Chingu requires online services with monthly costs. Our financial goals are:
 
-Our second financial goal is to manage our expenses so they are at a minimum. This 
-means we often trade time for money since there may be manual steps we must perform 
-when a service could perform it for us, but at additional cost. 
-
-Our third financial goal is to generate the revenue needed to continue to adapt 
-existing member programs and to add new ones so we continuously increase the value 
-provided to our members as they advance their careers.
+1. Cover our operating costs.
+2. Keep expenses as low as possible — which sometimes means doing things manually instead of paying for automation.
+3. Generate enough revenue to improve existing programs and create new ones, so we can keep increasing the value we provide to members.

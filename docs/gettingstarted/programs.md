@@ -1,27 +1,13 @@
 # Programs & Services
 
-The goal of Chingu programs is to provide you with opportunities to practice
-what you've learned in university, bootcamps, and online courses to transform
-your Software Development knowledge into the experience employers are looking
-for.  
+Chingu programs give you a chance to practice what you've learned. The goal is to turn your knowledge — from school, bootcamps, or online courses — into the real-world experience employers look for.
 
-- A ***Solo Project*** is required before your first Voyage. It lets you
-validate the tier level you've chosen and verify that you are committed to
-completing a Voyage.
-- ***Voyages*** are like [hackathons](https://en.wikipedia.org/wiki/Hackathon),
-but of a longer duration to allow the applications you'll be developing to be more full
-featured. You'll work with a team of remote Developers working in an environment that
-mimics what you'll encounter in the workplace
-- ***Pair Challenges*** is a program which partners you with another member in the community
-to complete short challenges together in real time. You'll help and learn from
-each other to improve your skills. We call them pair challenges because the challenges
-are not exclusive to developers. Soon you'll find challenges for other roles like 
-Scrum Master and Product Owner as well.
-- ***Moonshots*** are special assignments given to select Tier 3 teams during a
-Voyage. These are generally standalone applications that address specific
-member needs or which help add value to the Chingu organization. For example,
-an app like [Chingu Quiz](https://github.com/chingu-voyages/moonshot-chingu-quiz).
+- A ***Solo Project*** is required before your first Voyage. It confirms that you've chosen the right skill level (tier) and shows that you're ready to commit to completing a Voyage.
 
-Voyages, Pair Programming, and Moonshots are open to all Chingus. You can apply
-to take part in these once you've [applied to join Chingu](https://chingu.io/)
-and completed your [Solo Project](../guides/soloproject/soloproject.md).
+- ***Voyages*** are team projects, similar to a [hackathon](https://en.wikipedia.org/wiki/Hackathon) (a time-limited group project) but longer, so you can build a more complete application. You'll work with a remote team in an environment that mirrors a real workplace.
+
+- ***Pair Challenges*** pair you with another member to solve short challenges together in real time. You'll learn from each other and sharpen your skills. Challenges are available for all roles — not just Developers. Scrum Master and Product Owner challenges are coming too.
+
+- ***Moonshots*** are special assignments given to select Tier 3 teams during a Voyage. These are usually standalone applications that address a specific need for Chingu members or the organization. For example: [Chingu Quiz](https://github.com/chingu-voyages/moonshot-chingu-quiz).
+
+Voyages, Pair Challenges, and Moonshots are open to all Chingus. You can apply once you've [joined Chingu](https://chingu.io/) and completed your [Solo Project](../guides/soloproject/soloproject.md).

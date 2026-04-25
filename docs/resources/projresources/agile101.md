@@ -18,7 +18,7 @@ The goal of each sprint is to produce a working release of an app that has more 
 
 Building the backlog of tasks involves breaking down your project into discrete tasks. A good place to start is to treat every page in the app as a component and organize them in a logical sequence based on their dependency to one another. For example, you’ll probably want to complete your "Create Thing" page before starting in on a "Search for Thing(s)" page.
 
-Once you've done that, define a *user story* for each unit of work needed to build the components. These should be very discrete and each one should be able to be completed in a single sprint. User stories are not expressed in technical terms. Instead they identify the persona that will use the delivered piece of functionality, what that requirement is, and the value they will realize from it. 
+Once you've done that, define a *user story* for each unit of work needed to build the components. These should be very discrete and each one should be able to be completed in a single sprint. User stories are not expressed in technical terms. Instead they identify the persona that will use the delivered piece of functionality, what that requirement is, and the value they will realize from it.
 
 This may sound very foreign to you in your role as a WebDev, but it's critical to ensuring that your product delivers value to the end user. The most technically beautiful implemented app is useless if it doesn't deliver on this value proposition.
 
@@ -33,11 +33,11 @@ Stories are simple statements having a form such as:
 For example,
 `As an Idea Creator I want to provide the URLs to any supporting diagrams. URLs should have a plain text description in addition to the URL itself. So I can quickly and easily provide reviewers with more detail about my idea`
 
-Even though the story is expressed in non-technical terms, it doesn't mean that you can't annotate it with technical details as they become known. Many of the tools you have at your disposal allow story cards to contain additional information. 
+Even though the story is expressed in non-technical terms, it doesn't mean that you can't annotate it with technical details as they become known. Many of the tools you have at your disposal allow story cards to contain additional information.
 
 However, while documentation is important, keep in mind that Agile values working code over comprehensive documentation - this doesn't mean you don't produce documentation. It means you produce it at the right level of detail and at the right time.
 
-Many teams do find it useful to annotate the user stories with very high level checklists listing the steps to be completed for the story and the order they are to be completed in. 
+Many teams do find it useful to annotate the user stories with very high level checklists listing the steps to be completed for the story and the order they are to be completed in.
 
 It's important to keep in mind that these define what is to be done and not how it is to be done. It's just as important to first concentrate on building the user stories before starting work on defining the steps involved in each story.
 
@@ -49,15 +49,15 @@ Remember that the focus of the user story is to classify who your users are, wha
 
 ![Backlog Grooming](./assets/backlog_grooming.png)
 
-Once you have defined your initial backlog of tasks you can start your first sprint as previously described. With each team meeting and each sprint, you will be updating the backlog with new information that comes to light. 
+Once you have defined your initial backlog of tasks you can start your first sprint as previously described. With each team meeting and each sprint, you will be updating the backlog with new information that comes to light.
 
-This will involve adding, modifying, and even removing stories. You'll find that some stories aren't granular enough and must be broken up into additional stories. If a story isn’t completed, it should be moved out of the Done lane on your project board and back into In Progress. 
+This will involve adding, modifying, and even removing stories. You'll find that some stories aren't granular enough and must be broken up into additional stories. If a story isn’t completed, it should be moved out of the Done lane on your project board and back into In Progress.
 
 In short, keeping the backlog relevant is a never ending task while the project is underway.
 
 ## For More Information
 
-This has been a very light introduction to Agile project management and has been focused on practical steps to get your project to the point where you can start Sprint 1. 
+This has been a very light introduction to Agile project management and has been focused on practical steps to get your project to the point where you can start Sprint 1.
 
 Just as there are many paths to failure, there are also many paths to success.
 
@@ -69,9 +69,9 @@ Just as there are many paths to failure, there are also many paths to success.
 
 [8 Attitudes Guaranteed to Sink Your Agile Projects](https://www.wrike.com/blog/8-attitudes-guaranteed-to-sink-your-agile-projects/)
 
-[Beginner’s Guide to Scrum](https://www.wrike.com/scrum-guide/) 
+[Beginner’s Guide to Scrum](https://www.wrike.com/scrum-guide/)
 
-[Beginner’s Guilde to Kanban](https://www.wrike.com/kanban-guide/)
+[Beginner’s Guide to Kanban](https://www.wrike.com/kanban-guide/)
 
 [Top 7 Agile Frameworks](https://premieragile.com/types-of-agile-frameworks/)
 

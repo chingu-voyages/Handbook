@@ -280,7 +280,7 @@
 </details>
 
 <details>
-  <summary>Plagarism</summary>
+  <summary>Plagiarism</summary>
   <br/>
 
   Modern software development is built on collaboration and the work others have

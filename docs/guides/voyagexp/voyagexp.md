@@ -19,7 +19,7 @@ Voyage XP is a premium 10-week experience designed to help you build advanced pr
 For this pilot cohort, we’re offering it at an introductory rate of just $30 for the full 10 weeks.
 
 We’ve intentionally priced this pilot accessibly so early members can shape the experience while receiving high-impact mentorship, accountability, and advanced project work.
-This isn’t a sprint. It’s an 10-week cohort (instead of 7) — giving you more time to:
+This isn’t a sprint. It’s a 10-week cohort (instead of 7) — giving you more time to:
 
 * Build strong relationships with your team
 * Gain real momentum
@@ -177,7 +177,7 @@ will have the opportunity to ask questions and get their advice.
 
 In VoyageXP you will also have the opportunity to meet other professionals in
 networking and strategy meetups. In these sessions you discuss hot topics in
-the industry, share experiences and struggles, and building supportive relationships.
+the industry, share experiences and struggles, and build supportive relationships.
 
 ### Resume review + interview practice
 
