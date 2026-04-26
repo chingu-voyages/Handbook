@@ -234,7 +234,7 @@ https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
   **How**
   
   - [ ]  When the Sprint 0 starts, the first person in the Team Channel should
-  create a [Schej meeting availability event](https://schej.it/home) and post it
+  create a [Timeful meeting availability event](https://timeful.app/) and post it
   in the channel. Everyone can update add their availability so the team
   meeting can be scheduled.
   - [ ]  Schedule this meeting for the latter half of Sprint 0 to give
@@ -273,7 +273,7 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
   **How**
   
   - [ ]  When the Voyage starts, the first person in the Team Channel should
-  create a [Schej meeting availability event](https://schej.it/home) and post it
+  create a [Timeful meeting availability event](https://timeful.app/) and post it
   in the channel. Everyone can update add their availability so a Kickoff
   meeting can be scheduled.
   - [ ]  Find a time as early as possible in Sprint 1 for your Kickoff meeting.
@@ -554,7 +554,7 @@ https://github.com/user-attachments/assets/d2a08aa3-dc21-45f2-80ea-6c3be6f59116
   [How can I share Daily Standup status in my Team Channel?](./topics/tips_standup_cmd.md)</br>
   [Agile Methodology 101 (Chingu Handbook)](../../resources/projresources/agile101.md)</br>
   [How to Plan a Sprint (video)](https://www.youtube.com/watch?v=lumOOOKZzto)</br>
-  [Schej meeting availability tool](https://schej.it/home)</br>
+  [Timeful meeting availability event](https://timeful.app/)</br>
   [Plagarism caution & advice](../../resources/glossary/glossary.md#plagarism)</br>
   
   The following read-only document templates will be placed in your repos `docs` subdirectory at the start of the Voyage.
