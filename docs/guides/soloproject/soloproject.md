@@ -18,12 +18,12 @@ graph TB
     A((<a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#1-choose-your-tier-1%EF%B8%8F%E2%83%A3-2%EF%B8%8F%E2%83%A3-3%EF%B8%8F%E2%83%A3'>Choose your Tier</a>)) --> B{What is your role?}
     B -- Scrum Master --> G
     B -- Product Owner, Developer,</br>UI/UX Designer --> F{Do you have a project?}
-    F -- Yes --> G(Submit your <a href='https://forms.gle/D3Nu1VvfH3FDFBRr6'></br>Solo Project form</a>)
+    F -- Yes --> G(Submit your</br><a href='https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form' target='_blank'>Solo Project Completion Form</a>)
     F -- No --> H(Create new Solo Project <a href='https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/soloproject/soloproject.md#2-submit-a-project-'></br>matching your tier</a>)
     H --> G
     G --> J(Evaluator DMs feedback</br>in Discord)
     J --> K{Accepted?};
-    K -- Yes --> L(Submit <a href='https://forms.gle/dFaNuYWAjARd99qo8' target='_blank'>Voyage Signup form</a>);
+    K -- Yes --> L(Submit <a href='https://airtable.com/appfnDw1vdrDWJ4SB/pagfMhckTweITERsF/form' target='_blank'>Voyage Signup form</a>);
     K -- No --> M(Make requested changes);
     M --> N(<a href='https://discord.com/channels/330284646283608064/1193342042080817323' target='_blank'>Open a ticket</a></br>to notify Evaluator);
     N --> J;
@@ -88,7 +88,7 @@ You will need to provide the URLs for:
 accessible through the Internet. Please include a test account and password if
 a signin is required.
 
-You can use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
+You can use the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form)
 to submit your project.
 
 ### If you are a Product Owner
@@ -100,7 +100,7 @@ for the questions you missed.
 created. This may be in the service of your choice. For example, GitHub
 Projects, Trello, Miro, ClickUp, Jira, or any similar tool.
 
-You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
+You can find the quiz in the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form).
 
 Your sample product backlog doesn't need to be complicated, but it should
 demonstrate that you understand how to visually organize the project using
@@ -117,7 +117,7 @@ If you are a Scrum Master complete the quiz in the Solo Project submission form.
 The minimum passing score for the quiz is 80%. If you don't pass you will be
 able to update your answers for the questions you missed.
 
-You can find the quiz in the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6).
+You can find the quiz in the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form).
 
 ### If you are a UI/UX Designer
 ---
@@ -134,13 +134,13 @@ This should be a link to the Figma or equivalent file showing:
 Also keep in mind the importance of 
 [CRAP design fundamentals](https://attentioninsight.com/crap-design-principles/) - Contrast, Repetition, Alignment, and Proximity.
 
-Use the [Solo Project Completion Form](https://forms.gle/VCpN1K6j341Vz1dq6)
+Use the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form)
 to submit your project.
 
 ### 3. Submit a Solo Project Completion Form ✅
 ---
 You will need to submit your project using the
-**[Solo Project Completion Form](https://forms.gle/bwPYEaco5a3KhMqU6)**. This
+**[Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form)**. This
 must be completed before your first Voyage.
 
 Once submitted your project will be evaluated within ***4 business*** days. We'll 
