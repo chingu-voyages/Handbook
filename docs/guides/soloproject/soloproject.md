@@ -134,7 +134,7 @@ This should be a link to the Figma or equivalent file showing:
 Also keep in mind the importance of 
 [CRAP design fundamentals](https://attentioninsight.com/crap-design-principles/) - Contrast, Repetition, Alignment, and Proximity.
 
-Use the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form)
+Use the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form)
 to submit your project.
 
 ### 3. Submit a Solo Project Completion Form ✅
