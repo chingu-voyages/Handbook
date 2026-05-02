@@ -88,7 +88,7 @@ You will need to provide the URLs for:
 accessible through the Internet. Please include a test account and password if
 a signin is required.
 
-You can use the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form)
+You can use the [Solo Project Completion Form](https://airtable.com/appfnDw1vdrDWJ4SB/pagg17xDNYKNJG5Ml/form)
 to submit your project.
 
 ### If you are a Product Owner
