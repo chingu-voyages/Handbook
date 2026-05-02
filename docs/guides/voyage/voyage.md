@@ -251,7 +251,7 @@ https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
 
   **Resources**
 
-  [Schej meeting availability tool](https://schej.it/home)</br>
+  [Timeful meeting availability tool](https://timeful.app/)</br>
 
   ---
 
