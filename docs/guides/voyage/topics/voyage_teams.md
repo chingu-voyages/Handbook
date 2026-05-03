@@ -5,7 +5,7 @@ You will be assigned to a Voyage team based on the following criteria, from high
 
 1. Tier
 
-    All teammates will be in the same tier. This is the tier you selected on the [Voyage Signup form](https://forms.gle/NkSP7DS3oz4sEzdh8).
+    All teammates will be in the same tier. This is the tier you selected on the [Voyage Signup form](https://airtable.com/appfnDw1vdrDWJ4SB/pagfMhckTweITERsF/form).
 
     For Development (Web or Python) teams:
 

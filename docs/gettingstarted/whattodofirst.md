@@ -105,7 +105,7 @@ You can find the schedule of upcoming Voyages in the
 [#voyage-schedule](https://discord.com/channels/330284646283608064/913775964138393611)
 channel in Discord.
 
-To signup simply complete and submit a [Voyage Signup](https://forms.gle/QGLbjKubYVfmSLMJ7) form. We’ll email an acknowledgement with information to help you get ready.
+To signup simply complete and submit a [Voyage Signup](https://airtable.com/appfnDw1vdrDWJ4SB/pagfMhckTweITERsF/form) form. We’ll email an acknowledgement with information to help you get ready.
 
 ## Join a Pair Programming session
 
