@@ -583,7 +583,7 @@ flowchart TB
    D -- Yes --> E(Final deployment your Internet host);
    D -- No --> F(PO & SM: Complete your the course);
    F --> E;
-   E --> H(Submit your</br><a href='https://airtable.com/appfnDw1vdrDWJ4SB/pagh69S4fm4xLR5yW/form' target='_blank'>team project</a> for review);
+   E --> H("Submit your<br/><a href='https://airtable.com/appfnDw1vdrDWJ4SB/pagh69S4fm4xLR5yW/form' target='_blank'>team project</a> for review");
    H --> I(Submit your</br><a href='https://docs.google.com/forms/d/1U9WxiY4QSSkIwYJTDyHQBV02NSzvi0Lj_3wWo9GlLrM/' target='_blank'>presentation</a> for Demo Day);
    I --> J(Share your success on LinkedIn and other social media);
    J --> Z([End]);
