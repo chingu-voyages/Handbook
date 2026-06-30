@@ -629,6 +629,7 @@ We know you have a lot of questions about our Voyages. Here are a few of those w
 [What git & GitHub knowledge will I need?](./topics/voyage_git_github.md)</br>
 [How should my Team select a project?](./topics/voyage_project.md)</br>
 [How should PO's and Scrum Masters monitor the project?](./topics/voyage_project_monitoring.md)</br>
+[What Happens if I Drop Out?](./topics/voyage_dropouts.md)</br>
 
 ### Tips for all teammates ✏️
 

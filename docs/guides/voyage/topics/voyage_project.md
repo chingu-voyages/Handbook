@@ -1,4 +1,5 @@
 # How should my Team select a project?
+
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
 If you are in a **Tier 1 or Tier 2** team this is easy! In your team channel we

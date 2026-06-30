@@ -1,16 +1,19 @@
 # What Does a Voyage Cost? 💰💰💰
+
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
 **Voyages are free**, but you will need to successfully complete all Voyage requirements
-and have a current Chingu Subscription or a Completion Certificate to 
+and have a current Chingu Subscription or a Completion Certificate to
 receive a certificate when the Voyage finishes.
 
-1. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at USD$2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** as needed for USD$4.99.
+1. Voyage Completion Certificates can be purchased by signing up for a **_monthly subscription_** at USD$2.99/month **_OR_** purchasing a Voyage Completion Certificate **_product_** for USD$4.99. Once purchased, Completion
+Certificates are valid for one Voyage if used within 1 year of purchase. They
+expire after 1 year. 
 2. You can sign up for [Subscriptions](https://buy.stripe.com/7sIaHh0Ev5oY3BecMN) and [Products](https://buy.stripe.com/bIY5mXevl5oYgo0fYY) in Stripe.
   
 When you sign up for a monthly subscription you will get access to an exclusive _Superstars channel + your Voyage Completion Certificate_ at no additional charge. You may cancel this at any time.
   
-You’ll still be able to make one-time contributions at 
+You’ll still be able to make one-time contributions at
 [Buy us a Coffee](https://www.buymeacoffee.com/chingu). Past and future contributors using
 Buy Me a Coffee will automatically be added to the Superstars channel.
 
