@@ -10,7 +10,7 @@ will understand what level of commitment is required.
 If you drop out of a Voyage the following will happen:
 
 1. When you drop out the first time you are required to wait one complete
-Voyage before signing up to partipate in another one. For example, if you
+Voyage before signing up to participate in another one. For example, if you
 drop out of V61, you won't be allowed to participate again until V63. The
 impact is you will delay gaining the value you need to stand out in a
 crowded job market when you start interviewing.
@@ -19,11 +19,11 @@ crowded job market when you start interviewing.
 allowed to participate in any future Voyages.
 
 If you drop out the first time and you have
-purchased a [Completion Certificate](./voyage_cost.md) it will still be valid
+purchased a [Completion Certificate](./voyage_cost.md), it will still be valid
 for a future Voyage up to 1 year from the date of purchase.
 
 If you drop out a second time and you have purchased a
-[Completion Certificate](./voyage_cost.md) it will immediately expire.
+[Completion Certificate](./voyage_cost.md), it will immediately expire.
 
 Chingu does not issue refunds.
 
