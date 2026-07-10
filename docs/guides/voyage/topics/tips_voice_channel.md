@@ -25,12 +25,7 @@ If you dont see the voice channel, you have to navigate all the way to the botto
 
 <img src="../assets/Show_all_Discord_voice_channels.png" alt="" width="200"/>
 
-When you create a voice channel, Titan will also supply you with a link to join the channel
+When you create a voice channel, Titan will provide a link you can paste into
+a browser to join the channel.
 
 <img src="../assets/join_voice.png" alt="" width="500"/>
-
-If some of your teammates struggle to find the voice channel, you can right click on the voice
-channel and click "Copy Link", and then paste that into your team channel. This will give your
-teammates a link to the channel.
-
-<img src="../assets/copy_link.png" alt="" width="200"/>
