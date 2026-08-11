@@ -91,16 +91,16 @@ flowchart TB
 
 ### VoyageXP Schedule 🗓️
 
-| Milestone | VoyageXP Schedule |
-| :--- | :--- |
-| Signup Deadline | March 11 |
-| Assessment Interviews | March 15 - 21 |
-| Session starts | March 30 |
-| Session ends & projects due | June 7 |
-| Demo Day presentations due | May 31 |
-| Demo Day | June 3 |
-| Completion Certificates issued | June 17 |
-| Showcase article published | June 17 |
+| Milestone | XP01 | XP02 |
+| :--- | :--- | :--- |
+| Signup Deadline | March 11 | Sept 9 |
+| Assessment Interviews | March 15 - 21 | Sept 14 - 20 |
+| Session starts | March 30 | Sept 28 |
+| Session ends & projects due | June 10 | Dec 6 |
+| Demo Day presentations due | May 31 | Dec 7 |
+| Demo Day | June 3 | Dec 9 |
+| Completion Certificates issued | June 17 | Dec 16 |
+| Showcase article published | June 17 | Dec 16 |
 
 ## The VoyageXP Process
 
