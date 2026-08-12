@@ -94,7 +94,8 @@ flowchart TB
 | Milestone | XP01 | XP02 |
 | :--- | :--- | :--- |
 | Signup Deadline | March 11 | Sept 9 |
-| Assessment Interviews | March 15 - 21 | Sept 14 - 20 |
+| Assessment Interviews | March 15 - 21 | Now - Sept 18 |
+| Email Session Confirmation | n/a | Sept 20 |
 | Session starts | March 30 | Sept 28 |
 | Session ends & projects due | June 10 | Dec 6 |
 | Demo Day presentations due | May 31 | Dec 7 |
