@@ -634,7 +634,7 @@ We know you have a lot of questions about our Voyages. Here are a few of those w
 [How can I share Daily Standup status in my Team Channel?](./topics/tips_standup_cmd.md)</br>
 [How can I “pin” messages to my Team Channel?](./topics/tips_pin_messages.md)</br>
 [Which team role is the most important one?](./topics/tips_voyage_role.md)</br>
-[My team doesn't have a Product Owner. What should we do?](./topics/tips_no_po.md)</br>
+[My team doesn't have a Product Owner and/or Scrum Master. What should we do?](./topics/tips_no_po.md)</br>
 [Titan - User Status & Ticketing System](./topics/tips_titan.md)
 
 ### Tips for Product Owners ✏️
