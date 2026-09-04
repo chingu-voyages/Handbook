@@ -21,6 +21,11 @@ Sprint. This ensures that everyone gets a chance to learn more about this role.
 with one another. This is the least desirable option, since shared
 responsibility often means it's not done.
 
+You can find a description of the responsibilities for each of these roles
+[here](../topics/voyage_roles.md). In addition, the
+[Voyage section](../voyage.md#the-voyage-process) of this Handbook contains a
+description of the tasks that need to be performed in each Sprint.
+
 Whichever option you choose, remember that teammates must support one
 another -- you will either succeed together or fail together.
 
