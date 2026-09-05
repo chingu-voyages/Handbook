@@ -78,108 +78,24 @@ the Chingu Admin team will be happy to create it for you.
 ## The Voyage Process
 
 ```mermaid
----
-config:
-  layout: elk
-  theme: dark
----
-  block-beta
-    columns 1
-
-    block:B0:1
-      columns 1
-      block:TOPL1
-        columns 11
-        A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
-        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
-        A12(("&nbsp;&nbsp;&nbsp;12 &nbsp;"))
-      end
-      block:TOPL2
-        columns 11
-      end 
-      block:TOPL3
-        columns 11
-        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-        A11(("&nbsp;&nbsp;&nbsp; 11 &nbsp;&nbsp;"))
-      end      
-      space
-      space
-      space
-      block:CENTER
-        columns 11
-        SPRINT0("&nbsp;Sprint 0&nbsp;")
-        space
-        SPRINT1("&nbsp;Sprint 1&nbsp;")
-        space
-        SPRINT2("&nbsp;Sprint 2&nbsp;")
-        space
-        SPRINTS35("&nbsp;Sprints 3-5&nbsp;")
-        space
-        SPRINT6("&nbsp;Sprint 6&nbsp;")
-      end
-      block:BOTTOML1
-        columns 11
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
-        space
-        A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;")) 
-      end
-      block:BOTTOML2
-        columns 11
-      end      
-      block:BOTTOML3
-        columns 11
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
-      end      
-
-      A1 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-get-to-know-your-team-">Get to know</br>your</br> team</a>" --> SPRINT0
-      A2 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-hold-a-realtime-team-meeting-%E2%80%8D%EF%B8%8F">Hold a</br>realtime</br>team mtg.</a>" --> SPRINT0
-      A3 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Hold</br>Kickoff</br>Mtg.</a>" --> SPRINT1
-      A4 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create</br>team</br>agreements</a>" --> SPRINT1
-      A5 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose</br>project &</br>create vision</a>" --> SPRINT1
-      A6 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define &</br>prioritize</br>features</a>" --> SPRINT1
-      A7 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update</br>readme.md</br>team list</a>" --> SPRINT1
-      A8 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-technical-stack-%EF%B8%8F">Select a</br>technical</br>stack</a>" --> SPRINT1
-      A9 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-setup-product-backlog-">Create</br>Product</br>Backlog</a>" --> SPRINT2
-      A10 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-create-a-uiux-design-%EF%B8%8F">Create</br>UI/UX design</a>" --> SPRINT2
-      A11 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#11-sprint-3-5---reaching-your-mvp-">Design, code,</br>test & deploy</a>" --> SPRINTS35
-      A12 -- "<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#12-sprint-3-5---reaching-your-mvp-">Project Closure</a>" --> SPRINT6
-    end
-
-    SPRINT0 --> SPRINT1
-    SPRINT1 --> SPRINT2
-    SPRINT2 --> SPRINTS35
-    SPRINTS35 --> SPRINT6
-
-    style TOPL1 stroke:#292d30,fill:#292d30
-    style TOPL2 stroke:#292d30,fill:#292d30
-    style TOPL3 stroke:#292d30,fill:#292d30
-    style CENTER stroke:#292d30,fill:#292d30
-    style BOTTOML1 stroke:#292d30,fill:#292d30
-    style BOTTOML2 stroke:#292d30,fill:#292d30
-    style BOTTOML3 stroke:#292d30,fill:#292d30
-        
-    style A1 color:#f0f6fc,fill:#1d8348
-    style A2 color:#f0f6fc,fill:#1d8348
-    style A3 color:#f0f6fc,fill:#1d8348
-    style A4 color:#f0f6fc,fill:#1d8348
-    style A5 color:#f0f6fc,fill:#1d8348
-    style A6 color:#f0f6fc,fill:#1d8348
-    style A7 color:#f0f6fc,fill:#1d8348
-    style A8 color:#f0f6fc,fill:#1d8348
-    style A9 color:#f0f6fc,fill:#1d8348
-    style A10 color:#f0f6fc,fill:#1d8348
-    style A11 color:#f0f6fc,fill:#1d8348
-    style A12 color:#f0f6fc,fill:#1d8348
-
-    style SPRINT0 color:#f0f6fc,fill:#b9770e
-    style SPRINT1 color:#f0f6fc,fill:#b9770e
-    style SPRINT2 color:#f0f6fc,fill:#b9770e
-    style SPRINTS35 color:#f0f6fc,fill:#b9770e
-    style SPRINT6 color:#f0f6fc,fill:#b9770e
+  kanban
+    column1[Sprint 0]
+      Get to know your team["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-get-to-know-your-team-">Get to know your team</a>"]
+      Hold your kickoff mtg.["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Hold Kickoff Mtg.</a>"]
+      Review & discuss project["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Review & discuss project</a>"]
+      Create team agreement["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create team agreement</a>"]
+    column2[Sprint 1]
+      Choose project & create vision stmt["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose project &create vision stmt.</a>"]
+      Define & prioritize features["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define & prioritize</ features</a>"]
+      Update team list in Readme["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update readme.md team list</a>"]
+      Select technical stack["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-technical-stack-%EF%B8%8F">Select a technical stack</a>"]
+    column3[Sprint 2]
+      Create Product Backlog["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-setup-product-backlog-">Create Product Backlog</a>"]
+      Create UI/UX design["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-create-a-uiux-design-%EF%B8%8F">CreatevUI/UX design</a>"]
+    column4[Sprint 3-5]
+      Design, code, test & deploy["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#11-sprint-3-5---reaching-your-mvp-">Design, code, test & deploy</a>"]
+    column5[Sprint 6]
+      Project Closure["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#12-sprint-3-5---reaching-your-mvp-">Project Closure</a>"]
 ```
 
 ### Sprint 0 - Getting to know your team
