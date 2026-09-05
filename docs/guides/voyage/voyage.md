@@ -85,13 +85,13 @@ the Chingu Admin team will be happy to create it for you.
       Review & discuss project["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Review & discuss project</a>"]
       Create team agreement["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create team agreement</a>"]
     column2[Sprint 1]
-      Choose project & create vision stmt["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose project &create vision stmt.</a>"]
+      Choose project & create vision stmt["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose project & create vision stmt.</a>"]
       Define & prioritize features["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define & prioritize</ features</a>"]
       Update team list in Readme["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update readme.md team list</a>"]
       Select technical stack["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-technical-stack-%EF%B8%8F">Select a technical stack</a>"]
     column3[Sprint 2]
       Create Product Backlog["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#9-setup-product-backlog-">Create Product Backlog</a>"]
-      Create UI/UX design["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-create-a-uiux-design-%EF%B8%8F">CreatevUI/UX design</a>"]
+      Create UI/UX design["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#10-create-a-uiux-design-%EF%B8%8F">Create UI/UX design</a>"]
     column4[Sprint 3-5]
       Design, code, test & deploy["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#11-sprint-3-5---reaching-your-mvp-">Design, code, test & deploy</a>"]
     column5[Sprint 6]
@@ -138,14 +138,21 @@ https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
   
   [What the different roles in a Voyage team?](./topics/voyage_roles.md)</br>
 
-  #### 2. Hold a realtime team meeting 🧑‍⚖️
+---
+  
+#### 2. Hold a kickoff meeting 🫱🏼‍🫲🏽
 
   **Objective**
   
   Once you have met your teammates and spent a few days getting to know one
-  another in your team channel, schedule a realtime meeting. Talking with your
+  another in your team channel, schedule a Kickoff meeting. Talking with your
   teammates in realtime is a more personal way to communicate and one that
   will reinforce the team bonding process.
+
+  In the Kickoff Meeting you will meet your teammates, review the
+  goals & steps to follow in Sprints 1 & 2, discuss the project you
+  will be building, agree on a working agreement, plus anything
+  else to create a solid foundation for teamwork.
   
   **How**
   
@@ -167,50 +174,45 @@ https://github.com/user-attachments/assets/4deea908-a9ca-4df1-b388-0d616048b38b
 
   **Resources**
 
-  [Timeful meeting availability tool](https://timeful.app/)</br>
-
-  ---
-
-### Sprint 1 - Setting up your project
-
-<!-- markdownlint-disable MD034 -->
-https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
-<!-- markdownlint-enable MD034 -->
-
-#### 3. Hold a kickoff meeting 🫱🏼‍🫲🏽
-
-  **Objective**
-  
-  In the Kickoff Meeting you will meet your teammates, review the
-  goals & steps to follow in Sprints 1 & 2, discuss the project you
-  will be building, agree on a working agreement, plus anything
-  else to create a solid foundation for teamwork.
-  
-  **How**
-  
-  - [ ]  When the Voyage starts, the first person in the Team Channel should
-  create a [Timeful meeting availability event](https://timeful.app/) and post it
-  in the channel. Everyone can update add their availability so a Kickoff
-  meeting can be scheduled.
-  - [ ]  Find a time as early as possible in Sprint 1 for your Kickoff meeting.
-  Six weeks sounds like a long time, but it’s quite short and every day you
-  delay in getting started counts!
-  - [ ]  Use the Voyage Kickoff meeting agenda template to guide you and as a
-  place to record notes and decisions. This and other helpful document templates
-  are in the `docs` subdirectory in your team's repo.
-  
-  **Pro Tip!** Use the [audio/visual channel](../topics/tips_voice_channel.md)
-  for your team for meetings. This supports not only audio & video in real time,
-  but also screen sharing.
-
-  **Resources**
-
   [Document Templates](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
   (These read-only templates will be copied to the `docs` subdirectory in your
   team’s repo when the Voyage starts)
   [Meeting template - Voyage Kickoff](https://github.com/chingu-voyages/voyage-template/tree/main/docs)
 
-  ---
+---
+  
+#### 3. Review and Discuss Project 🫱🏼‍🫲🏽
+
+  **Objective**
+  
+  Once you have met your teammates take a look at the specifications and
+  requirements in the Team Info topic of your team channel in Discord. This
+  GitHub repo contains the details for the project we want you to build in
+  this Voyage.
+
+  Use this time to prepare for the detailed design and development you'll be
+  doing in later Sprints. Use your Discord team channel to discuss this and
+  feel free to schedule any additional realtime meetings, as needed.
+
+  > Tier 1 & Tier 2 teams are required to create this project. Tier 3 teams have the option of building this project, or one of their own design.
+  
+  **How**
+  
+  - [ ]  Carefully read the project specifications and requirements so you
+  understand it's features, functions, constraints, and most importantly, the
+  problem it must solve.
+  - [ ]  As you review these identify the constraints and any edge cases you
+  will need to handle.
+  - [ ]  Begin thinking about your technical stack and what libraries will be
+  needed to implement the app.
+  - [ ]  Try to anticipate the risks you and your team will create when
+  building, testing, and deploying this app. You don't need to create detailed
+  mitigation plans, but at a highlevle you should think about what to do if
+  they matrialize.
+  
+  **Resources**
+
+  Team Info topic in your Discord team channel
 
   #### 4. Create your teams Working Agreements 🌊
 
@@ -241,6 +243,12 @@ https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
   [Chingu Video: How to use git & GitHub in a Team](https://youtu.be/0HizvYgNPA0)</br>
 
   ---
+
+### Sprint 1 - Setting up your project
+
+<!-- markdownlint-disable MD034 -->
+https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
+<!-- markdownlint-enable MD034 -->
 
   #### 5. Choose a project & create a Vision Statement 👓
 
