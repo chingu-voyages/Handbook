@@ -102,8 +102,7 @@ the Chingu Admin team will be happy to create it for you.
 ### Sprint 0 - Getting to know your team
 
 <!-- markdownlint-disable MD034 -->
-https://github.com/user-attachments/assets/3416cafd-c86b-45b0-902d-a587631f5b8f
-
+https://github.com/user-attachments/assets/e7a480d4-c624-49c2-9ab3-469a25147ee7
 <!-- markdownlint-enable MD034 -->
 
   #### 1. Get to know your team 🤝🏻
