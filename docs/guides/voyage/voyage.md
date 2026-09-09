@@ -248,7 +248,7 @@ https://github.com/user-attachments/assets/e7a480d4-c624-49c2-9ab3-469a25147ee7
 ### Sprint 1 - Setting up your project
 
 <!-- markdownlint-disable MD034 -->
-https://github.com/user-attachments/assets/0ab47351-b655-4b5e-aaac-1a15987bef07
+https://github.com/user-attachments/assets/37ab42bc-ff2b-423c-aba9-ad23e2139b9a
 <!-- markdownlint-enable MD034 -->
 
   #### 5. Choose a project & create a Vision Statement 👓
