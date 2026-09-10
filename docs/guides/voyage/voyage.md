@@ -87,7 +87,7 @@ the Chingu Admin team will be happy to create it for you.
       Create team agreement["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create team agreement</a>"]
     column2[Sprint 1]
       Choose project & create vision stmt["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#5-choose-a-project--create-a-vision-statement-">Choose project & create vision stmt.</a>"]
-      Define & prioritize features["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define & prioritize</ features</a>"]
+      Define & prioritize features["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#6-define--prioritize-mvp-features-">Define & prioritize features</a>"]
       Update team list in Readme["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#7-add-your-info-to-the-team-list-in-your-readmemd-%EF%B8%8F">Update readme.md team list</a>"]
       Select technical stack["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#8-select-a-technical-stack-%EF%B8%8F">Select a technical stack</a>"]
     column3[Sprint 2]
