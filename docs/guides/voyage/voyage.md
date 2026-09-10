@@ -82,7 +82,7 @@ the Chingu Admin team will be happy to create it for you.
   kanban
     column1[Sprint 0]
       Get to know your team["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#1-get-to-know-your-team-">Get to know your team</a>"]
-      Hold your kickoff mtg.["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Hold Kickoff Mtg.</a>"]
+      Hold your kickoff mtg.["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#2-hold-a-kickoff-meeting-%E2%80%8D">Hold Kickoff Mtg.</a>"]
       Review & discuss project["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#3-hold-a-kickoff-meeting-%E2%80%8D">Review & discuss project</a>"]
       Create team agreement["<a style="background-color:#292d30" href="https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md#4-Create-your-teams-working-agreements-">Create team agreement</a>"]
     column2[Sprint 1]
