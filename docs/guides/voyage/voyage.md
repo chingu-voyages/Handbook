@@ -223,6 +223,7 @@ https://github.com/user-attachments/assets/e7a480d4-c624-49c2-9ab3-469a25147ee7
   
   **How**
   
+  - [ ]  Decide whether your team will be using [AI for code generation](../../resources/techresources/ai_assisted_development.md). Remember this is an option only for Tier 2 & Tier 3 teams. Tier 1 teams are prohibited from using AI for this.
   - [ ]  Decide on the coding standards the team must follow.
   - [ ]  Define the characteristics of your repo including the number of branches, branch names, & the working agreement everyone must follow.
   - [ ]  Agree on the format of commit messages, how Pull Requests will be reviewed, and GitHub branch protection rules.
@@ -574,4 +575,5 @@ Stay tuned for new content!
 
 ### Tips for Developers ✏️
 
+[Are Voyage teams allowed to use AI for code-generation](../../resources/techresources/ai_assisted_development.md)</br>
 [How can you integrate GitHub & Discord?](./topics/tips_dev_github_discord.md)</br>
