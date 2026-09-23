@@ -2,7 +2,7 @@
 
 ## Purpose & Philosophy
 
-AI-assisted development is optional in Chingu Voyages — not required, and not discouraged. Voyagers decide whether and how much to use AI tools (GitHub Copilot, ChatGPT, Claude, and similar) while building their team project.
+AI-assisted development is optional for Tier 2 and Tier 3 teams in Chingu Voyages — not required, and not discouraged. Voyagers decide whether and how much to use AI tools (GitHub Copilot, ChatGPT, Claude, and similar) while building their team project.
 
 Chingu's mission is skill development, not just shipping software. A team that ships more features with AI's help hasn't necessarily learned more from doing so; a teammate who writes less code but works through more of it by hand is arguably getting more of what the program is actually for. These guidelines exist to let teams use AI to get unstuck and raise what they can build together, without letting velocity substitute for understanding.
 
