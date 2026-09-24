@@ -18,6 +18,8 @@ Voyages run across three tiers matched to participant experience: Tier 1 (beginn
 
 If teams choose to use AI they should include a description of how they intend to use it in their team's INSTRUCTIONS.md file (see Disclosure Requirements).
 
+If your Tier 2 or Tier 3 team decides to use AI for code generation one decision to make, as a team, is which AI to use. Keep in mind that there are costs associated with using AI. Our recommendation is to start with a free tier of whichever AI you choose, and to move to a paid tier (or puchased usage credits) only if necessary. **Any charges are the sole responsibiity of your team.**
+
 ## Encouraged Uses
 
 Situations where the use of AI can be helpful include:
