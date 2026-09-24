@@ -93,7 +93,7 @@ flowchart TB
 | [How to be a Great Teammate](./docs/resources/projresources/greatteammate.md) | [Agile Tools](./docs/resources/projresources/agiletools.md) | [Choosing your Techstack](./docs/resources/techresources/techstack.md)  |
 | [Traits of Highly Effective Teams](./docs/resources/projresources/effectiveteams.md) | | [Deploying your App](./docs/resources/techresources/appdeployment.md) |
 | [How to Handle Team Conflict](./docs/resources/projresources/teamconflict.md) | | [Software Licenses](./docs/resources/techresources/softwarelicenses.md) |
-| | | [AI-Assisted Dev Guidelines](./docs/resources/techresources/ai_assisted_development.md)
+| | | [AI-Assisted Dev Guidelines](./docs/resources/techresources/ai_assisted_development.md) |
 | | | [UI/UX Workflow](./docs/resources/techresources/uiux.md) |
 | | | [Glossary](./docs/resources/glossary/glossary.md) |
 
