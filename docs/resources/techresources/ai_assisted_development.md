@@ -16,9 +16,9 @@ Voyages run across three tiers matched to participant experience: Tier 1 (beginn
 - **Tier 2** — AI can reasonably help with unblocking, scaffolding, and review, but core feature work should still be substantially hand-written and understood by its author.
 - **Tier 3** — Tier 3 teams select their own projects, and the experience is meant to resemble a real-world team — where AI-assisted development is now a normal part of professional practice. Heavier AI use, including AI-assisted feature generation, AI code review tooling, and AI-aided planning, is appropriate here, provided the review and disclosure practices below are followed.
 
-If teams choose to use AI they should include a description of how they intend to use it in their team's INSTRUCTIONS.md file (see Disclosure Requirements).
+If your Tier 2 or Tier 3 team decides to use AI for code generation one decision to make, as a team, is which AI to use. If your team uses AI you should include a description of how you intend to use it in their INSTRUCTIONS.md file (see Disclosure Requirements) of your team repo.
 
-If your Tier 2 or Tier 3 team decides to use AI for code generation one decision to make, as a team, is which AI to use. Keep in mind that there are costs associated with using AI. Our recommendation is to start with a free tier of whichever AI you choose, and to move to a paid tier (or puchased usage credits) only if necessary. **Any charges are the sole responsibiity of your team.**
+Keep in mind that there are costs associated with using AI. Our recommendation is to start with a free tier of whichever AI you choose, and to move to a paid tier (or puchased usage credits) only if necessary. **Any charges are the sole responsibiity of your team.**
 
 ## Encouraged Uses
 
