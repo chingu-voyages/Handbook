@@ -213,4 +213,5 @@ Stay tuned for new content!
 
 ### Tips for Developers ✏️
 
+[Are Voyage teams allowed to use AI for code-generation?](../../resources/techresources/ai_assisted_development.md)</br>
 [How can you integrate GitHub & Discord?](../voyage/topics/tips_dev_github_discord.md)</br>
