@@ -61,3 +61,7 @@ Situations where the use of AI can be helpful include:
 - [ ] Rotate code review, even when one teammate is fastest
 - [ ] Treat AI code review as a second pass for logic and architecture, not a CI duplicate
 - [ ] Disclose AI use in your README, retro notes, and PR descriptions
+
+## Resources
+
+- Sample AI prompt to create a [Number Guessing game application](./ai_number_game_specs.md)
