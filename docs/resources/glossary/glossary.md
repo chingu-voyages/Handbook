@@ -387,7 +387,7 @@ Following these practices helps maintain transparency, respect intellectual prop
   <summary>Solo Project</summary>
   <br/>
 
-  The [Solo Project](../guides/soloproject/soloproject.md) 
+  The [Solo Project](../../guides/soloproject/soloproject.md) 
   is your warmup for your first Voyage. In it you will either submit a project 
   you already have that matches the tier you have chosen, or you will create 
   small project (approximately 8-16 hours) from specifications provided by 
