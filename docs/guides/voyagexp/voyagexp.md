@@ -91,17 +91,16 @@ flowchart TB
 
 ### VoyageXP Schedule 🗓️
 
-| Milestone | XP01 | XP02 |
-| :--- | :--- | :--- |
-| Signup Deadline | March 11 | Sept 9 |
-| Assessment Interviews | March 15 - 21 | Now - Sept 18 |
-| Email Session Confirmation | n/a | Sept 20 |
-| Session starts | March 30 | Sept 28 |
-| Session ends & projects due | June 10 | Dec 6 |
-| Demo Day presentations due | May 31 | Dec 7 |
-| Demo Day | June 3 | Dec 9 |
-| Completion Certificates issued | June 17 | Dec 16 |
-| Showcase article published | June 17 | Dec 16 |
+| Milestone | 2026<br/>X01 | <br/>X02 | 2027<br/>X03 | <br/>X04 | <br/>X05 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Application Period** | Mar 15 - 21 | Now - Sep 18 | Dec 21, 2026 – Jan 24, 2027 | Mar 29 – Apr 18 | Aug 9–29 |
+| **Session starts** | Mar 30 | Sep 28 | Feb 8 | May 3 | Sep 27 |
+| **Session ends & projects due** | Jun 10 | Dec 6 | Apr 18 | July 11 | Nov 28 |
+| **Demo Day presentations due** | May 31 | Dec 7 | Apr 19 | July 12 | Nov 29 |
+| **Demo Day** | June 3 | Dec 9 | Apr 21 | Jul 14 | Dec 1 |
+| **Completion Certificates issued** | Jun 17 | Dec 16 | Apr 28 | Jul 21 | Dec 8 |
+| **Showcase article published** | Jun 17 | Dec 16 | Apr 28 | Jul 21 | Dec 8 |
+| **Duration** | 10 Weeks | 10 Weeks | 10 Weeks | 10 Weeks | 10 Weeks |
 
 ## The VoyageXP Process
 
