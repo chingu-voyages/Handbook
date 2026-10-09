@@ -34,16 +34,17 @@ management.
 
 ### Voyage Schedule 🗓️
 
-| Milestone | Voyage 59 | Voyage 60 | Voyage 61 | Voyage 62 | Voyage 63 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Solo Project Deadline | December 31 | March 11 | May 20 | August 19 | October 21 |
-| Voyage Launch | January 12 | March 23 | June 1 | August 31 | November 2 |
-| Weekly Checkin due every... | Monday | Monday | Monday | Monday | Monday |
-| Voyage ends & projects due | February 22 | May 10 | July 19 | October 18 | December 20 |
-| Demo Day presentations due | February 23 | May 11 | July 20 | October 19 | December 21 |
-| Demo Day | February 25 | May 13 | July 22 | October 21 | December 23 |
-| Completion Certificates issued | March 4 | May 20 | July 29 | October 28 | December 30 |
-| Showcase article available | March 4 | May 20 | July 29 | October 28 | December 30 |
+| Milestone | 2026<br/>Voyage 62 | <br/>Voyage 63 | 2027<br/>Voyage 64 | <br/>Voyage 65 | <br/>Voyage 66 | <br/>Voyage 67 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Solo Project Deadline** | Aug 19 | Oct 21 | Jan 3 | Apr 4 | Jul 5 | Oct 10 |
+| **Voyage Launch** | Aug 31 | Nov 2 | Jan 11 | Apr 12 | Jul 19 | Oct 18 |
+| **Weekly Checkin due every...** | Monday | Monday | Mondays | Mondays | Mondays | Mondays |
+| **Voyage ends & projects due** | Oct 18 | Dec 20 | Feb 28 | May 30 | Aug 29 | Dec 5 |
+| **Demo Day presentations due** | Oct 19 | Dec 21 | Mar 1 | May 31 | Aug 30 | Dec 6 |
+| **Demo Day** | Oct 21 | Dec 23 | Mar 3 | Jun 2 | Sep 1 | Dec 8 |
+| **Completion Certificates issued** | Oct 28 | Dec 30 | Mar 10 | Jun 9 | Sep 8 | Dec 15 |
+| **Showcase article available** | Oct 28 | Dec 30 | Mar 10 | Jun 9 | Sep 8 | Dec 15 |
+| **Duration** | 7 Weeks | 7 Weeks | 7 Weeks | 7 Weeks | 7 Weeks | 7 Weeks |
 
 ## Before you Start
 
