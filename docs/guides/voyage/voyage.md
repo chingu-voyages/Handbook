@@ -170,7 +170,7 @@ https://github.com/user-attachments/assets/e7a480d4-c624-49c2-9ab3-469a25147ee7
   sure to build an environment where everyone feels safe and comfortable in
   finding their voice and sharing with their teammates.
   
-  **Pro Tip!** Use the [audio/visual channel](../topics/tips_voice_channel.md)
+  **Pro Tip!** Use the [audio/visual channel](./topics/tips_voice_channel.md)
   for your team for meetings. This supports not only audio & video in real time,
   but also screen sharing.
 
