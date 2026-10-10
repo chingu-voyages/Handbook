@@ -2,8 +2,7 @@
 ![Voyage topic banner](../assets/horizontal-paint-splash-green.jpg)
 
 Communication and collaboration are the most important factors to a teams success. Because of
-this we've created a way for Voyage Teams to create temporary voice channels in Discord, which
-support voice, video, and screen sharing.
+this we've created a way for Voyage Teams to create temporary voice channels in Discord, which support voice, video, and screen sharing.
   
 To create a temporary voice channel, navigate to the `Voyage Voice HUB` category (right above your
 teams text Channel) and click on the channel named “#create-voice”.
