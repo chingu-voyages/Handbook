@@ -39,11 +39,11 @@ management.
 | **Solo Project Deadline** | Aug 19 | Oct 21 | Jan 3 | Apr 4 | Jul 5 | Oct 10 |
 | **Voyage Launch** | Aug 31 | Nov 2 | Jan 11 | Apr 12 | Jul 19 | Oct 18 |
 | **Weekly Checkin due every...** | Monday | Monday | Mondays | Mondays | Mondays | Mondays |
-| **Voyage ends & projects due** | Oct 18 | Dec 20 | Feb 28 | May 30 | Aug 29 | Dec 5 |
-| **Demo Day presentations due** | Oct 19 | Dec 21 | Mar 1 | May 31 | Aug 30 | Dec 6 |
+| **Voyage ends & projects due** | Oct 18 | Dec 20 | Feb 28 | May 30 | Sep 5 | Dec 5 |
+| **Demo Day presentations due** | Oct 19 | Dec 21 | Mar 1 | May 31 | Sep 6 | Dec 6 |
 | **Demo Day** | Oct 21 | Dec 23 | Mar 3 | Jun 2 | Sep 1 | Dec 8 |
-| **Completion Certificates issued** | Oct 28 | Dec 30 | Mar 10 | Jun 9 | Sep 8 | Dec 15 |
-| **Showcase article available** | Oct 28 | Dec 30 | Mar 10 | Jun 9 | Sep 8 | Dec 15 |
+| **Completion Certificates issued** | Oct 28 | Dec 30 | Mar 10 | Jun 9 | Sep 15 | Dec 15 |
+| **Showcase article available** | Oct 28 | Dec 30 | Mar 10 | Jun 9 | Sep 15 | Dec 15 |
 | **Duration** | 7 Weeks | 7 Weeks | 7 Weeks | 7 Weeks | 7 Weeks | 7 Weeks |
 
 ## Before you Start

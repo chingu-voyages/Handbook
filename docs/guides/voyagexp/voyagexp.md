@@ -95,11 +95,11 @@ flowchart TB
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Application Period** | Mar 15 - 21 | Now - Sep 18 | Dec 21, 2026 – Jan 24, 2027 | Mar 29 – Apr 18 | Aug 9–29 |
 | **Session starts** | Mar 30 | Sep 28 | Feb 8 | May 3 | Sep 27 |
-| **Session ends & projects due** | Jun 10 | Dec 6 | Apr 18 | July 11 | Nov 28 |
-| **Demo Day presentations due** | May 31 | Dec 7 | Apr 19 | July 12 | Nov 29 |
-| **Demo Day** | June 3 | Dec 9 | Apr 21 | Jul 14 | Dec 1 |
-| **Completion Certificates issued** | Jun 17 | Dec 16 | Apr 28 | Jul 21 | Dec 8 |
-| **Showcase article published** | Jun 17 | Dec 16 | Apr 28 | Jul 21 | Dec 8 |
+| **Session ends & projects due** | Jun 10 | Dec 6 | Apr 18 | July 11 | Dec 5 |
+| **Demo Day presentations due** | May 31 | Dec 7 | Apr 19 | July 12 | Dec 6 |
+| **Demo Day** | June 3 | Dec 9 | Apr 21 | Jul 14 | Dec 8 |
+| **Completion Certificates issued** | Jun 17 | Dec 16 | Apr 28 | Jul 21 | Dec 15 |
+| **Showcase article published** | Jun 17 | Dec 16 | Apr 28 | Jul 21 | Dec 15 |
 | **Duration** | 10 Weeks | 10 Weeks | 10 Weeks | 10 Weeks | 10 Weeks |
 
 ## The VoyageXP Process
