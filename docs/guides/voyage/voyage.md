@@ -507,7 +507,7 @@ flowchart TB
    A(["Complete your MVP"]) --> B(Join the Chingu</br>Discord Server);
    B --> C(Make sure your readme.md is updated);
    C --> H(Submit your</br><a href='https://airtable.com/appfnDw1vdrDWJ4SB/pagh69S4fm4xLR5yW/form' target='_blank'>team project</a> for review);
-   H --> I(Submit your</br><a href='https://docs.google.com/forms/d/1U9WxiY4QSSkIwYJTDyHQBV02NSzvi0Lj_3wWo9GlLrM/' target='_blank'>presentation</a> for Demo Day);
+   H --> I(Submit your</br><a href='[https://docs.google.com/forms/d/1U9WxiY4QSSkIwYJTDyHQBV02NSzvi0Lj_3wWo9GlLrM/](https://forms.gle/ytSzYraQ5SNfqS3ZA)' target='_blank'>presentation</a> for Demo Day);
    I --> J(Share your success on LinkedIn and other social media);
    J --> Z([End]);
 ```
