@@ -507,12 +507,15 @@ flowchart TB
    A(["Complete your MVP"]) --> B(Join the Chingu</br>Discord Server);
    B --> C(Make sure your readme.md is updated);
    C --> H(Submit your</br><a href='https://airtable.com/appfnDw1vdrDWJ4SB/pagh69S4fm4xLR5yW/form' target='_blank'>team project</a> for review);
-   H --> I(Submit your</br><a href='https://forms.gle/ytSzYraQ5SNfqS3ZA' target='_blank'>presentation</a> for Demo Day);
+   H --> I(Submit your</br><a href='https://airtable.com/appfnDw1vdrDWJ4SB/pagKrQBhHrE38NJNF/form' target='_blank'>presentation</a> for Demo Day);
    I --> J(Share your success on LinkedIn and other social media);
    J --> Z([End]);
 ```
-  
+All team members should review the [criteria for successfully completing a Voyage](./topics/voyage_success_criteria.md).
+
 Only one Voyage Project form is required per team and any teammate may submit it. This is separate from Final Project Presentation, which is only applicable to Scrum Masters and Product Owners. More information is shared in the [Agile Leaders channel on Discord](https://discord.com/channels/330284646283608064/682217749967142991).
+
+The Product Owner or Scrum Master on a team is required to submit the Final Project Presentation for our Demo Day celebration following the end of each Voyage. This is required for PO's and SM's to be eligible for a Voyage Certificate.
 
 Chingu's Agile Leadership team will post information about our Demo Day event, including its schedule and location, in Discord during Sprint 6.
 
